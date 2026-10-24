@@ -1359,7 +1359,7 @@ MA+MB,MW526392.2,Comanthus parvicirrus,True,True,False
 MA+MB,MW884542.1,Comanthus parvicirrus,True,True,False
 MA+MB,NC_061054.1,Cenometra bella,True,True,False
 MA+MB,NC_066490.1,Poliometra prolixa,True,True,False
-MA+MB,NC_068252.1,Comatella stelligera,True,True,False
+MA+MB,NC_068252.1,Comatella stelligera,True,True,True
 MA+MB,NC_068254.1,Comatella nigra,True,True,False
 MA+MB,NC_068797.1,Metacrinus rotundus,True,True,False
 MA+MB,NC_069630.1,Tropiometra macrodiscus,True,True,False
@@ -1422,7 +1422,7 @@ MA+MB,ON381167.1,Tropiometra macrodiscus,True,True,False
 MA+MB,ON585667.1,Zygometra comata,True,True,False
 MA+MB,OM964491.1,Metacrinus rotundus,True,True,False
 MA+MB,OM321037.1,Comatella nigra,True,True,False
-MA+MB,OM313186.1,Comatella stelligera,True,True,False
+MA+MB,OM313186.1,Comatella stelligera,True,True,True
 MA+MB,OP177937.1,Poliometra prolixa,True,True,False
 MA+MB,OK509084.1,Cenometra bella,True,True,False
 MA+MB,MW868294.1,Comaster schlegelii,True,True,True

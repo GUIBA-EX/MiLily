@@ -1,5 +1,5 @@
-project,region,candidates,changed,old_min_unique,new_min_unique,old_coverage,new_coverage,old_exact,new_exact
-MiLily,S,3,False,18.000000000000004,18.000000000000004,65.99999999999999,65.99999999999999,46.00000000000001,46.00000000000001
-MiLily,M,5,False,16.0,16.0,88.00000000000001,88.00000000000001,16.0,16.0
-MiLily,L,9,False,16.0,16.0,88.0,88.0,46.0,46.0
-MiLily,XL,7,False,18.0,18.0,76.0,76.0,18.000000000000004,18.000000000000004
+project,region,feasible_pairs,distinct_states,previous_coverage,previous_exact,coverage_pct,exact_pct,A_unique_combined,B_unique_combined,recommended
+MiLily,S,3495,202,65.99999999999999,46.0,65.99999999999999,46.0,27.999999999999996,18.0,True
+MiLily,M,282,139,88.0,16.0,88.0,20.0,16.0,24.000000000000004,True
+MiLily,L,1036,229,88.0,46.0,88.0,46.0,40.0,16.0,True
+MiLily,XL,333,120,76.0,18.0,76.0,18.0,18.0,24.0,True

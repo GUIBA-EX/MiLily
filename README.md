@@ -12,7 +12,7 @@ D denotes a degenerate single pair; no suffix denotes an ordinary single pair; A
 
 ## Retention decisions
 
-Retain one D portfolio per length at the existing shared ordinary/A/B/D coordinates; ordinary and A/B pairs are unchanged. Among candidates that do not reduce either coverage or exact matching relative to the original D, prefer lower degeneracy near the best combined score, rather than maximizing matching at any complexity.
+Retain one D portfolio per length at the existing shared ordinary/A/B/D coordinates; ordinary single pairs and D remain unchanged in the A/B re-selection. Among candidates that do not reduce either coverage or exact matching relative to the original D, prefer lower degeneracy near the best combined score, rather than maximizing matching at any complexity.
 
 Retained F/R degeneracies: S 32/64, M 16/8, L 1/8, XL 48/6. Reject M 24/8 and XL 72/6 options that add only four percentage points of exact matching.
 
@@ -25,7 +25,7 @@ Retained F/R degeneracies: S 32/64, M 16/8, L 1/8, XL 48/6. Reject M 24/8 and XL
 | SA+SB | 66.00 | 46.00 | 0 | 0 | 0 |
 | MD | 100.00 | 84.00 | 16 | 14 | 29 |
 | M | 88.00 | 0.00 | 4 | 1 | 11 |
-| MA+MB | 88.00 | 16.00 | 4 | 1 | 14 |
+| MA+MB | 88.00 | 20.00 | 4 | 0 | 14 |
 | LD | 88.00 | 38.00 | 0 | 0 | 0 |
 | L | 88.00 | 30.00 | 0 | 0 | 0 |
 | LA+LB | 88.00 | 46.00 | 0 | 0 | 0 |
@@ -49,18 +49,26 @@ Background hits can remain substantial under relaxed mismatch models; see the co
 ![SD base matching](figures/base_matching_SD.svg)
 
 ![S base matching](figures/base_matching_S.svg)
+
+![SA base matching](figures/base_matching_SA.svg)
+
+![SB base matching](figures/base_matching_SB.svg)
 ## M
 
 | Name | F (5′→3′) | R (5′→3′) |
 |---|---|---|
 | MD | `TTACTGTTRCAAAAGTAAAYWAAGAR` | `GRCTGCTTYTRGGCCTAC` |
 | M | `TTACTGTTGCAAAAGTAAACTAAGAG` | `GGCTGTTTCTAGGCCTAC` |
-| MA | `TTACTGTTGCAAAAGTAAACTAAGAG` | `GGCTGTTTCTAGGCCTAC` |
-| MB | `TTACTGTTACAAAAGTAAACTAAGAG` | `GGCTGCTTCTAGGCCTAC` |
+| MA | `TTACTGTTACAAAAGTAAACTAAGAG` | `GGCTGCTTCTAGGCCTAC` |
+| MB | `TTACTGTTGCAAAAGTAAACTAAGAG` | `GACTGCTTCTAGGCCTAC` |
 
 ![MD base matching](figures/base_matching_MD.svg)
 
 ![M base matching](figures/base_matching_M.svg)
+
+![MA base matching](figures/base_matching_MA.svg)
+
+![MB base matching](figures/base_matching_MB.svg)
 ## L
 
 | Name | F (5′→3′) | R (5′→3′) |
@@ -73,21 +81,30 @@ Background hits can remain substantial under relaxed mismatch models; see the co
 ![LD base matching](figures/base_matching_LD.svg)
 
 ![L base matching](figures/base_matching_L.svg)
+
+![LA base matching](figures/base_matching_LA.svg)
+
+![LB base matching](figures/base_matching_LB.svg)
 ## XL
 
 | Name | F (5′→3′) | R (5′→3′) |
 |---|---|---|
 | XLD | `AGGCAAVACGARRRCTYAACTG` | `GACTYDCGTCGGTCTGAA` |
 | XL | `AGGCAAGACGAAAGCTTAACTG` | `GACTTGCGTCGGTCTGAA` |
-| XLA | `AGGCAAGACGAAAGCTTAACTG` | `GACTTGCGTCGGTCTGAA` |
-| XLB | `AGGCAACACGAAAACTTAACTG` | `GACTTGCGTCGGTCTGAA` |
+| XLA | `AGGCAACACGAAAACTTAACTG` | `GACTTGCGTCGGTCTGAA` |
+| XLB | `AGGCAAGACGAAAGCTTAACTG` | `GACTTGCGTCGGTCTGAA` |
 
 ![XLD base matching](figures/base_matching_XLD.svg)
 
 ![XL base matching](figures/base_matching_XL.svg)
 
+![XLA base matching](figures/base_matching_XLA.svg)
+
+![XLB base matching](figures/base_matching_XLB.svg)
+
 Independent target checks: 864; disagreements: 0. Background set checks: 32; disagreements: 0.
 
 [Copyright / 著作权声明](COPYRIGHT.md)
 
-A/B complementarity is evaluated from unique coverage and exact-match contributions; two pairs do not necessarily improve on one. [A/B complementarity / 互补性复核](docs/AB_COMPLEMENTARITY.md)
+
+Expanded fixed-coordinate search yields mutual A/B contributions at every length without reducing either union metric. Ordinary single pairs and D are unchanged. Choose a single pair or complementary A/B according to the sample objective. [Complementarity and unique hits](docs/AB_COMPLEMENTARITY.md)

@@ -1,5 +1,5 @@
 project,region,coverage_A,coverage_B,coverage_union,coverage_shared,coverage_A_unique,coverage_B_unique,coverage_gain_over_best_component,coverage_gain_over_single,exact_A,exact_B,exact_union,exact_shared,exact_A_unique,exact_B_unique,exact_gain_over_best_component,exact_gain_over_single
 MiLily,S,66.0,66.0,66.0,66.0,0,0,0.0,0.0,28.000000000000004,18.0,46.0,0,28.000000000000004,18.0,17.999999999999996,17.999999999999996
-MiLily,M,88.0,68.0,88.0,68.0,20.0,0,0.0,0.0,0,16.0,16.0,0,0,16.0,0.0,16.0
+MiLily,M,68.0,88.0,88.0,68.0,0,20.0,0.0,0.0,16.0,4.0,20.0,0,16.0,4.0,4.0,20.0
 MiLily,L,88.0,78.0,88.0,78.0,10.0,0,0.0,0.0,30.0,16.0,46.0,0,30.0,16.0,16.0,16.0
-MiLily,XL,68.0,60.0,76.0,52.0,16.0,8.0,8.0,8.0,8.0,10.0,18.0,0,8.0,10.0,8.0,10.0
+MiLily,XL,60.0,68.0,76.0,52.0,8.0,16.0,8.0,8.0,10.0,8.0,18.0,0,10.0,8.0,8.0,10.0
