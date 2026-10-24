@@ -1,8 +1,8 @@
 {
   ".gitignore": "53f0c100a33a56ebada040287b3d0f5dbab21c6ec6b66209fec5515c508f1144",
   "COPYRIGHT.md": "0c41fcd385f6b32f55cc1b729328a5b998c5351c67b302823b15a1ca79cf8f6d",
-  "README.md": "29b42af46a09e325b237d3550e0f2374f37220ca547300788bdeba9ce986e303",
-  "README.zh-CN.md": "3632a4cce5ff82b639c7e28c382933e59aa33bc1c79c2af701af1e570afe8ac7",
+  "README.md": "beddf840b79463f4354a717ef680364a55824afe5d1b731bfec86b1be5f1cfb4",
+  "README.zh-CN.md": "cd4e673f8cb61791b5893278d071496366a33096f846f084168dad40969549b5",
   "docs/DECISIONS.md": "52e553b8bec3a366d038a89f6102637a9da2d92bc8d7547a7b2489d6d47da29a",
   "docs/FILES.md": "b60b24424b07c01f07eaa608402fdbc94dad9853c545f0da05c2629e06a5f7b2",
   "docs/JOINT_LOCUS.md": "c2a1de6c4ca1566818c2affb69d1f8646cc26cb67ce4f3ed2e39f9ec942ba926",
@@ -43,7 +43,7 @@
   "references/panel.csv": "072b06fcfe1ad9513bbd1e40f4c4b9b28cafd4f18a77f51bbc585346b62263d3",
   "references/target.fasta": "11385918a916627609d8d76ea3b8d53c0412355c8f5e3f751db08b4efe69fe93",
   "references/target_aligned.fasta": "719d727a2f7b2db665e377f31c116428e0b8fd94aeff4e67e061d434c028a5f5",
-  "report.html": "ebbf8c1af2de6e64421d2b6455375f759234b37dc078600c9a92192a4c4ccfe5",
+  "report.html": "ddae434b9cdf68a90de0454c711b6a238faba9a8ccc88ba5fc038f42a13e0a49",
   "reproduction_sources.zip": "2cb76bf635c1b4f80c5856be19cd0aeb8ee8f6ec44592b58c300eafe962a9b0f",
   "requirements.txt": "1cc685ef604bec8f25427ed7f4e18f0dd86afb4920ff6dea5de7b704ea9a573c",
   "results/audit.json": "d46422dafa414e00b3247b7c926fa89f3ab195c4e841bc44dc25d0170c342caf",
@@ -102,5 +102,7 @@
   "scripts/summarize.py": "5a08a86bd6fb2a2ada2fcab2cf1ffd9ad78a096da0e09564c718a99a8d0e72e2",
   "scripts/verify.py": "8ed403ba708e4d01862e93e368320955ca0a911a17501d20b1555784fd574a76",
   "sequences/primer_pairs.csv": "8e93789d99178020e2d875226a3f5dd147be33a8ac04fb26d378600b26bc0428",
-  "sequences/primers.fasta": "cc60c13ebb988bc276f5fb140f85d19e927c65c866b2cfec73744d8008ac92e4"
+  "sequences/primers.fasta": "cc60c13ebb988bc276f5fb140f85d19e927c65c866b2cfec73744d8008ac92e4",
+  "figures/MiLily_overview_current.png": "410906668fff7f22f101a0a8a4d03ec6989e029bdefa6eeb79026e61deaef6b4",
+  "figures/overview_current_prompt.txt": "33d1a1c688556215fe31bd897c1173fd15e6e9c103036c23df8dcdf677ff6778"
 }

@@ -1,0 +1,1 @@
+Built-in image_gen edit. Preserve the original banner. Change only S 162 bp to 193 bp, M 253 bp to 248 bp, L 302 bp to 288 bp; keep XL 443 bp and all artwork, labels, typography and layout unchanged.

@@ -1,3 +1,5 @@
+![MiLily](figures/MiLily_overview_current.png)
+
 # MiLily
 
 [中文](README.zh-CN.md)
