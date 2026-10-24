@@ -1,4 +1,6 @@
-![MiLily](figures/MiLily_overview_current.png)
+![MiLily介绍图：XS、S、M、L、XL](figures/MiLily_overview_current.png)
+
+圆标为AF049132.1上的含引物参考跨度：XS 179、S 193、M 248、L 288、XL 443 bp。XS在参考面板中的预测产物长度为159–194 bp。
 
 # MiLily
 

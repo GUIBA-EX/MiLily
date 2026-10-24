@@ -1,4 +1,6 @@
-![MiLily](figures/MiLily_overview_current.png)
+![MiLily overview: XS, S, M, L and XL](figures/MiLily_overview_current.png)
+
+Badge values are primer-inclusive reference spans on AF049132.1: XS 179, S 193, M 248, L 288 and XL 443 bp. XS products across the reference panel are 159–194 bp.
 
 # MiLily
 
