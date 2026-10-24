@@ -1,10 +1,6 @@
 scheme,accession,label,order,weight
-SD,AF049132.1,Florometra serratissima,Crinoidea,0.04
-SD,AM404181.1,Antedon mediterranea,Crinoidea,0.04
 SD,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
 SD,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
-SD,OP546034.1,Capillaster sp. DH-Y2,Crinoidea,0.04
-SD,OQ207656.1,Thaumatocrinus sp. JL223,Crinoidea,0.04
 SD,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
 S,AF049132.1,Florometra serratissima,Crinoidea,0.04
 S,AM404181.1,Antedon mediterranea,Crinoidea,0.04
@@ -24,14 +20,6 @@ SA+SB,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
 SA+SB,OP546034.1,Capillaster sp. DH-Y2,Crinoidea,0.04
 SA+SB,OQ207656.1,Thaumatocrinus sp. JL223,Crinoidea,0.04
 SA+SB,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
-MD,AF049132.1,Florometra serratissima,Crinoidea,0.04
-MD,AM404181.1,Antedon mediterranea,Crinoidea,0.04
-MD,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-MD,MF966246.1,Stephanometra indica,Crinoidea,0.04
-MD,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
-MD,NC_069630.1,Tropiometra macrodiscus,Crinoidea,0.04
-MD,OP546035.1,Ptilometra sp. DH-R,Crinoidea,0.04
-MD,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
 M,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
 M,MF966246.1,Stephanometra indica,Crinoidea,0.04
 M,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
@@ -48,8 +36,6 @@ LA+LB,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
 LA+LB,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
 LA+LB,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
 XLD,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-XLD,NC_068252.1,Comatella stelligera,Crinoidea,0.04
-XLD,NC_068254.1,Comatella nigra,Crinoidea,0.04
 XL,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
 XL,DQ068952.1,Phanogenia gracilis,Crinoidea,0.04
 XL,MW526391.2,Comaster schlegelii,Crinoidea,0.04

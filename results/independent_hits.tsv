@@ -1,27 +1,30 @@
 name	role	model	accession	exact	le2last3	le2	le3	le4	ambiguous	sizes
 SD	target	WC	MW526391.2	0	1	1	1	1	0	197
-SD	target	WC	PZ343777.1	0	1	1	1	1	0	196
+SD	target	WC	PZ343777.1	1	1	1	1	1	0	196
 SD	target	WC	PV742399.1	1	1	1	1	1	0	199
 SD	target	WC	MW008594.1	1	1	1	1	1	0	196
+SD	target	WC	OQ207656.1	1	1	1	1	1	0	199
 SD	target	WC	NC_066490.1	0	1	1	1	1	0	195
 SD	target	WC	OP546035.1	1	1	1	1	1	0	196
-SD	target	WC	OP546034.1	0	0	1	1	1	0	
+SD	target	WC	OP546034.1	0	1	1	1	1	0	194
 SD	target	WC	NC_069919.1	1	1	1	1	1	0	194
 SD	target	WC	NC_069630.1	0	1	1	1	1	0	195
+SD	target	WC	NC_068797.1	0	0	1	1	1	0	
 SD	target	WC	NC_068254.1	1	1	1	1	1	0	197
-SD	target	WC	NC_068252.1	0	1	1	1	1	0	194
+SD	target	WC	NC_068252.1	1	1	1	1	1	0	194
 SD	target	WC	NC_061054.1	1	1	1	1	1	0	199
 SD	target	WC	NC_060843.1	1	1	1	1	1	0	197
 SD	target	WC	NC_059908.1	1	1	1	1	1	0	200
 SD	target	WC	NC_054279.1	1	1	1	1	1	0	196
-SD	target	WC	NC_045944.1	0	1	1	1	1	0	198
-SD	target	WC	NC_010692.1	0	0	1	1	1	0	
+SD	target	WC	NC_045944.1	1	1	1	1	1	0	198
+SD	target	WC	NC_010692.1	0	1	1	1	1	0	195
 SD	target	WC	NC_007690.1	1	1	1	1	1	0	195
-SD	target	WC	NC_001878.1	0	0	1	1	1	0	
+SD	target	WC	NC_001878.1	1	1	1	1	1	0	193
 SD	target	WC	ON381167.1	0	1	1	1	1	0	195
 SD	target	WC	ON585667.1	1	1	1	1	1	0	194
+SD	target	WC	OM964491.1	0	0	1	1	1	0	
 SD	target	WC	OM321037.1	1	1	1	1	1	0	197
-SD	target	WC	OM313186.1	0	1	1	1	1	0	194
+SD	target	WC	OM313186.1	1	1	1	1	1	0	194
 SD	target	WC	OM272942.1	1	1	1	1	1	0	203
 SD	target	WC	OP177937.1	0	1	1	1	1	0	195
 SD	target	WC	OK509084.1	1	1	1	1	1	0	199
@@ -32,10 +35,10 @@ SD	target	WC	MW405444.1	1	1	1	1	1	0	199
 SD	target	WC	MW376476.1	1	1	1	1	1	0	200
 SD	target	WC	MT302206.1	0	1	1	1	1	0	195
 SD	target	WC	MN883538.1	1	1	1	1	1	0	199
-SD	target	WC	MF966246.1	0	1	1	1	1	0	198
+SD	target	WC	MF966246.1	1	1	1	1	1	0	198
 SD	target	WC	DQ068952.1	1	1	1	1	1	0	195
-SD	target	WC	AF049132.1	0	0	1	1	1	0	
-SD	target	WC	AM404181.1	0	0	1	1	1	0	
+SD	target	WC	AF049132.1	1	1	1	1	1	0	193
+SD	target	WC	AM404181.1	0	1	1	1	1	0	195
 S	target	WC	MW526391.2	0	1	1	1	1	0	197
 S	target	WC	PZ343777.1	0	1	1	1	1	0	196
 S	target	WC	PV742399.1	0	1	1	1	1	0	199
@@ -136,36 +139,48 @@ SB	target	WC	MF966246.1	0	1	1	1	1	0	198
 SB	target	WC	DQ068952.1	0	1	1	1	1	0	195
 SB	target	WC	AF049132.1	0	0	1	1	1	0	
 MD	target	WC	MW526391.2	1	1	1	1	1	0	252
-MD	target	WC	PZ343777.1	0	1	1	1	1	0	248
-MD	target	WC	PV742399.1	0	1	1	1	1	0	250
+MD	target	WC	PZ343777.1	1	1	1	1	1	0	248
+MD	target	WC	PV742399.1	1	1	1	1	1	0	250
 MD	target	WC	MW008594.1	0	1	1	1	1	0	252
-MD	target	WC	OQ207656.1	0	1	1	1	1	0	254
-MD	target	WC	NC_066490.1	0	1	1	1	1	0	250
+MD	target	WC	OQ721985.1	0	1	1	1	1	0	247
+MD	target	WC	OQ207656.1	1	1	1	1	1	0	254
+MD	target	WC	NC_066490.1	1	1	1	1	1	0	250
+MD	target	WC	OP546035.1	1	1	1	1	1	0	249
 MD	target	WC	OP546034.1	1	1	1	1	1	0	248
-MD	target	WC	NC_069919.1	0	1	1	1	1	0	245
-MD	target	WC	NC_068254.1	0	1	1	1	1	0	250
-MD	target	WC	NC_068252.1	0	1	1	1	1	0	248
-MD	target	WC	NC_061054.1	0	1	1	1	1	0	251
-MD	target	WC	NC_060843.1	0	1	1	1	1	0	251
+MD	target	WC	NC_069919.1	1	1	1	1	1	0	245
+MD	target	WC	NC_069630.1	1	1	1	1	1	0	248
+MD	target	WC	NC_068797.1	0	1	1	1	1	0	251
+MD	target	WC	NC_068254.1	1	1	1	1	1	0	250
+MD	target	WC	NC_068252.1	1	1	1	1	1	0	248
+MD	target	WC	NC_061054.1	1	1	1	1	1	0	251
+MD	target	WC	NC_060843.1	1	1	1	1	1	0	251
 MD	target	WC	NC_059908.1	1	1	1	1	1	0	252
 MD	target	WC	NC_054279.1	0	1	1	1	1	0	252
-MD	target	WC	NC_045944.1	0	0	1	1	1	0	
-MD	target	WC	NC_007690.1	0	1	1	1	1	0	248
-MD	target	WC	ON585667.1	0	1	1	1	1	0	245
-MD	target	WC	OM321037.1	0	1	1	1	1	0	250
-MD	target	WC	OM313186.1	0	1	1	1	1	0	248
+MD	target	WC	NC_045944.1	1	1	1	1	1	0	254
+MD	target	WC	NC_010692.1	1	1	1	1	1	0	251
+MD	target	WC	NC_007690.1	1	1	1	1	1	0	248
+MD	target	WC	NC_007689.1	0	1	1	1	1	0	256
+MD	target	WC	NC_001878.1	1	1	1	1	1	0	248
+MD	target	WC	ON381167.1	1	1	1	1	1	0	248
+MD	target	WC	ON585667.1	1	1	1	1	1	0	245
+MD	target	WC	OM964491.1	0	1	1	1	1	0	251
+MD	target	WC	OM321037.1	1	1	1	1	1	0	250
+MD	target	WC	OM313186.1	1	1	1	1	1	0	248
 MD	target	WC	OM272942.1	1	1	1	1	1	0	255
-MD	target	WC	OP177937.1	0	1	1	1	1	0	250
-MD	target	WC	OK509084.1	0	1	1	1	1	0	251
-MD	target	WC	MW884542.1	0	1	1	1	1	0	251
+MD	target	WC	OP177937.1	1	1	1	1	1	0	250
+MD	target	WC	OK509084.1	1	1	1	1	1	0	251
+MD	target	WC	MW884542.1	1	1	1	1	1	0	251
 MD	target	WC	MW868294.1	1	1	1	1	1	0	252
-MD	target	WC	MW526392.2	0	1	1	1	1	0	251
-MD	target	WC	MW405444.1	0	1	1	1	1	0	250
+MD	target	WC	MW526392.2	1	1	1	1	1	0	251
+MD	target	WC	MW405444.1	1	1	1	1	1	0	250
 MD	target	WC	MW376476.1	1	1	1	1	1	0	252
-MD	target	WC	MT302206.1	0	1	1	1	1	0	249
-MD	target	WC	MN883538.1	0	1	1	1	1	0	250
-MD	target	WC	MF966246.1	0	0	1	1	1	0	
-MD	target	WC	DQ068952.1	0	1	1	1	1	0	248
+MD	target	WC	MT302206.1	1	1	1	1	1	0	249
+MD	target	WC	MN883538.1	1	1	1	1	1	0	250
+MD	target	WC	MF966246.1	1	1	1	1	1	0	254
+MD	target	WC	DQ068952.1	1	1	1	1	1	0	248
+MD	target	WC	DQ068951.1	0	1	1	1	1	0	256
+MD	target	WC	AF049132.1	1	1	1	1	1	0	248
+MD	target	WC	AM404181.1	1	1	1	1	1	0	251
 M	target	WC	MW526391.2	0	1	1	1	1	0	252
 M	target	WC	PZ343777.1	0	1	1	1	1	0	248
 M	target	WC	PV742399.1	0	1	1	1	1	0	250
@@ -279,7 +294,7 @@ LD	target	WC	MW526391.2	0	1	1	1	1	0	293
 LD	target	WC	PZ343777.1	0	1	1	1	1	0	290
 LD	target	WC	PV742399.1	1	1	1	1	1	0	293
 LD	target	WC	MW008594.1	0	1	1	1	1	0	293
-LD	target	WC	OQ207656.1	0	1	1	1	1	0	297
+LD	target	WC	OQ207656.1	1	1	1	1	1	0	297
 LD	target	WC	NC_066490.1	1	1	1	1	1	0	290
 LD	target	WC	OP546035.1	1	1	1	1	1	0	291
 LD	target	WC	OP546034.1	0	1	1	1	1	0	289
@@ -293,7 +308,7 @@ LD	target	WC	NC_059908.1	0	1	1	1	1	0	294
 LD	target	WC	NC_054279.1	0	1	1	1	1	0	293
 LD	target	WC	NC_045944.1	0	1	1	1	1	0	297
 LD	target	WC	NC_010692.1	0	1	1	1	1	0	292
-LD	target	WC	NC_007690.1	0	1	1	1	1	0	290
+LD	target	WC	NC_007690.1	1	1	1	1	1	0	290
 LD	target	WC	NC_001878.1	1	1	1	1	1	0	288
 LD	target	WC	ON381167.1	0	1	1	1	1	0	289
 LD	target	WC	ON585667.1	0	1	1	1	1	0	288
@@ -310,7 +325,7 @@ LD	target	WC	MW376476.1	0	1	1	1	1	0	294
 LD	target	WC	MT302206.1	0	1	1	1	1	0	289
 LD	target	WC	MN883538.1	1	1	1	1	1	0	293
 LD	target	WC	MF966246.1	0	1	1	1	1	0	297
-LD	target	WC	DQ068952.1	0	1	1	1	1	0	290
+LD	target	WC	DQ068952.1	1	1	1	1	1	0	290
 LD	target	WC	AF049132.1	1	1	1	1	1	0	288
 LD	target	WC	AM404181.1	0	1	1	1	1	0	292
 L	target	WC	MW526391.2	0	1	1	1	1	0	293
@@ -433,7 +448,9 @@ XLD	target	WC	OP546035.1	1	1	1	1	1	0	451
 XLD	target	WC	OP546034.1	0	1	1	1	1	0	463
 XLD	target	WC	NC_069919.1	1	1	1	1	1	0	454
 XLD	target	WC	NC_069630.1	0	1	1	1	1	0	456
-XLD	target	WC	NC_068797.1	0	1	1	1	1	0	467
+XLD	target	WC	NC_068797.1	1	1	1	1	1	0	467
+XLD	target	WC	NC_068254.1	0	1	1	1	1	0	448
+XLD	target	WC	NC_068252.1	0	1	1	1	1	0	448
 XLD	target	WC	NC_061054.1	1	1	1	1	1	0	452
 XLD	target	WC	NC_060843.1	1	1	1	1	1	0	461
 XLD	target	WC	NC_059908.1	1	1	1	1	1	0	466
@@ -444,7 +461,9 @@ XLD	target	WC	NC_007690.1	0	1	1	1	1	0	471
 XLD	target	WC	NC_001878.1	1	1	1	1	1	0	443
 XLD	target	WC	ON381167.1	0	1	1	1	1	0	456
 XLD	target	WC	ON585667.1	1	1	1	1	1	0	454
-XLD	target	WC	OM964491.1	0	1	1	1	1	0	467
+XLD	target	WC	OM964491.1	1	1	1	1	1	0	467
+XLD	target	WC	OM321037.1	0	1	1	1	1	0	448
+XLD	target	WC	OM313186.1	0	1	1	1	1	0	448
 XLD	target	WC	OM272942.1	1	1	1	1	1	0	461
 XLD	target	WC	OP177937.1	0	1	1	1	1	0	447
 XLD	target	WC	OK509084.1	1	1	1	1	1	0	452
@@ -540,6 +559,10 @@ XLB	target	WC	MT302206.1	0	1	1	1	1	0	448
 XLB	target	WC	MN883538.1	1	1	1	1	1	0	451
 XLB	target	WC	MF966246.1	0	1	1	1	1	0	452
 XLB	target	WC	AF049132.1	0	1	1	1	1	0	443
+SD	background	WC	KX856788.1	0	0	0	0	1	0	
+SD	background	WC	PV295185.1	0	0	0	0	1	0	
+SD	background	WC	PQ330103.1	0	0	0	0	1	0	
+SD	background	WC	OR227932.1	0	0	0	0	1	0	
 SD	background	WC	AI478031.1	0	0	0	0	0	1	
 SD	background	WC	MG064453.1	0	0	0	0	0	1	
 SD	background	WC	MG064452.1	0	0	0	0	0	1	
@@ -643,8 +666,18 @@ SD	background	WC	MG064355.1	0	0	0	0	0	1
 SD	background	WC	MG064354.1	0	0	0	0	0	1	
 SD	background	WC	MG064353.1	0	0	0	0	0	1	
 SD	background	WC	MG064352.1	0	0	0	0	0	1	
+SD	background	WC	KY268294.1	0	0	0	0	1	0	
+SD	background	WC	AF522484.1	0	0	0	0	0	1	
+SD	background	WC	LC913548.1	0	0	0	0	1	0	
+SD	background	WC	OR995619.1	0	0	0	0	1	0	
+SD	background	WC	NC_054225.1	0	0	0	0	1	0	
+SD	background	WC	NC_042741.1	0	0	0	0	0	1	
+SD	background	WC	MZ702705.1	0	0	0	0	1	0	
+SD	background	WC	MT476590.1	0	0	0	0	1	0	
+SD	background	WC	MH713001.1	0	0	0	0	0	1	
 SD	background	WC	GQ288557.1	0	0	0	0	0	1	
 SD	background	WC	GQ288556.1	0	0	0	0	0	1	
+SD	background	WC	GQ288550.1	0	0	0	0	0	1	
 SD	background	WC	GQ288548.1	0	0	0	0	0	1	
 SD	background	WC	GQ288547.1	0	0	0	0	0	1	
 SD	background	WC	GQ288546.1	0	0	0	0	0	1	
@@ -652,6 +685,9 @@ SD	background	WC	GQ288545.1	0	0	0	0	0	1
 SD	background	WC	GQ288544.1	0	0	0	0	0	1	
 SD	background	WC	GQ288543.1	0	0	0	0	0	1	
 SD	background	WC	GQ288542.1	0	0	0	0	0	1	
+SD	background	WC	GQ288533.1	0	0	0	0	0	1	
+SD	background	WC	GQ288521.1	0	0	0	0	0	1	
+SD	background	WC	GQ288520.1	0	0	0	0	0	1	
 SD	background	WC	GQ288516.1	0	0	0	0	0	1	
 SD	background	WC	EU722997.1	0	0	0	0	0	1	
 SD	background	WC	EU722995.1	0	0	0	0	0	1	
@@ -660,6 +696,7 @@ SD	background	WC	EU722948.1	0	0	0	0	0	1
 SD	background	WC	EU722940.1	0	0	0	0	0	1	
 SD	background	WC	EU722939.1	0	0	0	0	0	1	
 SD	background	WC	EU072956.1	0	0	0	0	0	1	
+SD	background	WC	EU722998.1	0	0	0	0	0	1	
 SD	background	WC	AY548879.2	0	0	0	0	0	1	
 SD	background	WC	AY548869.2	0	0	0	0	0	1	
 SD	background	WC	AY548867.2	0	0	0	0	0	1	
@@ -684,6 +721,17 @@ SD	background	WC	AY548861.1	0	0	0	0	0	1
 SD	background	WC	AY548860.1	0	0	0	0	0	1	
 SD	background	WC	AY548859.1	0	0	0	0	0	1	
 SD	background	WC	AY548858.1	0	0	0	0	0	1	
+SD	background	WC	AY279318.1	0	0	0	0	0	1	
+SD	background	WC	NC_133447.1	0	0	0	0	1	0	
+SD	background	WC	NC_088027.1	0	0	0	0	1	0	
+SD	background	WC	NC_087903.1	0	0	0	0	1	0	
+SD	background	WC	NC_087805.1	0	0	0	0	1	0	
+SD	background	WC	NC_079968.1	0	0	0	0	1	0	
+SD	background	GT	PQ330103.1	0	1	1	1	1	0	250
+SD	background	GT	PP389243.1	0	0	1	1	1	0	
+SD	background	GT	OR227932.1	0	1	1	1	1	0	471
+SD	background	GT	NC_069158.1	0	1	1	1	1	0	472
+SD	background	GT	MK458686.1	0	1	1	1	1	0	472
 SD	background	GT	AI478031.1	0	0	0	0	0	1	
 SD	background	GT	MG064453.1	0	0	0	0	0	1	
 SD	background	GT	MG064452.1	0	0	0	0	0	1	
@@ -787,6 +835,7 @@ SD	background	GT	MG064355.1	0	0	0	0	0	1
 SD	background	GT	MG064354.1	0	0	0	0	0	1	
 SD	background	GT	MG064353.1	0	0	0	0	0	1	
 SD	background	GT	MG064352.1	0	0	0	0	0	1	
+SD	background	GT	KY268294.1	0	1	1	1	1	0	470
 SD	background	GT	GQ288557.1	0	0	0	0	0	1	
 SD	background	GT	GQ288556.1	0	0	0	0	0	1	
 SD	background	GT	GQ288548.1	0	0	0	0	0	1	
@@ -796,6 +845,7 @@ SD	background	GT	GQ288545.1	0	0	0	0	0	1
 SD	background	GT	GQ288544.1	0	0	0	0	0	1	
 SD	background	GT	GQ288543.1	0	0	0	0	0	1	
 SD	background	GT	GQ288542.1	0	0	0	0	0	1	
+SD	background	GT	GQ288533.1	0	0	0	0	0	1	
 SD	background	GT	GQ288516.1	0	0	0	0	0	1	
 SD	background	GT	EU722997.1	0	0	0	0	0	1	
 SD	background	GT	EU722995.1	0	0	0	0	0	1	
@@ -804,6 +854,7 @@ SD	background	GT	EU722948.1	0	0	0	0	0	1
 SD	background	GT	EU722940.1	0	0	0	0	0	1	
 SD	background	GT	EU722939.1	0	0	0	0	0	1	
 SD	background	GT	EU072956.1	0	0	0	0	0	1	
+SD	background	GT	EU722998.1	0	0	0	0	0	1	
 SD	background	GT	AY548879.2	0	0	0	0	0	1	
 SD	background	GT	AY548869.2	0	0	0	0	0	1	
 SD	background	GT	AY548867.2	0	0	0	0	0	1	
@@ -828,6 +879,12 @@ SD	background	GT	AY548861.1	0	0	0	0	0	1
 SD	background	GT	AY548860.1	0	0	0	0	0	1	
 SD	background	GT	AY548859.1	0	0	0	0	0	1	
 SD	background	GT	AY548858.1	0	0	0	0	0	1	
+SD	background	GT	NC_133447.1	0	0	1	1	1	0	
+SD	background	GT	NC_008106.1	0	0	1	1	1	0	
+SD	background	GT	NC_088581.1	0	0	1	1	1	0	
+SD	background	GT	NC_088578.1	0	0	1	1	1	0	
+SD	background	GT	NC_088575.1	0	0	1	1	1	0	
+SD	background	GT	NC_066721.1	0	0	1	1	1	0	
 S	background	WC	AI478031.1	0	0	0	0	0	1	
 S	background	WC	MG064453.1	0	0	0	0	0	1	
 S	background	WC	MG064452.1	0	0	0	0	0	1	
@@ -1692,16 +1749,30 @@ SB	background	GT	AY548861.1	0	0	0	0	0	1
 SB	background	GT	AY548860.1	0	0	0	0	0	1	
 SB	background	GT	AY548859.1	0	0	0	0	0	1	
 SB	background	GT	AY548858.1	0	0	0	0	0	1	
-MD	background	WC	PV804723.1	0	0	0	0	1	0	
-MD	background	WC	OQ534871.1	0	0	0	0	1	0	
-MD	background	WC	PV946926.1	0	0	0	0	1	0	
-MD	background	WC	PQ878524.1	0	0	0	0	1	0	
+MD	background	WC	OR420052.2	0	0	0	0	1	0	
+MD	background	WC	OQ503508.1	0	0	0	0	1	0	
+MD	background	WC	PV804723.1	0	1	1	1	1	0	263
+MD	background	WC	OQ534871.1	0	1	1	1	1	0	265
+MD	background	WC	PV946926.1	0	1	1	1	1	0	263
+MD	background	WC	OQ731944.1	0	0	0	1	1	0	
+MD	background	WC	PQ878524.1	0	1	1	1	1	0	263
+MD	background	WC	PP977507.1	0	0	0	0	1	0	
+MD	background	WC	NC_082941.1	0	0	0	0	1	0	
 MD	background	WC	NC_059759.1	0	0	0	1	1	0	
-MD	background	WC	MT559281.1	0	0	0	0	1	0	
-MD	background	WC	MZ188901.1	0	0	0	0	1	0	
+MD	background	WC	NC_058250.1	0	0	0	1	1	0	
+MD	background	WC	MT559281.1	0	0	0	1	1	0	
+MD	background	WC	MZ188901.1	0	1	1	1	1	0	265
+MD	background	WC	MW357262.1	0	0	0	1	1	0	
+MD	background	WC	MW357261.1	0	0	0	1	1	0	
 MD	background	WC	MW548268.1	0	0	0	1	1	0	
-MD	background	WC	MN128376.1	0	0	0	0	1	0	
-MD	background	WC	NC_032365.1	0	0	0	0	1	0	
+MD	background	WC	MW218896.1	0	0	0	0	1	0	
+MD	background	WC	MN128376.1	0	1	1	1	1	0	265
+MD	background	WC	PV339712.1	0	0	0	0	1	0	
+MD	background	WC	NC_065301.1	0	0	0	0	1	0	
+MD	background	WC	NC_032365.1	0	0	0	1	1	0	
+MD	background	WC	ON254175.1	0	0	0	0	1	0	
+MD	background	WC	MW147664.1	0	0	0	0	1	0	
+MD	background	WC	MN103227.1	0	0	0	1	1	0	
 MD	background	WC	AI478031.1	0	0	0	0	0	1	
 MD	background	WC	MG064453.1	0	0	0	0	0	1	
 MD	background	WC	MG064452.1	0	0	0	0	0	1	
@@ -1805,7 +1876,11 @@ MD	background	WC	MG064355.1	0	0	0	0	0	1
 MD	background	WC	MG064354.1	0	0	0	0	0	1	
 MD	background	WC	MG064353.1	0	0	0	0	0	1	
 MD	background	WC	MG064352.1	0	0	0	0	0	1	
-MD	background	WC	KX638403.1	0	0	0	0	1	0	
+MD	background	WC	KX638403.1	0	0	0	1	1	0	
+MD	background	WC	QB030205.1	0	0	0	0	1	0	
+MD	background	WC	OQ979619.1	0	0	0	0	1	0	
+MD	background	WC	NC_081967.1	0	0	0	0	1	0	
+MD	background	WC	OR142187.1	0	0	0	0	1	0	
 MD	background	WC	GQ288557.1	0	0	0	0	0	1	
 MD	background	WC	GQ288556.1	0	0	0	0	0	1	
 MD	background	WC	GQ288548.1	0	0	0	0	0	1	
@@ -1819,6 +1894,7 @@ MD	background	WC	GQ288516.1	0	0	0	0	0	1
 MD	background	WC	EU722997.1	0	0	0	0	0	1	
 MD	background	WC	EU722995.1	0	0	0	0	0	1	
 MD	background	WC	EU722963.1	0	0	0	0	0	1	
+MD	background	WC	EU722948.1	0	0	0	0	0	1	
 MD	background	WC	EU722940.1	0	0	0	0	0	1	
 MD	background	WC	EU722939.1	0	0	0	0	0	1	
 MD	background	WC	EU072956.1	0	0	0	0	0	1	
@@ -1846,6 +1922,19 @@ MD	background	WC	AY548861.1	0	0	0	0	0	1
 MD	background	WC	AY548860.1	0	0	0	0	0	1	
 MD	background	WC	AY548859.1	0	0	0	0	0	1	
 MD	background	WC	AY548858.1	0	0	0	0	0	1	
+MD	background	GT	PV804723.1	0	1	1	1	1	0	263
+MD	background	GT	OQ534871.1	0	1	1	1	1	0	265
+MD	background	GT	PV946926.1	0	1	1	1	1	0	263
+MD	background	GT	PQ878524.1	0	1	1	1	1	0	263
+MD	background	GT	LC704718.1	0	1	1	1	1	0	219
+MD	background	GT	NC_051929.1	0	1	1	1	1	0	244
+MD	background	GT	MZ188901.1	0	1	1	1	1	0	265
+MD	background	GT	MW218895.1	0	1	1	1	1	0	244
+MD	background	GT	MT108721.1	0	1	1	1	1	0	244
+MD	background	GT	MN128376.1	0	1	1	1	1	0	265
+MD	background	GT	PV339712.1	0	0	1	1	1	0	
+MD	background	GT	NC_032365.1	0	1	1	1	1	0	281
+MD	background	GT	MN103227.1	0	1	1	1	1	0	280
 MD	background	GT	AI478031.1	0	0	0	0	0	1	
 MD	background	GT	MG064453.1	0	0	0	0	0	1	
 MD	background	GT	MG064452.1	0	0	0	0	0	1	
@@ -1949,6 +2038,7 @@ MD	background	GT	MG064355.1	0	0	0	0	0	1
 MD	background	GT	MG064354.1	0	0	0	0	0	1	
 MD	background	GT	MG064353.1	0	0	0	0	0	1	
 MD	background	GT	MG064352.1	0	0	0	0	0	1	
+MD	background	GT	KX638403.1	0	1	1	1	1	0	281
 MD	background	GT	GQ288557.1	0	0	0	0	0	1	
 MD	background	GT	GQ288556.1	0	0	0	0	0	1	
 MD	background	GT	GQ288548.1	0	0	0	0	0	1	
@@ -4139,13 +4229,17 @@ XLD	background	WC	MG064353.1	0	0	0	0	0	1
 XLD	background	WC	MG064352.1	0	0	0	0	0	1	
 XLD	background	WC	DQ073746.1	0	0	0	0	1	0	
 XLD	background	WC	QB030208.1	0	0	0	0	1	0	
+XLD	background	WC	PX413461.1	0	0	0	0	1	0	
+XLD	background	WC	PV804724.1	0	0	0	0	1	0	
 XLD	background	WC	PV535852.1	0	0	0	0	1	0	
+XLD	background	WC	LC592775.1	0	0	0	0	1	0	
+XLD	background	WC	PQ424530.1	0	0	0	0	1	0	
 XLD	background	WC	PQ424528.1	0	0	0	0	1	0	
 XLD	background	WC	PQ424521.1	0	0	0	0	1	0	
 XLD	background	WC	PQ424519.1	0	0	0	0	1	0	
-XLD	background	WC	OQ979619.1	0	0	0	1	1	0	
-XLD	background	WC	NC_081967.1	0	0	0	1	1	0	
-XLD	background	WC	OR142187.1	0	0	0	1	1	0	
+XLD	background	WC	OQ979619.1	0	1	1	1	1	0	481
+XLD	background	WC	NC_081967.1	0	1	1	1	1	0	481
+XLD	background	WC	OR142187.1	0	1	1	1	1	0	481
 XLD	background	WC	NC_071876.1	0	0	0	0	1	0	
 XLD	background	WC	NC_041450.1	0	0	0	0	1	0	
 XLD	background	WC	NC_007788.1	0	0	0	0	1	0	
@@ -4170,6 +4264,7 @@ XLD	background	WC	GQ288545.1	0	0	0	0	0	1
 XLD	background	WC	GQ288544.1	0	0	0	0	0	1	
 XLD	background	WC	GQ288543.1	0	0	0	0	0	1	
 XLD	background	WC	GQ288542.1	0	0	0	0	0	1	
+XLD	background	WC	GQ288521.1	0	0	0	0	0	1	
 XLD	background	WC	GQ288516.1	0	0	0	0	0	1	
 XLD	background	WC	EU722997.1	0	0	0	0	0	1	
 XLD	background	WC	EU722995.1	0	0	0	0	0	1	
@@ -4213,6 +4308,7 @@ XLD	background	WC	NC_133446.1	0	0	0	0	1	0
 XLD	background	WC	NC_133447.1	0	0	0	0	1	0	
 XLD	background	WC	NC_133448.1	0	0	0	0	1	0	
 XLD	background	WC	NC_008106.1	0	0	0	0	1	0	
+XLD	background	WC	NC_088753.1	0	0	0	0	1	0	
 XLD	background	WC	NC_088582.1	0	0	0	0	1	0	
 XLD	background	WC	NC_088581.1	0	0	0	0	1	0	
 XLD	background	WC	NC_088580.1	0	0	0	0	1	0	
@@ -4232,6 +4328,8 @@ XLD	background	WC	NC_088430.1	0	0	0	0	1	0
 XLD	background	WC	NC_088427.1	0	0	0	0	1	0	
 XLD	background	WC	NC_088031.1	0	0	0	0	1	0	
 XLD	background	WC	NC_088030.1	0	0	0	0	1	0	
+XLD	background	WC	NC_088029.1	0	0	0	0	1	0	
+XLD	background	WC	NC_088028.1	0	0	0	0	1	0	
 XLD	background	WC	NC_088027.1	0	0	0	0	1	0	
 XLD	background	WC	NC_088026.1	0	0	0	0	1	0	
 XLD	background	WC	NC_088025.1	0	0	0	0	1	0	
@@ -4249,6 +4347,7 @@ XLD	background	WC	NC_082751.1	0	0	0	0	1	0
 XLD	background	WC	NC_083183.1	0	0	0	0	1	0	
 XLD	background	WC	NC_083132.1	0	0	0	0	1	0	
 XLD	background	WC	NC_082999.1	0	0	0	0	1	0	
+XLD	background	WC	NC_082942.1	0	0	0	0	1	0	
 XLD	background	WC	NC_082809.1	0	0	0	0	1	0	
 XLD	background	WC	NC_082808.1	0	0	0	0	1	0	
 XLD	background	WC	NC_082801.1	0	0	0	0	1	0	
@@ -4267,6 +4366,8 @@ XLD	background	WC	NC_079696.1	0	0	0	0	1	0
 XLD	background	WC	NC_064111.1	0	0	0	0	1	0	
 XLD	background	WC	NC_063621.1	0	0	0	0	1	0	
 XLD	background	WC	NC_063620.1	0	0	0	0	1	0	
+XLD	background	WC	NC_065055.1	0	0	0	0	1	0	
+XLD	background	WC	NC_066688.1	0	0	0	0	1	0	
 XLD	background	WC	NC_059939.1	0	0	0	0	1	0	
 XLD	background	WC	NC_066805.1	0	0	0	0	1	0	
 XLD	background	WC	NC_059941.1	0	0	0	0	1	0	
@@ -4275,8 +4376,15 @@ XLD	background	WC	NC_068898.1	0	0	0	0	1	0
 XLD	background	WC	NC_068897.1	0	0	0	0	1	0	
 XLD	background	WC	NC_068734.1	0	0	0	0	1	0	
 XLD	background	WC	NC_068668.1	0	0	0	0	1	0	
+XLD	background	WC	NC_068516.1	0	0	0	0	1	0	
 XLD	background	WC	NC_068141.1	0	0	0	0	1	0	
+XLD	background	WC	NC_067553.1	0	0	0	0	1	0	
 XLD	background	WC	NC_060993.1	0	0	0	0	1	0	
+XLD	background	WC	NC_088745.1	0	0	0	0	1	0	
+XLD	background	WC	NC_088743.1	0	0	0	0	1	0	
+XLD	background	WC	NC_087809.1	0	0	0	0	1	0	
+XLD	background	WC	NC_087805.1	0	0	0	0	1	0	
+XLD	background	WC	NC_064338.1	0	0	0	0	1	0	
 XLD	background	WC	NC_082193.1	0	0	0	0	1	0	
 XLD	background	WC	NC_082192.1	0	0	0	0	1	0	
 XLD	background	WC	NC_082191.1	0	0	0	0	1	0	
@@ -4385,6 +4493,9 @@ XLD	background	GT	MG064355.1	0	0	0	0	0	1
 XLD	background	GT	MG064354.1	0	0	0	0	0	1	
 XLD	background	GT	MG064353.1	0	0	0	0	0	1	
 XLD	background	GT	MG064352.1	0	0	0	0	0	1	
+XLD	background	GT	OQ979619.1	0	1	1	1	1	0	481
+XLD	background	GT	NC_081967.1	0	1	1	1	1	0	481
+XLD	background	GT	OR142187.1	0	1	1	1	1	0	481
 XLD	background	GT	GQ288557.1	0	0	0	0	0	1	
 XLD	background	GT	GQ288556.1	0	0	0	0	0	1	
 XLD	background	GT	GQ288548.1	0	0	0	0	0	1	
