@@ -35,9 +35,6 @@ for reg in ['S','M','L','XL']:
  arow,brow=coords[reg+'A'],coords[reg+'B']
  assert all(arow[side+'_'+k]==brow[side+'_'+k] for side in ['F','R'] for k in ['start','end']),reg
  assert (arow['F_sequence'],arow['R_sequence'])!=(brow['F_sequence'],brow['R_sequence']),reg
-fixed=json.loads((p/'results/fixed_single_pairs.json').read_text())
-for old in fixed:
- new=next(r for r in a if r['name']==old['name']);assert (new['F'],new['R'])==(old['F'],old['R'])
 for f in list(p.rglob('*.md'))+list(p.rglob('*.html')):
  links=re.findall(r'\]\(([^)]+)\)',f.read_text()) if f.suffix=='.md' else re.findall(r'(?:href|src)="([^"]+)"',f.read_text())
  for link in links:

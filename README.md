@@ -1,124 +1,81 @@
-![MiLily overview](figures/MiLily_overview.png)
-
 # MiLily
 
-Crinoid mitochondrial 16S primers · First computational trial
+[中文](README.zh-CN.md)
 
-[简体中文](README.zh-CN.md)
+![Binding positions](figures/binding_positions.svg)
 
-Banner badges show the reference spans, including primers, of SD, MD, LD and XLD: 162, 253, 302 and 443 bp. The map below shows actual binding coordinates for every candidate; animal illustrations follow the user-supplied photographic plate, with representatives of Isocrinida (Metacrinus rotundus), Cyrtocrinida (Cyathidium pourtalesi), Hyocrinida (Calamocrinus diomedae) and Comatulida (Antedon mediterranea). These portraits compare morphology and do not imply validated amplification of all four species. [Reference plate and credits](figures/overview_design.md).
+Each length uses one shared locus: ordinary, A, B and D have identical forward and reverse start/end coordinates. At each locus, ordinary single, ordinary A/B union and degenerate single are selected by coverage plus exact matching; their scores are averaged equally to select the locus. Background limits are WC≤3 ≤5 and GT≤2 ≤5 accessions. All concrete variants pass terminal rules and both thermodynamic scenarios. A/B results are separate-PCR unions, not experimentally validated multiplex results. References are reused for design and evaluation; coverage is computational, not measured PCR efficiency.
 
-![MiLily binding positions](figures/binding_positions.svg)
+D denotes a degenerate single pair; no suffix denotes an ordinary single pair; A/B are ordinary same-locus alternatives. Each project has 12 portfolios, 16 pair records and 32 sequences.
 
-Following the MiCucumber/MiUrchin workflow, four reference-length bands compare degenerate and ordinary designs. D marks one degenerate pair; an unsuffixed name marks one ordinary pair; A/B are ordinary components used in separate PCRs. There are 12 portfolios, 16 paired records and 32 oligos. A/B are sequence variants at the same paired binding sites: both forward and reverse start/end coordinates are identical, with nucleotide substitutions only. Complementarity cannot come from shifting sites. Different length bands or alternative portfolios can still use different regions.
+| Scheme | Coverage % | Exact % | WC≤3 | GT≤2 | WC≤4 |
+|---|---:|---:|---:|---:|---:|
+| SD | 72.00 | 46.00 | 0 | 0 | 0 |
+| S | 66.00 | 28.00 | 0 | 0 | 0 |
+| SA+SB | 66.00 | 46.00 | 0 | 0 | 0 |
+| MD | 68.00 | 16.00 | 2 | 0 | 11 |
+| M | 88.00 | 0.00 | 4 | 1 | 11 |
+| MA+MB | 88.00 | 16.00 | 4 | 1 | 14 |
+| LD | 88.00 | 30.00 | 0 | 0 | 0 |
+| L | 88.00 | 30.00 | 0 | 0 | 0 |
+| LA+LB | 88.00 | 46.00 | 0 | 0 | 0 |
+| XLD | 88.00 | 62.00 | 3 | 0 | 104 |
+| XL | 68.00 | 8.00 | 0 | 0 | 6 |
+| XLA+XLB | 76.00 | 18.00 | 0 | 0 | 6 |
 
-## First-trial priorities
+Background hits can remain substantial under relaxed mismatch models; see the complete results and missed-reference records.
 
-Prioritize **SD** for a short amplicon with relatively high exact matching, **MD** for maximal degenerate single-pair coverage, and **LD** for intermediate length and balanced coverage/exact matching. For fewer oligo variants, ordinary **L** is a strong candidate: 88% coverage, 30% exact matching, and zero WC≤3, GT≤2 and WC≤4 background hits. Same-locus LA/LB raises exact matching to 46% without improving coverage. XLD reaches 62% exact matching but has 104 WC≤4 background hits. These are computational candidates without wet-lab validation.
+[Sequences](sequences/primer_pairs.csv) · [FASTA](sequences/primers.fasta) · [Results](results/comparison.csv) · [Verification](results/verification.json) · [Full base matching](results/base_matching.html)
 
-## Shared complete-sequence panel
+## S
 
-27 full-sequence haplotypes deduplicated within 25 taxonomic labels, including unresolved identifications; these are not 25 confirmed species. Labels and within-label haplotypes receive equal weights. Coverage requires ≤2 mismatches per primer and IUPAC-compatible terminal 3 nt; exact matching requires zero mismatches on both primers.
+| Name | F (5′→3′) | R (5′→3′) |
+|---|---|---|
+| SD | `GATCTAATGAAACCCCAA` | `TRTCCCTTTTGGTYTAGC` |
+| S | `GATCTAATGAAACCCCAA` | `TATCCCTTTTGGTTTAGC` |
+| SA | `GATCTAATGAAACCCCAA` | `TATCCCTTTTGGTTTAGC` |
+| SB | `GATCTAATGAAACCCCAA` | `TGTCCCTTTTGGTTTAGC` |
 
-| Scheme | Coverage | Exact | WC≤3 | GT≤2 | WC≤4 | Observed product bp |
-|---|---:|---:|---:|---:|---:|---|
-| SD | 84.0% | 66.0% | 0 | 0 | 11 | 160–170 |
-| S | 66.0% | 28.0% | 0 | 0 | 0 | 194–203 |
-| SA+SB | 66.0% | 46.0% | 0 | 0 | 0 | 194–203 |
-| MD | 92.0% | 26.0% | 0 | 0 | 2 | 250–260 |
-| M | 76.0% | 14.0% | 4 | 2 | 11 | 250–260 |
-| MA+MB | 88.0% | 16.0% | 4 | 1 | 14 | 245–255 |
-| LD | 88.0% | 54.0% | 0 | 1 | 9 | 302–311 |
-| L | 88.0% | 30.0% | 0 | 0 | 0 | 288–297 |
-| LA+LB | 88.0% | 46.0% | 0 | 0 | 0 | 288–297 |
-| XLD | 88.0% | 62.0% | 3 | 0 | 104 | 443–471 |
-| XL | 68.0% | 8.0% | 0 | 0 | 26 | 438–462 |
-| XLA+XLB | 80.0% | 22.0% | 5 | 0 | 141 | 432–465 |
+![SD base matching](figures/base_matching_SD.svg)
 
-Background counts are accessions among 7,177 frozen records, not probabilities of amplification. GT permits possible G–T pairing; WC≤4 is a more permissive sensitivity analysis. Two-pair metrics are separate-PCR unions, not validated multiplex performance.
+![S base matching](figures/base_matching_S.svg)
+## M
 
-## Reference scope and limits
+| Name | F (5′→3′) | R (5′→3′) |
+|---|---|---|
+| MD | `TTACTGTTACAAAAGTAAACTAAGAG` | `GGCTGYTTCTAGGCCTAC` |
+| M | `TTACTGTTGCAAAAGTAAACTAAGAG` | `GGCTGTTTCTAGGCCTAC` |
+| MA | `TTACTGTTGCAAAAGTAAACTAAGAG` | `GGCTGTTTCTAGGCCTAC` |
+| MB | `TTACTGTTACAAAAGTAAACTAAGAG` | `GGCTGCTTCTAGGCCTAC` |
 
-The existing frozen MiStar/MiCucumber corpus supplies 269 crinoid 16S records; no exhaustive refresh was performed. Coordinates use extracted 16S of *Florometra serratissima* AF049132.1, 1-based and ungapped. Reference spans are S150–224, M225–284, L285–359 and XL360–450 bp including primers; taxon-specific products may fall outside these bands.
+![MD base matching](figures/base_matching_MD.svg)
 
-Most partial records do not span selected sites. Except XLA/XLB, current portfolios have 43 evaluable records / 25 labels, including complete-sequence duplicates; deduplicated weighted metrics match the complete panel. XLA/XLB has 93 evaluable records / 64 labels, with 82.03% coverage and 8.59% exact matching; these differing evaluable sets are not directly ranked. Missing site coverage is marked unevaluable, not a demonstrated failure. Selection and evaluation share the design panel: this is not a held-out test. The bounded coordinate/length grid and spatial shortlist do not guarantee a global optimum.
+![M base matching](figures/base_matching_M.svg)
+## L
 
-## Terminal and thermodynamic rules
+| Name | F (5′→3′) | R (5′→3′) |
+|---|---|---|
+| LD | `CAAGAGATCTAATGAAACCCCA` | `GGCTGYTTCTAGGCCTAC` |
+| L | `CAAGAGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` |
+| LA | `CAAGAGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` |
+| LB | `CAAGGGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` |
 
-3′ degeneracy is allowed, including the final base. Every concrete variant has no terminal homotriplet, ≥1 G/C in the last 3 nt, 1–4 G/C in the last 5 nt and no homopolymer longer than 4. Two scenarios use 50 nM per variant and 200 nM per direction equally divided among variants, with 50 mM monovalent salt, 1.5 mM Mg and 0.6 mM dNTP. All hairpin/dimer Tm values are <55°C and F/R Tm-range midpoint difference is ≤5°C. Unequal-concentration heterodimers use the larger partner concentration as an approximation.
+![LD base matching](figures/base_matching_LD.svg)
 
-## Sequences, figures and reproduction
+![L base matching](figures/base_matching_L.svg)
+## XL
 
-[Paired sequences](sequences/primer_pairs.csv) · [FASTA](sequences/primers.fasta) · [Full comparison](results/comparison.csv) · [Missed panel references](results/missed_references.csv) · [Target evaluation](results/target_evaluation.csv) · [Background accessions](results/background_hits.csv) · [Observed barcode resolution](results/barcode_resolution.csv)
+| Name | F (5′→3′) | R (5′→3′) |
+|---|---|---|
+| XLD | `AGGCAAVACGAARRCTYAACTG` | `GACTTDCGTCGGTCTGAA` |
+| XL | `AGGCAAGACGAAAGCTTAACTG` | `GACTTGCGTCGGTCTGAA` |
+| XLA | `AGGCAAGACGAAAGCTTAACTG` | `GACTTGCGTCGGTCTGAA` |
+| XLB | `AGGCAACACGAAAACTTAACTG` | `GACTTGCGTCGGTCTGAA` |
 
-[All base-matching figures](results/base_matching.html) · [Coordinates](results/binding_positions.csv) · [Terminal audit](results/terminal_audit.csv) · [Thermodynamics](results/thermal.csv) · [Independent verification](results/verification.json) · [Methods](docs/METHODS.md) · [Reproduction](docs/REPRODUCIBILITY.md)
+![XLD base matching](figures/base_matching_XLD.svg)
 
-Base plots show all 27 complete sequences oriented as the primer, 5′→3′. Blue marks IUPAC compatibility, orange a mismatch, and the box terminal 3 nt. Question marks indicate unequal-length windows. Barcode resolution describes observed sharing of identical internal sequences among detected labels, not true species identification accuracy.
+![XL base matching](figures/base_matching_XL.svg)
 
-### S
-
-All sequences are written 5′→3′; R is the reverse oligo as ordered.
-
-| Name | Forward F | Reverse R | Degeneracy F / R |
-|---|---|---|---:|
-| SD | `TTACTGTTDCAAAAGTAAAYWAAGAR` | `AGYTTRTCCCTTTTRGTYTAGY` | 24 / 32 |
-| S | `GATCTAATGAAACCCCAA` | `TATCCCTTTTGGTTTAGC` | 1 / 1 |
-| SA | `GATCTAATGAAACCCCAA` | `TATCCCTTTTGGTTTAGC` | 1 / 1 |
-| SB | `GATCTAATGAAACCCCAA` | `TGTCCCTTTTGGTTTAGC` | 1 / 1 |
-
-![MiLily SD](figures/base_matching_SD.svg)
-
-[Ordinary S](figures/base_matching_S.svg) · [SA](figures/base_matching_SA.svg) · [SB](figures/base_matching_SB.svg)
-
-### M
-
-All sequences are written 5′→3′; R is the reverse oligo as ordered.
-
-| Name | Forward F | Reverse R | Degeneracy F / R |
-|---|---|---|---:|
-| MD | `AWRTATTACTGTTRCAAAAGTAAAYWAAGA` | `GGCTGCTTCTAGGCCTAC` | 32 / 1 |
-| M | `TTACTGTTACAAAAGTAAACAAAGAG` | `TTGGTGGCTGCTTCTAGG` | 1 / 1 |
-| MA | `TTACTGTTGCAAAAGTAAACTAAGAG` | `GGCTGTTTCTAGGCCTAC` | 1 / 1 |
-| MB | `TTACTGTTACAAAAGTAAACTAAGAG` | `GGCTGCTTCTAGGCCTAC` | 1 / 1 |
-
-![MiLily MD](figures/base_matching_MD.svg)
-
-[Ordinary M](figures/base_matching_M.svg) · [MA](figures/base_matching_MA.svg) · [MB](figures/base_matching_MB.svg)
-
-### L
-
-All sequences are written 5′→3′; R is the reverse oligo as ordered.
-
-| Name | Forward F | Reverse R | Degeneracy F / R |
-|---|---|---|---:|
-| LD | `WACCCGAAACCARGRGATCTAATGMW` | `WGDTGGCTGYTTCTAGGCCTAC` | 32 / 12 |
-| L | `CAAGAGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` | 1 / 1 |
-| LA | `CAAGAGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` | 1 / 1 |
-| LB | `CAAGGGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` | 1 / 1 |
-
-![MiLily LD](figures/base_matching_LD.svg)
-
-[Ordinary L](figures/base_matching_L.svg) · [LA](figures/base_matching_LA.svg) · [LB](figures/base_matching_LB.svg)
-
-### XL
-
-All sequences are written 5′→3′; R is the reverse oligo as ordered.
-
-| Name | Forward F | Reverse R | Degeneracy F / R |
-|---|---|---|---:|
-| XLD | `AGGCAAVACGAARRCTYAACTG` | `GACTTDCGTCGGTCTGAA` | 24 / 3 |
-| XL | `AGGCAAGACGAAAGCTTAACTG` | `GCGTCGGTCTGAACTCAG` | 1 / 1 |
-| XLA | `TAATTGAGGACTAGAATGAAAGGCAA` | `GGGCTTTAAAGGTCGAACAGAC` | 1 / 1 |
-| XLB | `TAATTGAGGACTAGAATGAAAGGCAA` | `AGGCTTTAAAGGTCGAACAGAC` | 1 / 1 |
-
-![MiLily XLD](figures/base_matching_XLD.svg)
-
-[Ordinary XL](figures/base_matching_XL.svg) · [XLA](figures/base_matching_XLA.svg) · [XLB](figures/base_matching_XLB.svg)
-
-Independent whole-sequence scans: all 864 target-state and 32 background-set comparisons agree. See the verification record.
+Independent target checks: 864; disagreements: 0. Background set checks: 32; disagreements: 0.
 
 [Copyright / 著作权声明](COPYRIGHT.md)
-
-[GitHub: GUIBA-EX/MiLily](https://github.com/GUIBA-EX/MiLily) · [文件索引 / File index](docs/FILES.md)
-
-[同位点审计 / Same-locus audit](results/same_locus_audit.csv) · [A/B修正前后比较 / Before–after comparison](results/same_locus_comparison.csv)
