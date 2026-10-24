@@ -6,7 +6,7 @@ Crinoid mitochondrial 16S primers · First computational trial
 
 [简体中文](README.zh-CN.md)
 
-Banner badges show the reference spans, including primers, of SD, MD, LD and XLD: 162, 253, 302 and 443 bp. The map below shows actual binding coordinates for every candidate; animal illustrations are schematic.
+Banner badges show the reference spans, including primers, of SD, MD, LD and XLD: 162, 253, 302 and 443 bp. The map below shows actual binding coordinates for every candidate; animal illustrations follow the user-supplied photographic plate, with representatives of Isocrinida (Metacrinus rotundus), Cyrtocrinida (Cyathidium pourtalesi), Hyocrinida (Calamocrinus diomedae) and Comatulida (Antedon mediterranea). These portraits compare morphology and do not imply validated amplification of all four species. [Reference plate and credits](figures/overview_design.md).
 
 ![MiLily binding positions](figures/binding_positions.svg)
 

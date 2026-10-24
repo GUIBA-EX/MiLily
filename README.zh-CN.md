@@ -6,7 +6,7 @@
 
 [English](README.md)
 
-介绍图徽标为SD、MD、LD、XLD在参考序列上的跨度（含引物）：162、253、302、443 bp。下图显示全部候选的真实结合坐标；插画中的动物为示意。
+介绍图徽标为SD、MD、LD、XLD在参考序列上的跨度（含引物）：162、253、302、443 bp。下图显示全部候选的真实结合坐标；插画参考用户提供的真实物种图版，分别展示Isocrinida（Metacrinus rotundus）、Cyrtocrinida（Cyathidium pourtalesi）、Hyocrinida（Calamocrinus diomedae）和Comatulida（Antedon mediterranea）的代表。图示为形态比较，不表示四个代表种均已验证扩增。[图版参考与署名](figures/overview_design.md)。
 
 ![MiLily binding positions](figures/binding_positions.svg)
 
