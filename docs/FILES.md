@@ -18,3 +18,4 @@
 | [Background matching](../figures/performance_background.svg) | Strict, exact and permissive non-target hits / 严格、完全及宽松非目标命中 |
 | [Length and degeneracy](../figures/performance_design.svg) | Full target-scan product ranges and F/R variants / 全目标扫描产物范围及F/R简并度 |
 | [Figure script](../scripts/plot_performance.py) | Rebuild SVG/PNG performance figures with Matplotlib / 复现性能图 |
+| [Method PDF](../publications/MiLily_Method_ResearchGate.pdf) | English Method document for ResearchGate / ResearchGate英文方法文档 |

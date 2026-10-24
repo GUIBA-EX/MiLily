@@ -1,6 +1,8 @@
 # MiLily, a set of universal PCR primers for metabarcoding environmental DNA from **sea lily**
 
 [中文](README.zh-CN.md)
+[Download the English Method PDF](publications/MiLily_Method_ResearchGate.pdf)
+
 
 ![MiLily overview: XS, S, M, L and XL](figures/MiLily_overview_current.png)
 

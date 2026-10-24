@@ -2,11 +2,11 @@
   ".gitignore": "53f0c100a33a56ebada040287b3d0f5dbab21c6ec6b66209fec5515c508f1144",
   "CHANGELOG.md": "30007c6838ae07f516dbd4d763070a1989f9f1b069e953068af41d13d0e6b087",
   "COPYRIGHT.md": "0c41fcd385f6b32f55cc1b729328a5b998c5351c67b302823b15a1ca79cf8f6d",
-  "README.md": "96c7d425492a8cb1110253f33436f205577caa96bdabbb20b1e2ccc17ae69836",
-  "README.zh-CN.md": "bedc6f7449ea86119669d023c66c02aba25b6fbcb60e0dfc4b5a13150986c329",
+  "README.md": "9c5f1d7ef5172b92f2c9e9f6db0ea259f16d525dcfdd6f79c5c9f674166f0879",
+  "README.zh-CN.md": "e71b979325f2ab6c7e7d2ae8b6c7f6c3074def271e05f8bd1255a30086251b77",
   "docs/AB_COMPLEMENTARITY.md": "6b6f76174eafc10277b3a5a05e3832332da59f7edb804dd2f92e1b44339ca50d",
   "docs/DECISIONS.md": "6024f461aee812463108301542d4a96e22ef36b94d8391ae11cd44b5bc9cfeee",
-  "docs/FILES.md": "602b4b293651528595577cf4012bf5737ef7b57b473983be0005aed266c121e7",
+  "docs/FILES.md": "88d09ef830ea7d7e4eaa03f2ddd52b99216141d690a327a600c80e6e79b75206",
   "docs/JOINT_LOCUS.md": "aa85e20bb48ea5cf1b85585138f7871bde66cb01b4c0e7d105c8447adcb849f4",
   "docs/METHODS.md": "7e507e8da4042caf084d91ac67ab5a186735f2e831933c1c40b595d9a81c066e",
   "docs/METHODS.zh-CN.md": "0cccec7a109b9fc95c2077a9fcc69826d29f73da7e70d5e80725292a33243251",
@@ -138,5 +138,6 @@
   "figures/performance_design.png": "73634f6fa8eaa15cc8295549eb579d2f366cec0805824352fa88c9b853a8a357",
   "figures/performance_matching.svg": "54c14fcba1dcfe7a8885a40157efe89e551ce310b4b35cf2e9bc3efdafe467b0",
   "figures/performance_matching.png": "f76c5275af72c8143b2657d609a96708cf2efbc16c2ed38252fbf4232ae8d716",
-  "scripts/plot_performance.py": "6290ac8b7169d0894f9b759ff4f5e24651695a8cade06553ab08ab933b73552c"
+  "scripts/plot_performance.py": "6290ac8b7169d0894f9b759ff4f5e24651695a8cade06553ab08ab933b73552c",
+  "publications/MiLily_Method_ResearchGate.pdf": "b901f4edd34b628824fea2db83622efb6cf2ae9fa9f0c37a5c7b1a87a3d0001c"
 }
