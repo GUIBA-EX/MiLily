@@ -89,3 +89,5 @@ S采用32/64，M采用16/8，L采用1/8，XL采用48/6。M舍弃仅多4个百分
 Independent target checks: 864; disagreements: 0. Background set checks: 32; disagreements: 0.
 
 [Copyright / 著作权声明](COPYRIGHT.md)
+
+A/B按覆盖和完全匹配的独有贡献评估互补性，双对并非必然优于单对。 [A/B complementarity / 互补性复核](docs/AB_COMPLEMENTARITY.md)

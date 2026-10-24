@@ -1,8 +1,8 @@
 {
   ".gitignore": "53f0c100a33a56ebada040287b3d0f5dbab21c6ec6b66209fec5515c508f1144",
   "COPYRIGHT.md": "0c41fcd385f6b32f55cc1b729328a5b998c5351c67b302823b15a1ca79cf8f6d",
-  "README.md": "beddf840b79463f4354a717ef680364a55824afe5d1b731bfec86b1be5f1cfb4",
-  "README.zh-CN.md": "cd4e673f8cb61791b5893278d071496366a33096f846f084168dad40969549b5",
+  "README.md": "16f499372d4ea28fd466fef90c69c46770b013e0507b6598b70e851585a417a0",
+  "README.zh-CN.md": "4b4367f7e0df9a9f09248c3659043855400e81c3d684349d2acd4a3cdc4ec11b",
   "docs/DECISIONS.md": "52e553b8bec3a366d038a89f6102637a9da2d92bc8d7547a7b2489d6d47da29a",
   "docs/FILES.md": "b60b24424b07c01f07eaa608402fdbc94dad9853c545f0da05c2629e06a5f7b2",
   "docs/JOINT_LOCUS.md": "c2a1de6c4ca1566818c2affb69d1f8646cc26cb67ce4f3ed2e39f9ec942ba926",
@@ -104,5 +104,8 @@
   "sequences/primer_pairs.csv": "8e93789d99178020e2d875226a3f5dd147be33a8ac04fb26d378600b26bc0428",
   "sequences/primers.fasta": "cc60c13ebb988bc276f5fb140f85d19e927c65c866b2cfec73744d8008ac92e4",
   "figures/MiLily_overview_current.png": "410906668fff7f22f101a0a8a4d03ec6989e029bdefa6eeb79026e61deaef6b4",
-  "figures/overview_current_prompt.txt": "33d1a1c688556215fe31bd897c1173fd15e6e9c103036c23df8dcdf677ff6778"
+  "figures/overview_current_prompt.txt": "33d1a1c688556215fe31bd897c1173fd15e6e9c103036c23df8dcdf677ff6778",
+  "results/ab_complementarity/summary.csv": "dd4d749618ac5e12e7fcaab5bf3a13df37ad7360c602563eb898ff6331e5f634",
+  "results/ab_complementarity/reselection.csv": "fc016c2a0a2719f95dc47f72997602616430385dcdca36d1c9d70ecf28901ff3",
+  "docs/AB_COMPLEMENTARITY.md": "a1305853bd59fbbd268847bfba6afa6097145100c6927c820b5c8f42c4a9b327"
 }
