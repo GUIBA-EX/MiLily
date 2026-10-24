@@ -1,0 +1,298 @@
+scheme,model,threshold,accession,organism,clade,status,length,location,role
+SD,WC,le4,MH424435.1,Ophiarachnella infernalis,Ophiuroidea,annotated,1397,[9377:10774](-),background
+SD,WC,le4,MW357261.1,Chiridota heheva,Holothuroidea,annotated,1405,[14071:15476](+),background
+SD,WC,le4,MW357262.1,Chiridota sp. SS-2021,Holothuroidea,annotated,1407,[14066:15473](+),background
+SD,WC,le4,MZ702705.1,Brisinga sp. SS-2022,Asteroidea,inherited_MiStar,1593,,background
+SD,WC,le4,NC_058250.1,Chiridota heheva,Holothuroidea,annotated,1405,[14071:15476](+),background
+SD,WC,le4,NC_081967.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+SD,WC,le4,OQ979619.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+SD,WC,le4,OR142187.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+SD,WC,le4,PQ424533.1,Smilasterias triremis,Asteroidea,inherited_MiStar,1610,,background
+SD,WC,le4,PX601448.1,Caymanostella davidalani,Asteroidea,inherited_MiStar,1601,,background
+SD,WC,le4,PX601450.1,Caymanostella scrippscognaticausa,Asteroidea,inherited_MiStar,1593,,background
+SA+SB,GT,le2,KX385836.1,Echinothrix diadema,Echinoidea,annotated,1536,[4314:5850](+),background
+SA+SB,GT,le2,NC_033523.1,Echinothrix diadema,Echinoidea,annotated,1536,[4314:5850](+),background
+SA+SB,GT,le2,NC_067855.1,Diadema antillarum,Echinoidea,annotated,1534,[4315:5849](+),background
+SA+SB,GT,le2,ON725136.1,Diadema antillarum,Echinoidea,annotated,1534,[4315:5849](+),background
+SA+SB,WC,le4,EU072956.1,Perknaster charcoti,Asteroidea,inherited_MiStar,1300,,background
+SA+SB,WC,le4,EU220793.1,Stichopus ocellatus,Holothuroidea,annotated,1159,[<0:>1159](+),background
+SA+SB,WC,le4,HM853683.2,Stichopus sp. SF-2010,Holothuroidea,annotated,1653,[14604:16257](+),background
+SA+SB,WC,le4,HQ000092.1,Stichopus horrens,Holothuroidea,annotated,1642,[14615:16257](+),background
+SA+SB,WC,le4,JX888466.1,Loxechinus albus,Echinoidea,annotated,1537,[4315:5852](+),background
+SA+SB,WC,le4,KC490910.1,Loxechinus albus,Echinoidea,annotated,1536,[4303:5839](+),background
+SA+SB,WC,le4,MN276189.1,Stichopus monotuberculatus,Holothuroidea,annotated,1472,[14586:16058](+),background
+SA+SB,WC,le4,MW548268.1,Thelenota ananas,Holothuroidea,annotated,1450,[1675:3125](-),background
+SA+SB,WC,le4,MZ292734.1,Stichopus ocellatus,Holothuroidea,annotated,1446,[14596:16042](+),background
+SA+SB,WC,le4,MZ321056.1,Stichopus horrens,Holothuroidea,annotated,1439,[14618:16057](+),background
+SA+SB,WC,le4,MZ469138.1,Stichopus naso,Holothuroidea,annotated,1496,[14576:16072](+),background
+SA+SB,WC,le4,NC_014452.2,Stichopus sp. SF-2010,Holothuroidea,annotated,1653,[14604:16257](+),background
+SA+SB,WC,le4,NC_014454.1,Stichopus horrens,Holothuroidea,annotated,1642,[14615:16257](+),background
+SA+SB,WC,le4,NC_023770.1,Loxechinus albus,Echinoidea,annotated,1536,[4303:5839](+),background
+SA+SB,WC,le4,NC_052743.1,Stichopus monotuberculatus,Holothuroidea,annotated,1472,[14586:16058](+),background
+SA+SB,WC,le4,NC_059759.1,Thelenota ananas,Holothuroidea,annotated,1450,[1675:3125](-),background
+SA+SB,WC,le4,NC_062943.1,Stichopus ocellatus,Holothuroidea,annotated,1446,[14596:16042](+),background
+SA+SB,WC,le4,NC_065301.1,Phormosoma bursarium,Echinoidea,annotated,1543,[14202:15745](+),background
+SA+SB,WC,le4,ON254175.1,Phormosoma bursarium,Echinoidea,annotated,1543,[14202:15745](+),background
+SA+SB,WC,le4,PQ424529.1,Perknaster sp.,Asteroidea,inherited_MiStar,1627,,background
+SA+SB,WC,le4,PQ878524.1,Parastichopus tremulus,Holothuroidea,annotated,1556,[3230:4786](+),background
+SA+SB,WC,le4,PV804723.1,Parastichopus tremulus,Holothuroidea,annotated,1559,[14646:16205](+),background
+SA+SB,WC,le4,PZ510019.1,Thelenota anax,Holothuroidea,annotated,1445,[14248:15693](+),background
+SA+SB,WC,le4,QB038039.1,Cystechinus giganteus,Echinoidea,annotated,966,[3219:4185](+),background
+SA+SB,WC,le4,QB038041.1,Cystechinus wyvillii,Echinoidea,annotated,965,[3234:4199](+),background
+MD,WC,le4,MT559281.1,Synallactes sp. Y30071,Holothuroidea,annotated,1411,[11482:12893](+),background
+MD,WC,le4,OQ534871.1,Paelopatides sp.,Holothuroidea,annotated,1449,[10004:11453](+),background
+M,WC,le3,KX638403.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+M,WC,le3,NC_032365.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+M,WC,le3,PQ878524.1,Parastichopus tremulus,Holothuroidea,annotated,1556,[3230:4786](+),background
+M,WC,le3,PV804723.1,Parastichopus tremulus,Holothuroidea,annotated,1559,[14646:16205](+),background
+M,GT,le2,KX638403.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+M,GT,le2,NC_032365.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+M,WC,le4,KX638403.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+M,WC,le4,MN103227.1,Sinaechinocyamus mai,Echinoidea,annotated,1558,[4354:5912](+),background
+M,WC,le4,MN128376.1,Stichopus horrens,Holothuroidea,annotated,1601,[14714:16315](+),background
+M,WC,le4,MW548268.1,Thelenota ananas,Holothuroidea,annotated,1450,[1675:3125](-),background
+M,WC,le4,MZ188901.1,Isostichopus badionotus,Holothuroidea,annotated,1415,[3848:5263](+),background
+M,WC,le4,NC_032365.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+M,WC,le4,NC_059759.1,Thelenota ananas,Holothuroidea,annotated,1450,[1675:3125](-),background
+M,WC,le4,OQ731944.1,Holothuria ocellata,Holothuroidea,annotated,1423,[14242:15665](+),background
+M,WC,le4,PQ878524.1,Parastichopus tremulus,Holothuroidea,annotated,1556,[3230:4786](+),background
+M,WC,le4,PV804723.1,Parastichopus tremulus,Holothuroidea,annotated,1559,[14646:16205](+),background
+M,WC,le4,PV946926.1,Isostichopus fuscus,Holothuroidea,annotated,1351,[5002:6353](+),background
+MA+MB,WC,le3,KX638403.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+MA+MB,WC,le3,NC_032365.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+MA+MB,WC,le3,PQ878524.1,Parastichopus tremulus,Holothuroidea,annotated,1556,[3230:4786](+),background
+MA+MB,WC,le3,PV804723.1,Parastichopus tremulus,Holothuroidea,annotated,1559,[14646:16205](+),background
+MA+MB,GT,le2,KX638403.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+MA+MB,GT,le2,LC704718.1,Euapta godeffroyi,Holothuroidea,annotated,1480,[2455:3935](-),background
+MA+MB,GT,le2,NC_032365.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+MA+MB,WC,le4,KX638403.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+MA+MB,WC,le4,LC704718.1,Euapta godeffroyi,Holothuroidea,annotated,1480,[2455:3935](-),background
+MA+MB,WC,le4,MN103227.1,Sinaechinocyamus mai,Echinoidea,annotated,1558,[4354:5912](+),background
+MA+MB,WC,le4,MN128376.1,Stichopus horrens,Holothuroidea,annotated,1601,[14714:16315](+),background
+MA+MB,WC,le4,MW218896.1,Holothuria spinifera,Holothuroidea,annotated,1425,[14306:15731](+),background
+MA+MB,WC,le4,MW548268.1,Thelenota ananas,Holothuroidea,annotated,1450,[1675:3125](-),background
+MA+MB,WC,le4,MZ188901.1,Isostichopus badionotus,Holothuroidea,annotated,1415,[3848:5263](+),background
+MA+MB,WC,le4,NC_032365.1,Glyptocidaris crenularis,Echinoidea,annotated,1581,[4412:5993](+),background
+MA+MB,WC,le4,NC_059759.1,Thelenota ananas,Holothuroidea,annotated,1450,[1675:3125](-),background
+MA+MB,WC,le4,NC_083273.1,Echinocrepis rostrata,Echinoidea,annotated,959,[3218:4177](+),background
+MA+MB,WC,le4,OQ534871.1,Paelopatides sp.,Holothuroidea,annotated,1449,[10004:11453](+),background
+MA+MB,WC,le4,OQ731944.1,Holothuria ocellata,Holothuroidea,annotated,1423,[14242:15665](+),background
+MA+MB,WC,le4,OR494080.1,Echinocrepis rostrata,Echinoidea,annotated,959,[3218:4177](+),background
+MA+MB,WC,le4,PQ878524.1,Parastichopus tremulus,Holothuroidea,annotated,1556,[3230:4786](+),background
+MA+MB,WC,le4,PV804723.1,Parastichopus tremulus,Holothuroidea,annotated,1559,[14646:16205](+),background
+MA+MB,WC,le4,PV946926.1,Isostichopus fuscus,Holothuroidea,annotated,1351,[5002:6353](+),background
+MA+MB,WC,le4,QB038039.1,Cystechinus giganteus,Echinoidea,annotated,966,[3219:4185](+),background
+MA+MB,WC,le4,QB038041.1,Cystechinus wyvillii,Echinoidea,annotated,965,[3234:4199](+),background
+LD,GT,le2,NC_080950.1,NC_080950.1 Rosacea flaccida,other_metazoa,inherited_MiStar,1596,,background
+LD,WC,le4,NC_040137.1,NC_040137.1 Montipora efflorescens,other_metazoa,inherited_MiStar,2259,,background
+LD,WC,le4,NC_080943.1,NC_080943.1 Bargmannia elongata,other_metazoa,inherited_MiStar,1606,,background
+LD,WC,le4,NC_080950.1,NC_080950.1 Rosacea flaccida,other_metazoa,inherited_MiStar,1596,,background
+LD,WC,le4,NC_082103.1,NC_082103.1 Polymyces wellsi,other_metazoa,inherited_MiStar,2746,,background
+LD,WC,le4,NC_082917.1,NC_082917.1 Galaxea astreata,other_metazoa,inherited_MiStar,2308,,background
+LD,WC,le4,NC_082918.1,NC_082918.1 Galaxea paucisepta,other_metazoa,inherited_MiStar,2308,,background
+LD,WC,le4,NC_083272.1,NC_083272.1 Acropora cervicornis,other_metazoa,inherited_MiStar,2007,,background
+LD,WC,le4,NC_088052.1,NC_088052.1 Antipathes grandis,other_metazoa,inherited_MiStar,2663,,background
+LD,WC,le4,NC_088089.1,NC_088089.1 Madrepora piresae,other_metazoa,inherited_MiStar,1999,,background
+LA+LB,WC,le4,EU220793.1,Stichopus ocellatus,Holothuroidea,annotated,1159,[<0:>1159](+),background
+LA+LB,WC,le4,FN562581.1,Echinocardium cordatum,Echinoidea,annotated,1564,[7984:9548](+),background
+LA+LB,WC,le4,HM853683.2,Stichopus sp. SF-2010,Holothuroidea,annotated,1653,[14604:16257](+),background
+LA+LB,WC,le4,HQ000092.1,Stichopus horrens,Holothuroidea,annotated,1642,[14615:16257](+),background
+LA+LB,WC,le4,KC990834.1,Nacospatangus altus,Echinoidea,annotated,1557,[10671:12228](+),background
+LA+LB,WC,le4,KU302104.1,Salmacis bicolor rarispina,Echinoidea,annotated,1537,[4374:5911](+),background
+LA+LB,WC,le4,KU302105.1,Temnopleurus toreumaticus,Echinoidea,annotated,1527,[4345:5872](+),background
+LA+LB,WC,le4,MN276189.1,Stichopus monotuberculatus,Holothuroidea,annotated,1472,[14586:16058](+),background
+LA+LB,WC,le4,MZ292734.1,Stichopus ocellatus,Holothuroidea,annotated,1446,[14596:16042](+),background
+LA+LB,WC,le4,MZ321056.1,Stichopus horrens,Holothuroidea,annotated,1439,[14618:16057](+),background
+LA+LB,WC,le4,MZ469138.1,Stichopus naso,Holothuroidea,annotated,1496,[14576:16072](+),background
+LA+LB,WC,le4,NC_013881.1,Echinocardium cordatum,Echinoidea,annotated,1564,[7984:9548](+),background
+LA+LB,WC,le4,NC_014452.2,Stichopus sp. SF-2010,Holothuroidea,annotated,1653,[14604:16257](+),background
+LA+LB,WC,le4,NC_014454.1,Stichopus horrens,Holothuroidea,annotated,1642,[14615:16257](+),background
+LA+LB,WC,le4,NC_023255.1,Nacospatangus altus,Echinoidea,annotated,1557,[10671:12228](+),background
+LA+LB,WC,le4,NC_025767.1,NC_025767.1 Megaleporinus piavussu,other_metazoa,inherited_MiStar,1678,,background
+LA+LB,WC,le4,NC_033529.1,Temnopleurus toreumaticus,Echinoidea,annotated,1527,[4345:5872](+),background
+LA+LB,WC,le4,NC_052743.1,Stichopus monotuberculatus,Holothuroidea,annotated,1472,[14586:16058](+),background
+LA+LB,WC,le4,NC_062943.1,Stichopus ocellatus,Holothuroidea,annotated,1446,[14596:16042](+),background
+LA+LB,WC,le4,NC_088519.1,NC_088519.1 Triplophysa erythraea,other_metazoa,inherited_MiStar,1674,,background
+LA+LB,WC,le4,NC_133446.1,NC_133446.1 Pristobrycon striolatus,other_metazoa,inherited_MiStar,1682,,background
+LA+LB,WC,le4,NC_133448.1,NC_133448.1 Serrasalmus eigenmanni,other_metazoa,inherited_MiStar,1683,,background
+XLD,WC,le3,NC_081967.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XLD,WC,le3,OQ979619.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XLD,WC,le3,OR142187.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XLD,WC,le4,AB231475.1,Acanthaster planci,Asteroidea,inherited_MiStar,1549,,background
+XLD,WC,le4,DQ073746.1,Lytechinus variegatus,Echinoidea,annotated,645,[<0:>645](+),background
+XLD,WC,le4,KY908356.1,Vitjazaster djakonovi,Asteroidea,inherited_MiStar,672,,background
+XLD,WC,le4,KY908357.1,Porcellanaster nudus,Asteroidea,inherited_MiStar,667,,background
+XLD,WC,le4,KY908358.1,Caulaster cf. pedunculatus NP-2018,Asteroidea,inherited_MiStar,667,,background
+XLD,WC,le4,KY908359.1,Porcellanaster ceruleus,Asteroidea,inherited_MiStar,666,,background
+XLD,WC,le4,KY908360.1,Hyphalaster inermis,Asteroidea,inherited_MiStar,669,,background
+XLD,WC,le4,KY908361.1,Styracaster robustus,Asteroidea,inherited_MiStar,669,,background
+XLD,WC,le4,KY908362.1,Abyssaster tara,Asteroidea,inherited_MiStar,669,,background
+XLD,WC,le4,KY908363.1,Thoracaster cylindratus,Asteroidea,inherited_MiStar,672,,background
+XLD,WC,le4,MH648613.1,Styracaster yapensis,Asteroidea,inherited_MiStar,1646,,background
+XLD,WC,le4,MZ702702.1,Paulasterias sp. SS-2022,Asteroidea,inherited_MiStar,1074,,background
+XLD,WC,le4,MZ702705.1,Brisinga sp. SS-2022,Asteroidea,inherited_MiStar,1593,,background
+XLD,WC,le4,NC_002012.1,NC_002012.1 Squalus acanthias,other_metazoa,inherited_MiStar,1676,,background
+XLD,WC,le4,NC_007788.1,Acanthaster planci,Asteroidea,inherited_MiStar,1549,,background
+XLD,WC,le4,NC_008106.1,NC_008106.1 Micropterus salmoides,other_metazoa,inherited_MiStar,1689,,background
+XLD,WC,le4,NC_009587.1,NC_009587.1 Sardinella maderensis,other_metazoa,inherited_MiStar,1688,,background
+XLD,WC,le4,NC_025767.1,NC_025767.1 Megaleporinus piavussu,other_metazoa,inherited_MiStar,1678,,background
+XLD,WC,le4,NC_041450.1,Styracaster yapensis,Asteroidea,inherited_MiStar,1646,,background
+XLD,WC,le4,NC_059939.1,NC_059939.1 Raja undulata,other_metazoa,inherited_MiStar,1553,,background
+XLD,WC,le4,NC_059941.1,NC_059941.1 Torpedo marmorata,other_metazoa,inherited_MiStar,1538,,background
+XLD,WC,le4,NC_060993.1,NC_060993.1 Narke japonica,other_metazoa,inherited_MiStar,1632,,background
+XLD,WC,le4,NC_063620.1,NC_063620.1 Squatina aculeata,other_metazoa,inherited_MiStar,1662,,background
+XLD,WC,le4,NC_063621.1,NC_063621.1 Squatina oculata,other_metazoa,inherited_MiStar,1662,,background
+XLD,WC,le4,NC_063787.1,Coscinasterias acutispina,Asteroidea,inherited_MiStar,1603,,background
+XLD,WC,le4,NC_064111.1,NC_064111.1 Squatina tergocellatoides,other_metazoa,inherited_MiStar,1648,,background
+XLD,WC,le4,NC_066805.1,NC_066805.1 Scyliorhinus stellaris,other_metazoa,inherited_MiStar,1672,,background
+XLD,WC,le4,NC_068141.1,NC_068141.1 Neotrygon indica,other_metazoa,inherited_MiStar,1700,,background
+XLD,WC,le4,NC_068668.1,NC_068668.1 Rhinoptera brasiliensis,other_metazoa,inherited_MiStar,1702,,background
+XLD,WC,le4,NC_068734.1,NC_068734.1 Mobula alfredi,other_metazoa,inherited_MiStar,1699,,background
+XLD,WC,le4,NC_068897.1,NC_068897.1 Acroteriobatus annulatus,other_metazoa,inherited_MiStar,1692,,background
+XLD,WC,le4,NC_068898.1,NC_068898.1 Acroteriobatus blochii,other_metazoa,inherited_MiStar,1693,,background
+XLD,WC,le4,NC_071876.1,Ctenodiscus crispatus,Asteroidea,inherited_MiStar,1611,,background
+XLD,WC,le4,NC_072260.1,NC_072260.1 Negaprion brevirostris,other_metazoa,inherited_MiStar,1653,,background
+XLD,WC,le4,NC_077462.1,NC_077462.1 Triakis megalopterus,other_metazoa,inherited_MiStar,1671,,background
+XLD,WC,le4,NC_077463.1,NC_077463.1 Mustelus palumbes,other_metazoa,inherited_MiStar,1670,,background
+XLD,WC,le4,NC_077464.1,NC_077464.1 Mustelus mosis,other_metazoa,inherited_MiStar,1669,,background
+XLD,WC,le4,NC_077588.1,NC_077588.1 Triakis semifasciata,other_metazoa,inherited_MiStar,1648,,background
+XLD,WC,le4,NC_077648.1,NC_077648.1 Oxynotus paradoxus,other_metazoa,inherited_MiStar,1671,,background
+XLD,WC,le4,NC_079696.1,NC_079696.1 Sphyrna gilberti,other_metazoa,inherited_MiStar,1672,,background
+XLD,WC,le4,NC_081967.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XLD,WC,le4,NC_082189.1,NC_082189.1 Lamellibrachia donwalshi,other_metazoa,inherited_MiStar,1308,,background
+XLD,WC,le4,NC_082190.1,NC_082190.1 Lamellibrachia columna,other_metazoa,inherited_MiStar,1308,,background
+XLD,WC,le4,NC_082191.1,NC_082191.1 Lamellibrachia barhami,other_metazoa,inherited_MiStar,1306,,background
+XLD,WC,le4,NC_082192.1,NC_082192.1 Alaysia spiralis,other_metazoa,inherited_MiStar,1303,,background
+XLD,WC,le4,NC_082193.1,NC_082193.1 Arcovestia ivanovi,other_metazoa,inherited_MiStar,1306,,background
+XLD,WC,le4,NC_082566.1,NC_082566.1 Leucoraja garmani,other_metazoa,inherited_MiStar,1679,,background
+XLD,WC,le4,NC_082751.1,NC_082751.1 Scyliorhinus retifer,other_metazoa,inherited_MiStar,1672,,background
+XLD,WC,le4,NC_082774.1,NC_082774.1 Bathyraja parmifera,other_metazoa,inherited_MiStar,1676,,background
+XLD,WC,le4,NC_082793.1,NC_082793.1 Caliraja stellulata,other_metazoa,inherited_MiStar,1675,,background
+XLD,WC,le4,NC_082798.1,NC_082798.1 Parmaturus xaniurus,other_metazoa,inherited_MiStar,1666,,background
+XLD,WC,le4,NC_082799.1,NC_082799.1 Bathyraja aleutica,other_metazoa,inherited_MiStar,1674,,background
+XLD,WC,le4,NC_082800.1,NC_082800.1 Bathyraja maculata,other_metazoa,inherited_MiStar,1676,,background
+XLD,WC,le4,NC_082801.1,NC_082801.1 Bathyraja taranetzi,other_metazoa,inherited_MiStar,1676,,background
+XLD,WC,le4,NC_082808.1,NC_082808.1 Beringraja binoculata,other_metazoa,inherited_MiStar,1676,,background
+XLD,WC,le4,NC_082809.1,NC_082809.1 Bathyraja interrupta,other_metazoa,inherited_MiStar,1676,,background
+XLD,WC,le4,NC_082999.1,NC_082999.1 Rhinoptera bonasus,other_metazoa,inherited_MiStar,1706,,background
+XLD,WC,le4,NC_083132.1,NC_083132.1 Urolophus aurantiacus,other_metazoa,inherited_MiStar,1690,,background
+XLD,WC,le4,NC_083183.1,NC_083183.1 Euprotomicrus bispinatus,other_metazoa,inherited_MiStar,1667,,background
+XLD,WC,le4,NC_083983.1,NC_083983.1 Torpedo suessii,other_metazoa,inherited_MiStar,1538,,background
+XLD,WC,le4,NC_084376.1,NC_084376.1 Galeorhinus galeus,other_metazoa,inherited_MiStar,1667,,background
+XLD,WC,le4,NC_088018.1,NC_088018.1 Polyprion americanus,other_metazoa,inherited_MiStar,1696,,background
+XLD,WC,le4,NC_088019.1,NC_088019.1 Prionotus nudigula,other_metazoa,inherited_MiStar,1692,,background
+XLD,WC,le4,NC_088020.1,NC_088020.1 Pseudopercis numida,other_metazoa,inherited_MiStar,1690,,background
+XLD,WC,le4,NC_088021.1,NC_088021.1 Pseudupeneus maculatus,other_metazoa,inherited_MiStar,1689,,background
+XLD,WC,le4,NC_088022.1,NC_088022.1 Rypticus randalli,other_metazoa,inherited_MiStar,1694,,background
+XLD,WC,le4,NC_088023.1,NC_088023.1 Sardinella aurita,other_metazoa,inherited_MiStar,1688,,background
+XLD,WC,le4,NC_088024.1,NC_088024.1 Sardinella brasiliensis,other_metazoa,inherited_MiStar,1688,,background
+XLD,WC,le4,NC_088025.1,NC_088025.1 Scomberomorus brasiliensis,other_metazoa,inherited_MiStar,1693,,background
+XLD,WC,le4,NC_088026.1,NC_088026.1 Scorpaena brasiliensis,other_metazoa,inherited_MiStar,1690,,background
+XLD,WC,le4,NC_088027.1,NC_088027.1 Selene vomer,other_metazoa,inherited_MiStar,1714,,background
+XLD,WC,le4,NC_088030.1,NC_088030.1 Umbrina canosai,other_metazoa,inherited_MiStar,1700,,background
+XLD,WC,le4,NC_088031.1,NC_088031.1 Urophycis brasiliensis,other_metazoa,inherited_MiStar,1656,,background
+XLD,WC,le4,NC_088427.1,NC_088427.1 Pagrus auratus,other_metazoa,inherited_MiStar,1695,,background
+XLD,WC,le4,NC_088430.1,NC_088430.1 Cobitis tetralineata,other_metazoa,inherited_MiStar,1668,,background
+XLD,WC,le4,NC_088490.1,NC_088490.1 Zoarces viviparus,other_metazoa,inherited_MiStar,1690,,background
+XLD,WC,le4,NC_088499.1,NC_088499.1 Macrhybopsis aestivalis,other_metazoa,inherited_MiStar,1657,,background
+XLD,WC,le4,NC_088500.1,NC_088500.1 Macrhybopsis marconis,other_metazoa,inherited_MiStar,1655,,background
+XLD,WC,le4,NC_088503.1,NC_088503.1 Glyptothorax quadriocellatus,other_metazoa,inherited_MiStar,1677,,background
+XLD,WC,le4,NC_088519.1,NC_088519.1 Triplophysa erythraea,other_metazoa,inherited_MiStar,1674,,background
+XLD,WC,le4,NC_088550.1,NC_088550.1 Millerichthys robustus,other_metazoa,inherited_MiStar,1656,,background
+XLD,WC,le4,NC_088570.1,NC_088570.1 Protocobitis typhlops,other_metazoa,inherited_MiStar,1684,,background
+XLD,WC,le4,NC_088575.1,NC_088575.1 Emmelichthys karnellai,other_metazoa,inherited_MiStar,1697,,background
+XLD,WC,le4,NC_088576.1,NC_088576.1 Emmelichthys papillatus,other_metazoa,inherited_MiStar,1718,,background
+XLD,WC,le4,NC_088577.1,NC_088577.1 Emmelichthys nitidus,other_metazoa,inherited_MiStar,1697,,background
+XLD,WC,le4,NC_088578.1,NC_088578.1 Erythrocles microceps,other_metazoa,inherited_MiStar,1699,,background
+XLD,WC,le4,NC_088579.1,NC_088579.1 Erythrocles schlegelii,other_metazoa,inherited_MiStar,1696,,background
+XLD,WC,le4,NC_088580.1,NC_088580.1 Erythrocles scintillans,other_metazoa,inherited_MiStar,1700,,background
+XLD,WC,le4,NC_088581.1,NC_088581.1 Plagiogeneion macrolepis,other_metazoa,inherited_MiStar,1697,,background
+XLD,WC,le4,NC_088582.1,NC_088582.1 Plagiogeneion rubiginosum,other_metazoa,inherited_MiStar,1697,,background
+XLD,WC,le4,NC_133445.1,NC_133445.1 Acnodon oligacanthus,other_metazoa,inherited_MiStar,1680,,background
+XLD,WC,le4,NC_133446.1,NC_133446.1 Pristobrycon striolatus,other_metazoa,inherited_MiStar,1682,,background
+XLD,WC,le4,NC_133447.1,NC_133447.1 Myloplus rubripinnis,other_metazoa,inherited_MiStar,1683,,background
+XLD,WC,le4,NC_133448.1,NC_133448.1 Serrasalmus eigenmanni,other_metazoa,inherited_MiStar,1683,,background
+XLD,WC,le4,NC_137527.1,NC_137527.1 Brachionichthys hirsutus,other_metazoa,inherited_MiStar,1669,,background
+XLD,WC,le4,OM272844.1,Coscinasterias acutispina,Asteroidea,inherited_MiStar,1603,,background
+XLD,WC,le4,OP289522.1,Ctenodiscus crispatus,Asteroidea,inherited_MiStar,1611,,background
+XLD,WC,le4,OQ979619.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XLD,WC,le4,OR142187.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XLD,WC,le4,PQ424519.1,Abyssaster tara,Asteroidea,inherited_MiStar,1628,,background
+XLD,WC,le4,PQ424521.1,Cheiraster sp.,Asteroidea,inherited_MiStar,1639,,background
+XLD,WC,le4,PQ424528.1,Odontaster validus,Asteroidea,inherited_MiStar,1641,,background
+XLD,WC,le4,PV535852.1,Coscinasterias muricata,Asteroidea,inherited_MiStar,1604,,background
+XLD,WC,le4,QB030208.1,Pseudarchaster parelii,Asteroidea,inherited_MiStar,1617,,background
+XL,WC,le4,KY908356.1,Vitjazaster djakonovi,Asteroidea,inherited_MiStar,672,,background
+XL,WC,le4,NC_002012.1,NC_002012.1 Squalus acanthias,other_metazoa,inherited_MiStar,1676,,background
+XL,WC,le4,NC_063620.1,NC_063620.1 Squatina aculeata,other_metazoa,inherited_MiStar,1662,,background
+XL,WC,le4,NC_063621.1,NC_063621.1 Squatina oculata,other_metazoa,inherited_MiStar,1662,,background
+XL,WC,le4,NC_064111.1,NC_064111.1 Squatina tergocellatoides,other_metazoa,inherited_MiStar,1648,,background
+XL,WC,le4,NC_066805.1,NC_066805.1 Scyliorhinus stellaris,other_metazoa,inherited_MiStar,1672,,background
+XL,WC,le4,NC_068141.1,NC_068141.1 Neotrygon indica,other_metazoa,inherited_MiStar,1700,,background
+XL,WC,le4,NC_072260.1,NC_072260.1 Negaprion brevirostris,other_metazoa,inherited_MiStar,1653,,background
+XL,WC,le4,NC_077462.1,NC_077462.1 Triakis megalopterus,other_metazoa,inherited_MiStar,1671,,background
+XL,WC,le4,NC_077463.1,NC_077463.1 Mustelus palumbes,other_metazoa,inherited_MiStar,1670,,background
+XL,WC,le4,NC_077464.1,NC_077464.1 Mustelus mosis,other_metazoa,inherited_MiStar,1669,,background
+XL,WC,le4,NC_077588.1,NC_077588.1 Triakis semifasciata,other_metazoa,inherited_MiStar,1648,,background
+XL,WC,le4,NC_077648.1,NC_077648.1 Oxynotus paradoxus,other_metazoa,inherited_MiStar,1671,,background
+XL,WC,le4,NC_079696.1,NC_079696.1 Sphyrna gilberti,other_metazoa,inherited_MiStar,1672,,background
+XL,WC,le4,NC_081967.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XL,WC,le4,NC_082751.1,NC_082751.1 Scyliorhinus retifer,other_metazoa,inherited_MiStar,1672,,background
+XL,WC,le4,NC_082798.1,NC_082798.1 Parmaturus xaniurus,other_metazoa,inherited_MiStar,1666,,background
+XL,WC,le4,NC_083183.1,NC_083183.1 Euprotomicrus bispinatus,other_metazoa,inherited_MiStar,1667,,background
+XL,WC,le4,NC_084376.1,NC_084376.1 Galeorhinus galeus,other_metazoa,inherited_MiStar,1667,,background
+XL,WC,le4,NC_088019.1,NC_088019.1 Prionotus nudigula,other_metazoa,inherited_MiStar,1692,,background
+XL,WC,le4,NC_088026.1,NC_088026.1 Scorpaena brasiliensis,other_metazoa,inherited_MiStar,1690,,background
+XL,WC,le4,NC_088030.1,NC_088030.1 Umbrina canosai,other_metazoa,inherited_MiStar,1700,,background
+XL,WC,le4,NC_088499.1,NC_088499.1 Macrhybopsis aestivalis,other_metazoa,inherited_MiStar,1657,,background
+XL,WC,le4,NC_088500.1,NC_088500.1 Macrhybopsis marconis,other_metazoa,inherited_MiStar,1655,,background
+XL,WC,le4,OQ979619.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XL,WC,le4,OR142187.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XLA+XLB,WC,le4,AY706151.1,Diplasterias brandti,Asteroidea,inherited_MiStar,566,,background
+XLA+XLB,WC,le4,DQ297087.1,Diplasterias brucei,Asteroidea,inherited_MiStar,570,,background
+XLA+XLB,WC,le4,EF624408.1,Lysasterias perrieri,Asteroidea,inherited_MiStar,567,,background
+XLA+XLB,WC,le4,EF624416.1,Plinthaster dentatus,Asteroidea,inherited_MiStar,566,,background
+XLA+XLB,WC,le4,EU072934.1,Amphiaster insignis,Asteroidea,inherited_MiStar,416,,background
+XLA+XLB,WC,le4,EU722959.1,Diplasterias meridionalis,Asteroidea,inherited_MiStar,567,,background
+XLA+XLB,WC,le4,EU722975.1,Diplasterias brandti,Asteroidea,inherited_MiStar,567,,background
+XLA+XLB,WC,le4,GQ288519.1,Solaster dawsoni,Asteroidea,inherited_MiStar,894,,background
+XLA+XLB,WC,le4,GQ288544.1,Solaster regularis,Asteroidea,inherited_MiStar,895,,background
+XLA+XLB,WC,le4,GQ288545.1,Solaster notophrynus,Asteroidea,inherited_MiStar,895,,background
+XLA+XLB,WC,le4,GQ288546.1,Solaster hypothrissus,Asteroidea,inherited_MiStar,894,,background
+XLA+XLB,WC,le4,GQ288547.1,Solaster paxillatus,Asteroidea,inherited_MiStar,894,,background
+XLA+XLB,WC,le4,GQ288548.1,Solaster paxillatus,Asteroidea,inherited_MiStar,894,,background
+XLA+XLB,WC,le4,HM543153.1,Solaster paxillatus,Asteroidea,inherited_MiStar,591,,background
+XLA+XLB,WC,le4,HM543161.1,Solaster sp. EAC01,Asteroidea,inherited_MiStar,592,,background
+XLA+XLB,WC,le4,KU519519.1,Ophiomusium cf. glabrum NHM_329,Ophiuroidea,annotated,521,[<0:>521](+),background
+XLA+XLB,WC,le4,KY908356.1,Vitjazaster djakonovi,Asteroidea,inherited_MiStar,672,,background
+XLA+XLB,WC,le4,NC_002012.1,NC_002012.1 Squalus acanthias,other_metazoa,inherited_MiStar,1676,,background
+XLA+XLB,WC,le4,NC_063620.1,NC_063620.1 Squatina aculeata,other_metazoa,inherited_MiStar,1662,,background
+XLA+XLB,WC,le4,NC_063621.1,NC_063621.1 Squatina oculata,other_metazoa,inherited_MiStar,1662,,background
+XLA+XLB,WC,le4,NC_064111.1,NC_064111.1 Squatina tergocellatoides,other_metazoa,inherited_MiStar,1648,,background
+XLA+XLB,WC,le4,NC_066805.1,NC_066805.1 Scyliorhinus stellaris,other_metazoa,inherited_MiStar,1672,,background
+XLA+XLB,WC,le4,NC_068141.1,NC_068141.1 Neotrygon indica,other_metazoa,inherited_MiStar,1700,,background
+XLA+XLB,WC,le4,NC_072260.1,NC_072260.1 Negaprion brevirostris,other_metazoa,inherited_MiStar,1653,,background
+XLA+XLB,WC,le4,NC_077462.1,NC_077462.1 Triakis megalopterus,other_metazoa,inherited_MiStar,1671,,background
+XLA+XLB,WC,le4,NC_077463.1,NC_077463.1 Mustelus palumbes,other_metazoa,inherited_MiStar,1670,,background
+XLA+XLB,WC,le4,NC_077464.1,NC_077464.1 Mustelus mosis,other_metazoa,inherited_MiStar,1669,,background
+XLA+XLB,WC,le4,NC_077588.1,NC_077588.1 Triakis semifasciata,other_metazoa,inherited_MiStar,1648,,background
+XLA+XLB,WC,le4,NC_077648.1,NC_077648.1 Oxynotus paradoxus,other_metazoa,inherited_MiStar,1671,,background
+XLA+XLB,WC,le4,NC_079696.1,NC_079696.1 Sphyrna gilberti,other_metazoa,inherited_MiStar,1672,,background
+XLA+XLB,WC,le4,NC_080938.1,NC_080938.1 Abylopsis tetragona,other_metazoa,inherited_MiStar,1726,,background
+XLA+XLB,WC,le4,NC_081967.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XLA+XLB,WC,le4,NC_082751.1,NC_082751.1 Scyliorhinus retifer,other_metazoa,inherited_MiStar,1672,,background
+XLA+XLB,WC,le4,NC_082798.1,NC_082798.1 Parmaturus xaniurus,other_metazoa,inherited_MiStar,1666,,background
+XLA+XLB,WC,le4,NC_083183.1,NC_083183.1 Euprotomicrus bispinatus,other_metazoa,inherited_MiStar,1667,,background
+XLA+XLB,WC,le4,NC_084376.1,NC_084376.1 Galeorhinus galeus,other_metazoa,inherited_MiStar,1667,,background
+XLA+XLB,WC,le4,NC_088019.1,NC_088019.1 Prionotus nudigula,other_metazoa,inherited_MiStar,1692,,background
+XLA+XLB,WC,le4,NC_088026.1,NC_088026.1 Scorpaena brasiliensis,other_metazoa,inherited_MiStar,1690,,background
+XLA+XLB,WC,le4,NC_088030.1,NC_088030.1 Umbrina canosai,other_metazoa,inherited_MiStar,1700,,background
+XLA+XLB,WC,le4,NC_088460.1,NC_088460.1 Glauconome virens,other_metazoa,inherited_MiStar,1205,,background
+XLA+XLB,WC,le4,NC_088499.1,NC_088499.1 Macrhybopsis aestivalis,other_metazoa,inherited_MiStar,1657,,background
+XLA+XLB,WC,le4,NC_088500.1,NC_088500.1 Macrhybopsis marconis,other_metazoa,inherited_MiStar,1655,,background
+XLA+XLB,WC,le4,OQ979619.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XLA+XLB,WC,le4,OR142187.1,Leptychaster arcticus,Asteroidea,inherited_MiStar,1594,,background
+XLA+XLB,WC,le4,OZ238666.1,Novodinia americana,Asteroidea,inherited_MiStar,577,,background
+XLA+XLB,WC,le4,PP977506.1,Ophiosphalma glabrum,Ophiuroidea,annotated,1384,[9165:10549](-),background
+XLA+XLB,WC,le4,PP977508.1,Ophiosphalma glabrum,Ophiuroidea,annotated,1384,[9156:10540](-),background
+XLA+XLB,WC,le4,PQ424522.1,Crossaster sp.,Asteroidea,inherited_MiStar,1644,,background

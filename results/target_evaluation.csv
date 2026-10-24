@@ -1,0 +1,3229 @@
+scheme,accession,label,evaluable,covered,exact
+SD,AF049132.1,Florometra serratissima,True,False,False
+SD,AM404181.1,Antedon mediterranea,True,True,True
+SD,DQ068951.1,Neogymnocrinus richeri,True,False,False
+SD,DQ068952.1,Phanogenia gracilis,True,True,True
+SD,MF966246.1,Stephanometra indica,True,True,True
+SD,MN883538.1,Florometra sp. BMK-2020,True,True,True
+SD,MT302206.1,Florometra sp. BMK-2020,True,True,False
+SD,MW008594.1,Anneissia pinguis,True,True,True
+SD,MW376476.1,Anneissia intermedia,True,True,True
+SD,MW405444.1,Oligometra serripinna,True,True,True
+SD,MW526391.2,Comaster schlegelii,True,True,True
+SD,MW526392.2,Comanthus parvicirrus,True,True,True
+SD,MW884542.1,Comanthus parvicirrus,True,True,True
+SD,NC_061054.1,Cenometra bella,True,True,True
+SD,NC_066490.1,Poliometra prolixa,True,True,False
+SD,NC_068252.1,Comatella stelligera,True,True,True
+SD,NC_068254.1,Comatella nigra,True,True,True
+SD,NC_068797.1,Metacrinus rotundus,True,False,False
+SD,NC_069630.1,Tropiometra macrodiscus,True,True,False
+SD,NC_069919.1,Zygometra comata,True,True,True
+SD,OM272942.1,Comanthus sp. 2 MS-2014,True,True,True
+SD,OP546034.1,Capillaster sp. DH-Y2,True,True,False
+SD,OP546035.1,Ptilometra sp. DH-R,True,True,True
+SD,OQ207656.1,Thaumatocrinus sp. JL223,True,True,False
+SD,OQ721985.1,Hyocrinidae sp.,True,False,False
+SD,PV742399.1,Decametra tigrina,True,True,True
+SD,PZ343777.1,Cyllometra manca,True,True,True
+SD,GU327907.1,Zygometra microdiscus,False,False,False
+SD,GU327906.1,Tropiometra afra,False,False,False
+SD,GU327905.1,Psathyrometra fragilis,False,False,False
+SD,GU327904.1,Cosmiometra aster,False,False,False
+SD,GU327903.1,Ptilometra macronema,False,False,False
+SD,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+SD,GU327901.1,Notocrinus virilis,False,False,False
+SD,GU327900.1,Dichrometra articulata,False,False,False
+SD,GU327899.1,Stephanometra indica,False,False,False
+SD,GU327898.1,Himerometra robustipinna,False,False,False
+SD,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+SD,GU327896.1,Comatella nigra,False,False,False
+SD,GU327895.1,Clarkcomanthus littoralis,False,False,False
+SD,GU327894.1,Cenolia trichoptera,False,False,False
+SD,GU327893.1,Comanthus wahlbergii,False,False,False
+SD,GU327892.1,Alloeocomatella pectinifera,False,False,False
+SD,GU327891.1,Colobometra perspinosa,False,False,False
+SD,GU327890.1,Cenometra bella,False,False,False
+SD,GU327889.1,Crinometra brevipinna,False,False,False
+SD,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+SD,GU327887.1,Aporometra wilsoni,False,False,False
+SD,GU327886.1,Promachocrinus kerguelensis,False,False,False
+SD,GU327885.1,Heliometra glacialis maxima,False,False,False
+SD,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+SD,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+SD,GU327882.1,Monachocrinus caribbeus,False,False,False
+SD,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+SD,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+SD,GU327879.1,Saracrinus moosai,False,False,False
+SD,GU327878.1,Proisocrinus ruberrimus,False,False,False
+SD,GU327877.1,Metacrinus levii,False,False,False
+SD,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+SD,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+SD,GU327874.1,Endoxocrinus parrae,False,False,False
+SD,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+SD,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+SD,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+SD,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+SD,GU327869.1,Holopus rangii,False,False,False
+SD,NC_060843.1,Comanthus parvicirrus,True,True,True
+SD,NC_059908.1,Anneissia intermedia,True,True,True
+SD,NC_054279.1,Anneissia pinguis,True,True,True
+SD,NC_045944.1,Stephanometra indica,True,True,True
+SD,NC_010692.1,Antedon mediterranea,True,True,True
+SD,NC_007690.1,Phanogenia gracilis,True,True,True
+SD,NC_007689.1,Neogymnocrinus richeri,True,False,False
+SD,NC_001878.1,Florometra serratissima,True,False,False
+SD,ON381167.1,Tropiometra macrodiscus,True,True,False
+SD,ON585667.1,Zygometra comata,True,True,True
+SD,OM964491.1,Metacrinus rotundus,True,False,False
+SD,OM321037.1,Comatella nigra,True,True,True
+SD,OM313186.1,Comatella stelligera,True,True,True
+SD,OP177937.1,Poliometra prolixa,True,True,False
+SD,OK509084.1,Cenometra bella,True,True,True
+SD,MW868294.1,Comaster schlegelii,True,True,True
+SD,KM014339.1,Lamberticrinus messingi,False,False,False
+SD,KM014338.1,Antedon sp. MMS-2014,False,False,False
+SD,KU519517.1,Crinoidea sp. NHM_300,False,False,False
+SD,KU519516.1,Crinoidea sp. NHM_056,False,False,False
+SD,KU519515.1,Crinoidea sp. NHM_055,False,False,False
+SD,KU519514.1,Crinoidea sp. NHM_008,False,False,False
+SD,KC626665.1,Paratelecrinus wyvilli,False,False,False
+SD,KC626598.1,Adelatelecrinus vallatus,False,False,False
+SD,KJ875066.1,Neocomatella pulchella,False,False,False
+SD,KJ875065.1,Comatulella brachiolata,False,False,False
+SD,KJ875064.1,Phanogenia multibrachiata,False,False,False
+SD,KJ875063.1,Phanogenia gracilis,False,False,False
+SD,KJ875062.1,Phanogenia gracilis,False,False,False
+SD,KJ875061.1,Phanogenia typica,False,False,False
+SD,KJ875060.1,Anneissia japonica,False,False,False
+SD,KJ875059.1,Clarkcomanthus mirus,False,False,False
+SD,KJ875058.1,Anneissia bennetti,False,False,False
+SD,KJ875057.1,Anneissia bennetti,False,False,False
+SD,KJ875056.1,Davidaster rubiginosus,False,False,False
+SD,KJ875055.1,Davidaster discoideus,False,False,False
+SD,KJ875054.1,Comatula solaris,False,False,False
+SD,KJ875053.1,Comatula rotalaria,False,False,False
+SD,KJ875052.1,Comatula pectinata,False,False,False
+SD,KJ875051.1,Comatella stelligera,False,False,False
+SD,KJ875050.1,Comatella nigra,False,False,False
+SD,KJ875049.1,Comatella nigra,False,False,False
+SD,KJ875048.1,Comaster schlegelii,False,False,False
+SD,KJ875047.1,Comaster multifidus,False,False,False
+SD,KJ875046.1,Comaster audax,False,False,False
+SD,KJ875045.1,Comanthus sp. 1 MS-2014,False,False,False
+SD,KJ875044.1,Comanthus wahlbergii,False,False,False
+SD,KJ875043.1,Comanthus suavia,False,False,False
+SD,KJ875042.1,Comanthus sp. 3 MS-2014,False,False,False
+SD,KJ875041.1,Comanthus sp. 2 MS-2014,False,False,False
+SD,KJ875040.1,Comanthus parvicirrus,False,False,False
+SD,KJ875039.1,Clarkcomanthus mirabilis,False,False,False
+SD,KJ875038.1,Comanthus sp. 4 MS-2014,False,False,False
+SD,KJ875037.1,Comanthus gisleni,False,False,False
+SD,KJ875036.1,Comanthus briareus,False,False,False
+SD,KJ875035.1,Clarkcomanthus alternans,False,False,False
+SD,KJ875034.1,Comactinia titan,False,False,False
+SD,KJ875033.1,Comactinia meridionalis,False,False,False
+SD,KJ875032.1,Comactinia echinoptera,False,False,False
+SD,KJ875031.1,Clarkcomanthus luteofuscum,False,False,False
+SD,KJ875030.1,Clarkcomanthus littoralis,False,False,False
+SD,KJ875029.1,Clarkcomanthus albinotus,False,False,False
+SD,KJ875028.1,Cenolia tasmaniae,False,False,False
+SD,KJ875027.1,Cenolia glebosus,False,False,False
+SD,KJ875026.1,Capillaster multiradiatus,False,False,False
+SD,KJ875025.1,Capillaster multiradiatus,False,False,False
+SD,KJ875024.1,Alloeocomatella polycladia,False,False,False
+SD,KJ875023.1,Alloeocomatella sp. n. MS-2014,False,False,False
+SD,KM491765.1,Clarkcomanthus luteofuscum,False,False,False
+SD,KC626689.1,Zygometra andromeda,False,False,False
+SD,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+SD,KC626687.1,Trichometra cubensis,False,False,False
+SD,KC626686.1,Toxometra bicolor,False,False,False
+SD,KC626685.1,Thaumatocrinus renovatus,False,False,False
+SD,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+SD,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+SD,KC626682.1,Strotometra ornatissimus,False,False,False
+SD,KC626681.1,Stenometra cristata,False,False,False
+SD,KC626680.1,Sarametra triserialis,False,False,False
+SD,KC626679.1,Saracrinus nobilis,False,False,False
+SD,KC626678.1,Saracrinus angulatus,False,False,False
+SD,KC626677.1,Ptilometra macronema,False,False,False
+SD,KC626676.1,Ptilocrinus clarki,False,False,False
+SD,KC626675.1,Ptilocrinus clarki,False,False,False
+SD,KC626674.1,Ptilocrinus australis,False,False,False
+SD,KC626673.1,Pterometra trichopoda,False,False,False
+SD,KC626672.1,Psathyrometra sp. ME25,False,False,False
+SD,KC626671.1,Porphyrocrinus thalassae,False,False,False
+SD,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+SD,KC626669.1,Poliometra prolixa,False,False,False
+SD,KC626668.1,Phrynocrinus nudus,False,False,False
+SD,KC626667.1,Perometra robusta,False,False,False
+SD,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+SD,KC626664.1,Oligometra carpenteri,False,False,False
+SD,KC626663.1,Neometra sappho,False,False,False
+SD,KC626662.1,Neogymnocrinus richeri,False,False,False
+SD,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+SD,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+SD,KC626659.1,Metacrinus serratus,False,False,False
+SD,KC626658.1,Metacrinus rotundus,False,False,False
+SD,KC626657.1,Metacrinus levii,False,False,False
+SD,KC626656.1,Mariametra subcarinata,False,False,False
+SD,KC626655.1,Leptometra celtica,False,False,False
+SD,KC626653.1,Koehlermetra porrecta,False,False,False
+SD,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+SD,KC626651.1,Hypalocrinus naresianus,False,False,False
+SD,KC626650.1,Hyocrinus bethellianus,False,False,False
+SD,KC626649.1,Homalometra denticulata,False,False,False
+SD,KC626648.1,Holopus alidis,False,False,False
+SD,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+SD,KC626646.1,Homalometra crenulata,False,False,False
+SD,KC626645.1,Heliometra glacialis,False,False,False
+SD,KC626644.1,Hathrometra tenella,False,False,False
+SD,KC626643.1,Florometra serratissima,False,False,False
+SD,KC626642.1,Florometra novaezealandiae,False,False,False
+SD,KC626641.1,Promachocrinus mawsoni,False,False,False
+SD,KC626640.1,Florometra asperrima,False,False,False
+SD,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+SD,KC626638.1,Eudiocrinus serripinna,False,False,False
+SD,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+SD,KC626636.1,Euantedon sp. EUA470,False,False,False
+SD,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+SD,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+SD,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+SD,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+SD,KC626631.1,Dorometra briseis,False,False,False
+SD,KC626630.1,Democrinus weberi,False,False,False
+SD,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+SD,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+SD,KC626627.1,Cyllometra manca,False,False,False
+SD,KC626626.1,Comissia norfolkensis,False,False,False
+SD,KC626625.1,Comatula pectinata,False,False,False
+SD,KC626624.1,Comatonia cristata,False,False,False
+SD,KC626623.1,Coccometra hagenii,False,False,False
+SD,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+SD,KC626621.1,Chondrometra rugosa,False,False,False
+SD,KC626620.1,Charitometra basicurva,False,False,False
+SD,KC626619.1,Capillaster squarrosus,False,False,False
+SD,KC626618.1,Calometra discoidea,False,False,False
+SD,KC626617.1,Caledonicrinus vaubani,False,False,False
+SD,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+SD,KC626615.1,Argyrometra mortenseni,False,False,False
+SD,KC626614.1,Aporometra sp. LH153,False,False,False
+SD,KC626613.1,Aphanocomaster pulcher,False,False,False
+SD,KC626612.1,Antedon serrata,False,False,False
+SD,KC626611.1,Antedon petasus,False,False,False
+SD,KC626610.1,Antedon mediterranea,False,False,False
+SD,KC626609.1,Antedon loveni,False,False,False
+SD,KC626608.1,Antedon incommoda,False,False,False
+SD,KC626607.1,Antedon hupferi,False,False,False
+SD,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+SD,KC626605.1,Antedon cf. iris AI390,False,False,False
+SD,KC626604.1,Antedon bifida,False,False,False
+SD,KC626603.1,Antedon mediterranea,False,False,False
+SD,KC626602.1,Annametra occidentalis,False,False,False
+SD,KC626601.1,Andrometra psyche,False,False,False
+SD,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+SD,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+SD,KC616745.1,Ptilocrinus australis,False,False,False
+SD,KC616744.1,Dumetocrinus antarcticus,False,False,False
+SD,KC616743.1,Notocrinus virilis,False,False,False
+SD,KC616742.1,Isometra sp. Iso174,False,False,False
+SD,KC616741.1,Isometra sp. 5314,False,False,False
+SD,KC616740.1,Feracrinus sp. Pti176,False,False,False
+SD,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+SD,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+SD,KC626654.1,Dichrometra palmata,False,False,False
+SD,JX296556.1,Hypalocrinus naresianus,False,False,False
+SD,JX312800.1,Heliometra glacialis,False,False,False
+SD,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+SD,JQ340211.1,Anthometrina adriani,False,False,False
+SD,JQ340210.1,Notocrinus virilis,False,False,False
+SD,DQ297091.1,Florometra serratissima,False,False,False
+SD,AY275905.1,Metacrinus rotundus,False,False,False
+SD,AY275904.1,Metacrinus sp. D1442,False,False,False
+SD,AY275903.1,Holopus alidis,False,False,False
+SD,AY275902.1,Neogymnocrinus richeri,False,False,False
+SD,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+SD,AY275900.1,Caledonicrinus vaubani,False,False,False
+SD,AY275899.1,Bathycrinus sp. D1425,False,False,False
+SD,AY652521.1,Antedon bifida,False,False,False
+S,AF049132.1,Florometra serratissima,True,False,False
+S,AM404181.1,Antedon mediterranea,True,False,False
+S,DQ068951.1,Neogymnocrinus richeri,True,False,False
+S,DQ068952.1,Phanogenia gracilis,True,True,True
+S,MF966246.1,Stephanometra indica,True,True,False
+S,MN883538.1,Florometra sp. BMK-2020,True,True,False
+S,MT302206.1,Florometra sp. BMK-2020,True,False,False
+S,MW008594.1,Anneissia pinguis,True,True,True
+S,MW376476.1,Anneissia intermedia,True,True,True
+S,MW405444.1,Oligometra serripinna,True,True,False
+S,MW526391.2,Comaster schlegelii,True,True,False
+S,MW526392.2,Comanthus parvicirrus,True,True,True
+S,MW884542.1,Comanthus parvicirrus,True,True,True
+S,NC_061054.1,Cenometra bella,True,True,False
+S,NC_066490.1,Poliometra prolixa,True,False,False
+S,NC_068252.1,Comatella stelligera,True,True,False
+S,NC_068254.1,Comatella nigra,True,True,True
+S,NC_068797.1,Metacrinus rotundus,True,False,False
+S,NC_069630.1,Tropiometra macrodiscus,True,True,False
+S,NC_069919.1,Zygometra comata,True,True,True
+S,OM272942.1,Comanthus sp. 2 MS-2014,True,True,False
+S,OP546034.1,Capillaster sp. DH-Y2,True,False,False
+S,OP546035.1,Ptilometra sp. DH-R,True,True,True
+S,OQ207656.1,Thaumatocrinus sp. JL223,True,False,False
+S,OQ721985.1,Hyocrinidae sp.,True,False,False
+S,PV742399.1,Decametra tigrina,True,True,False
+S,PZ343777.1,Cyllometra manca,True,True,False
+S,GU327907.1,Zygometra microdiscus,False,False,False
+S,GU327906.1,Tropiometra afra,False,False,False
+S,GU327905.1,Psathyrometra fragilis,False,False,False
+S,GU327904.1,Cosmiometra aster,False,False,False
+S,GU327903.1,Ptilometra macronema,False,False,False
+S,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+S,GU327901.1,Notocrinus virilis,False,False,False
+S,GU327900.1,Dichrometra articulata,False,False,False
+S,GU327899.1,Stephanometra indica,False,False,False
+S,GU327898.1,Himerometra robustipinna,False,False,False
+S,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+S,GU327896.1,Comatella nigra,False,False,False
+S,GU327895.1,Clarkcomanthus littoralis,False,False,False
+S,GU327894.1,Cenolia trichoptera,False,False,False
+S,GU327893.1,Comanthus wahlbergii,False,False,False
+S,GU327892.1,Alloeocomatella pectinifera,False,False,False
+S,GU327891.1,Colobometra perspinosa,False,False,False
+S,GU327890.1,Cenometra bella,False,False,False
+S,GU327889.1,Crinometra brevipinna,False,False,False
+S,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+S,GU327887.1,Aporometra wilsoni,False,False,False
+S,GU327886.1,Promachocrinus kerguelensis,False,False,False
+S,GU327885.1,Heliometra glacialis maxima,False,False,False
+S,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+S,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+S,GU327882.1,Monachocrinus caribbeus,False,False,False
+S,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+S,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+S,GU327879.1,Saracrinus moosai,False,False,False
+S,GU327878.1,Proisocrinus ruberrimus,False,False,False
+S,GU327877.1,Metacrinus levii,False,False,False
+S,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+S,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+S,GU327874.1,Endoxocrinus parrae,False,False,False
+S,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+S,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+S,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+S,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+S,GU327869.1,Holopus rangii,False,False,False
+S,NC_060843.1,Comanthus parvicirrus,True,True,True
+S,NC_059908.1,Anneissia intermedia,True,True,True
+S,NC_054279.1,Anneissia pinguis,True,True,True
+S,NC_045944.1,Stephanometra indica,True,True,False
+S,NC_010692.1,Antedon mediterranea,True,False,False
+S,NC_007690.1,Phanogenia gracilis,True,True,True
+S,NC_007689.1,Neogymnocrinus richeri,True,False,False
+S,NC_001878.1,Florometra serratissima,True,False,False
+S,ON381167.1,Tropiometra macrodiscus,True,True,False
+S,ON585667.1,Zygometra comata,True,True,True
+S,OM964491.1,Metacrinus rotundus,True,False,False
+S,OM321037.1,Comatella nigra,True,True,True
+S,OM313186.1,Comatella stelligera,True,True,False
+S,OP177937.1,Poliometra prolixa,True,False,False
+S,OK509084.1,Cenometra bella,True,True,False
+S,MW868294.1,Comaster schlegelii,True,True,False
+S,KM014339.1,Lamberticrinus messingi,False,False,False
+S,KM014338.1,Antedon sp. MMS-2014,False,False,False
+S,KU519517.1,Crinoidea sp. NHM_300,False,False,False
+S,KU519516.1,Crinoidea sp. NHM_056,False,False,False
+S,KU519515.1,Crinoidea sp. NHM_055,False,False,False
+S,KU519514.1,Crinoidea sp. NHM_008,False,False,False
+S,KC626665.1,Paratelecrinus wyvilli,False,False,False
+S,KC626598.1,Adelatelecrinus vallatus,False,False,False
+S,KJ875066.1,Neocomatella pulchella,False,False,False
+S,KJ875065.1,Comatulella brachiolata,False,False,False
+S,KJ875064.1,Phanogenia multibrachiata,False,False,False
+S,KJ875063.1,Phanogenia gracilis,False,False,False
+S,KJ875062.1,Phanogenia gracilis,False,False,False
+S,KJ875061.1,Phanogenia typica,False,False,False
+S,KJ875060.1,Anneissia japonica,False,False,False
+S,KJ875059.1,Clarkcomanthus mirus,False,False,False
+S,KJ875058.1,Anneissia bennetti,False,False,False
+S,KJ875057.1,Anneissia bennetti,False,False,False
+S,KJ875056.1,Davidaster rubiginosus,False,False,False
+S,KJ875055.1,Davidaster discoideus,False,False,False
+S,KJ875054.1,Comatula solaris,False,False,False
+S,KJ875053.1,Comatula rotalaria,False,False,False
+S,KJ875052.1,Comatula pectinata,False,False,False
+S,KJ875051.1,Comatella stelligera,False,False,False
+S,KJ875050.1,Comatella nigra,False,False,False
+S,KJ875049.1,Comatella nigra,False,False,False
+S,KJ875048.1,Comaster schlegelii,False,False,False
+S,KJ875047.1,Comaster multifidus,False,False,False
+S,KJ875046.1,Comaster audax,False,False,False
+S,KJ875045.1,Comanthus sp. 1 MS-2014,False,False,False
+S,KJ875044.1,Comanthus wahlbergii,False,False,False
+S,KJ875043.1,Comanthus suavia,False,False,False
+S,KJ875042.1,Comanthus sp. 3 MS-2014,False,False,False
+S,KJ875041.1,Comanthus sp. 2 MS-2014,False,False,False
+S,KJ875040.1,Comanthus parvicirrus,False,False,False
+S,KJ875039.1,Clarkcomanthus mirabilis,False,False,False
+S,KJ875038.1,Comanthus sp. 4 MS-2014,False,False,False
+S,KJ875037.1,Comanthus gisleni,False,False,False
+S,KJ875036.1,Comanthus briareus,False,False,False
+S,KJ875035.1,Clarkcomanthus alternans,False,False,False
+S,KJ875034.1,Comactinia titan,False,False,False
+S,KJ875033.1,Comactinia meridionalis,False,False,False
+S,KJ875032.1,Comactinia echinoptera,False,False,False
+S,KJ875031.1,Clarkcomanthus luteofuscum,False,False,False
+S,KJ875030.1,Clarkcomanthus littoralis,False,False,False
+S,KJ875029.1,Clarkcomanthus albinotus,False,False,False
+S,KJ875028.1,Cenolia tasmaniae,False,False,False
+S,KJ875027.1,Cenolia glebosus,False,False,False
+S,KJ875026.1,Capillaster multiradiatus,False,False,False
+S,KJ875025.1,Capillaster multiradiatus,False,False,False
+S,KJ875024.1,Alloeocomatella polycladia,False,False,False
+S,KJ875023.1,Alloeocomatella sp. n. MS-2014,False,False,False
+S,KM491765.1,Clarkcomanthus luteofuscum,False,False,False
+S,KC626689.1,Zygometra andromeda,False,False,False
+S,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+S,KC626687.1,Trichometra cubensis,False,False,False
+S,KC626686.1,Toxometra bicolor,False,False,False
+S,KC626685.1,Thaumatocrinus renovatus,False,False,False
+S,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+S,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+S,KC626682.1,Strotometra ornatissimus,False,False,False
+S,KC626681.1,Stenometra cristata,False,False,False
+S,KC626680.1,Sarametra triserialis,False,False,False
+S,KC626679.1,Saracrinus nobilis,False,False,False
+S,KC626678.1,Saracrinus angulatus,False,False,False
+S,KC626677.1,Ptilometra macronema,False,False,False
+S,KC626676.1,Ptilocrinus clarki,False,False,False
+S,KC626675.1,Ptilocrinus clarki,False,False,False
+S,KC626674.1,Ptilocrinus australis,False,False,False
+S,KC626673.1,Pterometra trichopoda,False,False,False
+S,KC626672.1,Psathyrometra sp. ME25,False,False,False
+S,KC626671.1,Porphyrocrinus thalassae,False,False,False
+S,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+S,KC626669.1,Poliometra prolixa,False,False,False
+S,KC626668.1,Phrynocrinus nudus,False,False,False
+S,KC626667.1,Perometra robusta,False,False,False
+S,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+S,KC626664.1,Oligometra carpenteri,False,False,False
+S,KC626663.1,Neometra sappho,False,False,False
+S,KC626662.1,Neogymnocrinus richeri,False,False,False
+S,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+S,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+S,KC626659.1,Metacrinus serratus,False,False,False
+S,KC626658.1,Metacrinus rotundus,False,False,False
+S,KC626657.1,Metacrinus levii,False,False,False
+S,KC626656.1,Mariametra subcarinata,False,False,False
+S,KC626655.1,Leptometra celtica,False,False,False
+S,KC626653.1,Koehlermetra porrecta,False,False,False
+S,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+S,KC626651.1,Hypalocrinus naresianus,False,False,False
+S,KC626650.1,Hyocrinus bethellianus,False,False,False
+S,KC626649.1,Homalometra denticulata,False,False,False
+S,KC626648.1,Holopus alidis,False,False,False
+S,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+S,KC626646.1,Homalometra crenulata,False,False,False
+S,KC626645.1,Heliometra glacialis,False,False,False
+S,KC626644.1,Hathrometra tenella,False,False,False
+S,KC626643.1,Florometra serratissima,False,False,False
+S,KC626642.1,Florometra novaezealandiae,False,False,False
+S,KC626641.1,Promachocrinus mawsoni,False,False,False
+S,KC626640.1,Florometra asperrima,False,False,False
+S,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+S,KC626638.1,Eudiocrinus serripinna,False,False,False
+S,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+S,KC626636.1,Euantedon sp. EUA470,False,False,False
+S,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+S,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+S,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+S,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+S,KC626631.1,Dorometra briseis,False,False,False
+S,KC626630.1,Democrinus weberi,False,False,False
+S,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+S,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+S,KC626627.1,Cyllometra manca,False,False,False
+S,KC626626.1,Comissia norfolkensis,False,False,False
+S,KC626625.1,Comatula pectinata,False,False,False
+S,KC626624.1,Comatonia cristata,False,False,False
+S,KC626623.1,Coccometra hagenii,False,False,False
+S,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+S,KC626621.1,Chondrometra rugosa,False,False,False
+S,KC626620.1,Charitometra basicurva,False,False,False
+S,KC626619.1,Capillaster squarrosus,False,False,False
+S,KC626618.1,Calometra discoidea,False,False,False
+S,KC626617.1,Caledonicrinus vaubani,False,False,False
+S,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+S,KC626615.1,Argyrometra mortenseni,False,False,False
+S,KC626614.1,Aporometra sp. LH153,False,False,False
+S,KC626613.1,Aphanocomaster pulcher,False,False,False
+S,KC626612.1,Antedon serrata,False,False,False
+S,KC626611.1,Antedon petasus,False,False,False
+S,KC626610.1,Antedon mediterranea,False,False,False
+S,KC626609.1,Antedon loveni,False,False,False
+S,KC626608.1,Antedon incommoda,False,False,False
+S,KC626607.1,Antedon hupferi,False,False,False
+S,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+S,KC626605.1,Antedon cf. iris AI390,False,False,False
+S,KC626604.1,Antedon bifida,False,False,False
+S,KC626603.1,Antedon mediterranea,False,False,False
+S,KC626602.1,Annametra occidentalis,False,False,False
+S,KC626601.1,Andrometra psyche,False,False,False
+S,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+S,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+S,KC616745.1,Ptilocrinus australis,False,False,False
+S,KC616744.1,Dumetocrinus antarcticus,False,False,False
+S,KC616743.1,Notocrinus virilis,False,False,False
+S,KC616742.1,Isometra sp. Iso174,False,False,False
+S,KC616741.1,Isometra sp. 5314,False,False,False
+S,KC616740.1,Feracrinus sp. Pti176,False,False,False
+S,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+S,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+S,KC626654.1,Dichrometra palmata,False,False,False
+S,JX296556.1,Hypalocrinus naresianus,False,False,False
+S,JX312800.1,Heliometra glacialis,False,False,False
+S,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+S,JQ340211.1,Anthometrina adriani,False,False,False
+S,JQ340210.1,Notocrinus virilis,False,False,False
+S,DQ297091.1,Florometra serratissima,False,False,False
+S,AY275905.1,Metacrinus rotundus,False,False,False
+S,AY275904.1,Metacrinus sp. D1442,False,False,False
+S,AY275903.1,Holopus alidis,False,False,False
+S,AY275902.1,Neogymnocrinus richeri,False,False,False
+S,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+S,AY275900.1,Caledonicrinus vaubani,False,False,False
+S,AY275899.1,Bathycrinus sp. D1425,False,False,False
+S,AY652521.1,Antedon bifida,False,False,False
+SA+SB,AF049132.1,Florometra serratissima,True,True,False
+SA+SB,AM404181.1,Antedon mediterranea,True,True,False
+SA+SB,DQ068951.1,Neogymnocrinus richeri,True,False,False
+SA+SB,DQ068952.1,Phanogenia gracilis,True,True,False
+SA+SB,MF966246.1,Stephanometra indica,True,True,False
+SA+SB,MN883538.1,Florometra sp. BMK-2020,True,True,True
+SA+SB,MT302206.1,Florometra sp. BMK-2020,True,True,False
+SA+SB,MW008594.1,Anneissia pinguis,True,True,False
+SA+SB,MW376476.1,Anneissia intermedia,True,True,False
+SA+SB,MW405444.1,Oligometra serripinna,True,True,True
+SA+SB,MW526391.2,Comaster schlegelii,True,True,False
+SA+SB,MW526392.2,Comanthus parvicirrus,True,True,False
+SA+SB,MW884542.1,Comanthus parvicirrus,True,True,False
+SA+SB,NC_061054.1,Cenometra bella,True,True,True
+SA+SB,NC_066490.1,Poliometra prolixa,True,True,False
+SA+SB,NC_068252.1,Comatella stelligera,True,False,False
+SA+SB,NC_068254.1,Comatella nigra,True,True,False
+SA+SB,NC_068797.1,Metacrinus rotundus,True,False,False
+SA+SB,NC_069630.1,Tropiometra macrodiscus,True,True,False
+SA+SB,NC_069919.1,Zygometra comata,True,True,False
+SA+SB,OM272942.1,Comanthus sp. 2 MS-2014,True,True,False
+SA+SB,OP546034.1,Capillaster sp. DH-Y2,True,True,False
+SA+SB,OP546035.1,Ptilometra sp. DH-R,True,True,True
+SA+SB,OQ207656.1,Thaumatocrinus sp. JL223,True,True,False
+SA+SB,OQ721985.1,Hyocrinidae sp.,True,False,False
+SA+SB,PV742399.1,Decametra tigrina,True,True,True
+SA+SB,PZ343777.1,Cyllometra manca,True,True,False
+SA+SB,GU327907.1,Zygometra microdiscus,False,False,False
+SA+SB,GU327906.1,Tropiometra afra,False,False,False
+SA+SB,GU327905.1,Psathyrometra fragilis,False,False,False
+SA+SB,GU327904.1,Cosmiometra aster,False,False,False
+SA+SB,GU327903.1,Ptilometra macronema,False,False,False
+SA+SB,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+SA+SB,GU327901.1,Notocrinus virilis,False,False,False
+SA+SB,GU327900.1,Dichrometra articulata,False,False,False
+SA+SB,GU327899.1,Stephanometra indica,False,False,False
+SA+SB,GU327898.1,Himerometra robustipinna,False,False,False
+SA+SB,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+SA+SB,GU327896.1,Comatella nigra,False,False,False
+SA+SB,GU327895.1,Clarkcomanthus littoralis,False,False,False
+SA+SB,GU327894.1,Cenolia trichoptera,False,False,False
+SA+SB,GU327893.1,Comanthus wahlbergii,False,False,False
+SA+SB,GU327892.1,Alloeocomatella pectinifera,False,False,False
+SA+SB,GU327891.1,Colobometra perspinosa,False,False,False
+SA+SB,GU327890.1,Cenometra bella,False,False,False
+SA+SB,GU327889.1,Crinometra brevipinna,False,False,False
+SA+SB,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+SA+SB,GU327887.1,Aporometra wilsoni,False,False,False
+SA+SB,GU327886.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,GU327885.1,Heliometra glacialis maxima,False,False,False
+SA+SB,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+SA+SB,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+SA+SB,GU327882.1,Monachocrinus caribbeus,False,False,False
+SA+SB,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+SA+SB,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+SA+SB,GU327879.1,Saracrinus moosai,False,False,False
+SA+SB,GU327878.1,Proisocrinus ruberrimus,False,False,False
+SA+SB,GU327877.1,Metacrinus levii,False,False,False
+SA+SB,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+SA+SB,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+SA+SB,GU327874.1,Endoxocrinus parrae,False,False,False
+SA+SB,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+SA+SB,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+SA+SB,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+SA+SB,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+SA+SB,GU327869.1,Holopus rangii,False,False,False
+SA+SB,NC_060843.1,Comanthus parvicirrus,True,True,False
+SA+SB,NC_059908.1,Anneissia intermedia,True,True,False
+SA+SB,NC_054279.1,Anneissia pinguis,True,True,False
+SA+SB,NC_045944.1,Stephanometra indica,True,True,False
+SA+SB,NC_010692.1,Antedon mediterranea,True,True,False
+SA+SB,NC_007690.1,Phanogenia gracilis,True,True,False
+SA+SB,NC_007689.1,Neogymnocrinus richeri,True,False,False
+SA+SB,NC_001878.1,Florometra serratissima,True,True,False
+SA+SB,ON381167.1,Tropiometra macrodiscus,True,True,False
+SA+SB,ON585667.1,Zygometra comata,True,True,False
+SA+SB,OM964491.1,Metacrinus rotundus,True,False,False
+SA+SB,OM321037.1,Comatella nigra,True,True,False
+SA+SB,OM313186.1,Comatella stelligera,True,False,False
+SA+SB,OP177937.1,Poliometra prolixa,True,True,False
+SA+SB,OK509084.1,Cenometra bella,True,True,True
+SA+SB,MW868294.1,Comaster schlegelii,True,True,False
+SA+SB,KM014339.1,Lamberticrinus messingi,False,False,False
+SA+SB,KM014338.1,Antedon sp. MMS-2014,False,False,False
+SA+SB,KU519517.1,Crinoidea sp. NHM_300,False,False,False
+SA+SB,KU519516.1,Crinoidea sp. NHM_056,False,False,False
+SA+SB,KU519515.1,Crinoidea sp. NHM_055,False,False,False
+SA+SB,KU519514.1,Crinoidea sp. NHM_008,False,False,False
+SA+SB,KC626665.1,Paratelecrinus wyvilli,False,False,False
+SA+SB,KC626598.1,Adelatelecrinus vallatus,False,False,False
+SA+SB,KJ875066.1,Neocomatella pulchella,False,False,False
+SA+SB,KJ875065.1,Comatulella brachiolata,False,False,False
+SA+SB,KJ875064.1,Phanogenia multibrachiata,False,False,False
+SA+SB,KJ875063.1,Phanogenia gracilis,False,False,False
+SA+SB,KJ875062.1,Phanogenia gracilis,False,False,False
+SA+SB,KJ875061.1,Phanogenia typica,False,False,False
+SA+SB,KJ875060.1,Anneissia japonica,False,False,False
+SA+SB,KJ875059.1,Clarkcomanthus mirus,False,False,False
+SA+SB,KJ875058.1,Anneissia bennetti,False,False,False
+SA+SB,KJ875057.1,Anneissia bennetti,False,False,False
+SA+SB,KJ875056.1,Davidaster rubiginosus,False,False,False
+SA+SB,KJ875055.1,Davidaster discoideus,False,False,False
+SA+SB,KJ875054.1,Comatula solaris,False,False,False
+SA+SB,KJ875053.1,Comatula rotalaria,False,False,False
+SA+SB,KJ875052.1,Comatula pectinata,False,False,False
+SA+SB,KJ875051.1,Comatella stelligera,False,False,False
+SA+SB,KJ875050.1,Comatella nigra,False,False,False
+SA+SB,KJ875049.1,Comatella nigra,False,False,False
+SA+SB,KJ875048.1,Comaster schlegelii,False,False,False
+SA+SB,KJ875047.1,Comaster multifidus,False,False,False
+SA+SB,KJ875046.1,Comaster audax,False,False,False
+SA+SB,KJ875045.1,Comanthus sp. 1 MS-2014,False,False,False
+SA+SB,KJ875044.1,Comanthus wahlbergii,False,False,False
+SA+SB,KJ875043.1,Comanthus suavia,False,False,False
+SA+SB,KJ875042.1,Comanthus sp. 3 MS-2014,False,False,False
+SA+SB,KJ875041.1,Comanthus sp. 2 MS-2014,False,False,False
+SA+SB,KJ875040.1,Comanthus parvicirrus,False,False,False
+SA+SB,KJ875039.1,Clarkcomanthus mirabilis,False,False,False
+SA+SB,KJ875038.1,Comanthus sp. 4 MS-2014,False,False,False
+SA+SB,KJ875037.1,Comanthus gisleni,False,False,False
+SA+SB,KJ875036.1,Comanthus briareus,False,False,False
+SA+SB,KJ875035.1,Clarkcomanthus alternans,False,False,False
+SA+SB,KJ875034.1,Comactinia titan,False,False,False
+SA+SB,KJ875033.1,Comactinia meridionalis,False,False,False
+SA+SB,KJ875032.1,Comactinia echinoptera,False,False,False
+SA+SB,KJ875031.1,Clarkcomanthus luteofuscum,False,False,False
+SA+SB,KJ875030.1,Clarkcomanthus littoralis,False,False,False
+SA+SB,KJ875029.1,Clarkcomanthus albinotus,False,False,False
+SA+SB,KJ875028.1,Cenolia tasmaniae,False,False,False
+SA+SB,KJ875027.1,Cenolia glebosus,False,False,False
+SA+SB,KJ875026.1,Capillaster multiradiatus,False,False,False
+SA+SB,KJ875025.1,Capillaster multiradiatus,False,False,False
+SA+SB,KJ875024.1,Alloeocomatella polycladia,False,False,False
+SA+SB,KJ875023.1,Alloeocomatella sp. n. MS-2014,False,False,False
+SA+SB,KM491765.1,Clarkcomanthus luteofuscum,False,False,False
+SA+SB,KC626689.1,Zygometra andromeda,False,False,False
+SA+SB,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+SA+SB,KC626687.1,Trichometra cubensis,False,False,False
+SA+SB,KC626686.1,Toxometra bicolor,False,False,False
+SA+SB,KC626685.1,Thaumatocrinus renovatus,False,False,False
+SA+SB,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+SA+SB,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+SA+SB,KC626682.1,Strotometra ornatissimus,False,False,False
+SA+SB,KC626681.1,Stenometra cristata,False,False,False
+SA+SB,KC626680.1,Sarametra triserialis,False,False,False
+SA+SB,KC626679.1,Saracrinus nobilis,False,False,False
+SA+SB,KC626678.1,Saracrinus angulatus,False,False,False
+SA+SB,KC626677.1,Ptilometra macronema,False,False,False
+SA+SB,KC626676.1,Ptilocrinus clarki,False,False,False
+SA+SB,KC626675.1,Ptilocrinus clarki,False,False,False
+SA+SB,KC626674.1,Ptilocrinus australis,False,False,False
+SA+SB,KC626673.1,Pterometra trichopoda,False,False,False
+SA+SB,KC626672.1,Psathyrometra sp. ME25,False,False,False
+SA+SB,KC626671.1,Porphyrocrinus thalassae,False,False,False
+SA+SB,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+SA+SB,KC626669.1,Poliometra prolixa,False,False,False
+SA+SB,KC626668.1,Phrynocrinus nudus,False,False,False
+SA+SB,KC626667.1,Perometra robusta,False,False,False
+SA+SB,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+SA+SB,KC626664.1,Oligometra carpenteri,False,False,False
+SA+SB,KC626663.1,Neometra sappho,False,False,False
+SA+SB,KC626662.1,Neogymnocrinus richeri,False,False,False
+SA+SB,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+SA+SB,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+SA+SB,KC626659.1,Metacrinus serratus,False,False,False
+SA+SB,KC626658.1,Metacrinus rotundus,False,False,False
+SA+SB,KC626657.1,Metacrinus levii,False,False,False
+SA+SB,KC626656.1,Mariametra subcarinata,False,False,False
+SA+SB,KC626655.1,Leptometra celtica,False,False,False
+SA+SB,KC626653.1,Koehlermetra porrecta,False,False,False
+SA+SB,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+SA+SB,KC626651.1,Hypalocrinus naresianus,False,False,False
+SA+SB,KC626650.1,Hyocrinus bethellianus,False,False,False
+SA+SB,KC626649.1,Homalometra denticulata,False,False,False
+SA+SB,KC626648.1,Holopus alidis,False,False,False
+SA+SB,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+SA+SB,KC626646.1,Homalometra crenulata,False,False,False
+SA+SB,KC626645.1,Heliometra glacialis,False,False,False
+SA+SB,KC626644.1,Hathrometra tenella,False,False,False
+SA+SB,KC626643.1,Florometra serratissima,False,False,False
+SA+SB,KC626642.1,Florometra novaezealandiae,False,False,False
+SA+SB,KC626641.1,Promachocrinus mawsoni,False,False,False
+SA+SB,KC626640.1,Florometra asperrima,False,False,False
+SA+SB,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+SA+SB,KC626638.1,Eudiocrinus serripinna,False,False,False
+SA+SB,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+SA+SB,KC626636.1,Euantedon sp. EUA470,False,False,False
+SA+SB,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+SA+SB,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+SA+SB,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+SA+SB,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+SA+SB,KC626631.1,Dorometra briseis,False,False,False
+SA+SB,KC626630.1,Democrinus weberi,False,False,False
+SA+SB,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+SA+SB,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+SA+SB,KC626627.1,Cyllometra manca,False,False,False
+SA+SB,KC626626.1,Comissia norfolkensis,False,False,False
+SA+SB,KC626625.1,Comatula pectinata,False,False,False
+SA+SB,KC626624.1,Comatonia cristata,False,False,False
+SA+SB,KC626623.1,Coccometra hagenii,False,False,False
+SA+SB,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+SA+SB,KC626621.1,Chondrometra rugosa,False,False,False
+SA+SB,KC626620.1,Charitometra basicurva,False,False,False
+SA+SB,KC626619.1,Capillaster squarrosus,False,False,False
+SA+SB,KC626618.1,Calometra discoidea,False,False,False
+SA+SB,KC626617.1,Caledonicrinus vaubani,False,False,False
+SA+SB,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+SA+SB,KC626615.1,Argyrometra mortenseni,False,False,False
+SA+SB,KC626614.1,Aporometra sp. LH153,False,False,False
+SA+SB,KC626613.1,Aphanocomaster pulcher,False,False,False
+SA+SB,KC626612.1,Antedon serrata,False,False,False
+SA+SB,KC626611.1,Antedon petasus,False,False,False
+SA+SB,KC626610.1,Antedon mediterranea,False,False,False
+SA+SB,KC626609.1,Antedon loveni,False,False,False
+SA+SB,KC626608.1,Antedon incommoda,False,False,False
+SA+SB,KC626607.1,Antedon hupferi,False,False,False
+SA+SB,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+SA+SB,KC626605.1,Antedon cf. iris AI390,False,False,False
+SA+SB,KC626604.1,Antedon bifida,False,False,False
+SA+SB,KC626603.1,Antedon mediterranea,False,False,False
+SA+SB,KC626602.1,Annametra occidentalis,False,False,False
+SA+SB,KC626601.1,Andrometra psyche,False,False,False
+SA+SB,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+SA+SB,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+SA+SB,KC616745.1,Ptilocrinus australis,False,False,False
+SA+SB,KC616744.1,Dumetocrinus antarcticus,False,False,False
+SA+SB,KC616743.1,Notocrinus virilis,False,False,False
+SA+SB,KC616742.1,Isometra sp. Iso174,False,False,False
+SA+SB,KC616741.1,Isometra sp. 5314,False,False,False
+SA+SB,KC616740.1,Feracrinus sp. Pti176,False,False,False
+SA+SB,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+SA+SB,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+SA+SB,KC626654.1,Dichrometra palmata,False,False,False
+SA+SB,JX296556.1,Hypalocrinus naresianus,False,False,False
+SA+SB,JX312800.1,Heliometra glacialis,False,False,False
+SA+SB,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+SA+SB,JQ340211.1,Anthometrina adriani,False,False,False
+SA+SB,JQ340210.1,Notocrinus virilis,False,False,False
+SA+SB,DQ297091.1,Florometra serratissima,False,False,False
+SA+SB,AY275905.1,Metacrinus rotundus,False,False,False
+SA+SB,AY275904.1,Metacrinus sp. D1442,False,False,False
+SA+SB,AY275903.1,Holopus alidis,False,False,False
+SA+SB,AY275902.1,Neogymnocrinus richeri,False,False,False
+SA+SB,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+SA+SB,AY275900.1,Caledonicrinus vaubani,False,False,False
+SA+SB,AY275899.1,Bathycrinus sp. D1425,False,False,False
+SA+SB,AY652521.1,Antedon bifida,False,False,False
+MD,AF049132.1,Florometra serratissima,True,True,True
+MD,AM404181.1,Antedon mediterranea,True,True,False
+MD,DQ068951.1,Neogymnocrinus richeri,True,False,False
+MD,DQ068952.1,Phanogenia gracilis,True,True,False
+MD,MF966246.1,Stephanometra indica,True,True,False
+MD,MN883538.1,Florometra sp. BMK-2020,True,True,False
+MD,MT302206.1,Florometra sp. BMK-2020,True,True,True
+MD,MW008594.1,Anneissia pinguis,True,True,False
+MD,MW376476.1,Anneissia intermedia,True,True,False
+MD,MW405444.1,Oligometra serripinna,True,True,False
+MD,MW526391.2,Comaster schlegelii,True,True,False
+MD,MW526392.2,Comanthus parvicirrus,True,True,False
+MD,MW884542.1,Comanthus parvicirrus,True,True,False
+MD,NC_061054.1,Cenometra bella,True,True,True
+MD,NC_066490.1,Poliometra prolixa,True,True,False
+MD,NC_068252.1,Comatella stelligera,True,True,False
+MD,NC_068254.1,Comatella nigra,True,True,True
+MD,NC_068797.1,Metacrinus rotundus,True,False,False
+MD,NC_069630.1,Tropiometra macrodiscus,True,True,True
+MD,NC_069919.1,Zygometra comata,True,True,False
+MD,OM272942.1,Comanthus sp. 2 MS-2014,True,True,True
+MD,OP546034.1,Capillaster sp. DH-Y2,True,True,False
+MD,OP546035.1,Ptilometra sp. DH-R,True,True,True
+MD,OQ207656.1,Thaumatocrinus sp. JL223,True,True,False
+MD,OQ721985.1,Hyocrinidae sp.,True,True,False
+MD,PV742399.1,Decametra tigrina,True,True,False
+MD,PZ343777.1,Cyllometra manca,True,True,False
+MD,GU327907.1,Zygometra microdiscus,False,False,False
+MD,GU327906.1,Tropiometra afra,False,False,False
+MD,GU327905.1,Psathyrometra fragilis,False,False,False
+MD,GU327904.1,Cosmiometra aster,False,False,False
+MD,GU327903.1,Ptilometra macronema,False,False,False
+MD,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+MD,GU327901.1,Notocrinus virilis,False,False,False
+MD,GU327900.1,Dichrometra articulata,False,False,False
+MD,GU327899.1,Stephanometra indica,False,False,False
+MD,GU327898.1,Himerometra robustipinna,False,False,False
+MD,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+MD,GU327896.1,Comatella nigra,False,False,False
+MD,GU327895.1,Clarkcomanthus littoralis,False,False,False
+MD,GU327894.1,Cenolia trichoptera,False,False,False
+MD,GU327893.1,Comanthus wahlbergii,False,False,False
+MD,GU327892.1,Alloeocomatella pectinifera,False,False,False
+MD,GU327891.1,Colobometra perspinosa,False,False,False
+MD,GU327890.1,Cenometra bella,False,False,False
+MD,GU327889.1,Crinometra brevipinna,False,False,False
+MD,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+MD,GU327887.1,Aporometra wilsoni,False,False,False
+MD,GU327886.1,Promachocrinus kerguelensis,False,False,False
+MD,GU327885.1,Heliometra glacialis maxima,False,False,False
+MD,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+MD,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+MD,GU327882.1,Monachocrinus caribbeus,False,False,False
+MD,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+MD,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+MD,GU327879.1,Saracrinus moosai,False,False,False
+MD,GU327878.1,Proisocrinus ruberrimus,False,False,False
+MD,GU327877.1,Metacrinus levii,False,False,False
+MD,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+MD,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+MD,GU327874.1,Endoxocrinus parrae,False,False,False
+MD,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+MD,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+MD,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+MD,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+MD,GU327869.1,Holopus rangii,False,False,False
+MD,NC_060843.1,Comanthus parvicirrus,True,True,False
+MD,NC_059908.1,Anneissia intermedia,True,True,False
+MD,NC_054279.1,Anneissia pinguis,True,True,False
+MD,NC_045944.1,Stephanometra indica,True,True,False
+MD,NC_010692.1,Antedon mediterranea,True,True,False
+MD,NC_007690.1,Phanogenia gracilis,True,True,False
+MD,NC_007689.1,Neogymnocrinus richeri,True,False,False
+MD,NC_001878.1,Florometra serratissima,True,True,True
+MD,ON381167.1,Tropiometra macrodiscus,True,True,True
+MD,ON585667.1,Zygometra comata,True,True,False
+MD,OM964491.1,Metacrinus rotundus,True,False,False
+MD,OM321037.1,Comatella nigra,True,True,True
+MD,OM313186.1,Comatella stelligera,True,True,False
+MD,OP177937.1,Poliometra prolixa,True,True,False
+MD,OK509084.1,Cenometra bella,True,True,True
+MD,MW868294.1,Comaster schlegelii,True,True,False
+MD,KM014339.1,Lamberticrinus messingi,False,False,False
+MD,KM014338.1,Antedon sp. MMS-2014,False,False,False
+MD,KU519517.1,Crinoidea sp. NHM_300,False,False,False
+MD,KU519516.1,Crinoidea sp. NHM_056,False,False,False
+MD,KU519515.1,Crinoidea sp. NHM_055,False,False,False
+MD,KU519514.1,Crinoidea sp. NHM_008,False,False,False
+MD,KC626665.1,Paratelecrinus wyvilli,False,False,False
+MD,KC626598.1,Adelatelecrinus vallatus,False,False,False
+MD,KJ875066.1,Neocomatella pulchella,False,False,False
+MD,KJ875065.1,Comatulella brachiolata,False,False,False
+MD,KJ875064.1,Phanogenia multibrachiata,False,False,False
+MD,KJ875063.1,Phanogenia gracilis,False,False,False
+MD,KJ875062.1,Phanogenia gracilis,False,False,False
+MD,KJ875061.1,Phanogenia typica,False,False,False
+MD,KJ875060.1,Anneissia japonica,False,False,False
+MD,KJ875059.1,Clarkcomanthus mirus,False,False,False
+MD,KJ875058.1,Anneissia bennetti,False,False,False
+MD,KJ875057.1,Anneissia bennetti,False,False,False
+MD,KJ875056.1,Davidaster rubiginosus,False,False,False
+MD,KJ875055.1,Davidaster discoideus,False,False,False
+MD,KJ875054.1,Comatula solaris,False,False,False
+MD,KJ875053.1,Comatula rotalaria,False,False,False
+MD,KJ875052.1,Comatula pectinata,False,False,False
+MD,KJ875051.1,Comatella stelligera,False,False,False
+MD,KJ875050.1,Comatella nigra,False,False,False
+MD,KJ875049.1,Comatella nigra,False,False,False
+MD,KJ875048.1,Comaster schlegelii,False,False,False
+MD,KJ875047.1,Comaster multifidus,False,False,False
+MD,KJ875046.1,Comaster audax,False,False,False
+MD,KJ875045.1,Comanthus sp. 1 MS-2014,False,False,False
+MD,KJ875044.1,Comanthus wahlbergii,False,False,False
+MD,KJ875043.1,Comanthus suavia,False,False,False
+MD,KJ875042.1,Comanthus sp. 3 MS-2014,False,False,False
+MD,KJ875041.1,Comanthus sp. 2 MS-2014,False,False,False
+MD,KJ875040.1,Comanthus parvicirrus,False,False,False
+MD,KJ875039.1,Clarkcomanthus mirabilis,False,False,False
+MD,KJ875038.1,Comanthus sp. 4 MS-2014,False,False,False
+MD,KJ875037.1,Comanthus gisleni,False,False,False
+MD,KJ875036.1,Comanthus briareus,False,False,False
+MD,KJ875035.1,Clarkcomanthus alternans,False,False,False
+MD,KJ875034.1,Comactinia titan,False,False,False
+MD,KJ875033.1,Comactinia meridionalis,False,False,False
+MD,KJ875032.1,Comactinia echinoptera,False,False,False
+MD,KJ875031.1,Clarkcomanthus luteofuscum,False,False,False
+MD,KJ875030.1,Clarkcomanthus littoralis,False,False,False
+MD,KJ875029.1,Clarkcomanthus albinotus,False,False,False
+MD,KJ875028.1,Cenolia tasmaniae,False,False,False
+MD,KJ875027.1,Cenolia glebosus,False,False,False
+MD,KJ875026.1,Capillaster multiradiatus,False,False,False
+MD,KJ875025.1,Capillaster multiradiatus,False,False,False
+MD,KJ875024.1,Alloeocomatella polycladia,False,False,False
+MD,KJ875023.1,Alloeocomatella sp. n. MS-2014,False,False,False
+MD,KM491765.1,Clarkcomanthus luteofuscum,False,False,False
+MD,KC626689.1,Zygometra andromeda,False,False,False
+MD,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+MD,KC626687.1,Trichometra cubensis,False,False,False
+MD,KC626686.1,Toxometra bicolor,False,False,False
+MD,KC626685.1,Thaumatocrinus renovatus,False,False,False
+MD,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+MD,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+MD,KC626682.1,Strotometra ornatissimus,False,False,False
+MD,KC626681.1,Stenometra cristata,False,False,False
+MD,KC626680.1,Sarametra triserialis,False,False,False
+MD,KC626679.1,Saracrinus nobilis,False,False,False
+MD,KC626678.1,Saracrinus angulatus,False,False,False
+MD,KC626677.1,Ptilometra macronema,False,False,False
+MD,KC626676.1,Ptilocrinus clarki,False,False,False
+MD,KC626675.1,Ptilocrinus clarki,False,False,False
+MD,KC626674.1,Ptilocrinus australis,False,False,False
+MD,KC626673.1,Pterometra trichopoda,False,False,False
+MD,KC626672.1,Psathyrometra sp. ME25,False,False,False
+MD,KC626671.1,Porphyrocrinus thalassae,False,False,False
+MD,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+MD,KC626669.1,Poliometra prolixa,False,False,False
+MD,KC626668.1,Phrynocrinus nudus,False,False,False
+MD,KC626667.1,Perometra robusta,False,False,False
+MD,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+MD,KC626664.1,Oligometra carpenteri,False,False,False
+MD,KC626663.1,Neometra sappho,False,False,False
+MD,KC626662.1,Neogymnocrinus richeri,False,False,False
+MD,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+MD,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+MD,KC626659.1,Metacrinus serratus,False,False,False
+MD,KC626658.1,Metacrinus rotundus,False,False,False
+MD,KC626657.1,Metacrinus levii,False,False,False
+MD,KC626656.1,Mariametra subcarinata,False,False,False
+MD,KC626655.1,Leptometra celtica,False,False,False
+MD,KC626653.1,Koehlermetra porrecta,False,False,False
+MD,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+MD,KC626651.1,Hypalocrinus naresianus,False,False,False
+MD,KC626650.1,Hyocrinus bethellianus,False,False,False
+MD,KC626649.1,Homalometra denticulata,False,False,False
+MD,KC626648.1,Holopus alidis,False,False,False
+MD,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+MD,KC626646.1,Homalometra crenulata,False,False,False
+MD,KC626645.1,Heliometra glacialis,False,False,False
+MD,KC626644.1,Hathrometra tenella,False,False,False
+MD,KC626643.1,Florometra serratissima,False,False,False
+MD,KC626642.1,Florometra novaezealandiae,False,False,False
+MD,KC626641.1,Promachocrinus mawsoni,False,False,False
+MD,KC626640.1,Florometra asperrima,False,False,False
+MD,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+MD,KC626638.1,Eudiocrinus serripinna,False,False,False
+MD,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+MD,KC626636.1,Euantedon sp. EUA470,False,False,False
+MD,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+MD,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+MD,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+MD,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+MD,KC626631.1,Dorometra briseis,False,False,False
+MD,KC626630.1,Democrinus weberi,False,False,False
+MD,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+MD,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+MD,KC626627.1,Cyllometra manca,False,False,False
+MD,KC626626.1,Comissia norfolkensis,False,False,False
+MD,KC626625.1,Comatula pectinata,False,False,False
+MD,KC626624.1,Comatonia cristata,False,False,False
+MD,KC626623.1,Coccometra hagenii,False,False,False
+MD,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+MD,KC626621.1,Chondrometra rugosa,False,False,False
+MD,KC626620.1,Charitometra basicurva,False,False,False
+MD,KC626619.1,Capillaster squarrosus,False,False,False
+MD,KC626618.1,Calometra discoidea,False,False,False
+MD,KC626617.1,Caledonicrinus vaubani,False,False,False
+MD,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+MD,KC626615.1,Argyrometra mortenseni,False,False,False
+MD,KC626614.1,Aporometra sp. LH153,False,False,False
+MD,KC626613.1,Aphanocomaster pulcher,False,False,False
+MD,KC626612.1,Antedon serrata,False,False,False
+MD,KC626611.1,Antedon petasus,False,False,False
+MD,KC626610.1,Antedon mediterranea,False,False,False
+MD,KC626609.1,Antedon loveni,False,False,False
+MD,KC626608.1,Antedon incommoda,False,False,False
+MD,KC626607.1,Antedon hupferi,False,False,False
+MD,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+MD,KC626605.1,Antedon cf. iris AI390,False,False,False
+MD,KC626604.1,Antedon bifida,False,False,False
+MD,KC626603.1,Antedon mediterranea,False,False,False
+MD,KC626602.1,Annametra occidentalis,False,False,False
+MD,KC626601.1,Andrometra psyche,False,False,False
+MD,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+MD,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+MD,KC616745.1,Ptilocrinus australis,False,False,False
+MD,KC616744.1,Dumetocrinus antarcticus,False,False,False
+MD,KC616743.1,Notocrinus virilis,False,False,False
+MD,KC616742.1,Isometra sp. Iso174,False,False,False
+MD,KC616741.1,Isometra sp. 5314,False,False,False
+MD,KC616740.1,Feracrinus sp. Pti176,False,False,False
+MD,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+MD,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+MD,KC626654.1,Dichrometra palmata,False,False,False
+MD,JX296556.1,Hypalocrinus naresianus,False,False,False
+MD,JX312800.1,Heliometra glacialis,False,False,False
+MD,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+MD,JQ340211.1,Anthometrina adriani,False,False,False
+MD,JQ340210.1,Notocrinus virilis,False,False,False
+MD,DQ297091.1,Florometra serratissima,False,False,False
+MD,AY275905.1,Metacrinus rotundus,False,False,False
+MD,AY275904.1,Metacrinus sp. D1442,False,False,False
+MD,AY275903.1,Holopus alidis,False,False,False
+MD,AY275902.1,Neogymnocrinus richeri,False,False,False
+MD,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+MD,AY275900.1,Caledonicrinus vaubani,False,False,False
+MD,AY275899.1,Bathycrinus sp. D1425,False,False,False
+MD,AY652521.1,Antedon bifida,False,False,False
+M,AF049132.1,Florometra serratissima,True,True,False
+M,AM404181.1,Antedon mediterranea,True,True,False
+M,DQ068951.1,Neogymnocrinus richeri,True,False,False
+M,DQ068952.1,Phanogenia gracilis,True,True,False
+M,MF966246.1,Stephanometra indica,True,False,False
+M,MN883538.1,Florometra sp. BMK-2020,True,True,True
+M,MT302206.1,Florometra sp. BMK-2020,True,True,False
+M,MW008594.1,Anneissia pinguis,True,True,False
+M,MW376476.1,Anneissia intermedia,True,True,False
+M,MW405444.1,Oligometra serripinna,True,True,True
+M,MW526391.2,Comaster schlegelii,True,True,False
+M,MW526392.2,Comanthus parvicirrus,True,True,False
+M,MW884542.1,Comanthus parvicirrus,True,True,False
+M,NC_061054.1,Cenometra bella,True,True,True
+M,NC_066490.1,Poliometra prolixa,True,True,False
+M,NC_068252.1,Comatella stelligera,True,False,False
+M,NC_068254.1,Comatella nigra,True,True,False
+M,NC_068797.1,Metacrinus rotundus,True,False,False
+M,NC_069630.1,Tropiometra macrodiscus,True,True,False
+M,NC_069919.1,Zygometra comata,True,True,False
+M,OM272942.1,Comanthus sp. 2 MS-2014,True,True,False
+M,OP546034.1,Capillaster sp. DH-Y2,True,True,False
+M,OP546035.1,Ptilometra sp. DH-R,True,True,False
+M,OQ207656.1,Thaumatocrinus sp. JL223,True,False,False
+M,OQ721985.1,Hyocrinidae sp.,True,False,False
+M,PV742399.1,Decametra tigrina,True,True,True
+M,PZ343777.1,Cyllometra manca,True,True,False
+M,GU327907.1,Zygometra microdiscus,False,False,False
+M,GU327906.1,Tropiometra afra,False,False,False
+M,GU327905.1,Psathyrometra fragilis,False,False,False
+M,GU327904.1,Cosmiometra aster,False,False,False
+M,GU327903.1,Ptilometra macronema,False,False,False
+M,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+M,GU327901.1,Notocrinus virilis,False,False,False
+M,GU327900.1,Dichrometra articulata,False,False,False
+M,GU327899.1,Stephanometra indica,False,False,False
+M,GU327898.1,Himerometra robustipinna,False,False,False
+M,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+M,GU327896.1,Comatella nigra,False,False,False
+M,GU327895.1,Clarkcomanthus littoralis,False,False,False
+M,GU327894.1,Cenolia trichoptera,False,False,False
+M,GU327893.1,Comanthus wahlbergii,False,False,False
+M,GU327892.1,Alloeocomatella pectinifera,False,False,False
+M,GU327891.1,Colobometra perspinosa,False,False,False
+M,GU327890.1,Cenometra bella,False,False,False
+M,GU327889.1,Crinometra brevipinna,False,False,False
+M,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+M,GU327887.1,Aporometra wilsoni,False,False,False
+M,GU327886.1,Promachocrinus kerguelensis,False,False,False
+M,GU327885.1,Heliometra glacialis maxima,False,False,False
+M,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+M,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+M,GU327882.1,Monachocrinus caribbeus,False,False,False
+M,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+M,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+M,GU327879.1,Saracrinus moosai,False,False,False
+M,GU327878.1,Proisocrinus ruberrimus,False,False,False
+M,GU327877.1,Metacrinus levii,False,False,False
+M,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+M,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+M,GU327874.1,Endoxocrinus parrae,False,False,False
+M,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+M,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+M,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+M,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+M,GU327869.1,Holopus rangii,False,False,False
+M,NC_060843.1,Comanthus parvicirrus,True,True,False
+M,NC_059908.1,Anneissia intermedia,True,True,False
+M,NC_054279.1,Anneissia pinguis,True,True,False
+M,NC_045944.1,Stephanometra indica,True,False,False
+M,NC_010692.1,Antedon mediterranea,True,True,False
+M,NC_007690.1,Phanogenia gracilis,True,True,False
+M,NC_007689.1,Neogymnocrinus richeri,True,False,False
+M,NC_001878.1,Florometra serratissima,True,True,False
+M,ON381167.1,Tropiometra macrodiscus,True,True,False
+M,ON585667.1,Zygometra comata,True,True,False
+M,OM964491.1,Metacrinus rotundus,True,False,False
+M,OM321037.1,Comatella nigra,True,True,False
+M,OM313186.1,Comatella stelligera,True,False,False
+M,OP177937.1,Poliometra prolixa,True,True,False
+M,OK509084.1,Cenometra bella,True,True,True
+M,MW868294.1,Comaster schlegelii,True,True,False
+M,KM014339.1,Lamberticrinus messingi,False,False,False
+M,KM014338.1,Antedon sp. MMS-2014,False,False,False
+M,KU519517.1,Crinoidea sp. NHM_300,False,False,False
+M,KU519516.1,Crinoidea sp. NHM_056,False,False,False
+M,KU519515.1,Crinoidea sp. NHM_055,False,False,False
+M,KU519514.1,Crinoidea sp. NHM_008,False,False,False
+M,KC626665.1,Paratelecrinus wyvilli,False,False,False
+M,KC626598.1,Adelatelecrinus vallatus,False,False,False
+M,KJ875066.1,Neocomatella pulchella,False,False,False
+M,KJ875065.1,Comatulella brachiolata,False,False,False
+M,KJ875064.1,Phanogenia multibrachiata,False,False,False
+M,KJ875063.1,Phanogenia gracilis,False,False,False
+M,KJ875062.1,Phanogenia gracilis,False,False,False
+M,KJ875061.1,Phanogenia typica,False,False,False
+M,KJ875060.1,Anneissia japonica,False,False,False
+M,KJ875059.1,Clarkcomanthus mirus,False,False,False
+M,KJ875058.1,Anneissia bennetti,False,False,False
+M,KJ875057.1,Anneissia bennetti,False,False,False
+M,KJ875056.1,Davidaster rubiginosus,False,False,False
+M,KJ875055.1,Davidaster discoideus,False,False,False
+M,KJ875054.1,Comatula solaris,False,False,False
+M,KJ875053.1,Comatula rotalaria,False,False,False
+M,KJ875052.1,Comatula pectinata,False,False,False
+M,KJ875051.1,Comatella stelligera,False,False,False
+M,KJ875050.1,Comatella nigra,False,False,False
+M,KJ875049.1,Comatella nigra,False,False,False
+M,KJ875048.1,Comaster schlegelii,False,False,False
+M,KJ875047.1,Comaster multifidus,False,False,False
+M,KJ875046.1,Comaster audax,False,False,False
+M,KJ875045.1,Comanthus sp. 1 MS-2014,False,False,False
+M,KJ875044.1,Comanthus wahlbergii,False,False,False
+M,KJ875043.1,Comanthus suavia,False,False,False
+M,KJ875042.1,Comanthus sp. 3 MS-2014,False,False,False
+M,KJ875041.1,Comanthus sp. 2 MS-2014,False,False,False
+M,KJ875040.1,Comanthus parvicirrus,False,False,False
+M,KJ875039.1,Clarkcomanthus mirabilis,False,False,False
+M,KJ875038.1,Comanthus sp. 4 MS-2014,False,False,False
+M,KJ875037.1,Comanthus gisleni,False,False,False
+M,KJ875036.1,Comanthus briareus,False,False,False
+M,KJ875035.1,Clarkcomanthus alternans,False,False,False
+M,KJ875034.1,Comactinia titan,False,False,False
+M,KJ875033.1,Comactinia meridionalis,False,False,False
+M,KJ875032.1,Comactinia echinoptera,False,False,False
+M,KJ875031.1,Clarkcomanthus luteofuscum,False,False,False
+M,KJ875030.1,Clarkcomanthus littoralis,False,False,False
+M,KJ875029.1,Clarkcomanthus albinotus,False,False,False
+M,KJ875028.1,Cenolia tasmaniae,False,False,False
+M,KJ875027.1,Cenolia glebosus,False,False,False
+M,KJ875026.1,Capillaster multiradiatus,False,False,False
+M,KJ875025.1,Capillaster multiradiatus,False,False,False
+M,KJ875024.1,Alloeocomatella polycladia,False,False,False
+M,KJ875023.1,Alloeocomatella sp. n. MS-2014,False,False,False
+M,KM491765.1,Clarkcomanthus luteofuscum,False,False,False
+M,KC626689.1,Zygometra andromeda,False,False,False
+M,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+M,KC626687.1,Trichometra cubensis,False,False,False
+M,KC626686.1,Toxometra bicolor,False,False,False
+M,KC626685.1,Thaumatocrinus renovatus,False,False,False
+M,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+M,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+M,KC626682.1,Strotometra ornatissimus,False,False,False
+M,KC626681.1,Stenometra cristata,False,False,False
+M,KC626680.1,Sarametra triserialis,False,False,False
+M,KC626679.1,Saracrinus nobilis,False,False,False
+M,KC626678.1,Saracrinus angulatus,False,False,False
+M,KC626677.1,Ptilometra macronema,False,False,False
+M,KC626676.1,Ptilocrinus clarki,False,False,False
+M,KC626675.1,Ptilocrinus clarki,False,False,False
+M,KC626674.1,Ptilocrinus australis,False,False,False
+M,KC626673.1,Pterometra trichopoda,False,False,False
+M,KC626672.1,Psathyrometra sp. ME25,False,False,False
+M,KC626671.1,Porphyrocrinus thalassae,False,False,False
+M,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+M,KC626669.1,Poliometra prolixa,False,False,False
+M,KC626668.1,Phrynocrinus nudus,False,False,False
+M,KC626667.1,Perometra robusta,False,False,False
+M,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+M,KC626664.1,Oligometra carpenteri,False,False,False
+M,KC626663.1,Neometra sappho,False,False,False
+M,KC626662.1,Neogymnocrinus richeri,False,False,False
+M,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+M,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+M,KC626659.1,Metacrinus serratus,False,False,False
+M,KC626658.1,Metacrinus rotundus,False,False,False
+M,KC626657.1,Metacrinus levii,False,False,False
+M,KC626656.1,Mariametra subcarinata,False,False,False
+M,KC626655.1,Leptometra celtica,False,False,False
+M,KC626653.1,Koehlermetra porrecta,False,False,False
+M,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+M,KC626651.1,Hypalocrinus naresianus,False,False,False
+M,KC626650.1,Hyocrinus bethellianus,False,False,False
+M,KC626649.1,Homalometra denticulata,False,False,False
+M,KC626648.1,Holopus alidis,False,False,False
+M,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+M,KC626646.1,Homalometra crenulata,False,False,False
+M,KC626645.1,Heliometra glacialis,False,False,False
+M,KC626644.1,Hathrometra tenella,False,False,False
+M,KC626643.1,Florometra serratissima,False,False,False
+M,KC626642.1,Florometra novaezealandiae,False,False,False
+M,KC626641.1,Promachocrinus mawsoni,False,False,False
+M,KC626640.1,Florometra asperrima,False,False,False
+M,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+M,KC626638.1,Eudiocrinus serripinna,False,False,False
+M,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+M,KC626636.1,Euantedon sp. EUA470,False,False,False
+M,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+M,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+M,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+M,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+M,KC626631.1,Dorometra briseis,False,False,False
+M,KC626630.1,Democrinus weberi,False,False,False
+M,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+M,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+M,KC626627.1,Cyllometra manca,False,False,False
+M,KC626626.1,Comissia norfolkensis,False,False,False
+M,KC626625.1,Comatula pectinata,False,False,False
+M,KC626624.1,Comatonia cristata,False,False,False
+M,KC626623.1,Coccometra hagenii,False,False,False
+M,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+M,KC626621.1,Chondrometra rugosa,False,False,False
+M,KC626620.1,Charitometra basicurva,False,False,False
+M,KC626619.1,Capillaster squarrosus,False,False,False
+M,KC626618.1,Calometra discoidea,False,False,False
+M,KC626617.1,Caledonicrinus vaubani,False,False,False
+M,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+M,KC626615.1,Argyrometra mortenseni,False,False,False
+M,KC626614.1,Aporometra sp. LH153,False,False,False
+M,KC626613.1,Aphanocomaster pulcher,False,False,False
+M,KC626612.1,Antedon serrata,False,False,False
+M,KC626611.1,Antedon petasus,False,False,False
+M,KC626610.1,Antedon mediterranea,False,False,False
+M,KC626609.1,Antedon loveni,False,False,False
+M,KC626608.1,Antedon incommoda,False,False,False
+M,KC626607.1,Antedon hupferi,False,False,False
+M,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+M,KC626605.1,Antedon cf. iris AI390,False,False,False
+M,KC626604.1,Antedon bifida,False,False,False
+M,KC626603.1,Antedon mediterranea,False,False,False
+M,KC626602.1,Annametra occidentalis,False,False,False
+M,KC626601.1,Andrometra psyche,False,False,False
+M,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+M,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+M,KC616745.1,Ptilocrinus australis,False,False,False
+M,KC616744.1,Dumetocrinus antarcticus,False,False,False
+M,KC616743.1,Notocrinus virilis,False,False,False
+M,KC616742.1,Isometra sp. Iso174,False,False,False
+M,KC616741.1,Isometra sp. 5314,False,False,False
+M,KC616740.1,Feracrinus sp. Pti176,False,False,False
+M,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+M,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+M,KC626654.1,Dichrometra palmata,False,False,False
+M,JX296556.1,Hypalocrinus naresianus,False,False,False
+M,JX312800.1,Heliometra glacialis,False,False,False
+M,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+M,JQ340211.1,Anthometrina adriani,False,False,False
+M,JQ340210.1,Notocrinus virilis,False,False,False
+M,DQ297091.1,Florometra serratissima,False,False,False
+M,AY275905.1,Metacrinus rotundus,False,False,False
+M,AY275904.1,Metacrinus sp. D1442,False,False,False
+M,AY275903.1,Holopus alidis,False,False,False
+M,AY275902.1,Neogymnocrinus richeri,False,False,False
+M,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+M,AY275900.1,Caledonicrinus vaubani,False,False,False
+M,AY275899.1,Bathycrinus sp. D1425,False,False,False
+M,AY652521.1,Antedon bifida,False,False,False
+MA+MB,AF049132.1,Florometra serratissima,True,True,False
+MA+MB,AM404181.1,Antedon mediterranea,True,True,False
+MA+MB,DQ068951.1,Neogymnocrinus richeri,True,False,False
+MA+MB,DQ068952.1,Phanogenia gracilis,True,True,False
+MA+MB,MF966246.1,Stephanometra indica,True,False,False
+MA+MB,MN883538.1,Florometra sp. BMK-2020,True,True,True
+MA+MB,MT302206.1,Florometra sp. BMK-2020,True,True,False
+MA+MB,MW008594.1,Anneissia pinguis,True,True,False
+MA+MB,MW376476.1,Anneissia intermedia,True,True,False
+MA+MB,MW405444.1,Oligometra serripinna,True,True,True
+MA+MB,MW526391.2,Comaster schlegelii,True,True,False
+MA+MB,MW526392.2,Comanthus parvicirrus,True,True,True
+MA+MB,MW884542.1,Comanthus parvicirrus,True,True,True
+MA+MB,NC_061054.1,Cenometra bella,True,True,True
+MA+MB,NC_066490.1,Poliometra prolixa,True,True,False
+MA+MB,NC_068252.1,Comatella stelligera,True,True,False
+MA+MB,NC_068254.1,Comatella nigra,True,True,True
+MA+MB,NC_068797.1,Metacrinus rotundus,True,True,False
+MA+MB,NC_069630.1,Tropiometra macrodiscus,True,True,False
+MA+MB,NC_069919.1,Zygometra comata,True,True,False
+MA+MB,OM272942.1,Comanthus sp. 2 MS-2014,True,True,False
+MA+MB,OP546034.1,Capillaster sp. DH-Y2,True,True,False
+MA+MB,OP546035.1,Ptilometra sp. DH-R,True,True,False
+MA+MB,OQ207656.1,Thaumatocrinus sp. JL223,True,True,False
+MA+MB,OQ721985.1,Hyocrinidae sp.,True,False,False
+MA+MB,PV742399.1,Decametra tigrina,True,True,True
+MA+MB,PZ343777.1,Cyllometra manca,True,True,False
+MA+MB,GU327907.1,Zygometra microdiscus,False,False,False
+MA+MB,GU327906.1,Tropiometra afra,False,False,False
+MA+MB,GU327905.1,Psathyrometra fragilis,False,False,False
+MA+MB,GU327904.1,Cosmiometra aster,False,False,False
+MA+MB,GU327903.1,Ptilometra macronema,False,False,False
+MA+MB,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+MA+MB,GU327901.1,Notocrinus virilis,False,False,False
+MA+MB,GU327900.1,Dichrometra articulata,False,False,False
+MA+MB,GU327899.1,Stephanometra indica,False,False,False
+MA+MB,GU327898.1,Himerometra robustipinna,False,False,False
+MA+MB,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+MA+MB,GU327896.1,Comatella nigra,False,False,False
+MA+MB,GU327895.1,Clarkcomanthus littoralis,False,False,False
+MA+MB,GU327894.1,Cenolia trichoptera,False,False,False
+MA+MB,GU327893.1,Comanthus wahlbergii,False,False,False
+MA+MB,GU327892.1,Alloeocomatella pectinifera,False,False,False
+MA+MB,GU327891.1,Colobometra perspinosa,False,False,False
+MA+MB,GU327890.1,Cenometra bella,False,False,False
+MA+MB,GU327889.1,Crinometra brevipinna,False,False,False
+MA+MB,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+MA+MB,GU327887.1,Aporometra wilsoni,False,False,False
+MA+MB,GU327886.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,GU327885.1,Heliometra glacialis maxima,False,False,False
+MA+MB,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+MA+MB,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+MA+MB,GU327882.1,Monachocrinus caribbeus,False,False,False
+MA+MB,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+MA+MB,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+MA+MB,GU327879.1,Saracrinus moosai,False,False,False
+MA+MB,GU327878.1,Proisocrinus ruberrimus,False,False,False
+MA+MB,GU327877.1,Metacrinus levii,False,False,False
+MA+MB,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+MA+MB,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+MA+MB,GU327874.1,Endoxocrinus parrae,False,False,False
+MA+MB,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+MA+MB,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+MA+MB,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+MA+MB,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+MA+MB,GU327869.1,Holopus rangii,False,False,False
+MA+MB,NC_060843.1,Comanthus parvicirrus,True,True,True
+MA+MB,NC_059908.1,Anneissia intermedia,True,True,False
+MA+MB,NC_054279.1,Anneissia pinguis,True,True,False
+MA+MB,NC_045944.1,Stephanometra indica,True,False,False
+MA+MB,NC_010692.1,Antedon mediterranea,True,True,False
+MA+MB,NC_007690.1,Phanogenia gracilis,True,True,False
+MA+MB,NC_007689.1,Neogymnocrinus richeri,True,False,False
+MA+MB,NC_001878.1,Florometra serratissima,True,True,False
+MA+MB,ON381167.1,Tropiometra macrodiscus,True,True,False
+MA+MB,ON585667.1,Zygometra comata,True,True,False
+MA+MB,OM964491.1,Metacrinus rotundus,True,True,False
+MA+MB,OM321037.1,Comatella nigra,True,True,True
+MA+MB,OM313186.1,Comatella stelligera,True,True,False
+MA+MB,OP177937.1,Poliometra prolixa,True,True,False
+MA+MB,OK509084.1,Cenometra bella,True,True,True
+MA+MB,MW868294.1,Comaster schlegelii,True,True,False
+MA+MB,KM014339.1,Lamberticrinus messingi,False,False,False
+MA+MB,KM014338.1,Antedon sp. MMS-2014,False,False,False
+MA+MB,KU519517.1,Crinoidea sp. NHM_300,False,False,False
+MA+MB,KU519516.1,Crinoidea sp. NHM_056,False,False,False
+MA+MB,KU519515.1,Crinoidea sp. NHM_055,False,False,False
+MA+MB,KU519514.1,Crinoidea sp. NHM_008,False,False,False
+MA+MB,KC626665.1,Paratelecrinus wyvilli,False,False,False
+MA+MB,KC626598.1,Adelatelecrinus vallatus,False,False,False
+MA+MB,KJ875066.1,Neocomatella pulchella,False,False,False
+MA+MB,KJ875065.1,Comatulella brachiolata,False,False,False
+MA+MB,KJ875064.1,Phanogenia multibrachiata,False,False,False
+MA+MB,KJ875063.1,Phanogenia gracilis,False,False,False
+MA+MB,KJ875062.1,Phanogenia gracilis,False,False,False
+MA+MB,KJ875061.1,Phanogenia typica,False,False,False
+MA+MB,KJ875060.1,Anneissia japonica,False,False,False
+MA+MB,KJ875059.1,Clarkcomanthus mirus,False,False,False
+MA+MB,KJ875058.1,Anneissia bennetti,False,False,False
+MA+MB,KJ875057.1,Anneissia bennetti,False,False,False
+MA+MB,KJ875056.1,Davidaster rubiginosus,False,False,False
+MA+MB,KJ875055.1,Davidaster discoideus,False,False,False
+MA+MB,KJ875054.1,Comatula solaris,False,False,False
+MA+MB,KJ875053.1,Comatula rotalaria,False,False,False
+MA+MB,KJ875052.1,Comatula pectinata,False,False,False
+MA+MB,KJ875051.1,Comatella stelligera,False,False,False
+MA+MB,KJ875050.1,Comatella nigra,False,False,False
+MA+MB,KJ875049.1,Comatella nigra,False,False,False
+MA+MB,KJ875048.1,Comaster schlegelii,False,False,False
+MA+MB,KJ875047.1,Comaster multifidus,False,False,False
+MA+MB,KJ875046.1,Comaster audax,False,False,False
+MA+MB,KJ875045.1,Comanthus sp. 1 MS-2014,False,False,False
+MA+MB,KJ875044.1,Comanthus wahlbergii,False,False,False
+MA+MB,KJ875043.1,Comanthus suavia,False,False,False
+MA+MB,KJ875042.1,Comanthus sp. 3 MS-2014,False,False,False
+MA+MB,KJ875041.1,Comanthus sp. 2 MS-2014,False,False,False
+MA+MB,KJ875040.1,Comanthus parvicirrus,False,False,False
+MA+MB,KJ875039.1,Clarkcomanthus mirabilis,False,False,False
+MA+MB,KJ875038.1,Comanthus sp. 4 MS-2014,False,False,False
+MA+MB,KJ875037.1,Comanthus gisleni,False,False,False
+MA+MB,KJ875036.1,Comanthus briareus,False,False,False
+MA+MB,KJ875035.1,Clarkcomanthus alternans,False,False,False
+MA+MB,KJ875034.1,Comactinia titan,False,False,False
+MA+MB,KJ875033.1,Comactinia meridionalis,False,False,False
+MA+MB,KJ875032.1,Comactinia echinoptera,False,False,False
+MA+MB,KJ875031.1,Clarkcomanthus luteofuscum,False,False,False
+MA+MB,KJ875030.1,Clarkcomanthus littoralis,False,False,False
+MA+MB,KJ875029.1,Clarkcomanthus albinotus,False,False,False
+MA+MB,KJ875028.1,Cenolia tasmaniae,False,False,False
+MA+MB,KJ875027.1,Cenolia glebosus,False,False,False
+MA+MB,KJ875026.1,Capillaster multiradiatus,False,False,False
+MA+MB,KJ875025.1,Capillaster multiradiatus,False,False,False
+MA+MB,KJ875024.1,Alloeocomatella polycladia,False,False,False
+MA+MB,KJ875023.1,Alloeocomatella sp. n. MS-2014,False,False,False
+MA+MB,KM491765.1,Clarkcomanthus luteofuscum,False,False,False
+MA+MB,KC626689.1,Zygometra andromeda,False,False,False
+MA+MB,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+MA+MB,KC626687.1,Trichometra cubensis,False,False,False
+MA+MB,KC626686.1,Toxometra bicolor,False,False,False
+MA+MB,KC626685.1,Thaumatocrinus renovatus,False,False,False
+MA+MB,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+MA+MB,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+MA+MB,KC626682.1,Strotometra ornatissimus,False,False,False
+MA+MB,KC626681.1,Stenometra cristata,False,False,False
+MA+MB,KC626680.1,Sarametra triserialis,False,False,False
+MA+MB,KC626679.1,Saracrinus nobilis,False,False,False
+MA+MB,KC626678.1,Saracrinus angulatus,False,False,False
+MA+MB,KC626677.1,Ptilometra macronema,False,False,False
+MA+MB,KC626676.1,Ptilocrinus clarki,False,False,False
+MA+MB,KC626675.1,Ptilocrinus clarki,False,False,False
+MA+MB,KC626674.1,Ptilocrinus australis,False,False,False
+MA+MB,KC626673.1,Pterometra trichopoda,False,False,False
+MA+MB,KC626672.1,Psathyrometra sp. ME25,False,False,False
+MA+MB,KC626671.1,Porphyrocrinus thalassae,False,False,False
+MA+MB,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+MA+MB,KC626669.1,Poliometra prolixa,False,False,False
+MA+MB,KC626668.1,Phrynocrinus nudus,False,False,False
+MA+MB,KC626667.1,Perometra robusta,False,False,False
+MA+MB,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+MA+MB,KC626664.1,Oligometra carpenteri,False,False,False
+MA+MB,KC626663.1,Neometra sappho,False,False,False
+MA+MB,KC626662.1,Neogymnocrinus richeri,False,False,False
+MA+MB,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+MA+MB,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+MA+MB,KC626659.1,Metacrinus serratus,False,False,False
+MA+MB,KC626658.1,Metacrinus rotundus,False,False,False
+MA+MB,KC626657.1,Metacrinus levii,False,False,False
+MA+MB,KC626656.1,Mariametra subcarinata,False,False,False
+MA+MB,KC626655.1,Leptometra celtica,False,False,False
+MA+MB,KC626653.1,Koehlermetra porrecta,False,False,False
+MA+MB,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+MA+MB,KC626651.1,Hypalocrinus naresianus,False,False,False
+MA+MB,KC626650.1,Hyocrinus bethellianus,False,False,False
+MA+MB,KC626649.1,Homalometra denticulata,False,False,False
+MA+MB,KC626648.1,Holopus alidis,False,False,False
+MA+MB,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+MA+MB,KC626646.1,Homalometra crenulata,False,False,False
+MA+MB,KC626645.1,Heliometra glacialis,False,False,False
+MA+MB,KC626644.1,Hathrometra tenella,False,False,False
+MA+MB,KC626643.1,Florometra serratissima,False,False,False
+MA+MB,KC626642.1,Florometra novaezealandiae,False,False,False
+MA+MB,KC626641.1,Promachocrinus mawsoni,False,False,False
+MA+MB,KC626640.1,Florometra asperrima,False,False,False
+MA+MB,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+MA+MB,KC626638.1,Eudiocrinus serripinna,False,False,False
+MA+MB,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+MA+MB,KC626636.1,Euantedon sp. EUA470,False,False,False
+MA+MB,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+MA+MB,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+MA+MB,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+MA+MB,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+MA+MB,KC626631.1,Dorometra briseis,False,False,False
+MA+MB,KC626630.1,Democrinus weberi,False,False,False
+MA+MB,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+MA+MB,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+MA+MB,KC626627.1,Cyllometra manca,False,False,False
+MA+MB,KC626626.1,Comissia norfolkensis,False,False,False
+MA+MB,KC626625.1,Comatula pectinata,False,False,False
+MA+MB,KC626624.1,Comatonia cristata,False,False,False
+MA+MB,KC626623.1,Coccometra hagenii,False,False,False
+MA+MB,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+MA+MB,KC626621.1,Chondrometra rugosa,False,False,False
+MA+MB,KC626620.1,Charitometra basicurva,False,False,False
+MA+MB,KC626619.1,Capillaster squarrosus,False,False,False
+MA+MB,KC626618.1,Calometra discoidea,False,False,False
+MA+MB,KC626617.1,Caledonicrinus vaubani,False,False,False
+MA+MB,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+MA+MB,KC626615.1,Argyrometra mortenseni,False,False,False
+MA+MB,KC626614.1,Aporometra sp. LH153,False,False,False
+MA+MB,KC626613.1,Aphanocomaster pulcher,False,False,False
+MA+MB,KC626612.1,Antedon serrata,False,False,False
+MA+MB,KC626611.1,Antedon petasus,False,False,False
+MA+MB,KC626610.1,Antedon mediterranea,False,False,False
+MA+MB,KC626609.1,Antedon loveni,False,False,False
+MA+MB,KC626608.1,Antedon incommoda,False,False,False
+MA+MB,KC626607.1,Antedon hupferi,False,False,False
+MA+MB,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+MA+MB,KC626605.1,Antedon cf. iris AI390,False,False,False
+MA+MB,KC626604.1,Antedon bifida,False,False,False
+MA+MB,KC626603.1,Antedon mediterranea,False,False,False
+MA+MB,KC626602.1,Annametra occidentalis,False,False,False
+MA+MB,KC626601.1,Andrometra psyche,False,False,False
+MA+MB,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+MA+MB,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+MA+MB,KC616745.1,Ptilocrinus australis,False,False,False
+MA+MB,KC616744.1,Dumetocrinus antarcticus,False,False,False
+MA+MB,KC616743.1,Notocrinus virilis,False,False,False
+MA+MB,KC616742.1,Isometra sp. Iso174,False,False,False
+MA+MB,KC616741.1,Isometra sp. 5314,False,False,False
+MA+MB,KC616740.1,Feracrinus sp. Pti176,False,False,False
+MA+MB,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+MA+MB,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+MA+MB,KC626654.1,Dichrometra palmata,False,False,False
+MA+MB,JX296556.1,Hypalocrinus naresianus,False,False,False
+MA+MB,JX312800.1,Heliometra glacialis,False,False,False
+MA+MB,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+MA+MB,JQ340211.1,Anthometrina adriani,False,False,False
+MA+MB,JQ340210.1,Notocrinus virilis,False,False,False
+MA+MB,DQ297091.1,Florometra serratissima,False,False,False
+MA+MB,AY275905.1,Metacrinus rotundus,False,False,False
+MA+MB,AY275904.1,Metacrinus sp. D1442,False,False,False
+MA+MB,AY275903.1,Holopus alidis,False,False,False
+MA+MB,AY275902.1,Neogymnocrinus richeri,False,False,False
+MA+MB,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+MA+MB,AY275900.1,Caledonicrinus vaubani,False,False,False
+MA+MB,AY275899.1,Bathycrinus sp. D1425,False,False,False
+MA+MB,AY652521.1,Antedon bifida,False,False,False
+LD,AF049132.1,Florometra serratissima,True,True,False
+LD,AM404181.1,Antedon mediterranea,True,True,True
+LD,DQ068951.1,Neogymnocrinus richeri,True,False,False
+LD,DQ068952.1,Phanogenia gracilis,True,True,False
+LD,MF966246.1,Stephanometra indica,True,True,True
+LD,MN883538.1,Florometra sp. BMK-2020,True,True,True
+LD,MT302206.1,Florometra sp. BMK-2020,True,True,False
+LD,MW008594.1,Anneissia pinguis,True,True,True
+LD,MW376476.1,Anneissia intermedia,True,True,True
+LD,MW405444.1,Oligometra serripinna,True,True,True
+LD,MW526391.2,Comaster schlegelii,True,True,False
+LD,MW526392.2,Comanthus parvicirrus,True,True,False
+LD,MW884542.1,Comanthus parvicirrus,True,True,False
+LD,NC_061054.1,Cenometra bella,True,True,True
+LD,NC_066490.1,Poliometra prolixa,True,True,True
+LD,NC_068252.1,Comatella stelligera,True,True,False
+LD,NC_068254.1,Comatella nigra,True,True,True
+LD,NC_068797.1,Metacrinus rotundus,True,False,False
+LD,NC_069630.1,Tropiometra macrodiscus,True,True,True
+LD,NC_069919.1,Zygometra comata,True,True,True
+LD,OM272942.1,Comanthus sp. 2 MS-2014,True,True,True
+LD,OP546034.1,Capillaster sp. DH-Y2,True,False,False
+LD,OP546035.1,Ptilometra sp. DH-R,True,True,True
+LD,OQ207656.1,Thaumatocrinus sp. JL223,True,True,False
+LD,OQ721985.1,Hyocrinidae sp.,True,True,False
+LD,PV742399.1,Decametra tigrina,True,True,True
+LD,PZ343777.1,Cyllometra manca,True,True,False
+LD,GU327907.1,Zygometra microdiscus,False,False,False
+LD,GU327906.1,Tropiometra afra,False,False,False
+LD,GU327905.1,Psathyrometra fragilis,False,False,False
+LD,GU327904.1,Cosmiometra aster,False,False,False
+LD,GU327903.1,Ptilometra macronema,False,False,False
+LD,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+LD,GU327901.1,Notocrinus virilis,False,False,False
+LD,GU327900.1,Dichrometra articulata,False,False,False
+LD,GU327899.1,Stephanometra indica,False,False,False
+LD,GU327898.1,Himerometra robustipinna,False,False,False
+LD,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+LD,GU327896.1,Comatella nigra,False,False,False
+LD,GU327895.1,Clarkcomanthus littoralis,False,False,False
+LD,GU327894.1,Cenolia trichoptera,False,False,False
+LD,GU327893.1,Comanthus wahlbergii,False,False,False
+LD,GU327892.1,Alloeocomatella pectinifera,False,False,False
+LD,GU327891.1,Colobometra perspinosa,False,False,False
+LD,GU327890.1,Cenometra bella,False,False,False
+LD,GU327889.1,Crinometra brevipinna,False,False,False
+LD,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+LD,GU327887.1,Aporometra wilsoni,False,False,False
+LD,GU327886.1,Promachocrinus kerguelensis,False,False,False
+LD,GU327885.1,Heliometra glacialis maxima,False,False,False
+LD,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+LD,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+LD,GU327882.1,Monachocrinus caribbeus,False,False,False
+LD,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+LD,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+LD,GU327879.1,Saracrinus moosai,False,False,False
+LD,GU327878.1,Proisocrinus ruberrimus,False,False,False
+LD,GU327877.1,Metacrinus levii,False,False,False
+LD,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+LD,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+LD,GU327874.1,Endoxocrinus parrae,False,False,False
+LD,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+LD,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+LD,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+LD,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+LD,GU327869.1,Holopus rangii,False,False,False
+LD,NC_060843.1,Comanthus parvicirrus,True,True,False
+LD,NC_059908.1,Anneissia intermedia,True,True,True
+LD,NC_054279.1,Anneissia pinguis,True,True,True
+LD,NC_045944.1,Stephanometra indica,True,True,True
+LD,NC_010692.1,Antedon mediterranea,True,True,True
+LD,NC_007690.1,Phanogenia gracilis,True,True,False
+LD,NC_007689.1,Neogymnocrinus richeri,True,False,False
+LD,NC_001878.1,Florometra serratissima,True,True,False
+LD,ON381167.1,Tropiometra macrodiscus,True,True,True
+LD,ON585667.1,Zygometra comata,True,True,True
+LD,OM964491.1,Metacrinus rotundus,True,False,False
+LD,OM321037.1,Comatella nigra,True,True,True
+LD,OM313186.1,Comatella stelligera,True,True,False
+LD,OP177937.1,Poliometra prolixa,True,True,True
+LD,OK509084.1,Cenometra bella,True,True,True
+LD,MW868294.1,Comaster schlegelii,True,True,False
+LD,KM014339.1,Lamberticrinus messingi,False,False,False
+LD,KM014338.1,Antedon sp. MMS-2014,False,False,False
+LD,KU519517.1,Crinoidea sp. NHM_300,False,False,False
+LD,KU519516.1,Crinoidea sp. NHM_056,False,False,False
+LD,KU519515.1,Crinoidea sp. NHM_055,False,False,False
+LD,KU519514.1,Crinoidea sp. NHM_008,False,False,False
+LD,KC626665.1,Paratelecrinus wyvilli,False,False,False
+LD,KC626598.1,Adelatelecrinus vallatus,False,False,False
+LD,KJ875066.1,Neocomatella pulchella,False,False,False
+LD,KJ875065.1,Comatulella brachiolata,False,False,False
+LD,KJ875064.1,Phanogenia multibrachiata,False,False,False
+LD,KJ875063.1,Phanogenia gracilis,False,False,False
+LD,KJ875062.1,Phanogenia gracilis,False,False,False
+LD,KJ875061.1,Phanogenia typica,False,False,False
+LD,KJ875060.1,Anneissia japonica,False,False,False
+LD,KJ875059.1,Clarkcomanthus mirus,False,False,False
+LD,KJ875058.1,Anneissia bennetti,False,False,False
+LD,KJ875057.1,Anneissia bennetti,False,False,False
+LD,KJ875056.1,Davidaster rubiginosus,False,False,False
+LD,KJ875055.1,Davidaster discoideus,False,False,False
+LD,KJ875054.1,Comatula solaris,False,False,False
+LD,KJ875053.1,Comatula rotalaria,False,False,False
+LD,KJ875052.1,Comatula pectinata,False,False,False
+LD,KJ875051.1,Comatella stelligera,False,False,False
+LD,KJ875050.1,Comatella nigra,False,False,False
+LD,KJ875049.1,Comatella nigra,False,False,False
+LD,KJ875048.1,Comaster schlegelii,False,False,False
+LD,KJ875047.1,Comaster multifidus,False,False,False
+LD,KJ875046.1,Comaster audax,False,False,False
+LD,KJ875045.1,Comanthus sp. 1 MS-2014,False,False,False
+LD,KJ875044.1,Comanthus wahlbergii,False,False,False
+LD,KJ875043.1,Comanthus suavia,False,False,False
+LD,KJ875042.1,Comanthus sp. 3 MS-2014,False,False,False
+LD,KJ875041.1,Comanthus sp. 2 MS-2014,False,False,False
+LD,KJ875040.1,Comanthus parvicirrus,False,False,False
+LD,KJ875039.1,Clarkcomanthus mirabilis,False,False,False
+LD,KJ875038.1,Comanthus sp. 4 MS-2014,False,False,False
+LD,KJ875037.1,Comanthus gisleni,False,False,False
+LD,KJ875036.1,Comanthus briareus,False,False,False
+LD,KJ875035.1,Clarkcomanthus alternans,False,False,False
+LD,KJ875034.1,Comactinia titan,False,False,False
+LD,KJ875033.1,Comactinia meridionalis,False,False,False
+LD,KJ875032.1,Comactinia echinoptera,False,False,False
+LD,KJ875031.1,Clarkcomanthus luteofuscum,False,False,False
+LD,KJ875030.1,Clarkcomanthus littoralis,False,False,False
+LD,KJ875029.1,Clarkcomanthus albinotus,False,False,False
+LD,KJ875028.1,Cenolia tasmaniae,False,False,False
+LD,KJ875027.1,Cenolia glebosus,False,False,False
+LD,KJ875026.1,Capillaster multiradiatus,False,False,False
+LD,KJ875025.1,Capillaster multiradiatus,False,False,False
+LD,KJ875024.1,Alloeocomatella polycladia,False,False,False
+LD,KJ875023.1,Alloeocomatella sp. n. MS-2014,False,False,False
+LD,KM491765.1,Clarkcomanthus luteofuscum,False,False,False
+LD,KC626689.1,Zygometra andromeda,False,False,False
+LD,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+LD,KC626687.1,Trichometra cubensis,False,False,False
+LD,KC626686.1,Toxometra bicolor,False,False,False
+LD,KC626685.1,Thaumatocrinus renovatus,False,False,False
+LD,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+LD,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+LD,KC626682.1,Strotometra ornatissimus,False,False,False
+LD,KC626681.1,Stenometra cristata,False,False,False
+LD,KC626680.1,Sarametra triserialis,False,False,False
+LD,KC626679.1,Saracrinus nobilis,False,False,False
+LD,KC626678.1,Saracrinus angulatus,False,False,False
+LD,KC626677.1,Ptilometra macronema,False,False,False
+LD,KC626676.1,Ptilocrinus clarki,False,False,False
+LD,KC626675.1,Ptilocrinus clarki,False,False,False
+LD,KC626674.1,Ptilocrinus australis,False,False,False
+LD,KC626673.1,Pterometra trichopoda,False,False,False
+LD,KC626672.1,Psathyrometra sp. ME25,False,False,False
+LD,KC626671.1,Porphyrocrinus thalassae,False,False,False
+LD,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+LD,KC626669.1,Poliometra prolixa,False,False,False
+LD,KC626668.1,Phrynocrinus nudus,False,False,False
+LD,KC626667.1,Perometra robusta,False,False,False
+LD,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+LD,KC626664.1,Oligometra carpenteri,False,False,False
+LD,KC626663.1,Neometra sappho,False,False,False
+LD,KC626662.1,Neogymnocrinus richeri,False,False,False
+LD,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+LD,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+LD,KC626659.1,Metacrinus serratus,False,False,False
+LD,KC626658.1,Metacrinus rotundus,False,False,False
+LD,KC626657.1,Metacrinus levii,False,False,False
+LD,KC626656.1,Mariametra subcarinata,False,False,False
+LD,KC626655.1,Leptometra celtica,False,False,False
+LD,KC626653.1,Koehlermetra porrecta,False,False,False
+LD,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+LD,KC626651.1,Hypalocrinus naresianus,False,False,False
+LD,KC626650.1,Hyocrinus bethellianus,False,False,False
+LD,KC626649.1,Homalometra denticulata,False,False,False
+LD,KC626648.1,Holopus alidis,False,False,False
+LD,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+LD,KC626646.1,Homalometra crenulata,False,False,False
+LD,KC626645.1,Heliometra glacialis,False,False,False
+LD,KC626644.1,Hathrometra tenella,False,False,False
+LD,KC626643.1,Florometra serratissima,False,False,False
+LD,KC626642.1,Florometra novaezealandiae,False,False,False
+LD,KC626641.1,Promachocrinus mawsoni,False,False,False
+LD,KC626640.1,Florometra asperrima,False,False,False
+LD,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+LD,KC626638.1,Eudiocrinus serripinna,False,False,False
+LD,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+LD,KC626636.1,Euantedon sp. EUA470,False,False,False
+LD,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+LD,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+LD,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+LD,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+LD,KC626631.1,Dorometra briseis,False,False,False
+LD,KC626630.1,Democrinus weberi,False,False,False
+LD,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+LD,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+LD,KC626627.1,Cyllometra manca,False,False,False
+LD,KC626626.1,Comissia norfolkensis,False,False,False
+LD,KC626625.1,Comatula pectinata,False,False,False
+LD,KC626624.1,Comatonia cristata,False,False,False
+LD,KC626623.1,Coccometra hagenii,False,False,False
+LD,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+LD,KC626621.1,Chondrometra rugosa,False,False,False
+LD,KC626620.1,Charitometra basicurva,False,False,False
+LD,KC626619.1,Capillaster squarrosus,False,False,False
+LD,KC626618.1,Calometra discoidea,False,False,False
+LD,KC626617.1,Caledonicrinus vaubani,False,False,False
+LD,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+LD,KC626615.1,Argyrometra mortenseni,False,False,False
+LD,KC626614.1,Aporometra sp. LH153,False,False,False
+LD,KC626613.1,Aphanocomaster pulcher,False,False,False
+LD,KC626612.1,Antedon serrata,False,False,False
+LD,KC626611.1,Antedon petasus,False,False,False
+LD,KC626610.1,Antedon mediterranea,False,False,False
+LD,KC626609.1,Antedon loveni,False,False,False
+LD,KC626608.1,Antedon incommoda,False,False,False
+LD,KC626607.1,Antedon hupferi,False,False,False
+LD,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+LD,KC626605.1,Antedon cf. iris AI390,False,False,False
+LD,KC626604.1,Antedon bifida,False,False,False
+LD,KC626603.1,Antedon mediterranea,False,False,False
+LD,KC626602.1,Annametra occidentalis,False,False,False
+LD,KC626601.1,Andrometra psyche,False,False,False
+LD,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+LD,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+LD,KC616745.1,Ptilocrinus australis,False,False,False
+LD,KC616744.1,Dumetocrinus antarcticus,False,False,False
+LD,KC616743.1,Notocrinus virilis,False,False,False
+LD,KC616742.1,Isometra sp. Iso174,False,False,False
+LD,KC616741.1,Isometra sp. 5314,False,False,False
+LD,KC616740.1,Feracrinus sp. Pti176,False,False,False
+LD,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+LD,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+LD,KC626654.1,Dichrometra palmata,False,False,False
+LD,JX296556.1,Hypalocrinus naresianus,False,False,False
+LD,JX312800.1,Heliometra glacialis,False,False,False
+LD,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+LD,JQ340211.1,Anthometrina adriani,False,False,False
+LD,JQ340210.1,Notocrinus virilis,False,False,False
+LD,DQ297091.1,Florometra serratissima,False,False,False
+LD,AY275905.1,Metacrinus rotundus,False,False,False
+LD,AY275904.1,Metacrinus sp. D1442,False,False,False
+LD,AY275903.1,Holopus alidis,False,False,False
+LD,AY275902.1,Neogymnocrinus richeri,False,False,False
+LD,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+LD,AY275900.1,Caledonicrinus vaubani,False,False,False
+LD,AY275899.1,Bathycrinus sp. D1425,False,False,False
+LD,AY652521.1,Antedon bifida,False,False,False
+L,AF049132.1,Florometra serratissima,True,True,True
+L,AM404181.1,Antedon mediterranea,True,True,False
+L,DQ068951.1,Neogymnocrinus richeri,True,False,False
+L,DQ068952.1,Phanogenia gracilis,True,True,False
+L,MF966246.1,Stephanometra indica,True,True,False
+L,MN883538.1,Florometra sp. BMK-2020,True,True,True
+L,MT302206.1,Florometra sp. BMK-2020,True,True,False
+L,MW008594.1,Anneissia pinguis,True,True,False
+L,MW376476.1,Anneissia intermedia,True,True,False
+L,MW405444.1,Oligometra serripinna,True,True,True
+L,MW526391.2,Comaster schlegelii,True,True,False
+L,MW526392.2,Comanthus parvicirrus,True,True,False
+L,MW884542.1,Comanthus parvicirrus,True,True,False
+L,NC_061054.1,Cenometra bella,True,True,True
+L,NC_066490.1,Poliometra prolixa,True,True,True
+L,NC_068252.1,Comatella stelligera,True,True,False
+L,NC_068254.1,Comatella nigra,True,True,True
+L,NC_068797.1,Metacrinus rotundus,True,False,False
+L,NC_069630.1,Tropiometra macrodiscus,True,True,False
+L,NC_069919.1,Zygometra comata,True,True,False
+L,OM272942.1,Comanthus sp. 2 MS-2014,True,True,False
+L,OP546034.1,Capillaster sp. DH-Y2,True,True,False
+L,OP546035.1,Ptilometra sp. DH-R,True,True,True
+L,OQ207656.1,Thaumatocrinus sp. JL223,True,True,False
+L,OQ721985.1,Hyocrinidae sp.,True,False,False
+L,PV742399.1,Decametra tigrina,True,True,True
+L,PZ343777.1,Cyllometra manca,True,True,False
+L,GU327907.1,Zygometra microdiscus,False,False,False
+L,GU327906.1,Tropiometra afra,False,False,False
+L,GU327905.1,Psathyrometra fragilis,False,False,False
+L,GU327904.1,Cosmiometra aster,False,False,False
+L,GU327903.1,Ptilometra macronema,False,False,False
+L,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+L,GU327901.1,Notocrinus virilis,False,False,False
+L,GU327900.1,Dichrometra articulata,False,False,False
+L,GU327899.1,Stephanometra indica,False,False,False
+L,GU327898.1,Himerometra robustipinna,False,False,False
+L,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+L,GU327896.1,Comatella nigra,False,False,False
+L,GU327895.1,Clarkcomanthus littoralis,False,False,False
+L,GU327894.1,Cenolia trichoptera,False,False,False
+L,GU327893.1,Comanthus wahlbergii,False,False,False
+L,GU327892.1,Alloeocomatella pectinifera,False,False,False
+L,GU327891.1,Colobometra perspinosa,False,False,False
+L,GU327890.1,Cenometra bella,False,False,False
+L,GU327889.1,Crinometra brevipinna,False,False,False
+L,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+L,GU327887.1,Aporometra wilsoni,False,False,False
+L,GU327886.1,Promachocrinus kerguelensis,False,False,False
+L,GU327885.1,Heliometra glacialis maxima,False,False,False
+L,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+L,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+L,GU327882.1,Monachocrinus caribbeus,False,False,False
+L,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+L,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+L,GU327879.1,Saracrinus moosai,False,False,False
+L,GU327878.1,Proisocrinus ruberrimus,False,False,False
+L,GU327877.1,Metacrinus levii,False,False,False
+L,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+L,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+L,GU327874.1,Endoxocrinus parrae,False,False,False
+L,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+L,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+L,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+L,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+L,GU327869.1,Holopus rangii,False,False,False
+L,NC_060843.1,Comanthus parvicirrus,True,True,False
+L,NC_059908.1,Anneissia intermedia,True,True,False
+L,NC_054279.1,Anneissia pinguis,True,True,False
+L,NC_045944.1,Stephanometra indica,True,True,False
+L,NC_010692.1,Antedon mediterranea,True,True,False
+L,NC_007690.1,Phanogenia gracilis,True,True,False
+L,NC_007689.1,Neogymnocrinus richeri,True,False,False
+L,NC_001878.1,Florometra serratissima,True,True,True
+L,ON381167.1,Tropiometra macrodiscus,True,True,False
+L,ON585667.1,Zygometra comata,True,True,False
+L,OM964491.1,Metacrinus rotundus,True,False,False
+L,OM321037.1,Comatella nigra,True,True,True
+L,OM313186.1,Comatella stelligera,True,True,False
+L,OP177937.1,Poliometra prolixa,True,True,True
+L,OK509084.1,Cenometra bella,True,True,True
+L,MW868294.1,Comaster schlegelii,True,True,False
+L,KM014339.1,Lamberticrinus messingi,False,False,False
+L,KM014338.1,Antedon sp. MMS-2014,False,False,False
+L,KU519517.1,Crinoidea sp. NHM_300,False,False,False
+L,KU519516.1,Crinoidea sp. NHM_056,False,False,False
+L,KU519515.1,Crinoidea sp. NHM_055,False,False,False
+L,KU519514.1,Crinoidea sp. NHM_008,False,False,False
+L,KC626665.1,Paratelecrinus wyvilli,False,False,False
+L,KC626598.1,Adelatelecrinus vallatus,False,False,False
+L,KJ875066.1,Neocomatella pulchella,False,False,False
+L,KJ875065.1,Comatulella brachiolata,False,False,False
+L,KJ875064.1,Phanogenia multibrachiata,False,False,False
+L,KJ875063.1,Phanogenia gracilis,False,False,False
+L,KJ875062.1,Phanogenia gracilis,False,False,False
+L,KJ875061.1,Phanogenia typica,False,False,False
+L,KJ875060.1,Anneissia japonica,False,False,False
+L,KJ875059.1,Clarkcomanthus mirus,False,False,False
+L,KJ875058.1,Anneissia bennetti,False,False,False
+L,KJ875057.1,Anneissia bennetti,False,False,False
+L,KJ875056.1,Davidaster rubiginosus,False,False,False
+L,KJ875055.1,Davidaster discoideus,False,False,False
+L,KJ875054.1,Comatula solaris,False,False,False
+L,KJ875053.1,Comatula rotalaria,False,False,False
+L,KJ875052.1,Comatula pectinata,False,False,False
+L,KJ875051.1,Comatella stelligera,False,False,False
+L,KJ875050.1,Comatella nigra,False,False,False
+L,KJ875049.1,Comatella nigra,False,False,False
+L,KJ875048.1,Comaster schlegelii,False,False,False
+L,KJ875047.1,Comaster multifidus,False,False,False
+L,KJ875046.1,Comaster audax,False,False,False
+L,KJ875045.1,Comanthus sp. 1 MS-2014,False,False,False
+L,KJ875044.1,Comanthus wahlbergii,False,False,False
+L,KJ875043.1,Comanthus suavia,False,False,False
+L,KJ875042.1,Comanthus sp. 3 MS-2014,False,False,False
+L,KJ875041.1,Comanthus sp. 2 MS-2014,False,False,False
+L,KJ875040.1,Comanthus parvicirrus,False,False,False
+L,KJ875039.1,Clarkcomanthus mirabilis,False,False,False
+L,KJ875038.1,Comanthus sp. 4 MS-2014,False,False,False
+L,KJ875037.1,Comanthus gisleni,False,False,False
+L,KJ875036.1,Comanthus briareus,False,False,False
+L,KJ875035.1,Clarkcomanthus alternans,False,False,False
+L,KJ875034.1,Comactinia titan,False,False,False
+L,KJ875033.1,Comactinia meridionalis,False,False,False
+L,KJ875032.1,Comactinia echinoptera,False,False,False
+L,KJ875031.1,Clarkcomanthus luteofuscum,False,False,False
+L,KJ875030.1,Clarkcomanthus littoralis,False,False,False
+L,KJ875029.1,Clarkcomanthus albinotus,False,False,False
+L,KJ875028.1,Cenolia tasmaniae,False,False,False
+L,KJ875027.1,Cenolia glebosus,False,False,False
+L,KJ875026.1,Capillaster multiradiatus,False,False,False
+L,KJ875025.1,Capillaster multiradiatus,False,False,False
+L,KJ875024.1,Alloeocomatella polycladia,False,False,False
+L,KJ875023.1,Alloeocomatella sp. n. MS-2014,False,False,False
+L,KM491765.1,Clarkcomanthus luteofuscum,False,False,False
+L,KC626689.1,Zygometra andromeda,False,False,False
+L,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+L,KC626687.1,Trichometra cubensis,False,False,False
+L,KC626686.1,Toxometra bicolor,False,False,False
+L,KC626685.1,Thaumatocrinus renovatus,False,False,False
+L,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+L,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+L,KC626682.1,Strotometra ornatissimus,False,False,False
+L,KC626681.1,Stenometra cristata,False,False,False
+L,KC626680.1,Sarametra triserialis,False,False,False
+L,KC626679.1,Saracrinus nobilis,False,False,False
+L,KC626678.1,Saracrinus angulatus,False,False,False
+L,KC626677.1,Ptilometra macronema,False,False,False
+L,KC626676.1,Ptilocrinus clarki,False,False,False
+L,KC626675.1,Ptilocrinus clarki,False,False,False
+L,KC626674.1,Ptilocrinus australis,False,False,False
+L,KC626673.1,Pterometra trichopoda,False,False,False
+L,KC626672.1,Psathyrometra sp. ME25,False,False,False
+L,KC626671.1,Porphyrocrinus thalassae,False,False,False
+L,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+L,KC626669.1,Poliometra prolixa,False,False,False
+L,KC626668.1,Phrynocrinus nudus,False,False,False
+L,KC626667.1,Perometra robusta,False,False,False
+L,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+L,KC626664.1,Oligometra carpenteri,False,False,False
+L,KC626663.1,Neometra sappho,False,False,False
+L,KC626662.1,Neogymnocrinus richeri,False,False,False
+L,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+L,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+L,KC626659.1,Metacrinus serratus,False,False,False
+L,KC626658.1,Metacrinus rotundus,False,False,False
+L,KC626657.1,Metacrinus levii,False,False,False
+L,KC626656.1,Mariametra subcarinata,False,False,False
+L,KC626655.1,Leptometra celtica,False,False,False
+L,KC626653.1,Koehlermetra porrecta,False,False,False
+L,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+L,KC626651.1,Hypalocrinus naresianus,False,False,False
+L,KC626650.1,Hyocrinus bethellianus,False,False,False
+L,KC626649.1,Homalometra denticulata,False,False,False
+L,KC626648.1,Holopus alidis,False,False,False
+L,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+L,KC626646.1,Homalometra crenulata,False,False,False
+L,KC626645.1,Heliometra glacialis,False,False,False
+L,KC626644.1,Hathrometra tenella,False,False,False
+L,KC626643.1,Florometra serratissima,False,False,False
+L,KC626642.1,Florometra novaezealandiae,False,False,False
+L,KC626641.1,Promachocrinus mawsoni,False,False,False
+L,KC626640.1,Florometra asperrima,False,False,False
+L,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+L,KC626638.1,Eudiocrinus serripinna,False,False,False
+L,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+L,KC626636.1,Euantedon sp. EUA470,False,False,False
+L,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+L,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+L,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+L,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+L,KC626631.1,Dorometra briseis,False,False,False
+L,KC626630.1,Democrinus weberi,False,False,False
+L,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+L,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+L,KC626627.1,Cyllometra manca,False,False,False
+L,KC626626.1,Comissia norfolkensis,False,False,False
+L,KC626625.1,Comatula pectinata,False,False,False
+L,KC626624.1,Comatonia cristata,False,False,False
+L,KC626623.1,Coccometra hagenii,False,False,False
+L,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+L,KC626621.1,Chondrometra rugosa,False,False,False
+L,KC626620.1,Charitometra basicurva,False,False,False
+L,KC626619.1,Capillaster squarrosus,False,False,False
+L,KC626618.1,Calometra discoidea,False,False,False
+L,KC626617.1,Caledonicrinus vaubani,False,False,False
+L,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+L,KC626615.1,Argyrometra mortenseni,False,False,False
+L,KC626614.1,Aporometra sp. LH153,False,False,False
+L,KC626613.1,Aphanocomaster pulcher,False,False,False
+L,KC626612.1,Antedon serrata,False,False,False
+L,KC626611.1,Antedon petasus,False,False,False
+L,KC626610.1,Antedon mediterranea,False,False,False
+L,KC626609.1,Antedon loveni,False,False,False
+L,KC626608.1,Antedon incommoda,False,False,False
+L,KC626607.1,Antedon hupferi,False,False,False
+L,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+L,KC626605.1,Antedon cf. iris AI390,False,False,False
+L,KC626604.1,Antedon bifida,False,False,False
+L,KC626603.1,Antedon mediterranea,False,False,False
+L,KC626602.1,Annametra occidentalis,False,False,False
+L,KC626601.1,Andrometra psyche,False,False,False
+L,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+L,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+L,KC616745.1,Ptilocrinus australis,False,False,False
+L,KC616744.1,Dumetocrinus antarcticus,False,False,False
+L,KC616743.1,Notocrinus virilis,False,False,False
+L,KC616742.1,Isometra sp. Iso174,False,False,False
+L,KC616741.1,Isometra sp. 5314,False,False,False
+L,KC616740.1,Feracrinus sp. Pti176,False,False,False
+L,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+L,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+L,KC626654.1,Dichrometra palmata,False,False,False
+L,JX296556.1,Hypalocrinus naresianus,False,False,False
+L,JX312800.1,Heliometra glacialis,False,False,False
+L,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+L,JQ340211.1,Anthometrina adriani,False,False,False
+L,JQ340210.1,Notocrinus virilis,False,False,False
+L,DQ297091.1,Florometra serratissima,False,False,False
+L,AY275905.1,Metacrinus rotundus,False,False,False
+L,AY275904.1,Metacrinus sp. D1442,False,False,False
+L,AY275903.1,Holopus alidis,False,False,False
+L,AY275902.1,Neogymnocrinus richeri,False,False,False
+L,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+L,AY275900.1,Caledonicrinus vaubani,False,False,False
+L,AY275899.1,Bathycrinus sp. D1425,False,False,False
+L,AY652521.1,Antedon bifida,False,False,False
+LA+LB,AF049132.1,Florometra serratissima,True,True,True
+LA+LB,AM404181.1,Antedon mediterranea,True,True,True
+LA+LB,DQ068951.1,Neogymnocrinus richeri,True,False,False
+LA+LB,DQ068952.1,Phanogenia gracilis,True,True,False
+LA+LB,MF966246.1,Stephanometra indica,True,True,True
+LA+LB,MN883538.1,Florometra sp. BMK-2020,True,True,True
+LA+LB,MT302206.1,Florometra sp. BMK-2020,True,True,False
+LA+LB,MW008594.1,Anneissia pinguis,True,True,False
+LA+LB,MW376476.1,Anneissia intermedia,True,True,False
+LA+LB,MW405444.1,Oligometra serripinna,True,True,True
+LA+LB,MW526391.2,Comaster schlegelii,True,True,False
+LA+LB,MW526392.2,Comanthus parvicirrus,True,True,False
+LA+LB,MW884542.1,Comanthus parvicirrus,True,True,False
+LA+LB,NC_061054.1,Cenometra bella,True,True,True
+LA+LB,NC_066490.1,Poliometra prolixa,True,True,True
+LA+LB,NC_068252.1,Comatella stelligera,True,True,False
+LA+LB,NC_068254.1,Comatella nigra,True,True,True
+LA+LB,NC_068797.1,Metacrinus rotundus,True,False,False
+LA+LB,NC_069630.1,Tropiometra macrodiscus,True,True,False
+LA+LB,NC_069919.1,Zygometra comata,True,True,False
+LA+LB,OM272942.1,Comanthus sp. 2 MS-2014,True,True,False
+LA+LB,OP546034.1,Capillaster sp. DH-Y2,True,True,False
+LA+LB,OP546035.1,Ptilometra sp. DH-R,True,True,True
+LA+LB,OQ207656.1,Thaumatocrinus sp. JL223,True,True,False
+LA+LB,OQ721985.1,Hyocrinidae sp.,True,False,False
+LA+LB,PV742399.1,Decametra tigrina,True,True,True
+LA+LB,PZ343777.1,Cyllometra manca,True,True,False
+LA+LB,GU327907.1,Zygometra microdiscus,False,False,False
+LA+LB,GU327906.1,Tropiometra afra,False,False,False
+LA+LB,GU327905.1,Psathyrometra fragilis,False,False,False
+LA+LB,GU327904.1,Cosmiometra aster,False,False,False
+LA+LB,GU327903.1,Ptilometra macronema,False,False,False
+LA+LB,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+LA+LB,GU327901.1,Notocrinus virilis,False,False,False
+LA+LB,GU327900.1,Dichrometra articulata,False,False,False
+LA+LB,GU327899.1,Stephanometra indica,False,False,False
+LA+LB,GU327898.1,Himerometra robustipinna,False,False,False
+LA+LB,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+LA+LB,GU327896.1,Comatella nigra,False,False,False
+LA+LB,GU327895.1,Clarkcomanthus littoralis,False,False,False
+LA+LB,GU327894.1,Cenolia trichoptera,False,False,False
+LA+LB,GU327893.1,Comanthus wahlbergii,False,False,False
+LA+LB,GU327892.1,Alloeocomatella pectinifera,False,False,False
+LA+LB,GU327891.1,Colobometra perspinosa,False,False,False
+LA+LB,GU327890.1,Cenometra bella,False,False,False
+LA+LB,GU327889.1,Crinometra brevipinna,False,False,False
+LA+LB,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+LA+LB,GU327887.1,Aporometra wilsoni,False,False,False
+LA+LB,GU327886.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,GU327885.1,Heliometra glacialis maxima,False,False,False
+LA+LB,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+LA+LB,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+LA+LB,GU327882.1,Monachocrinus caribbeus,False,False,False
+LA+LB,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+LA+LB,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+LA+LB,GU327879.1,Saracrinus moosai,False,False,False
+LA+LB,GU327878.1,Proisocrinus ruberrimus,False,False,False
+LA+LB,GU327877.1,Metacrinus levii,False,False,False
+LA+LB,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+LA+LB,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+LA+LB,GU327874.1,Endoxocrinus parrae,False,False,False
+LA+LB,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+LA+LB,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+LA+LB,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+LA+LB,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+LA+LB,GU327869.1,Holopus rangii,False,False,False
+LA+LB,NC_060843.1,Comanthus parvicirrus,True,True,False
+LA+LB,NC_059908.1,Anneissia intermedia,True,True,False
+LA+LB,NC_054279.1,Anneissia pinguis,True,True,False
+LA+LB,NC_045944.1,Stephanometra indica,True,True,True
+LA+LB,NC_010692.1,Antedon mediterranea,True,True,True
+LA+LB,NC_007690.1,Phanogenia gracilis,True,True,False
+LA+LB,NC_007689.1,Neogymnocrinus richeri,True,False,False
+LA+LB,NC_001878.1,Florometra serratissima,True,True,True
+LA+LB,ON381167.1,Tropiometra macrodiscus,True,True,False
+LA+LB,ON585667.1,Zygometra comata,True,True,False
+LA+LB,OM964491.1,Metacrinus rotundus,True,False,False
+LA+LB,OM321037.1,Comatella nigra,True,True,True
+LA+LB,OM313186.1,Comatella stelligera,True,True,False
+LA+LB,OP177937.1,Poliometra prolixa,True,True,True
+LA+LB,OK509084.1,Cenometra bella,True,True,True
+LA+LB,MW868294.1,Comaster schlegelii,True,True,False
+LA+LB,KM014339.1,Lamberticrinus messingi,False,False,False
+LA+LB,KM014338.1,Antedon sp. MMS-2014,False,False,False
+LA+LB,KU519517.1,Crinoidea sp. NHM_300,False,False,False
+LA+LB,KU519516.1,Crinoidea sp. NHM_056,False,False,False
+LA+LB,KU519515.1,Crinoidea sp. NHM_055,False,False,False
+LA+LB,KU519514.1,Crinoidea sp. NHM_008,False,False,False
+LA+LB,KC626665.1,Paratelecrinus wyvilli,False,False,False
+LA+LB,KC626598.1,Adelatelecrinus vallatus,False,False,False
+LA+LB,KJ875066.1,Neocomatella pulchella,False,False,False
+LA+LB,KJ875065.1,Comatulella brachiolata,False,False,False
+LA+LB,KJ875064.1,Phanogenia multibrachiata,False,False,False
+LA+LB,KJ875063.1,Phanogenia gracilis,False,False,False
+LA+LB,KJ875062.1,Phanogenia gracilis,False,False,False
+LA+LB,KJ875061.1,Phanogenia typica,False,False,False
+LA+LB,KJ875060.1,Anneissia japonica,False,False,False
+LA+LB,KJ875059.1,Clarkcomanthus mirus,False,False,False
+LA+LB,KJ875058.1,Anneissia bennetti,False,False,False
+LA+LB,KJ875057.1,Anneissia bennetti,False,False,False
+LA+LB,KJ875056.1,Davidaster rubiginosus,False,False,False
+LA+LB,KJ875055.1,Davidaster discoideus,False,False,False
+LA+LB,KJ875054.1,Comatula solaris,False,False,False
+LA+LB,KJ875053.1,Comatula rotalaria,False,False,False
+LA+LB,KJ875052.1,Comatula pectinata,False,False,False
+LA+LB,KJ875051.1,Comatella stelligera,False,False,False
+LA+LB,KJ875050.1,Comatella nigra,False,False,False
+LA+LB,KJ875049.1,Comatella nigra,False,False,False
+LA+LB,KJ875048.1,Comaster schlegelii,False,False,False
+LA+LB,KJ875047.1,Comaster multifidus,False,False,False
+LA+LB,KJ875046.1,Comaster audax,False,False,False
+LA+LB,KJ875045.1,Comanthus sp. 1 MS-2014,False,False,False
+LA+LB,KJ875044.1,Comanthus wahlbergii,False,False,False
+LA+LB,KJ875043.1,Comanthus suavia,False,False,False
+LA+LB,KJ875042.1,Comanthus sp. 3 MS-2014,False,False,False
+LA+LB,KJ875041.1,Comanthus sp. 2 MS-2014,False,False,False
+LA+LB,KJ875040.1,Comanthus parvicirrus,False,False,False
+LA+LB,KJ875039.1,Clarkcomanthus mirabilis,False,False,False
+LA+LB,KJ875038.1,Comanthus sp. 4 MS-2014,False,False,False
+LA+LB,KJ875037.1,Comanthus gisleni,False,False,False
+LA+LB,KJ875036.1,Comanthus briareus,False,False,False
+LA+LB,KJ875035.1,Clarkcomanthus alternans,False,False,False
+LA+LB,KJ875034.1,Comactinia titan,False,False,False
+LA+LB,KJ875033.1,Comactinia meridionalis,False,False,False
+LA+LB,KJ875032.1,Comactinia echinoptera,False,False,False
+LA+LB,KJ875031.1,Clarkcomanthus luteofuscum,False,False,False
+LA+LB,KJ875030.1,Clarkcomanthus littoralis,False,False,False
+LA+LB,KJ875029.1,Clarkcomanthus albinotus,False,False,False
+LA+LB,KJ875028.1,Cenolia tasmaniae,False,False,False
+LA+LB,KJ875027.1,Cenolia glebosus,False,False,False
+LA+LB,KJ875026.1,Capillaster multiradiatus,False,False,False
+LA+LB,KJ875025.1,Capillaster multiradiatus,False,False,False
+LA+LB,KJ875024.1,Alloeocomatella polycladia,False,False,False
+LA+LB,KJ875023.1,Alloeocomatella sp. n. MS-2014,False,False,False
+LA+LB,KM491765.1,Clarkcomanthus luteofuscum,False,False,False
+LA+LB,KC626689.1,Zygometra andromeda,False,False,False
+LA+LB,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+LA+LB,KC626687.1,Trichometra cubensis,False,False,False
+LA+LB,KC626686.1,Toxometra bicolor,False,False,False
+LA+LB,KC626685.1,Thaumatocrinus renovatus,False,False,False
+LA+LB,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+LA+LB,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+LA+LB,KC626682.1,Strotometra ornatissimus,False,False,False
+LA+LB,KC626681.1,Stenometra cristata,False,False,False
+LA+LB,KC626680.1,Sarametra triserialis,False,False,False
+LA+LB,KC626679.1,Saracrinus nobilis,False,False,False
+LA+LB,KC626678.1,Saracrinus angulatus,False,False,False
+LA+LB,KC626677.1,Ptilometra macronema,False,False,False
+LA+LB,KC626676.1,Ptilocrinus clarki,False,False,False
+LA+LB,KC626675.1,Ptilocrinus clarki,False,False,False
+LA+LB,KC626674.1,Ptilocrinus australis,False,False,False
+LA+LB,KC626673.1,Pterometra trichopoda,False,False,False
+LA+LB,KC626672.1,Psathyrometra sp. ME25,False,False,False
+LA+LB,KC626671.1,Porphyrocrinus thalassae,False,False,False
+LA+LB,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+LA+LB,KC626669.1,Poliometra prolixa,False,False,False
+LA+LB,KC626668.1,Phrynocrinus nudus,False,False,False
+LA+LB,KC626667.1,Perometra robusta,False,False,False
+LA+LB,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+LA+LB,KC626664.1,Oligometra carpenteri,False,False,False
+LA+LB,KC626663.1,Neometra sappho,False,False,False
+LA+LB,KC626662.1,Neogymnocrinus richeri,False,False,False
+LA+LB,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+LA+LB,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+LA+LB,KC626659.1,Metacrinus serratus,False,False,False
+LA+LB,KC626658.1,Metacrinus rotundus,False,False,False
+LA+LB,KC626657.1,Metacrinus levii,False,False,False
+LA+LB,KC626656.1,Mariametra subcarinata,False,False,False
+LA+LB,KC626655.1,Leptometra celtica,False,False,False
+LA+LB,KC626653.1,Koehlermetra porrecta,False,False,False
+LA+LB,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+LA+LB,KC626651.1,Hypalocrinus naresianus,False,False,False
+LA+LB,KC626650.1,Hyocrinus bethellianus,False,False,False
+LA+LB,KC626649.1,Homalometra denticulata,False,False,False
+LA+LB,KC626648.1,Holopus alidis,False,False,False
+LA+LB,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+LA+LB,KC626646.1,Homalometra crenulata,False,False,False
+LA+LB,KC626645.1,Heliometra glacialis,False,False,False
+LA+LB,KC626644.1,Hathrometra tenella,False,False,False
+LA+LB,KC626643.1,Florometra serratissima,False,False,False
+LA+LB,KC626642.1,Florometra novaezealandiae,False,False,False
+LA+LB,KC626641.1,Promachocrinus mawsoni,False,False,False
+LA+LB,KC626640.1,Florometra asperrima,False,False,False
+LA+LB,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+LA+LB,KC626638.1,Eudiocrinus serripinna,False,False,False
+LA+LB,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+LA+LB,KC626636.1,Euantedon sp. EUA470,False,False,False
+LA+LB,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+LA+LB,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+LA+LB,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+LA+LB,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+LA+LB,KC626631.1,Dorometra briseis,False,False,False
+LA+LB,KC626630.1,Democrinus weberi,False,False,False
+LA+LB,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+LA+LB,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+LA+LB,KC626627.1,Cyllometra manca,False,False,False
+LA+LB,KC626626.1,Comissia norfolkensis,False,False,False
+LA+LB,KC626625.1,Comatula pectinata,False,False,False
+LA+LB,KC626624.1,Comatonia cristata,False,False,False
+LA+LB,KC626623.1,Coccometra hagenii,False,False,False
+LA+LB,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+LA+LB,KC626621.1,Chondrometra rugosa,False,False,False
+LA+LB,KC626620.1,Charitometra basicurva,False,False,False
+LA+LB,KC626619.1,Capillaster squarrosus,False,False,False
+LA+LB,KC626618.1,Calometra discoidea,False,False,False
+LA+LB,KC626617.1,Caledonicrinus vaubani,False,False,False
+LA+LB,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+LA+LB,KC626615.1,Argyrometra mortenseni,False,False,False
+LA+LB,KC626614.1,Aporometra sp. LH153,False,False,False
+LA+LB,KC626613.1,Aphanocomaster pulcher,False,False,False
+LA+LB,KC626612.1,Antedon serrata,False,False,False
+LA+LB,KC626611.1,Antedon petasus,False,False,False
+LA+LB,KC626610.1,Antedon mediterranea,False,False,False
+LA+LB,KC626609.1,Antedon loveni,False,False,False
+LA+LB,KC626608.1,Antedon incommoda,False,False,False
+LA+LB,KC626607.1,Antedon hupferi,False,False,False
+LA+LB,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+LA+LB,KC626605.1,Antedon cf. iris AI390,False,False,False
+LA+LB,KC626604.1,Antedon bifida,False,False,False
+LA+LB,KC626603.1,Antedon mediterranea,False,False,False
+LA+LB,KC626602.1,Annametra occidentalis,False,False,False
+LA+LB,KC626601.1,Andrometra psyche,False,False,False
+LA+LB,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+LA+LB,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+LA+LB,KC616745.1,Ptilocrinus australis,False,False,False
+LA+LB,KC616744.1,Dumetocrinus antarcticus,False,False,False
+LA+LB,KC616743.1,Notocrinus virilis,False,False,False
+LA+LB,KC616742.1,Isometra sp. Iso174,False,False,False
+LA+LB,KC616741.1,Isometra sp. 5314,False,False,False
+LA+LB,KC616740.1,Feracrinus sp. Pti176,False,False,False
+LA+LB,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+LA+LB,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+LA+LB,KC626654.1,Dichrometra palmata,False,False,False
+LA+LB,JX296556.1,Hypalocrinus naresianus,False,False,False
+LA+LB,JX312800.1,Heliometra glacialis,False,False,False
+LA+LB,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+LA+LB,JQ340211.1,Anthometrina adriani,False,False,False
+LA+LB,JQ340210.1,Notocrinus virilis,False,False,False
+LA+LB,DQ297091.1,Florometra serratissima,False,False,False
+LA+LB,AY275905.1,Metacrinus rotundus,False,False,False
+LA+LB,AY275904.1,Metacrinus sp. D1442,False,False,False
+LA+LB,AY275903.1,Holopus alidis,False,False,False
+LA+LB,AY275902.1,Neogymnocrinus richeri,False,False,False
+LA+LB,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+LA+LB,AY275900.1,Caledonicrinus vaubani,False,False,False
+LA+LB,AY275899.1,Bathycrinus sp. D1425,False,False,False
+LA+LB,AY652521.1,Antedon bifida,False,False,False
+XLD,AF049132.1,Florometra serratissima,True,True,True
+XLD,AM404181.1,Antedon mediterranea,True,True,False
+XLD,DQ068951.1,Neogymnocrinus richeri,True,False,False
+XLD,DQ068952.1,Phanogenia gracilis,True,True,False
+XLD,MF966246.1,Stephanometra indica,True,True,True
+XLD,MN883538.1,Florometra sp. BMK-2020,True,True,True
+XLD,MT302206.1,Florometra sp. BMK-2020,True,True,False
+XLD,MW008594.1,Anneissia pinguis,True,True,True
+XLD,MW376476.1,Anneissia intermedia,True,True,True
+XLD,MW405444.1,Oligometra serripinna,True,True,True
+XLD,MW526391.2,Comaster schlegelii,True,True,True
+XLD,MW526392.2,Comanthus parvicirrus,True,True,True
+XLD,MW884542.1,Comanthus parvicirrus,True,True,True
+XLD,NC_061054.1,Cenometra bella,True,True,True
+XLD,NC_066490.1,Poliometra prolixa,True,True,False
+XLD,NC_068252.1,Comatella stelligera,True,False,False
+XLD,NC_068254.1,Comatella nigra,True,False,False
+XLD,NC_068797.1,Metacrinus rotundus,True,True,False
+XLD,NC_069630.1,Tropiometra macrodiscus,True,True,False
+XLD,NC_069919.1,Zygometra comata,True,True,True
+XLD,OM272942.1,Comanthus sp. 2 MS-2014,True,True,True
+XLD,OP546034.1,Capillaster sp. DH-Y2,True,True,False
+XLD,OP546035.1,Ptilometra sp. DH-R,True,True,True
+XLD,OQ207656.1,Thaumatocrinus sp. JL223,True,True,True
+XLD,OQ721985.1,Hyocrinidae sp.,True,True,True
+XLD,PV742399.1,Decametra tigrina,True,True,True
+XLD,PZ343777.1,Cyllometra manca,True,True,True
+XLD,GU327907.1,Zygometra microdiscus,False,False,False
+XLD,GU327906.1,Tropiometra afra,False,False,False
+XLD,GU327905.1,Psathyrometra fragilis,False,False,False
+XLD,GU327904.1,Cosmiometra aster,False,False,False
+XLD,GU327903.1,Ptilometra macronema,False,False,False
+XLD,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+XLD,GU327901.1,Notocrinus virilis,False,False,False
+XLD,GU327900.1,Dichrometra articulata,False,False,False
+XLD,GU327899.1,Stephanometra indica,False,False,False
+XLD,GU327898.1,Himerometra robustipinna,False,False,False
+XLD,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+XLD,GU327896.1,Comatella nigra,False,False,False
+XLD,GU327895.1,Clarkcomanthus littoralis,False,False,False
+XLD,GU327894.1,Cenolia trichoptera,False,False,False
+XLD,GU327893.1,Comanthus wahlbergii,False,False,False
+XLD,GU327892.1,Alloeocomatella pectinifera,False,False,False
+XLD,GU327891.1,Colobometra perspinosa,False,False,False
+XLD,GU327890.1,Cenometra bella,False,False,False
+XLD,GU327889.1,Crinometra brevipinna,False,False,False
+XLD,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+XLD,GU327887.1,Aporometra wilsoni,False,False,False
+XLD,GU327886.1,Promachocrinus kerguelensis,False,False,False
+XLD,GU327885.1,Heliometra glacialis maxima,False,False,False
+XLD,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+XLD,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+XLD,GU327882.1,Monachocrinus caribbeus,False,False,False
+XLD,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+XLD,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+XLD,GU327879.1,Saracrinus moosai,False,False,False
+XLD,GU327878.1,Proisocrinus ruberrimus,False,False,False
+XLD,GU327877.1,Metacrinus levii,False,False,False
+XLD,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+XLD,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+XLD,GU327874.1,Endoxocrinus parrae,False,False,False
+XLD,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+XLD,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+XLD,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+XLD,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+XLD,GU327869.1,Holopus rangii,False,False,False
+XLD,NC_060843.1,Comanthus parvicirrus,True,True,True
+XLD,NC_059908.1,Anneissia intermedia,True,True,True
+XLD,NC_054279.1,Anneissia pinguis,True,True,True
+XLD,NC_045944.1,Stephanometra indica,True,True,True
+XLD,NC_010692.1,Antedon mediterranea,True,True,False
+XLD,NC_007690.1,Phanogenia gracilis,True,True,False
+XLD,NC_007689.1,Neogymnocrinus richeri,True,False,False
+XLD,NC_001878.1,Florometra serratissima,True,True,True
+XLD,ON381167.1,Tropiometra macrodiscus,True,True,False
+XLD,ON585667.1,Zygometra comata,True,True,True
+XLD,OM964491.1,Metacrinus rotundus,True,True,False
+XLD,OM321037.1,Comatella nigra,True,False,False
+XLD,OM313186.1,Comatella stelligera,True,False,False
+XLD,OP177937.1,Poliometra prolixa,True,True,False
+XLD,OK509084.1,Cenometra bella,True,True,True
+XLD,MW868294.1,Comaster schlegelii,True,True,True
+XLD,KM014339.1,Lamberticrinus messingi,False,False,False
+XLD,KM014338.1,Antedon sp. MMS-2014,False,False,False
+XLD,KU519517.1,Crinoidea sp. NHM_300,False,False,False
+XLD,KU519516.1,Crinoidea sp. NHM_056,False,False,False
+XLD,KU519515.1,Crinoidea sp. NHM_055,False,False,False
+XLD,KU519514.1,Crinoidea sp. NHM_008,False,False,False
+XLD,KC626665.1,Paratelecrinus wyvilli,False,False,False
+XLD,KC626598.1,Adelatelecrinus vallatus,False,False,False
+XLD,KJ875066.1,Neocomatella pulchella,False,False,False
+XLD,KJ875065.1,Comatulella brachiolata,False,False,False
+XLD,KJ875064.1,Phanogenia multibrachiata,False,False,False
+XLD,KJ875063.1,Phanogenia gracilis,False,False,False
+XLD,KJ875062.1,Phanogenia gracilis,False,False,False
+XLD,KJ875061.1,Phanogenia typica,False,False,False
+XLD,KJ875060.1,Anneissia japonica,False,False,False
+XLD,KJ875059.1,Clarkcomanthus mirus,False,False,False
+XLD,KJ875058.1,Anneissia bennetti,False,False,False
+XLD,KJ875057.1,Anneissia bennetti,False,False,False
+XLD,KJ875056.1,Davidaster rubiginosus,False,False,False
+XLD,KJ875055.1,Davidaster discoideus,False,False,False
+XLD,KJ875054.1,Comatula solaris,False,False,False
+XLD,KJ875053.1,Comatula rotalaria,False,False,False
+XLD,KJ875052.1,Comatula pectinata,False,False,False
+XLD,KJ875051.1,Comatella stelligera,False,False,False
+XLD,KJ875050.1,Comatella nigra,False,False,False
+XLD,KJ875049.1,Comatella nigra,False,False,False
+XLD,KJ875048.1,Comaster schlegelii,False,False,False
+XLD,KJ875047.1,Comaster multifidus,False,False,False
+XLD,KJ875046.1,Comaster audax,False,False,False
+XLD,KJ875045.1,Comanthus sp. 1 MS-2014,False,False,False
+XLD,KJ875044.1,Comanthus wahlbergii,False,False,False
+XLD,KJ875043.1,Comanthus suavia,False,False,False
+XLD,KJ875042.1,Comanthus sp. 3 MS-2014,False,False,False
+XLD,KJ875041.1,Comanthus sp. 2 MS-2014,False,False,False
+XLD,KJ875040.1,Comanthus parvicirrus,False,False,False
+XLD,KJ875039.1,Clarkcomanthus mirabilis,False,False,False
+XLD,KJ875038.1,Comanthus sp. 4 MS-2014,False,False,False
+XLD,KJ875037.1,Comanthus gisleni,False,False,False
+XLD,KJ875036.1,Comanthus briareus,False,False,False
+XLD,KJ875035.1,Clarkcomanthus alternans,False,False,False
+XLD,KJ875034.1,Comactinia titan,False,False,False
+XLD,KJ875033.1,Comactinia meridionalis,False,False,False
+XLD,KJ875032.1,Comactinia echinoptera,False,False,False
+XLD,KJ875031.1,Clarkcomanthus luteofuscum,False,False,False
+XLD,KJ875030.1,Clarkcomanthus littoralis,False,False,False
+XLD,KJ875029.1,Clarkcomanthus albinotus,False,False,False
+XLD,KJ875028.1,Cenolia tasmaniae,False,False,False
+XLD,KJ875027.1,Cenolia glebosus,False,False,False
+XLD,KJ875026.1,Capillaster multiradiatus,False,False,False
+XLD,KJ875025.1,Capillaster multiradiatus,False,False,False
+XLD,KJ875024.1,Alloeocomatella polycladia,False,False,False
+XLD,KJ875023.1,Alloeocomatella sp. n. MS-2014,False,False,False
+XLD,KM491765.1,Clarkcomanthus luteofuscum,False,False,False
+XLD,KC626689.1,Zygometra andromeda,False,False,False
+XLD,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+XLD,KC626687.1,Trichometra cubensis,False,False,False
+XLD,KC626686.1,Toxometra bicolor,False,False,False
+XLD,KC626685.1,Thaumatocrinus renovatus,False,False,False
+XLD,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+XLD,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+XLD,KC626682.1,Strotometra ornatissimus,False,False,False
+XLD,KC626681.1,Stenometra cristata,False,False,False
+XLD,KC626680.1,Sarametra triserialis,False,False,False
+XLD,KC626679.1,Saracrinus nobilis,False,False,False
+XLD,KC626678.1,Saracrinus angulatus,False,False,False
+XLD,KC626677.1,Ptilometra macronema,False,False,False
+XLD,KC626676.1,Ptilocrinus clarki,False,False,False
+XLD,KC626675.1,Ptilocrinus clarki,False,False,False
+XLD,KC626674.1,Ptilocrinus australis,False,False,False
+XLD,KC626673.1,Pterometra trichopoda,False,False,False
+XLD,KC626672.1,Psathyrometra sp. ME25,False,False,False
+XLD,KC626671.1,Porphyrocrinus thalassae,False,False,False
+XLD,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+XLD,KC626669.1,Poliometra prolixa,False,False,False
+XLD,KC626668.1,Phrynocrinus nudus,False,False,False
+XLD,KC626667.1,Perometra robusta,False,False,False
+XLD,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+XLD,KC626664.1,Oligometra carpenteri,False,False,False
+XLD,KC626663.1,Neometra sappho,False,False,False
+XLD,KC626662.1,Neogymnocrinus richeri,False,False,False
+XLD,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+XLD,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+XLD,KC626659.1,Metacrinus serratus,False,False,False
+XLD,KC626658.1,Metacrinus rotundus,False,False,False
+XLD,KC626657.1,Metacrinus levii,False,False,False
+XLD,KC626656.1,Mariametra subcarinata,False,False,False
+XLD,KC626655.1,Leptometra celtica,False,False,False
+XLD,KC626653.1,Koehlermetra porrecta,False,False,False
+XLD,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+XLD,KC626651.1,Hypalocrinus naresianus,False,False,False
+XLD,KC626650.1,Hyocrinus bethellianus,False,False,False
+XLD,KC626649.1,Homalometra denticulata,False,False,False
+XLD,KC626648.1,Holopus alidis,False,False,False
+XLD,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+XLD,KC626646.1,Homalometra crenulata,False,False,False
+XLD,KC626645.1,Heliometra glacialis,False,False,False
+XLD,KC626644.1,Hathrometra tenella,False,False,False
+XLD,KC626643.1,Florometra serratissima,False,False,False
+XLD,KC626642.1,Florometra novaezealandiae,False,False,False
+XLD,KC626641.1,Promachocrinus mawsoni,False,False,False
+XLD,KC626640.1,Florometra asperrima,False,False,False
+XLD,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+XLD,KC626638.1,Eudiocrinus serripinna,False,False,False
+XLD,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+XLD,KC626636.1,Euantedon sp. EUA470,False,False,False
+XLD,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+XLD,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+XLD,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+XLD,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+XLD,KC626631.1,Dorometra briseis,False,False,False
+XLD,KC626630.1,Democrinus weberi,False,False,False
+XLD,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+XLD,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+XLD,KC626627.1,Cyllometra manca,False,False,False
+XLD,KC626626.1,Comissia norfolkensis,False,False,False
+XLD,KC626625.1,Comatula pectinata,False,False,False
+XLD,KC626624.1,Comatonia cristata,False,False,False
+XLD,KC626623.1,Coccometra hagenii,False,False,False
+XLD,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+XLD,KC626621.1,Chondrometra rugosa,False,False,False
+XLD,KC626620.1,Charitometra basicurva,False,False,False
+XLD,KC626619.1,Capillaster squarrosus,False,False,False
+XLD,KC626618.1,Calometra discoidea,False,False,False
+XLD,KC626617.1,Caledonicrinus vaubani,False,False,False
+XLD,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+XLD,KC626615.1,Argyrometra mortenseni,False,False,False
+XLD,KC626614.1,Aporometra sp. LH153,False,False,False
+XLD,KC626613.1,Aphanocomaster pulcher,False,False,False
+XLD,KC626612.1,Antedon serrata,False,False,False
+XLD,KC626611.1,Antedon petasus,False,False,False
+XLD,KC626610.1,Antedon mediterranea,False,False,False
+XLD,KC626609.1,Antedon loveni,False,False,False
+XLD,KC626608.1,Antedon incommoda,False,False,False
+XLD,KC626607.1,Antedon hupferi,False,False,False
+XLD,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+XLD,KC626605.1,Antedon cf. iris AI390,False,False,False
+XLD,KC626604.1,Antedon bifida,False,False,False
+XLD,KC626603.1,Antedon mediterranea,False,False,False
+XLD,KC626602.1,Annametra occidentalis,False,False,False
+XLD,KC626601.1,Andrometra psyche,False,False,False
+XLD,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+XLD,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+XLD,KC616745.1,Ptilocrinus australis,False,False,False
+XLD,KC616744.1,Dumetocrinus antarcticus,False,False,False
+XLD,KC616743.1,Notocrinus virilis,False,False,False
+XLD,KC616742.1,Isometra sp. Iso174,False,False,False
+XLD,KC616741.1,Isometra sp. 5314,False,False,False
+XLD,KC616740.1,Feracrinus sp. Pti176,False,False,False
+XLD,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+XLD,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+XLD,KC626654.1,Dichrometra palmata,False,False,False
+XLD,JX296556.1,Hypalocrinus naresianus,False,False,False
+XLD,JX312800.1,Heliometra glacialis,False,False,False
+XLD,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+XLD,JQ340211.1,Anthometrina adriani,False,False,False
+XLD,JQ340210.1,Notocrinus virilis,False,False,False
+XLD,DQ297091.1,Florometra serratissima,False,False,False
+XLD,AY275905.1,Metacrinus rotundus,False,False,False
+XLD,AY275904.1,Metacrinus sp. D1442,False,False,False
+XLD,AY275903.1,Holopus alidis,False,False,False
+XLD,AY275902.1,Neogymnocrinus richeri,False,False,False
+XLD,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+XLD,AY275900.1,Caledonicrinus vaubani,False,False,False
+XLD,AY275899.1,Bathycrinus sp. D1425,False,False,False
+XLD,AY652521.1,Antedon bifida,False,False,False
+XL,AF049132.1,Florometra serratissima,True,True,False
+XL,AM404181.1,Antedon mediterranea,True,True,False
+XL,DQ068951.1,Neogymnocrinus richeri,True,False,False
+XL,DQ068952.1,Phanogenia gracilis,True,False,False
+XL,MF966246.1,Stephanometra indica,True,True,False
+XL,MN883538.1,Florometra sp. BMK-2020,True,True,False
+XL,MT302206.1,Florometra sp. BMK-2020,True,True,False
+XL,MW008594.1,Anneissia pinguis,True,True,False
+XL,MW376476.1,Anneissia intermedia,True,True,False
+XL,MW405444.1,Oligometra serripinna,True,True,False
+XL,MW526391.2,Comaster schlegelii,True,False,False
+XL,MW526392.2,Comanthus parvicirrus,True,True,False
+XL,MW884542.1,Comanthus parvicirrus,True,True,False
+XL,NC_061054.1,Cenometra bella,True,False,False
+XL,NC_066490.1,Poliometra prolixa,True,True,False
+XL,NC_068252.1,Comatella stelligera,True,False,False
+XL,NC_068254.1,Comatella nigra,True,False,False
+XL,NC_068797.1,Metacrinus rotundus,True,True,False
+XL,NC_069630.1,Tropiometra macrodiscus,True,False,False
+XL,NC_069919.1,Zygometra comata,True,True,False
+XL,OM272942.1,Comanthus sp. 2 MS-2014,True,True,True
+XL,OP546034.1,Capillaster sp. DH-Y2,True,False,False
+XL,OP546035.1,Ptilometra sp. DH-R,True,True,False
+XL,OQ207656.1,Thaumatocrinus sp. JL223,True,True,True
+XL,OQ721985.1,Hyocrinidae sp.,True,True,False
+XL,PV742399.1,Decametra tigrina,True,True,False
+XL,PZ343777.1,Cyllometra manca,True,True,False
+XL,GU327907.1,Zygometra microdiscus,False,False,False
+XL,GU327906.1,Tropiometra afra,False,False,False
+XL,GU327905.1,Psathyrometra fragilis,False,False,False
+XL,GU327904.1,Cosmiometra aster,False,False,False
+XL,GU327903.1,Ptilometra macronema,False,False,False
+XL,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+XL,GU327901.1,Notocrinus virilis,False,False,False
+XL,GU327900.1,Dichrometra articulata,False,False,False
+XL,GU327899.1,Stephanometra indica,False,False,False
+XL,GU327898.1,Himerometra robustipinna,False,False,False
+XL,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+XL,GU327896.1,Comatella nigra,False,False,False
+XL,GU327895.1,Clarkcomanthus littoralis,False,False,False
+XL,GU327894.1,Cenolia trichoptera,False,False,False
+XL,GU327893.1,Comanthus wahlbergii,False,False,False
+XL,GU327892.1,Alloeocomatella pectinifera,False,False,False
+XL,GU327891.1,Colobometra perspinosa,False,False,False
+XL,GU327890.1,Cenometra bella,False,False,False
+XL,GU327889.1,Crinometra brevipinna,False,False,False
+XL,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+XL,GU327887.1,Aporometra wilsoni,False,False,False
+XL,GU327886.1,Promachocrinus kerguelensis,False,False,False
+XL,GU327885.1,Heliometra glacialis maxima,False,False,False
+XL,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+XL,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+XL,GU327882.1,Monachocrinus caribbeus,False,False,False
+XL,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+XL,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+XL,GU327879.1,Saracrinus moosai,False,False,False
+XL,GU327878.1,Proisocrinus ruberrimus,False,False,False
+XL,GU327877.1,Metacrinus levii,False,False,False
+XL,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+XL,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+XL,GU327874.1,Endoxocrinus parrae,False,False,False
+XL,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+XL,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+XL,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+XL,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+XL,GU327869.1,Holopus rangii,False,False,False
+XL,NC_060843.1,Comanthus parvicirrus,True,True,False
+XL,NC_059908.1,Anneissia intermedia,True,True,False
+XL,NC_054279.1,Anneissia pinguis,True,True,False
+XL,NC_045944.1,Stephanometra indica,True,True,False
+XL,NC_010692.1,Antedon mediterranea,True,True,False
+XL,NC_007690.1,Phanogenia gracilis,True,False,False
+XL,NC_007689.1,Neogymnocrinus richeri,True,False,False
+XL,NC_001878.1,Florometra serratissima,True,True,False
+XL,ON381167.1,Tropiometra macrodiscus,True,False,False
+XL,ON585667.1,Zygometra comata,True,True,False
+XL,OM964491.1,Metacrinus rotundus,True,True,False
+XL,OM321037.1,Comatella nigra,True,False,False
+XL,OM313186.1,Comatella stelligera,True,False,False
+XL,OP177937.1,Poliometra prolixa,True,True,False
+XL,OK509084.1,Cenometra bella,True,False,False
+XL,MW868294.1,Comaster schlegelii,True,False,False
+XL,KM014339.1,Lamberticrinus messingi,False,False,False
+XL,KM014338.1,Antedon sp. MMS-2014,False,False,False
+XL,KU519517.1,Crinoidea sp. NHM_300,False,False,False
+XL,KU519516.1,Crinoidea sp. NHM_056,False,False,False
+XL,KU519515.1,Crinoidea sp. NHM_055,False,False,False
+XL,KU519514.1,Crinoidea sp. NHM_008,False,False,False
+XL,KC626665.1,Paratelecrinus wyvilli,False,False,False
+XL,KC626598.1,Adelatelecrinus vallatus,False,False,False
+XL,KJ875066.1,Neocomatella pulchella,False,False,False
+XL,KJ875065.1,Comatulella brachiolata,False,False,False
+XL,KJ875064.1,Phanogenia multibrachiata,False,False,False
+XL,KJ875063.1,Phanogenia gracilis,False,False,False
+XL,KJ875062.1,Phanogenia gracilis,False,False,False
+XL,KJ875061.1,Phanogenia typica,False,False,False
+XL,KJ875060.1,Anneissia japonica,False,False,False
+XL,KJ875059.1,Clarkcomanthus mirus,False,False,False
+XL,KJ875058.1,Anneissia bennetti,False,False,False
+XL,KJ875057.1,Anneissia bennetti,False,False,False
+XL,KJ875056.1,Davidaster rubiginosus,False,False,False
+XL,KJ875055.1,Davidaster discoideus,False,False,False
+XL,KJ875054.1,Comatula solaris,False,False,False
+XL,KJ875053.1,Comatula rotalaria,False,False,False
+XL,KJ875052.1,Comatula pectinata,False,False,False
+XL,KJ875051.1,Comatella stelligera,False,False,False
+XL,KJ875050.1,Comatella nigra,False,False,False
+XL,KJ875049.1,Comatella nigra,False,False,False
+XL,KJ875048.1,Comaster schlegelii,False,False,False
+XL,KJ875047.1,Comaster multifidus,False,False,False
+XL,KJ875046.1,Comaster audax,False,False,False
+XL,KJ875045.1,Comanthus sp. 1 MS-2014,False,False,False
+XL,KJ875044.1,Comanthus wahlbergii,False,False,False
+XL,KJ875043.1,Comanthus suavia,False,False,False
+XL,KJ875042.1,Comanthus sp. 3 MS-2014,False,False,False
+XL,KJ875041.1,Comanthus sp. 2 MS-2014,False,False,False
+XL,KJ875040.1,Comanthus parvicirrus,False,False,False
+XL,KJ875039.1,Clarkcomanthus mirabilis,False,False,False
+XL,KJ875038.1,Comanthus sp. 4 MS-2014,False,False,False
+XL,KJ875037.1,Comanthus gisleni,False,False,False
+XL,KJ875036.1,Comanthus briareus,False,False,False
+XL,KJ875035.1,Clarkcomanthus alternans,False,False,False
+XL,KJ875034.1,Comactinia titan,False,False,False
+XL,KJ875033.1,Comactinia meridionalis,False,False,False
+XL,KJ875032.1,Comactinia echinoptera,False,False,False
+XL,KJ875031.1,Clarkcomanthus luteofuscum,False,False,False
+XL,KJ875030.1,Clarkcomanthus littoralis,False,False,False
+XL,KJ875029.1,Clarkcomanthus albinotus,False,False,False
+XL,KJ875028.1,Cenolia tasmaniae,False,False,False
+XL,KJ875027.1,Cenolia glebosus,False,False,False
+XL,KJ875026.1,Capillaster multiradiatus,False,False,False
+XL,KJ875025.1,Capillaster multiradiatus,False,False,False
+XL,KJ875024.1,Alloeocomatella polycladia,False,False,False
+XL,KJ875023.1,Alloeocomatella sp. n. MS-2014,False,False,False
+XL,KM491765.1,Clarkcomanthus luteofuscum,False,False,False
+XL,KC626689.1,Zygometra andromeda,False,False,False
+XL,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+XL,KC626687.1,Trichometra cubensis,False,False,False
+XL,KC626686.1,Toxometra bicolor,False,False,False
+XL,KC626685.1,Thaumatocrinus renovatus,False,False,False
+XL,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+XL,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+XL,KC626682.1,Strotometra ornatissimus,False,False,False
+XL,KC626681.1,Stenometra cristata,False,False,False
+XL,KC626680.1,Sarametra triserialis,False,False,False
+XL,KC626679.1,Saracrinus nobilis,False,False,False
+XL,KC626678.1,Saracrinus angulatus,False,False,False
+XL,KC626677.1,Ptilometra macronema,False,False,False
+XL,KC626676.1,Ptilocrinus clarki,False,False,False
+XL,KC626675.1,Ptilocrinus clarki,False,False,False
+XL,KC626674.1,Ptilocrinus australis,False,False,False
+XL,KC626673.1,Pterometra trichopoda,False,False,False
+XL,KC626672.1,Psathyrometra sp. ME25,False,False,False
+XL,KC626671.1,Porphyrocrinus thalassae,False,False,False
+XL,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+XL,KC626669.1,Poliometra prolixa,False,False,False
+XL,KC626668.1,Phrynocrinus nudus,False,False,False
+XL,KC626667.1,Perometra robusta,False,False,False
+XL,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+XL,KC626664.1,Oligometra carpenteri,False,False,False
+XL,KC626663.1,Neometra sappho,False,False,False
+XL,KC626662.1,Neogymnocrinus richeri,False,False,False
+XL,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+XL,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+XL,KC626659.1,Metacrinus serratus,False,False,False
+XL,KC626658.1,Metacrinus rotundus,False,False,False
+XL,KC626657.1,Metacrinus levii,False,False,False
+XL,KC626656.1,Mariametra subcarinata,False,False,False
+XL,KC626655.1,Leptometra celtica,False,False,False
+XL,KC626653.1,Koehlermetra porrecta,False,False,False
+XL,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+XL,KC626651.1,Hypalocrinus naresianus,False,False,False
+XL,KC626650.1,Hyocrinus bethellianus,False,False,False
+XL,KC626649.1,Homalometra denticulata,False,False,False
+XL,KC626648.1,Holopus alidis,False,False,False
+XL,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+XL,KC626646.1,Homalometra crenulata,False,False,False
+XL,KC626645.1,Heliometra glacialis,False,False,False
+XL,KC626644.1,Hathrometra tenella,False,False,False
+XL,KC626643.1,Florometra serratissima,False,False,False
+XL,KC626642.1,Florometra novaezealandiae,False,False,False
+XL,KC626641.1,Promachocrinus mawsoni,False,False,False
+XL,KC626640.1,Florometra asperrima,False,False,False
+XL,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+XL,KC626638.1,Eudiocrinus serripinna,False,False,False
+XL,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+XL,KC626636.1,Euantedon sp. EUA470,False,False,False
+XL,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+XL,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+XL,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+XL,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+XL,KC626631.1,Dorometra briseis,False,False,False
+XL,KC626630.1,Democrinus weberi,False,False,False
+XL,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+XL,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+XL,KC626627.1,Cyllometra manca,False,False,False
+XL,KC626626.1,Comissia norfolkensis,False,False,False
+XL,KC626625.1,Comatula pectinata,False,False,False
+XL,KC626624.1,Comatonia cristata,False,False,False
+XL,KC626623.1,Coccometra hagenii,False,False,False
+XL,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+XL,KC626621.1,Chondrometra rugosa,False,False,False
+XL,KC626620.1,Charitometra basicurva,False,False,False
+XL,KC626619.1,Capillaster squarrosus,False,False,False
+XL,KC626618.1,Calometra discoidea,False,False,False
+XL,KC626617.1,Caledonicrinus vaubani,False,False,False
+XL,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+XL,KC626615.1,Argyrometra mortenseni,False,False,False
+XL,KC626614.1,Aporometra sp. LH153,False,False,False
+XL,KC626613.1,Aphanocomaster pulcher,False,False,False
+XL,KC626612.1,Antedon serrata,False,False,False
+XL,KC626611.1,Antedon petasus,False,False,False
+XL,KC626610.1,Antedon mediterranea,False,False,False
+XL,KC626609.1,Antedon loveni,False,False,False
+XL,KC626608.1,Antedon incommoda,False,False,False
+XL,KC626607.1,Antedon hupferi,False,False,False
+XL,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+XL,KC626605.1,Antedon cf. iris AI390,False,False,False
+XL,KC626604.1,Antedon bifida,False,False,False
+XL,KC626603.1,Antedon mediterranea,False,False,False
+XL,KC626602.1,Annametra occidentalis,False,False,False
+XL,KC626601.1,Andrometra psyche,False,False,False
+XL,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+XL,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+XL,KC616745.1,Ptilocrinus australis,False,False,False
+XL,KC616744.1,Dumetocrinus antarcticus,False,False,False
+XL,KC616743.1,Notocrinus virilis,False,False,False
+XL,KC616742.1,Isometra sp. Iso174,False,False,False
+XL,KC616741.1,Isometra sp. 5314,False,False,False
+XL,KC616740.1,Feracrinus sp. Pti176,False,False,False
+XL,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+XL,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+XL,KC626654.1,Dichrometra palmata,False,False,False
+XL,JX296556.1,Hypalocrinus naresianus,False,False,False
+XL,JX312800.1,Heliometra glacialis,False,False,False
+XL,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+XL,JQ340211.1,Anthometrina adriani,False,False,False
+XL,JQ340210.1,Notocrinus virilis,False,False,False
+XL,DQ297091.1,Florometra serratissima,False,False,False
+XL,AY275905.1,Metacrinus rotundus,False,False,False
+XL,AY275904.1,Metacrinus sp. D1442,False,False,False
+XL,AY275903.1,Holopus alidis,False,False,False
+XL,AY275902.1,Neogymnocrinus richeri,False,False,False
+XL,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+XL,AY275900.1,Caledonicrinus vaubani,False,False,False
+XL,AY275899.1,Bathycrinus sp. D1425,False,False,False
+XL,AY652521.1,Antedon bifida,False,False,False
+XLA+XLB,AF049132.1,Florometra serratissima,True,True,False
+XLA+XLB,AM404181.1,Antedon mediterranea,True,True,False
+XLA+XLB,DQ068951.1,Neogymnocrinus richeri,True,False,False
+XLA+XLB,DQ068952.1,Phanogenia gracilis,True,True,False
+XLA+XLB,MF966246.1,Stephanometra indica,True,True,False
+XLA+XLB,MN883538.1,Florometra sp. BMK-2020,True,True,False
+XLA+XLB,MT302206.1,Florometra sp. BMK-2020,True,True,False
+XLA+XLB,MW008594.1,Anneissia pinguis,True,True,False
+XLA+XLB,MW376476.1,Anneissia intermedia,True,True,False
+XLA+XLB,MW405444.1,Oligometra serripinna,True,True,False
+XLA+XLB,MW526391.2,Comaster schlegelii,True,True,True
+XLA+XLB,MW526392.2,Comanthus parvicirrus,True,True,False
+XLA+XLB,MW884542.1,Comanthus parvicirrus,True,True,False
+XLA+XLB,NC_061054.1,Cenometra bella,True,True,False
+XLA+XLB,NC_066490.1,Poliometra prolixa,True,True,False
+XLA+XLB,NC_068252.1,Comatella stelligera,True,True,False
+XLA+XLB,NC_068254.1,Comatella nigra,True,True,False
+XLA+XLB,NC_068797.1,Metacrinus rotundus,True,True,False
+XLA+XLB,NC_069630.1,Tropiometra macrodiscus,True,False,False
+XLA+XLB,NC_069919.1,Zygometra comata,True,True,False
+XLA+XLB,OM272942.1,Comanthus sp. 2 MS-2014,True,True,True
+XLA+XLB,OP546034.1,Capillaster sp. DH-Y2,True,True,True
+XLA+XLB,OP546035.1,Ptilometra sp. DH-R,True,True,False
+XLA+XLB,OQ207656.1,Thaumatocrinus sp. JL223,True,True,True
+XLA+XLB,OQ721985.1,Hyocrinidae sp.,True,True,False
+XLA+XLB,PV742399.1,Decametra tigrina,True,True,False
+XLA+XLB,PZ343777.1,Cyllometra manca,True,True,False
+XLA+XLB,GU327907.1,Zygometra microdiscus,False,False,False
+XLA+XLB,GU327906.1,Tropiometra afra,False,False,False
+XLA+XLB,GU327905.1,Psathyrometra fragilis,False,False,False
+XLA+XLB,GU327904.1,Cosmiometra aster,False,False,False
+XLA+XLB,GU327903.1,Ptilometra macronema,False,False,False
+XLA+XLB,GU327902.1,Pentametrocrinus sp. GWR-2010,False,False,False
+XLA+XLB,GU327901.1,Notocrinus virilis,False,False,False
+XLA+XLB,GU327900.1,Dichrometra articulata,False,False,False
+XLA+XLB,GU327899.1,Stephanometra indica,False,False,False
+XLA+XLB,GU327898.1,Himerometra robustipinna,False,False,False
+XLA+XLB,GU327897.1,Clarkcomanthus comanthipinna,False,False,False
+XLA+XLB,GU327896.1,Comatella nigra,False,False,False
+XLA+XLB,GU327895.1,Clarkcomanthus littoralis,False,False,False
+XLA+XLB,GU327894.1,Cenolia trichoptera,False,False,False
+XLA+XLB,GU327893.1,Comanthus wahlbergii,False,False,False
+XLA+XLB,GU327892.1,Alloeocomatella pectinifera,False,False,False
+XLA+XLB,GU327891.1,Colobometra perspinosa,False,False,False
+XLA+XLB,GU327890.1,Cenometra bella,False,False,False
+XLA+XLB,GU327889.1,Crinometra brevipinna,False,False,False
+XLA+XLB,GU327888.1,Chondrometra sp. GWR-2010,False,False,False
+XLA+XLB,GU327887.1,Aporometra wilsoni,False,False,False
+XLA+XLB,GU327886.1,Promachocrinus kerguelensis,True,True,False
+XLA+XLB,GU327885.1,Heliometra glacialis maxima,False,False,False
+XLA+XLB,GU327884.1,Vityazicrinus sp. GWR-2010,False,False,False
+XLA+XLB,GU327883.1,Porphyrocrinus verrucosus,False,False,False
+XLA+XLB,GU327882.1,Monachocrinus caribbeus,False,False,False
+XLA+XLB,GU327881.1,Democrinus cf. brevis GWR-2010,False,False,False
+XLA+XLB,GU327880.1,Bathycrinus sp. GWR-2010,False,False,False
+XLA+XLB,GU327879.1,Saracrinus moosai,False,False,False
+XLA+XLB,GU327878.1,Proisocrinus ruberrimus,False,False,False
+XLA+XLB,GU327877.1,Metacrinus levii,False,False,False
+XLA+XLB,GU327876.1,Endoxocrinus sp. GWR-2010,False,False,False
+XLA+XLB,GU327875.1,Endoxocrinus cf. parrae GWR-2010,False,False,False
+XLA+XLB,GU327874.1,Endoxocrinus parrae,False,False,False
+XLA+XLB,GU327873.1,Endoxocrinus alternicirrus,False,False,False
+XLA+XLB,GU327872.1,Thalassocrinus sp. GWR-2010,False,False,False
+XLA+XLB,GU327871.1,Hyocrinus sp. GWR-2010,False,False,False
+XLA+XLB,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
+XLA+XLB,GU327869.1,Holopus rangii,False,False,False
+XLA+XLB,NC_060843.1,Comanthus parvicirrus,True,True,False
+XLA+XLB,NC_059908.1,Anneissia intermedia,True,True,False
+XLA+XLB,NC_054279.1,Anneissia pinguis,True,True,False
+XLA+XLB,NC_045944.1,Stephanometra indica,True,True,False
+XLA+XLB,NC_010692.1,Antedon mediterranea,True,True,False
+XLA+XLB,NC_007690.1,Phanogenia gracilis,True,True,False
+XLA+XLB,NC_007689.1,Neogymnocrinus richeri,True,False,False
+XLA+XLB,NC_001878.1,Florometra serratissima,True,True,False
+XLA+XLB,ON381167.1,Tropiometra macrodiscus,True,False,False
+XLA+XLB,ON585667.1,Zygometra comata,True,True,False
+XLA+XLB,OM964491.1,Metacrinus rotundus,True,True,False
+XLA+XLB,OM321037.1,Comatella nigra,True,True,False
+XLA+XLB,OM313186.1,Comatella stelligera,True,True,False
+XLA+XLB,OP177937.1,Poliometra prolixa,True,True,False
+XLA+XLB,OK509084.1,Cenometra bella,True,True,False
+XLA+XLB,MW868294.1,Comaster schlegelii,True,True,True
+XLA+XLB,KM014339.1,Lamberticrinus messingi,True,False,False
+XLA+XLB,KM014338.1,Antedon sp. MMS-2014,True,False,False
+XLA+XLB,KU519517.1,Crinoidea sp. NHM_300,True,False,False
+XLA+XLB,KU519516.1,Crinoidea sp. NHM_056,True,False,False
+XLA+XLB,KU519515.1,Crinoidea sp. NHM_055,True,True,False
+XLA+XLB,KU519514.1,Crinoidea sp. NHM_008,True,False,False
+XLA+XLB,KC626665.1,Paratelecrinus wyvilli,False,False,False
+XLA+XLB,KC626598.1,Adelatelecrinus vallatus,False,False,False
+XLA+XLB,KJ875066.1,Neocomatella pulchella,True,True,True
+XLA+XLB,KJ875065.1,Comatulella brachiolata,True,True,True
+XLA+XLB,KJ875064.1,Phanogenia multibrachiata,True,True,True
+XLA+XLB,KJ875063.1,Phanogenia gracilis,False,False,False
+XLA+XLB,KJ875062.1,Phanogenia gracilis,True,True,False
+XLA+XLB,KJ875061.1,Phanogenia typica,True,True,False
+XLA+XLB,KJ875060.1,Anneissia japonica,True,True,False
+XLA+XLB,KJ875059.1,Clarkcomanthus mirus,True,True,True
+XLA+XLB,KJ875058.1,Anneissia bennetti,True,True,True
+XLA+XLB,KJ875057.1,Anneissia bennetti,True,True,True
+XLA+XLB,KJ875056.1,Davidaster rubiginosus,False,False,False
+XLA+XLB,KJ875055.1,Davidaster discoideus,True,True,False
+XLA+XLB,KJ875054.1,Comatula solaris,True,True,False
+XLA+XLB,KJ875053.1,Comatula rotalaria,True,True,True
+XLA+XLB,KJ875052.1,Comatula pectinata,True,True,False
+XLA+XLB,KJ875051.1,Comatella stelligera,True,True,False
+XLA+XLB,KJ875050.1,Comatella nigra,True,True,False
+XLA+XLB,KJ875049.1,Comatella nigra,True,True,False
+XLA+XLB,KJ875048.1,Comaster schlegelii,True,True,True
+XLA+XLB,KJ875047.1,Comaster multifidus,True,True,False
+XLA+XLB,KJ875046.1,Comaster audax,True,True,True
+XLA+XLB,KJ875045.1,Comanthus sp. 1 MS-2014,True,True,False
+XLA+XLB,KJ875044.1,Comanthus wahlbergii,True,True,False
+XLA+XLB,KJ875043.1,Comanthus suavia,True,True,False
+XLA+XLB,KJ875042.1,Comanthus sp. 3 MS-2014,True,True,False
+XLA+XLB,KJ875041.1,Comanthus sp. 2 MS-2014,True,True,False
+XLA+XLB,KJ875040.1,Comanthus parvicirrus,True,True,False
+XLA+XLB,KJ875039.1,Clarkcomanthus mirabilis,True,True,False
+XLA+XLB,KJ875038.1,Comanthus sp. 4 MS-2014,True,True,False
+XLA+XLB,KJ875037.1,Comanthus gisleni,True,True,False
+XLA+XLB,KJ875036.1,Comanthus briareus,True,True,False
+XLA+XLB,KJ875035.1,Clarkcomanthus alternans,False,False,False
+XLA+XLB,KJ875034.1,Comactinia titan,True,True,True
+XLA+XLB,KJ875033.1,Comactinia meridionalis,True,True,True
+XLA+XLB,KJ875032.1,Comactinia echinoptera,True,True,True
+XLA+XLB,KJ875031.1,Clarkcomanthus luteofuscum,True,True,True
+XLA+XLB,KJ875030.1,Clarkcomanthus littoralis,True,True,True
+XLA+XLB,KJ875029.1,Clarkcomanthus albinotus,True,True,True
+XLA+XLB,KJ875028.1,Cenolia tasmaniae,True,True,False
+XLA+XLB,KJ875027.1,Cenolia glebosus,True,True,False
+XLA+XLB,KJ875026.1,Capillaster multiradiatus,True,True,True
+XLA+XLB,KJ875025.1,Capillaster multiradiatus,True,True,True
+XLA+XLB,KJ875024.1,Alloeocomatella polycladia,True,True,False
+XLA+XLB,KJ875023.1,Alloeocomatella sp. n. MS-2014,True,False,False
+XLA+XLB,KM491765.1,Clarkcomanthus luteofuscum,True,True,True
+XLA+XLB,KC626689.1,Zygometra andromeda,False,False,False
+XLA+XLB,KC626688.1,Tropiometra cf. carinata MADA04,False,False,False
+XLA+XLB,KC626687.1,Trichometra cubensis,False,False,False
+XLA+XLB,KC626686.1,Toxometra bicolor,False,False,False
+XLA+XLB,KC626685.1,Thaumatocrinus renovatus,False,False,False
+XLA+XLB,KC626684.1,Thalassometra cf. margaritifera THA38,False,False,False
+XLA+XLB,KC626683.1,Thalassocrinus cf. pontifer ALCP284271,False,False,False
+XLA+XLB,KC626682.1,Strotometra ornatissimus,False,False,False
+XLA+XLB,KC626681.1,Stenometra cristata,False,False,False
+XLA+XLB,KC626680.1,Sarametra triserialis,False,False,False
+XLA+XLB,KC626679.1,Saracrinus nobilis,False,False,False
+XLA+XLB,KC626678.1,Saracrinus angulatus,False,False,False
+XLA+XLB,KC626677.1,Ptilometra macronema,False,False,False
+XLA+XLB,KC626676.1,Ptilocrinus clarki,False,False,False
+XLA+XLB,KC626675.1,Ptilocrinus clarki,False,False,False
+XLA+XLB,KC626674.1,Ptilocrinus australis,False,False,False
+XLA+XLB,KC626673.1,Pterometra trichopoda,False,False,False
+XLA+XLB,KC626672.1,Psathyrometra sp. ME25,False,False,False
+XLA+XLB,KC626671.1,Porphyrocrinus thalassae,False,False,False
+XLA+XLB,KC626670.1,Porphyrocrinus cf. verrucosus POR138,False,False,False
+XLA+XLB,KC626669.1,Poliometra prolixa,False,False,False
+XLA+XLB,KC626668.1,Phrynocrinus nudus,False,False,False
+XLA+XLB,KC626667.1,Perometra robusta,False,False,False
+XLA+XLB,KC626666.1,Pentametrocrinus cf. semperi PENT51,False,False,False
+XLA+XLB,KC626664.1,Oligometra carpenteri,False,False,False
+XLA+XLB,KC626663.1,Neometra sappho,False,False,False
+XLA+XLB,KC626662.1,Neogymnocrinus richeri,False,False,False
+XLA+XLB,KC626661.1,Nanometra cf. johnstoni ME14,False,False,False
+XLA+XLB,KC626660.1,Monachocrinus sp. BATHY91,False,False,False
+XLA+XLB,KC626659.1,Metacrinus serratus,False,False,False
+XLA+XLB,KC626658.1,Metacrinus rotundus,False,False,False
+XLA+XLB,KC626657.1,Metacrinus levii,False,False,False
+XLA+XLB,KC626656.1,Mariametra subcarinata,False,False,False
+XLA+XLB,KC626655.1,Leptometra celtica,False,False,False
+XLA+XLB,KC626653.1,Koehlermetra porrecta,False,False,False
+XLA+XLB,KC626652.1,Hypalocrinus sp. HYP1,False,False,False
+XLA+XLB,KC626651.1,Hypalocrinus naresianus,False,False,False
+XLA+XLB,KC626650.1,Hyocrinus bethellianus,False,False,False
+XLA+XLB,KC626649.1,Homalometra denticulata,False,False,False
+XLA+XLB,KC626648.1,Holopus alidis,False,False,False
+XLA+XLB,KC626647.1,Himerometra cf. robustipinna HROB42,False,False,False
+XLA+XLB,KC626646.1,Homalometra crenulata,False,False,False
+XLA+XLB,KC626645.1,Heliometra glacialis,False,False,False
+XLA+XLB,KC626644.1,Hathrometra tenella,False,False,False
+XLA+XLB,KC626643.1,Florometra serratissima,False,False,False
+XLA+XLB,KC626642.1,Florometra novaezealandiae,False,False,False
+XLA+XLB,KC626641.1,Promachocrinus mawsoni,False,False,False
+XLA+XLB,KC626640.1,Florometra asperrima,False,False,False
+XLA+XLB,KC626639.1,Eumorphometra sp. EUM03,False,False,False
+XLA+XLB,KC626638.1,Eudiocrinus serripinna,False,False,False
+XLA+XLB,KC626637.1,Eudiocrinus cf. pinnatus ME70,False,False,False
+XLA+XLB,KC626636.1,Euantedon sp. EUA470,False,False,False
+XLA+XLB,KC626635.1,Eometra cf. weddelli EO4591,False,False,False
+XLA+XLB,KC626634.1,Endoxocrinus alternicirrus,False,False,False
+XLA+XLB,KC626633.1,Endoxocrinus alternicirrus,False,False,False
+XLA+XLB,KC626632.1,Dumetocrinus aff. antarcticus DUM11,False,False,False
+XLA+XLB,KC626631.1,Dorometra briseis,False,False,False
+XLA+XLB,KC626630.1,Democrinus weberi,False,False,False
+XLA+XLB,KC626629.1,Democrinus cf. rawsonii CON145,False,False,False
+XLA+XLB,KC626628.1,Decametra cf. alaudae DECA32,False,False,False
+XLA+XLB,KC626627.1,Cyllometra manca,False,False,False
+XLA+XLB,KC626626.1,Comissia norfolkensis,False,False,False
+XLA+XLB,KC626625.1,Comatula pectinata,False,False,False
+XLA+XLB,KC626624.1,Comatonia cristata,False,False,False
+XLA+XLB,KC626623.1,Coccometra hagenii,False,False,False
+XLA+XLB,KC626622.1,Clarkcomanthus luteofuscum,False,False,False
+XLA+XLB,KC626621.1,Chondrometra rugosa,False,False,False
+XLA+XLB,KC626620.1,Charitometra basicurva,False,False,False
+XLA+XLB,KC626619.1,Capillaster squarrosus,False,False,False
+XLA+XLB,KC626618.1,Calometra discoidea,False,False,False
+XLA+XLB,KC626617.1,Caledonicrinus vaubani,False,False,False
+XLA+XLB,KC626616.1,Asterometra cf. cristata ACRI45,False,False,False
+XLA+XLB,KC626615.1,Argyrometra mortenseni,False,False,False
+XLA+XLB,KC626614.1,Aporometra sp. LH153,False,False,False
+XLA+XLB,KC626613.1,Aphanocomaster pulcher,False,False,False
+XLA+XLB,KC626612.1,Antedon serrata,False,False,False
+XLA+XLB,KC626611.1,Antedon petasus,False,False,False
+XLA+XLB,KC626610.1,Antedon mediterranea,False,False,False
+XLA+XLB,KC626609.1,Antedon loveni,False,False,False
+XLA+XLB,KC626608.1,Antedon incommoda,False,False,False
+XLA+XLB,KC626607.1,Antedon hupferi,False,False,False
+XLA+XLB,KC626606.1,Antedon cf. parviflora AP377MV,False,False,False
+XLA+XLB,KC626605.1,Antedon cf. iris AI390,False,False,False
+XLA+XLB,KC626604.1,Antedon bifida,False,False,False
+XLA+XLB,KC626603.1,Antedon mediterranea,False,False,False
+XLA+XLB,KC626602.1,Annametra occidentalis,False,False,False
+XLA+XLB,KC626601.1,Andrometra psyche,False,False,False
+XLA+XLB,KC626600.1,Anachalypsicrinus nefertiti,False,False,False
+XLA+XLB,KC626599.1,Anachalypsicrinus nefertiti,False,False,False
+XLA+XLB,KC616745.1,Ptilocrinus australis,False,False,False
+XLA+XLB,KC616744.1,Dumetocrinus antarcticus,False,False,False
+XLA+XLB,KC616743.1,Notocrinus virilis,False,False,False
+XLA+XLB,KC616742.1,Isometra sp. Iso174,False,False,False
+XLA+XLB,KC616741.1,Isometra sp. 5314,False,False,False
+XLA+XLB,KC616740.1,Feracrinus sp. Pti176,False,False,False
+XLA+XLB,KC616739.1,Calamocrinus sp. Pti289,False,False,False
+XLA+XLB,KC616738.1,Bathycrinus sp. Ba335,False,False,False
+XLA+XLB,KC626654.1,Dichrometra palmata,False,False,False
+XLA+XLB,JX296556.1,Hypalocrinus naresianus,False,False,False
+XLA+XLB,JX312800.1,Heliometra glacialis,True,False,False
+XLA+XLB,JQ340234.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340233.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340232.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340231.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340230.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340229.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340228.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340227.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340226.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340225.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340224.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340223.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340222.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340221.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340220.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340219.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340218.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340217.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340216.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340215.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340214.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340213.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340212.1,Promachocrinus kerguelensis,False,False,False
+XLA+XLB,JQ340211.1,Anthometrina adriani,False,False,False
+XLA+XLB,JQ340210.1,Notocrinus virilis,False,False,False
+XLA+XLB,DQ297091.1,Florometra serratissima,True,False,False
+XLA+XLB,AY275905.1,Metacrinus rotundus,False,False,False
+XLA+XLB,AY275904.1,Metacrinus sp. D1442,False,False,False
+XLA+XLB,AY275903.1,Holopus alidis,False,False,False
+XLA+XLB,AY275902.1,Neogymnocrinus richeri,False,False,False
+XLA+XLB,AY275901.1,Guillecrinus neocaledonicus,False,False,False
+XLA+XLB,AY275900.1,Caledonicrinus vaubani,False,False,False
+XLA+XLB,AY275899.1,Bathycrinus sp. D1425,False,False,False
+XLA+XLB,AY652521.1,Antedon bifida,True,False,False

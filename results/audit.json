@@ -1,0 +1,86 @@
+[
+  {
+    "scheme": "SD",
+    "eligible": 127,
+    "thermal_rejections": 0,
+    "coverage": 0.84,
+    "exact": 0.66
+  },
+  {
+    "scheme": "S",
+    "eligible": 79,
+    "thermal_rejections": 0,
+    "coverage": 0.66,
+    "exact": 0.28
+  },
+  {
+    "scheme": "SA+SB",
+    "eligible": 79,
+    "thermal_rejections": 0,
+    "coverage": 0.84,
+    "exact": 0.18
+  },
+  {
+    "scheme": "MD",
+    "eligible": 71,
+    "thermal_rejections": 0,
+    "coverage": 0.92,
+    "exact": 0.26
+  },
+  {
+    "scheme": "M",
+    "eligible": 40,
+    "thermal_rejections": 0,
+    "coverage": 0.76,
+    "exact": 0.14
+  },
+  {
+    "scheme": "MA+MB",
+    "eligible": 40,
+    "thermal_rejections": 0,
+    "coverage": 0.88,
+    "exact": 0.22
+  },
+  {
+    "scheme": "LD",
+    "eligible": 76,
+    "thermal_rejections": 0,
+    "coverage": 0.88,
+    "exact": 0.54
+  },
+  {
+    "scheme": "L",
+    "eligible": 44,
+    "thermal_rejections": 0,
+    "coverage": 0.88,
+    "exact": 0.3
+  },
+  {
+    "scheme": "LA+LB",
+    "eligible": 44,
+    "thermal_rejections": 0,
+    "coverage": 0.88,
+    "exact": 0.38
+  },
+  {
+    "scheme": "XLD",
+    "eligible": 72,
+    "thermal_rejections": 0,
+    "coverage": 0.88,
+    "exact": 0.62
+  },
+  {
+    "scheme": "XL",
+    "eligible": 50,
+    "thermal_rejections": 0,
+    "coverage": 0.68,
+    "exact": 0.08
+  },
+  {
+    "scheme": "XLA+XLB",
+    "eligible": 50,
+    "thermal_rejections": 0,
+    "coverage": 0.92,
+    "exact": 0.16
+  }
+]
