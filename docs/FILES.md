@@ -14,3 +14,7 @@
 | [Reproduction bundle](../reproduction_sources.zip) | Frozen S–XL inputs and XS evaluation sources |
 | [Reproduction](REPRODUCIBILITY.md) | Commands and tested scope |
 | [Copyright](../COPYRIGHT.md) | Fei Xia (GUIBA-EX), rights and permissions |
+| [Target matching](../figures/performance_matching.svg) | Coverage and exact matching on the common panel / 共同面板覆盖与完全匹配 |
+| [Background matching](../figures/performance_background.svg) | Strict, exact and permissive non-target hits / 严格、完全及宽松非目标命中 |
+| [Length and degeneracy](../figures/performance_design.svg) | Full target-scan product ranges and F/R variants / 全目标扫描产物范围及F/R简并度 |
+| [Figure script](../scripts/plot_performance.py) | Rebuild SVG/PNG performance figures with Matplotlib / 复现性能图 |
