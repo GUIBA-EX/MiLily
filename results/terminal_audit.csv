@@ -1,4 +1,6 @@
 name,side,sequence,variants,terminal3,last_base_degenerate,all_variants_pass
+XS,F,TTGGGGCAACCDCGAAG,3,AAG,False,True
+XS,R,CAACATCGAGGTCGCAAAC,1,AAC,False,True
 SD,F,GATCTAMTGAWRYYCCAA,32,CAA,False,True
 SD,R,TRTCCCTTTTRGYYTWGY,64,WGY,True,True
 S,F,GATCTAATGAAACCCCAA,1,CAA,False,True

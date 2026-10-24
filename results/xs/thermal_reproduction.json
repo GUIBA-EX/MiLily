@@ -1,0 +1,145 @@
+{
+  "F": "TTGGGGCAACCDCGAAG",
+  "R": "CAACATCGAGGTCGCAAAC",
+  "scenarios": [
+    {
+      "scenario": "50_per_variant",
+      "F_tm_min": 56.653827421597384,
+      "F_tm_max": 60.668637941877364,
+      "R_tm_min": 57.342462906242304,
+      "R_tm_max": 57.342462906242304,
+      "structure_max": 69.35685389585768
+    },
+    {
+      "scenario": "200_per_direction",
+      "F_tm_min": 57.1287735247422,
+      "F_tm_max": 61.13940336968426,
+      "R_tm_min": 59.323297903416744,
+      "R_tm_max": 59.323297903416744,
+      "structure_max": 69.35685389585768
+    }
+  ],
+  "hairpins": [
+    {
+      "sequence": "TTGGGGCAACCACGAAG",
+      "temp_C": 37,
+      "structure_found": true,
+      "ascii_structure": "SEQ\t---//----\\\\------\nSTR\tTTGGGGCAACCACGAAG\n",
+      "tm": 69.35685389585768,
+      "dg": -1709.9192289246826,
+      "dh": -18100.0,
+      "ds": -52.84565781420383
+    },
+    {
+      "sequence": "TTGGGGCAACCACGAAG",
+      "temp_C": 57,
+      "structure_found": true,
+      "ascii_structure": "SEQ\t---//----\\\\------\nSTR\tTTGGGGCAACCACGAAG\n",
+      "tm": 69.35685389585768,
+      "dg": -653.0060726406059,
+      "dh": -18100.0,
+      "ds": -52.84565781420383
+    },
+    {
+      "sequence": "TTGGGGCAACCACGAAG",
+      "temp_C": 60,
+      "structure_found": true,
+      "ascii_structure": "SEQ\t---//----\\\\------\nSTR\tTTGGGGCAACCACGAAG\n",
+      "tm": 69.35685389585768,
+      "dg": -494.4690991979944,
+      "dh": -18100.0,
+      "ds": -52.84565781420383
+    },
+    {
+      "sequence": "TTGGGGCAACCGCGAAG",
+      "temp_C": 37,
+      "structure_found": true,
+      "ascii_structure": "SEQ\t---//----\\\\------\nSTR\tTTGGGGCAACCGCGAAG\n",
+      "tm": 68.11031878121344,
+      "dg": -1640.934228924683,
+      "dh": -18000.0,
+      "ds": -52.74565781420383
+    },
+    {
+      "sequence": "TTGGGGCAACCGCGAAG",
+      "temp_C": 57,
+      "structure_found": true,
+      "ascii_structure": "SEQ\t---//----\\\\------\nSTR\tTTGGGGCAACCGCGAAG\n",
+      "tm": 68.11031878121344,
+      "dg": -586.0210726406063,
+      "dh": -18000.0,
+      "ds": -52.74565781420383
+    },
+    {
+      "sequence": "TTGGGGCAACCGCGAAG",
+      "temp_C": 60,
+      "structure_found": true,
+      "ascii_structure": "SEQ\t---//----\\\\------\nSTR\tTTGGGGCAACCGCGAAG\n",
+      "tm": 68.11031878121344,
+      "dg": -427.78409919799486,
+      "dh": -18000.0,
+      "ds": -52.74565781420383
+    },
+    {
+      "sequence": "TTGGGGCAACCTCGAAG",
+      "temp_C": 37,
+      "structure_found": true,
+      "ascii_structure": "SEQ\t---//----\\\\------\nSTR\tTTGGGGCAACCTCGAAG\n",
+      "tm": 62.62817612957315,
+      "dg": -1587.5542289246846,
+      "dh": -20800.0,
+      "ds": -61.94565781420383
+    },
+    {
+      "sequence": "TTGGGGCAACCTCGAAG",
+      "temp_C": 57,
+      "structure_found": true,
+      "ascii_structure": "SEQ\t---//----\\\\------\nSTR\tTTGGGGCAACCTCGAAG\n",
+      "tm": 62.62817612957315,
+      "dg": -348.641072640608,
+      "dh": -20800.0,
+      "ds": -61.94565781420383
+    },
+    {
+      "sequence": "TTGGGGCAACCTCGAAG",
+      "temp_C": 60,
+      "structure_found": true,
+      "ascii_structure": "SEQ\t---//----\\\\------\nSTR\tTTGGGGCAACCTCGAAG\n",
+      "tm": 62.62817612957315,
+      "dg": -162.80409919799652,
+      "dh": -20800.0,
+      "ds": -61.94565781420383
+    },
+    {
+      "sequence": "CAACATCGAGGTCGCAAAC",
+      "temp_C": 37,
+      "structure_found": true,
+      "ascii_structure": "SEQ\t------//----\\\\-----\nSTR\tCAACATCGAGGTCGCAAAC\n",
+      "tm": 39.59702553733945,
+      "dg": -178.53422892468558,
+      "dh": -21500.0,
+      "ds": -68.74565781420382
+    },
+    {
+      "sequence": "CAACATCGAGGTCGCAAAC",
+      "temp_C": 57,
+      "structure_found": false,
+      "ascii_structure": "",
+      "tm": 0.0,
+      "dg": 0.0,
+      "dh": 0.0,
+      "ds": 0.0
+    },
+    {
+      "sequence": "CAACATCGAGGTCGCAAAC",
+      "temp_C": 60,
+      "structure_found": false,
+      "ascii_structure": "",
+      "tm": 0.0,
+      "dg": 0.0,
+      "dh": 0.0,
+      "ds": 0.0
+    }
+  ],
+  "thermal_gate_pass": false
+}

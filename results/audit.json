@@ -1,5 +1,20 @@
 [
   {
+    "scheme": "XS",
+    "kind": "fixed_candidate",
+    "common_locus": [
+      1122,
+      1138,
+      1282,
+      1300
+    ],
+    "coverage": 1.0,
+    "exact": 0.96,
+    "terminal_rules_pass": true,
+    "thermal_gate_pass": false,
+    "background_gate_pass": false
+  },
+  {
     "scheme": "SD",
     "eligible": 1,
     "thermal_rejections": 0,

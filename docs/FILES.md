@@ -2,17 +2,15 @@
 
 | Path | Contents / 内容 |
 |---|---|
-| [README.md](../README.md) / [README.zh-CN.md](../README.zh-CN.md) | Integrated English / Chinese introductions |
-| [Paired primers](../sequences/primer_pairs.csv) / [FASTA](../sequences/primers.fasta) | 16 paired records / 32 oligos |
-| [Overview](../figures/MiLily_overview.png) | MiLily watercolor banner |
-| [Binding map](../figures/binding_positions.svg) | All current reference coordinates |
-| [Base matching](../results/base_matching.html) | Actual bases for all 16 pairs |
-| [Same-locus audit](../results/same_locus_audit.csv) | A/B identical coordinate intervals / 同位点检查 |
-| [Comparison](../results/comparison.csv) | Coverage, exact matching and background counts |
-| [References](../references/metadata.tsv) | Accessions, annotations and source roles |
-| [Reproduction bundle](../reproduction_sources.zip) | Frozen inputs and runnable source layout |
+| [English README](../README.md) / [中文README](../README.zh-CN.md) | Five windows, 13 portfolios / 五个窗口、13套方案 |
+| [Pairs](../sequences/primer_pairs.csv) / [FASTA](../sequences/primers.fasta) | 17 pairs / 34 oligos |
+| [Overview](../figures/MiLily_overview_current.png) | Crinoid illustration / 海百合插画 |
+| [Binding map](../figures/binding_positions.svg) | Five current reference-coordinate windows |
+| [Base matching](../results/base_matching.html) | Base diagrams for all 17 pairs |
+| [XS assessment](XS.md) / [XS evidence](../results/xs/assessment.json) | Fixed short-pair evaluation and candidate status |
+| [XS reproduction](../scripts/verify_xs.py) | Exhaustive scan and independent prediction checks |
+| [Comparison](../results/comparison.csv) | Weighted panel metrics and background counts |
+| [References](../references/metadata.tsv) | Accession metadata and source roles |
+| [Reproduction bundle](../reproduction_sources.zip) | Frozen S–XL inputs and XS evaluation sources |
 | [Reproduction](REPRODUCIBILITY.md) | Commands and tested scope |
-| [Release checker](../scripts/check_release.py) | Sequence, metric, link and integrity checks |
 | [Copyright](../COPYRIGHT.md) | Fei Xia (GUIBA-EX), rights and permissions |
-
-The `scripts/` copies provide readable source; run analysis using the directory layout inside the reproduction bundle. / `scripts/`便于阅读；重跑分析请使用复现包内的目录结构。

@@ -1,0 +1,19 @@
+{
+  "checks": [
+    {
+      "model": "WC",
+      "predicted_records": 4196,
+      "cpp_records": 4196,
+      "extra": [],
+      "missing": []
+    },
+    {
+      "model": "GT",
+      "predicted_records": 3889,
+      "cpp_records": 3889,
+      "extra": [],
+      "missing": []
+    }
+  ],
+  "disagreements": 0
+}

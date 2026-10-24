@@ -1,0 +1,14 @@
+{
+  "reference": "AF049132.1",
+  "F_start": 1122,
+  "F_end": 1138,
+  "F_mismatches": 0,
+  "F_last3_mismatches": 0,
+  "F_template": "TTGGGGCAACCACGAAG",
+  "R_start": 1282,
+  "R_end": 1300,
+  "R_mismatches": 0,
+  "R_last3_mismatches": 0,
+  "R_template": "CAACATCGAGGTCGCAAAC",
+  "span": 179
+}

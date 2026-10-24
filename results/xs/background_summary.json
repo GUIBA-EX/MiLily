@@ -1,0 +1,95 @@
+{
+  "WC_le2": {
+    "records": 3786,
+    "clades": {
+      "Echinoidea": 1022,
+      "Asteroidea": 1155,
+      "Holothuroidea": 1599,
+      "other_metazoa": 8,
+      "Ophiuroidea": 2
+    }
+  },
+  "WC_le3": {
+    "records": 4196,
+    "clades": {
+      "Echinoidea": 1052,
+      "Asteroidea": 1385,
+      "Holothuroidea": 1706,
+      "other_metazoa": 50,
+      "Ophiuroidea": 3
+    }
+  },
+  "WC_le4": {
+    "records": 4405,
+    "clades": {
+      "Echinoidea": 1053,
+      "Asteroidea": 1397,
+      "Holothuroidea": 1727,
+      "other_metazoa": 98,
+      "Ophiuroidea": 130
+    }
+  },
+  "WC_le2last3": {
+    "records": 18,
+    "clades": {
+      "Echinoidea": 10,
+      "Asteroidea": 7,
+      "Ophiuroidea": 1
+    }
+  },
+  "WC_exact": {
+    "records": 10,
+    "clades": {
+      "Echinoidea": 10
+    }
+  },
+  "GT_le2": {
+    "records": 3889,
+    "clades": {
+      "Echinoidea": 1043,
+      "Asteroidea": 1173,
+      "Holothuroidea": 1609,
+      "other_metazoa": 16,
+      "Ophiuroidea": 48
+    }
+  },
+  "GT_le3": {
+    "records": 3889,
+    "clades": {
+      "Echinoidea": 1043,
+      "Asteroidea": 1173,
+      "Holothuroidea": 1609,
+      "other_metazoa": 16,
+      "Ophiuroidea": 48
+    }
+  },
+  "GT_le4": {
+    "records": 3889,
+    "clades": {
+      "Echinoidea": 1043,
+      "Asteroidea": 1173,
+      "Holothuroidea": 1609,
+      "other_metazoa": 16,
+      "Ophiuroidea": 48
+    }
+  },
+  "GT_le2last3": {
+    "records": 102,
+    "clades": {
+      "Ophiuroidea": 48,
+      "Holothuroidea": 24,
+      "other_metazoa": 5,
+      "Echinoidea": 15,
+      "Asteroidea": 10
+    }
+  },
+  "GT_exact": {
+    "records": 11,
+    "clades": {
+      "Echinoidea": 10,
+      "Ophiuroidea": 1
+    }
+  },
+  "background_total": 7177,
+  "target_total": 269
+}

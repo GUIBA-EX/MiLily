@@ -1,16 +1,13 @@
-# MiLily
+# 方法
 
-每个长度联合选择一个共同位点：普通、A、B、D的正反向起止坐标完全相同。位点内按覆盖率与完全匹配率之和选择普通单对、普通A/B并集和简并单对，三类评分等权平均选择位点。背景门槛：MiLily SD/MD为20条，MiUrchin XLD为50条，其余5条。所有实际序列变体通过末端规则和两种浓度热力学检查。A/B指标为独立PCR并集，未验证混池；设计与评估共用参考数据，计算覆盖率不代表实测扩增效率。
+MiLily包括一个固定XS候选和S、M、L、XL四个按共同坐标设计的窗口。XS原序列固定纳入并单独报告结构与非目标筛查结果；S–XL沿用受约束搜索。
 
-Reference coordinates: AF049132.1; 1-based, extracted ungapped 16S.
+参考坐标为Florometra serratissima的AF049132.1，使用提取、去gap的16S序列，1-based计数。冻结评价面板包含27条记录、25个分类标签，标签等权、标签内等权；目标FASTA含269条记录，非目标库含7,177条非海百合记录。不同窗口的参考完整度不同，主表统一使用冻结面板。
 
-Terminal: no terminal homotriplet; ≥1 GC in last 3; 1–4 GC in last 5; no homopolymer >4. Primer3: 50 mM monovalent, 1.5 mM Mg, 0.6 mM dNTP; 50 nM per variant and 200 nM per direction. Structure Tm <55°C; F/R midpoint difference ≤5°C. Coverage: ≤2 mismatches per primer and IUPAC-compatible final 3 bases; exact: zero mismatches in both.
+覆盖要求两条引物各不超过2个错配且末端3 nt按IUPAC兼容；完全匹配要求两端无错配。非目标WC3允许每条最多3错配，GT2允许G–T配对且每条最多2错配；WC4仅用于更宽松的敏感性检查。XS另报告与目标覆盖判据相同的严格非目标命中。所有非目标数值均为数据库记录数，不是环境样本中的扩增比例。
 
+S–XL每个长度的普通、A、B、D起止坐标完全一致。A/B为分别PCR后取并集，双方须各有独有覆盖或完全匹配贡献。搜索纳入观测单倍型、具体展开序列和受支持的碱基替换；当前扩大A/B搜索见[互补性分析](AB_COMPLEMENTARITY.md)。D方案在覆盖、完全匹配和复杂度间取舍，见[保留决策](DECISIONS.md)。SD/MD的WC3和GT2门槛分别为20条，其余S–XL方案分别为5条。
 
-每个长度只保留一套D方案，固定普通/A/B/D共同坐标，普通单对不变，A/B已重新选配。扩大简并候选后，在覆盖与完全匹配不低于原D的方案中，优先选取接近最佳评分但简并度更低的候选；收益不足以抵偿复杂度时不追求最高评分。
+末端规则：无末端三连碱基，末端3 nt至少1个GC，末端5 nt含1–4个GC，无超过4个碱基的同聚物；允许3′简并。Primer3参数为单价盐50 mM、Mg²⁺ 1.5 mM、dNTP 0.6 mM，分别计算每变体50 nM与每方向总计200 nM两种浓度。S–XL要求结构Tm低于55°C、正反向双链Tm范围中点差不超过5°C。XS通过末端和双链Tm配对检查，但超过结构及非目标筛选门槛，详见[XS评价](XS.md)及温度相关ΔG记录。
 
-S采用32/64，M采用16/8，L采用1/8，XL采用48/6。M舍弃仅多4个百分点完全匹配率的24/8档，XL舍弃仅多4个百分点完全匹配率的72/6档。
-
-Candidates use observed base support ≥1%, fixed random seed 17, per-direction degeneracy caps 8/16/32/64/128, and at most 30 top oligos per direction plus the original D. At 200 nM per direction, each concrete variant receives 200/degeneracy nM. Matching uses the design panel, not an independent validation set.
-
-Current A/B selection / 当前A/B筛选：[expanded same-coordinate search and independent verification / 扩大同坐标搜索与独立复核](AB_COMPLEMENTARITY.md).
+独立C++穷举扫描核查正反两链、配对方向和扩增距离。XS额外使用同源位置附近±5 nt窗口预测目标状态，并用独立Python位并行替换匹配核对非目标集合。全发布共918项目标判定与34项非目标集合检查，差异均为0。将XS目标产物长度范围扩大至1–5,000 bp后，主指标不变。这些是相同参考数据上的独立算法复核，尚不构成独立生物学验证。

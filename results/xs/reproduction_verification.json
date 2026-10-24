@@ -1,0 +1,15 @@
+{
+  "name": "XS",
+  "metrics": {
+    "coverage_pct": 100.0,
+    "exact_pct": 96.0,
+    "background_WC3": 4196,
+    "background_GT2": 3889,
+    "strict_background_WC2_last3": 18,
+    "exact_background_WC0": 10
+  },
+  "target_checks": 54,
+  "target_disagreements": 0,
+  "background_checks": 2,
+  "background_disagreements": 0
+}

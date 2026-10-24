@@ -2,7 +2,7 @@ from pathlib import Path
 import csv,json,collections,math,re
 p=Path(__file__).resolve().parents[1]
 def rows(f):return list(csv.DictReader(f.open()))
-d=p/'results' if p.name=='MiLily' else p/'results/terminal_optimization'
+d=p/'results'
 h=collections.defaultdict(set)
 for r in csv.DictReader((d/'independent_hits.tsv').open(),delimiter='\t'):
  if r['role']=='target' and r['model']=='WC':
@@ -27,6 +27,6 @@ for f in ['README.md','README.zh-CN.md']:
  for x in comp.values():
   line=next(l for l in s.splitlines() if l.startswith('| '+x['scheme']+' |'))
   assert f"{float(x['coverage_pct']):.2f}" in line and f"{float(x['exact_pct']):.2f}" in line
- if len(pairs)==16:
+ if len(pairs)==17:
   for x in pairs:assert f"| {x['name']} | `{x['F']}` | `{x['R']}` |" in s
 print('PASS: mutual A/B contribution, fixed coordinates, non-decreasing metrics, background gates, bilingual README values and sequences')

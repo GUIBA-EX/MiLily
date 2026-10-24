@@ -1,16 +1,13 @@
-# MiLily
+# Methods
 
-Each length uses one shared locus: ordinary, A, B and D have identical forward and reverse start/end coordinates. At each locus, ordinary single, ordinary A/B union and degenerate single are selected by coverage plus exact matching; their scores are averaged equally to select the locus. Background gates: MiLily SD/MD ≤20; MiUrchin XLD ≤50; other portfolios ≤5. All concrete variants pass terminal rules and both thermodynamic scenarios. A/B results are separate-PCR unions, not experimentally validated multiplex results. References are reused for design and evaluation; coverage is computational, not measured PCR efficiency.
+MiLily combines a fixed XS candidate with four S–XL windows designed at shared coordinates. XS sequences are fixed and their structure/background screens are reported explicitly; S–XL use constrained candidate searches.
 
-Reference coordinates: AF049132.1; 1-based, extracted ungapped 16S.
+Reference: AF049132.1, extracted ungapped 16S, 1-based coordinates. The frozen matching panel contains 27 records and 25 taxonomic labels; label weights sum to one. Target FASTA contains 269 records, and the background contains 7,177 non-crinoid records. Partial-reference availability varies by window; main comparisons use the common panel.
 
-Terminal: no terminal homotriplet; ≥1 GC in last 3; 1–4 GC in last 5; no homopolymer >4. Primer3: 50 mM monovalent, 1.5 mM Mg, 0.6 mM dNTP; 50 nM per variant and 200 nM per direction. Structure Tm <55°C; F/R midpoint difference ≤5°C. Coverage: ≤2 mismatches per primer and IUPAC-compatible final 3 bases; exact: zero mismatches in both.
+Coverage requires ≤2 mismatches per primer and IUPAC-compatible final 3 nt; exact matching requires no mismatches at either end. Background WC3 and GT2 permit ≤3 mismatches per primer and ≤2 under a G–T model, respectively; WC4 is a broader sensitivity check. Strict background matching uses the target coverage criterion and is separately reported for XS. All numbers count reference records, not environmental amplification fractions.
 
+S–XL share identical ordinary/A/B/D boundaries within each length. A/B denote separate-PCR unions and require unique contributions from both components. Their search includes observed haplotypes, concrete variants and supported substitutions; the current expanded A/B search is documented in [AB_COMPLEMENTARITY.md](AB_COMPLEMENTARITY.md). D retention balances coverage/exact gains and complexity; [DECISIONS.md](DECISIONS.md) records the choice. SD/MD allow ≤20 WC3 and ≤20 GT2 records; the other S–XL portfolios allow ≤5 each.
 
-Retain one D portfolio per length at the existing shared ordinary/A/B/D coordinates; ordinary single pairs remain unchanged; A/B have since been re-selected. Among candidates that do not reduce either coverage or exact matching relative to the original D, prefer lower degeneracy near the best combined score, rather than maximizing matching at any complexity.
+Terminal checks: no terminal homotriplet, ≥1 GC in the last 3 nt, 1–4 GC in the last 5 nt, and no homopolymer longer than 4; 3′ degeneracy is allowed. Primer3 uses 50 mM monovalent salt, 1.5 mM Mg²⁺, 0.6 mM dNTP, and scenarios of 50 nM per variant or 200 nM total per direction. S–XL require structure Tm <55°C and F/R Tm-range midpoint difference ≤5°C. XS passes terminal and duplex compatibility checks but exceeds the structure/background gates; [XS.md](XS.md) reports the explicit candidate assessment and temperature-dependent ΔG.
 
-Retained F/R degeneracies: S 32/64, M 16/8, L 1/8, XL 48/6. Reject M 24/8 and XL 72/6 options that add only four percentage points of exact matching.
-
-Candidates use observed base support ≥1%, fixed random seed 17, per-direction degeneracy caps 8/16/32/64/128, and at most 30 top oligos per direction plus the original D. At 200 nM per direction, each concrete variant receives 200/degeneracy nM. Matching uses the design panel, not an independent validation set.
-
-Current A/B selection / 当前A/B筛选：[expanded same-coordinate search and independent verification / 扩大同坐标搜索与独立复核](AB_COMPLEMENTARITY.md).
+Exhaustive full-sequence C++ scanning checks both strands and paired orientation/distance. Independent XS verification uses local ±5 nt aligned target windows and a Python bit-parallel substitution scanner for background sets. Across the release, 918 target decisions and 34 background-set comparisons agree. XS also gives unchanged headline metrics in a wider 1–5,000 bp target-length scan. These are independent algorithms on shared reference data, not independent biological validation.

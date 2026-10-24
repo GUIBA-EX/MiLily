@@ -4,22 +4,17 @@
 
 [中文](README.zh-CN.md)
 
+Crinoid 16S rRNA primers across five windows: XS, S, M, L and XL. XS is a fixed degenerate single pair; S–XL provide an ordinary single pair, complementary ordinary A/B pairs and a degenerate D single pair at identical coordinates within each length. The release contains 13 portfolios, 17 pair records and 34 oligos.
+
 ![Binding positions](figures/binding_positions.svg)
 
-Each length uses one shared locus: ordinary, A, B and D have identical forward and reverse start/end coordinates. At each locus, ordinary single, ordinary A/B union and degenerate single are selected by coverage plus exact matching; their scores are averaged equally to select the locus. Background gates are ≤20 accessions for MiLily SD/MD and ≤50 for MiUrchin XLD; other portfolios retain ≤5, under both WC≤3 and GT≤2. All concrete variants pass terminal rules and both thermodynamic scenarios. A/B results are separate-PCR unions, not experimentally validated multiplex results. References are reused for design and evaluation; coverage is computational, not measured PCR efficiency.
+## Portfolio comparison
 
-D denotes a degenerate single pair; no suffix denotes an ordinary single pair; A/B are ordinary same-locus alternatives. Each project has 12 portfolios, 16 pair records and 32 sequences.
-
-## Retention decisions
-
-Retain one D portfolio per length at the existing shared ordinary/A/B/D coordinates; ordinary single pairs and D remain unchanged in the A/B re-selection. Among candidates that do not reduce either coverage or exact matching relative to the original D, prefer lower degeneracy near the best combined score, rather than maximizing matching at any complexity.
-
-Retained F/R degeneracies: S 32/64, M 16/8, L 1/8, XL 48/6. Reject M 24/8 and XL 72/6 options that add only four percentage points of exact matching.
-
-[完整比较 / Full comparison](docs/DECISIONS.md)
+Coverage and exact matching use a frozen panel of 27 references and 25 taxonomic labels, weighted equally by label and within label. Coverage requires ≤2 mismatches per primer and compatible terminal 3 nt; exact matching requires zero mismatches at both ends. WC3, GT2 and WC4 count paired hits in 7,177 non-target references: ≤3 mismatches per primer, ≤2 under a G–T pairing model, and ≤4, respectively. These counts are not measured amplification proportions.
 
 | Scheme | Coverage % | Exact % | WC≤3 | GT≤2 | WC≤4 |
 |---|---:|---:|---:|---:|---:|
+| XS | 100.00 | 96.00 | 4196 | 3889 | 4405 |
 | SD | 88.00 | 66.00 | 0 | 12 | 15 |
 | S | 66.00 | 28.00 | 0 | 0 | 0 |
 | SA+SB | 66.00 | 46.00 | 0 | 0 | 0 |
@@ -33,9 +28,25 @@ Retained F/R degeneracies: S 32/64, M 16/8, L 1/8, XL 48/6. Reject M 24/8 and XL
 | XL | 68.00 | 8.00 | 0 | 0 | 6 |
 | XLA+XLB | 76.00 | 18.00 | 0 | 0 | 6 |
 
-Background hits can remain substantial under relaxed mismatch models; see the complete results and missed-reference records.
+## XS
 
-[Sequences](sequences/primer_pairs.csv) · [FASTA](sequences/primers.fasta) · [Results](results/comparison.csv) · [Verification](results/verification.json) · [Full base matching](results/base_matching.html)
+XS is retained as a short-amplicon candidate for experimental validation: one pair, F/R degeneracy 3/1, and predicted products of 159–194 bp. Its primer-inclusive span on AF049132.1 is 179 bp. D in the F sequence denotes A/G/T; the assay name is XS.
+
+| Name | F (5′→3′) | R (5′→3′) |
+|---|---|---|
+| XS | `TTGGGGCAACCDCGAAG` | `CAACATCGAGGTCGCAAAC` |
+
+XS passes terminal rules and has compatible duplex Tm ranges. Its three F variants predict internal short hairpins with Tm 62.6–69.4°C, above the 55°C structure gate used for S–XL; the primer 3′ end lies outside the stem. Under the strict target-matching criterion, XS still matches 18 non-target records, including 10 sea-urchin records matching both primers exactly. XS is reported as a fixed candidate rather than a structure/background-gate-passing S–XL design.
+
+[XS assessment and evidence](docs/XS.md) · [Base table](results/xs/base_matching.csv) · [Independent verification](results/xs/background_verification.json)
+
+![XS base matching](figures/base_matching_XS.svg)
+
+## Selecting S–XL
+
+Ordinary, A, B and D variants within each length have identical forward/reverse boundaries. Prefer one pair when sufficient. A/B denote separate-PCR unions with unique coverage or exact-match contributions from both components. D is a single pair only. Retained D degeneracies for S, M, L and XL are 32/64, 16/8, 1/8 and 48/6, balancing matching gains against complexity. WC3 and GT2 limits are 20 records each for SD/MD and 5 each for the other S–XL portfolios. All expanded S–XL sequences pass terminal and both-concentration thermodynamic checks.
+
+[Retention decisions / 保留决策](docs/DECISIONS.md) · [A/B complementarity / 互补性](docs/AB_COMPLEMENTARITY.md)
 
 ## S
 
@@ -53,6 +64,7 @@ Background hits can remain substantial under relaxed mismatch models; see the co
 ![SA base matching](figures/base_matching_SA.svg)
 
 ![SB base matching](figures/base_matching_SB.svg)
+
 ## M
 
 | Name | F (5′→3′) | R (5′→3′) |
@@ -69,6 +81,7 @@ Background hits can remain substantial under relaxed mismatch models; see the co
 ![MA base matching](figures/base_matching_MA.svg)
 
 ![MB base matching](figures/base_matching_MB.svg)
+
 ## L
 
 | Name | F (5′→3′) | R (5′→3′) |
@@ -85,6 +98,7 @@ Background hits can remain substantial under relaxed mismatch models; see the co
 ![LA base matching](figures/base_matching_LA.svg)
 
 ![LB base matching](figures/base_matching_LB.svg)
+
 ## XL
 
 | Name | F (5′→3′) | R (5′→3′) |
@@ -102,9 +116,10 @@ Background hits can remain substantial under relaxed mismatch models; see the co
 
 ![XLB base matching](figures/base_matching_XLB.svg)
 
-Independent target checks: 864; disagreements: 0. Background set checks: 32; disagreements: 0.
+## Data and reproduction
+
+Independent verification covers 918 target decisions and 34 background-set checks with zero disagreements. A wider target-length scan confirms that XS metrics do not depend on the 150–500 bp filter. Design and evaluation share references; this release adds no wet-lab validation. On the same 25-label panel, XS has 22/25 labels without observed shared barcodes (88%), the same as MD; this is not an identification-success rate for unknown species.
+
+[Sequences](sequences/primer_pairs.csv) · [FASTA](sequences/primers.fasta) · [Results](results/comparison.csv) · [Base matching](results/base_matching.html) · [Methods](docs/METHODS.md) · [Reproduction](docs/REPRODUCIBILITY.md) · [Files](docs/FILES.md)
 
 [Copyright / 著作权声明](COPYRIGHT.md)
-
-
-Expanded fixed-coordinate search yields mutual A/B contributions at every length without reducing either union metric. Ordinary single pairs and D are unchanged. Choose a single pair or complementary A/B according to the sample objective. [Complementarity and unique hits](docs/AB_COMPLEMENTARITY.md)

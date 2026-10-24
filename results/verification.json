@@ -1,8 +1,19 @@
 {
-  "checks": 864,
+  "checks": 918,
   "disagreements": 0,
   "details": [],
-  "background_checks": 32,
+  "background_checks": 34,
   "background_disagreements": 0,
-  "background_details": []
+  "background_details": [],
+  "XS": {
+    "target_checks": 54,
+    "target_disagreements": 0,
+    "background_checks": 2,
+    "background_disagreements": 0,
+    "methods": [
+      "C++ exhaustive scanner",
+      "Python local target windows",
+      "Python bit-parallel background scanner"
+    ]
+  }
 }

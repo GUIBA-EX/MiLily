@@ -25,3 +25,5 @@ Search includes observed binding haplotypes, concrete variants of retained prime
 | M | 88.00 → 88.00 | 16.00 → 20.00 |
 | L | 88.00 → 88.00 | 46.00 → 46.00 |
 | XL | 76.00 → 76.00 | 18.00 → 18.00 |
+
+XS is a fixed single-pair candidate and has no A/B option. / XS为固定单对候选，不设置A/B方案。

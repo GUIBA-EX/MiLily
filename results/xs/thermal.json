@@ -1,0 +1,77 @@
+{
+  "pass_existing_rules": false,
+  "F": "TTGGGGCAACCDCGAAG",
+  "R": "CAACATCGAGGTCGCAAAC",
+  "scenarios": [
+    {
+      "scenario": "50_per_variant",
+      "F_tm_min": 56.653827421597384,
+      "F_tm_max": 60.668637941877364,
+      "R_tm_min": 57.342462906242304,
+      "R_tm_max": 57.342462906242304,
+      "structure_max": 69.35685389585768
+    },
+    {
+      "scenario": "200_per_direction",
+      "F_tm_min": 57.1287735247422,
+      "F_tm_max": 61.13940336968426,
+      "R_tm_min": 59.323297903416744,
+      "R_tm_max": 59.323297903416744,
+      "structure_max": 69.35685389585768
+    }
+  ],
+  "variants": [
+    {
+      "side": "F",
+      "sequence": "TTGGGGCAACCACGAAG",
+      "length": 17,
+      "GC_pct": 58.8235294117647,
+      "terminal_rules_pass": true,
+      "50_per_variant_Tm": 57.33827045214372,
+      "50_per_variant_hairpin_Tm": 69.35685389585768,
+      "50_per_variant_homodimer_Tm": -2.0780797146262557,
+      "200_per_direction_Tm": 57.81193494695975,
+      "200_per_direction_hairpin_Tm": 69.35685389585768,
+      "200_per_direction_homodimer_Tm": -1.3391027205462365
+    },
+    {
+      "side": "F",
+      "sequence": "TTGGGGCAACCGCGAAG",
+      "length": 17,
+      "GC_pct": 64.70588235294117,
+      "terminal_rules_pass": true,
+      "50_per_variant_Tm": 60.668637941877364,
+      "50_per_variant_hairpin_Tm": 68.11031878121344,
+      "50_per_variant_homodimer_Tm": 8.234092254820382,
+      "200_per_direction_Tm": 61.13940336968426,
+      "200_per_direction_hairpin_Tm": 68.11031878121344,
+      "200_per_direction_homodimer_Tm": 9.27132757801013
+    },
+    {
+      "side": "F",
+      "sequence": "TTGGGGCAACCTCGAAG",
+      "length": 17,
+      "GC_pct": 58.8235294117647,
+      "terminal_rules_pass": true,
+      "50_per_variant_Tm": 56.653827421597384,
+      "50_per_variant_hairpin_Tm": 62.62817612957315,
+      "50_per_variant_homodimer_Tm": -1.9284030295876278,
+      "200_per_direction_Tm": 57.1287735247422,
+      "200_per_direction_hairpin_Tm": 62.62817612957315,
+      "200_per_direction_homodimer_Tm": -1.257102693115769
+    },
+    {
+      "side": "R",
+      "sequence": "CAACATCGAGGTCGCAAAC",
+      "length": 19,
+      "GC_pct": 52.63157894736842,
+      "terminal_rules_pass": true,
+      "50_per_variant_Tm": 57.342462906242304,
+      "50_per_variant_hairpin_Tm": 39.59702553733945,
+      "50_per_variant_homodimer_Tm": 1.916843463258715,
+      "200_per_direction_Tm": 59.323297903416744,
+      "200_per_direction_hairpin_Tm": 39.59702553733945,
+      "200_per_direction_homodimer_Tm": 6.38567704425634
+    }
+  ]
+}

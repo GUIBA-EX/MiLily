@@ -1,0 +1,11 @@
+accession,organism,length,orientation,F_start,R_end,left_flank,right_flank,F_template,amplicon_bp
+AF279173.1,Amblypneustes leucoglobus,601,+,321,509,320,92,TTGGGGCAACCGCGAAG,189
+AF279172.1,Microcyphus annulatus,595,+,319,503,318,92,TTGGGGCAACCGCGAAG,185
+AF279171.1,Amblypneustes grandis,602,+,322,510,321,92,TTGGGGCAACCGCGAAG,189
+AF279168.1,Amblypneustes elevatus,601,+,321,509,320,92,TTGGGGCAACCGCGAAG,189
+AF279165.1,Amblypneustes formosus,593,+,318,501,317,92,TTGGGGCAACCACGAAG,184
+AF279161.1,Holopneustes inflatus,595,+,320,503,319,92,TTGGGGCAACCACGAAG,184
+AF279160.1,Holopneustes purpurascens,595,+,320,503,319,92,TTGGGGCAACCACGAAG,184
+AF279159.1,Holopneustes porosissimus,594,+,319,502,318,92,TTGGGGCAACCGCGAAG,184
+AF279158.1,Amblypneustes pallidus,593,+,318,501,317,92,TTGGGGCAACCACGAAG,184
+AF279157.1,Amblypneustes ovum,601,+,321,509,320,92,TTGGGGCAACCGCGAAG,189
