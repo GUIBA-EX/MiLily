@@ -176,7 +176,7 @@ We welcome collaborators interested in crinoid diversity, eDNA monitoring, prime
 
 Potential collaborations include tissue-DNA amplification, defined mixtures and environmental samples, annealing-condition optimisation, and comparisons of amplification efficiency, taxon detection and non-target co-amplification among primer schemes. Contributions of reference sequences linked to specimen and identification records, experimental feedback and analytical suggestions are also welcome.
 
-Please contact us through [GitHub Issues](https://github.com/GUIBA-EX/MiLily/issues) with a brief description of your research interests, available materials and proposed work so that we can discuss experimental design and contributions together.
+Please contact us at [1738314330@edu.k.u-tokyo.ac.jp](mailto:1738314330@edu.k.u-tokyo.ac.jp) with a brief description of your research interests, available materials and proposed work so that we can discuss experimental design and contributions together.
 
 ## Data and code
 

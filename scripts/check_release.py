@@ -41,7 +41,7 @@ for reg in ['S','M','L','XL']:
 for f in list(p.rglob('*.md'))+list(p.rglob('*.html')):
  links=re.findall(r'\]\(([^)]+)\)',f.read_text()) if f.suffix=='.md' else re.findall(r'(?:href|src)="([^"]+)"',f.read_text())
  for link in links:
-  if '://' in link or link.startswith('#'):continue
+  if '://' in link or link.startswith(('#', 'mailto:')):continue
   assert (f.parent/link.split('#')[0]).exists(),(f,link)
 with zipfile.ZipFile(p/'reproduction_sources.zip') as z:assert z.testzip() is None
 for n,h in json.loads((p/'SHA256SUMS.json').read_text()).items():assert hashlib.sha256((p/n).read_bytes()).hexdigest()==h,n
