@@ -42,4 +42,6 @@ groups=collections.defaultdict(list)
 for r in rows:groups[r['side'],r['start']//25,r['degeneracy']>1].append(r)
 keep=[]
 for g in groups.values():keep+=sorted(g,key=lambda r:(-r['coverage']-r['exact'],-r['coverage'],r['degeneracy']))[:3]
+keys={(r['side'],r['start'],r['end']) for r in keep};ids={r['id'] for r in keep}
+keep += [r for r in rows if r['degeneracy']==1 and (r['side'],r['start'],r['end']) in keys and r['id'] not in ids]
 (p/'oligos.json').write_text(json.dumps(keep));d=p/'sites';d.mkdir(exist_ok=True);(d/'oligos.tsv').write_text(''.join(f"{r['id']} {r['side']} {r['sequence']}\n" for r in keep));print('Shortlist',len(keep),flush=True)

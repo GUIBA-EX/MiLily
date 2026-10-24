@@ -30,10 +30,11 @@ for reg,lo,hi in [('S',150,224),('M',225,284),('L',285,359),('XL',360,450)]:
   feasible.append(dict(region=reg,F=f['sequence'],R=r['sequence'],F_id=f['id'],R_id=r['id'],degeneracy_F=f['degeneracy'],degeneracy_R=r['degeneracy'],cv=cv,ex=ex,coverage=cov,exact=exact,WC3=a,GT2=b,reference_span=span))
  print(reg,'tested',tested,'eligible',sum(x['region']==reg for x in feasible),flush=True)
 (p/'feasible.json').write_text(json.dumps(feasible))
-selected=[];audit=[]
+fixed=json.loads((p/'fixed_single_pairs.json').read_text());selected=[];audit=[]
 for reg in ['S','M','L','XL']:
  for chem,count in [('degenerate',1),('ordinary',1),('ordinary',2)]:
   pool=[r for r in feasible if r['region']==reg and (r['degeneracy_F']*r['degeneracy_R']>1)==(chem=='degenerate')]
+  if count==1:pool=[r for r in pool if any(r['F']==x['F'] and r['R']==x['R'] and reg==x['region'] and chem==x['chemistry'] for x in fixed)]
   # Include a terminal/thermal signature in state reduction, so a failing representative does not hide alternatives.
   dedup={}
   for r in pool:
@@ -53,7 +54,7 @@ for reg in ['S','M','L','XL']:
      score=(cm[i+1:]|cm[i])@w+(em[i+1:]|em[i])@w
      for j in np.flatnonzero(score>=(-1 if best is None else best[0]-1e-10)):yield pool[i],pool[i+1+int(j)]
    for pp in combos():
-    if len(pp)==2 and (abs(ol[pp[0]['F_id']]['start']-ol[pp[1]['F_id']]['start'])>35 or abs(ol[pp[0]['R_id']]['start']-ol[pp[1]['R_id']]['start'])>35):continue
+    if len(pp)==2 and any(ol[pp[0][side+'_id']][k]!=ol[pp[1][side+'_id']][k] for side in ['F','R'] for k in ['start','end']):continue
     a=set().union(*(set(x['WC3']) for x in pp));b=set().union(*(set(x['GT2']) for x in pp))
     if len(a)>5 or len(b)>5:continue
     c=float(w@np.logical_or.reduce([x['cv'] for x in pp]));e=float(w@np.logical_or.reduce([x['ex'] for x in pp]));score=(round(c+e,12),round(c,12),round(e,12),-sum(x['degeneracy_F']+x['degeneracy_R'] for x in pp),-len(a)-len(b))

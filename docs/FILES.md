@@ -7,6 +7,7 @@
 | [Overview](../figures/MiLily_overview.png) | MiLily watercolor banner |
 | [Binding map](../figures/binding_positions.svg) | All current reference coordinates |
 | [Base matching](../results/base_matching.html) | Actual bases for all 16 pairs |
+| [Same-locus audit](../results/same_locus_audit.csv) | A/B identical coordinate intervals / 同位点检查 |
 | [Comparison](../results/comparison.csv) | Coverage, exact matching and background counts |
 | [References](../references/metadata.tsv) | Accessions, annotations and source roles |
 | [Reproduction bundle](../reproduction_sources.zip) | Frozen inputs and runnable source layout |

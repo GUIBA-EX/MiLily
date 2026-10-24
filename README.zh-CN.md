@@ -10,11 +10,11 @@
 
 ![MiLily binding positions](figures/binding_positions.svg)
 
-沿用MiCucumber／MiUrchin方法，比较S、M、L、XL四档长度的普通与简并方案。D为简并单对；无后缀为普通单对，A/B为两次独立PCR的普通引物组件。共12套方案、16对记录、32条寡核苷酸。A/B前向和反向起点差均限制在35 bp内；不同备选方案仍可能位于不同区域，长度代号不代表相同位点。
+沿用MiCucumber／MiUrchin方法，比较S、M、L、XL四档长度的普通与简并方案。D为简并单对；无后缀为普通单对，A/B为两次独立PCR的普通引物组件。共12套方案、16对记录、32条寡核苷酸。A/B是同一对结合区域的碱基序列变体：F与R的起止坐标分别完全相同，只允许碱基替换；不靠移动位点获得互补覆盖。不同长度或不同备选方案仍可能选择不同区域。
 
 ## 首轮选择
 
-优先比较 **SD（短片段、较高完全匹配）**、**MD（最高简并单对覆盖）**、**LD（中等长度兼顾覆盖与完全匹配）**。若优先减少寡核苷酸种类，普通 **L单对**可作为重点候选：覆盖率88%、完全匹配率30%，WC≤3、GT≤2及WC≤4背景命中均为0。增加LA/LB只将完全匹配率提升到38%，未增加覆盖。XLD完全匹配率62%，但WC≤4背景命中104条，须单独评估。以上均为计算筛选结果，尚未做PCR实测。
+优先比较 **SD（短片段、较高完全匹配）**、**MD（最高简并单对覆盖）**、**LD（中等长度兼顾覆盖与完全匹配）**。若优先减少寡核苷酸种类，普通 **L单对**可作为重点候选：覆盖率88%、完全匹配率30%，WC≤3、GT≤2及WC≤4背景命中均为0。同位点LA/LB将完全匹配率提升到46%，未增加覆盖。XLD完全匹配率62%，但WC≤4背景命中104条，须单独评估。以上均为计算筛选结果，尚未做PCR实测。
 
 ## 共同完整序列面板
 
@@ -24,16 +24,16 @@
 |---|---:|---:|---:|---:|---:|---|
 | SD | 84.0% | 66.0% | 0 | 0 | 11 | 160–170 |
 | S | 66.0% | 28.0% | 0 | 0 | 0 | 194–203 |
-| SA+SB | 84.0% | 18.0% | 0 | 4 | 25 | 198–214 |
+| SA+SB | 66.0% | 46.0% | 0 | 0 | 0 | 194–203 |
 | MD | 92.0% | 26.0% | 0 | 0 | 2 | 250–260 |
 | M | 76.0% | 14.0% | 4 | 2 | 11 | 250–260 |
-| MA+MB | 88.0% | 22.0% | 4 | 3 | 18 | 243–260 |
+| MA+MB | 88.0% | 16.0% | 4 | 1 | 14 | 245–255 |
 | LD | 88.0% | 54.0% | 0 | 1 | 9 | 302–311 |
 | L | 88.0% | 30.0% | 0 | 0 | 0 | 288–297 |
-| LA+LB | 88.0% | 38.0% | 0 | 0 | 22 | 288–317 |
+| LA+LB | 88.0% | 46.0% | 0 | 0 | 0 | 288–297 |
 | XLD | 88.0% | 62.0% | 3 | 0 | 104 | 443–471 |
 | XL | 68.0% | 8.0% | 0 | 0 | 26 | 438–462 |
-| XLA+XLB | 92.0% | 16.0% | 0 | 0 | 48 | 376–462 |
+| XLA+XLB | 80.0% | 22.0% | 5 | 0 | 141 | 432–465 |
 
 背景为7,177条冻结记录；背景数字是命中的accession数，不是扩增概率。GT模型允许可能的G–T配对；WC≤4为更宽松的敏感性分析。两对结果为独立PCR并集，未验证混合多重PCR。
 
@@ -41,7 +41,7 @@
 
 使用已有MiStar／MiCucumber冻结数据库的269条海百合纲16S记录，未进行本轮全面更新。参考坐标为*Florometra serratissima* AF049132.1提取的16S，1-based、无gap。S/M/L/XL参考跨度分别为150–224、225–284、285–359、360–450 bp，包含引物；实际类群长度可以超出分档。
 
-多数短片段不跨越候选位点：除XLA/XLB外，各方案仅43条记录、25个标签可评估；它们含完整序列的重复记录，去重后的加权结果与完整面板相同。XLA/XLB可评估95条、66个标签，覆盖84.09%、完全匹配26.52%。不同方案可评估集合不同，不作直接排名。位点未覆盖标为不可评估，不直接计为漏检。设计面板同时用于选择和评价，结果不是独立留出测试；本轮搜索为有限位置与长度网格及空间分箱候选集，不保证全局最优。
+多数短片段不跨越候选位点：除XLA/XLB外，各方案为43条记录、25个标签可评估，包含完整序列的重复记录，去重后的加权结果与完整面板相同。XLA/XLB可评估93条记录、64个标签，覆盖率82.03%、完全匹配率8.59%；可评估集合不同，不用于跨方案直接排名。位点未覆盖标为不可评估，不直接计为漏检。设计面板同时用于选择和评价，结果不是独立留出测试；本轮搜索为有限位置与长度网格及空间分箱候选集，不保证全局最优。
 
 ## 末端与热力学
 
@@ -63,8 +63,8 @@
 |---|---|---|---:|
 | SD | `TTACTGTTDCAAAAGTAAAYWAAGAR` | `AGYTTRTCCCTTTTRGTYTAGY` | 24 / 32 |
 | S | `GATCTAATGAAACCCCAA` | `TATCCCTTTTGGTTTAGC` | 1 / 1 |
-| SA | `GTGAAACGAGCTTGGTGATAGC` | `TTGGTGGCTGCTTCTAGG` | 1 / 1 |
-| SB | `AATGAGTTTAAGCTCAAG` | `TTTATTATGCTTTAACGC` | 1 / 1 |
+| SA | `GATCTAATGAAACCCCAA` | `TATCCCTTTTGGTTTAGC` | 1 / 1 |
+| SB | `GATCTAATGAAACCCCAA` | `TGTCCCTTTTGGTTTAGC` | 1 / 1 |
 
 ![MiLily SD](figures/base_matching_SD.svg)
 
@@ -78,8 +78,8 @@
 |---|---|---|---:|
 | MD | `AWRTATTACTGTTRCAAAAGTAAAYWAAGA` | `GGCTGCTTCTAGGCCTAC` | 32 / 1 |
 | M | `TTACTGTTACAAAAGTAAACAAAGAG` | `TTGGTGGCTGCTTCTAGG` | 1 / 1 |
-| MA | `TTACTGTTACAAAAGTAAACAAAGAG` | `TTGGTGGCTGCTTCTAGG` | 1 / 1 |
-| MB | `GTTGCAAAAGTAAACTAAGAGG` | `GGCTGCTTCTAGGCCTAC` | 1 / 1 |
+| MA | `TTACTGTTGCAAAAGTAAACTAAGAG` | `GGCTGTTTCTAGGCCTAC` | 1 / 1 |
+| MB | `TTACTGTTACAAAAGTAAACTAAGAG` | `GGCTGCTTCTAGGCCTAC` | 1 / 1 |
 
 ![MiLily MD](figures/base_matching_MD.svg)
 
@@ -93,8 +93,8 @@
 |---|---|---|---:|
 | LD | `WACCCGAAACCARGRGATCTAATGMW` | `WGDTGGCTGYTTCTAGGCCTAC` | 32 / 12 |
 | L | `CAAGAGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` | 1 / 1 |
-| LA | `TTCAAAACCCGAAACCAAGAGA` | `TTGGTGGCTGCTTCTAGG` | 1 / 1 |
-| LB | `CAAGAGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` | 1 / 1 |
+| LA | `CAAGAGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` | 1 / 1 |
+| LB | `CAAGGGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` | 1 / 1 |
 
 ![MiLily LD](figures/base_matching_LD.svg)
 
@@ -108,8 +108,8 @@
 |---|---|---|---:|
 | XLD | `AGGCAAVACGAARRCTYAACTG` | `GACTTDCGTCGGTCTGAA` | 24 / 3 |
 | XL | `AGGCAAGACGAAAGCTTAACTG` | `GCGTCGGTCTGAACTCAG` | 1 / 1 |
-| XLA | `AGGCAAGACGAAAGCTTAACTG` | `GCGTCGGTCTGAACTCAG` | 1 / 1 |
-| XLB | `AAAAGAAATTAATATTTTAGTGAAGA` | `TTTAAAGGTCGAACAGAC` | 1 / 1 |
+| XLA | `TAATTGAGGACTAGAATGAAAGGCAA` | `GGGCTTTAAAGGTCGAACAGAC` | 1 / 1 |
+| XLB | `TAATTGAGGACTAGAATGAAAGGCAA` | `AGGCTTTAAAGGTCGAACAGAC` | 1 / 1 |
 
 ![MiLily XLD](figures/base_matching_XLD.svg)
 
@@ -120,3 +120,5 @@
 [Copyright / 著作权声明](COPYRIGHT.md)
 
 [GitHub: GUIBA-EX/MiLily](https://github.com/GUIBA-EX/MiLily) · [文件索引 / File index](docs/FILES.md)
+
+[同位点审计 / Same-locus audit](results/same_locus_audit.csv) · [A/B修正前后比较 / Before–after comparison](results/same_locus_comparison.csv)

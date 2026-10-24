@@ -12,9 +12,14 @@ S,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
 S,OP546034.1,Capillaster sp. DH-Y2,Crinoidea,0.04
 S,OQ207656.1,Thaumatocrinus sp. JL223,Crinoidea,0.04
 S,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
+SA+SB,AF049132.1,Florometra serratissima,Crinoidea,0.04
+SA+SB,AM404181.1,Antedon mediterranea,Crinoidea,0.04
 SA+SB,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-SA+SB,NC_068252.1,Comatella stelligera,Crinoidea,0.04
+SA+SB,MT302206.1,Florometra sp. BMK-2020,Crinoidea,0.02
+SA+SB,NC_066490.1,Poliometra prolixa,Crinoidea,0.04
 SA+SB,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
+SA+SB,OP546034.1,Capillaster sp. DH-Y2,Crinoidea,0.04
+SA+SB,OQ207656.1,Thaumatocrinus sp. JL223,Crinoidea,0.04
 SA+SB,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
 MD,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
 MD,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
@@ -47,5 +52,8 @@ XL,NC_068252.1,Comatella stelligera,Crinoidea,0.04
 XL,NC_068254.1,Comatella nigra,Crinoidea,0.04
 XL,NC_069630.1,Tropiometra macrodiscus,Crinoidea,0.04
 XL,OP546034.1,Capillaster sp. DH-Y2,Crinoidea,0.04
-XLA+XLB,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-XLA+XLB,NC_069630.1,Tropiometra macrodiscus,Crinoidea,0.04
+XLA+XLB,AM404181.1,Antedon mediterranea,Crinoidea,0.04
+XLA+XLB,NC_068252.1,Comatella stelligera,Crinoidea,0.04
+XLA+XLB,NC_068254.1,Comatella nigra,Crinoidea,0.04
+XLA+XLB,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
+XLA+XLB,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04

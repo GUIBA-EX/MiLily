@@ -9,6 +9,7 @@ c++ -O3 -std=c++17 work/micucumber_nondegenerate/independent_scan.cpp -o work/mi
 python work/milily/verify.py
 python work/milily/summarize.py
 python work/milily/extra_audit.py
+python work/milily/same_locus_audit.py
 python work/milily/figures.py
 ```
 
@@ -16,4 +17,6 @@ Results are written to `work/milily/release`. To repeat upstream discovery, run 
 
 解包后从冻结候选与背景位点重算选择，随后进行独立全序列扫描、末端检查与图件生成。`prepare.py`保留原始提取逻辑及来源路径，仅供追溯；复现直接使用随包提供的FASTA，不依赖原项目目录。
 
-Fresh-directory test: candidate selection reproduced identical selected records. / 新目录测试：候选选择结果完全一致。
+The frozen `fixed_single_pairs.json` preserves the eight single-pair portfolios while A/B is reselected under identical-coordinate constraints. / 冻结单对文件保留8套单对方案，A/B在完全相同坐标约束下重新选择。
+
+Fresh-directory rerun of the same-locus selection reproduced identical records. / 新目录重跑同位点选择，结果完全一致。
