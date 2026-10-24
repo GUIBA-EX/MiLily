@@ -18,3 +18,5 @@ Morphological emphasis: articulated stalk and lateral cirri in Isocrinida; low r
 Badge values are unchanged reference spans including primers: SD 162 bp, MD 253 bp, LD 302 bp and XLD 443 bp on AF049132.1. Exact binding coordinates remain in [binding_positions.svg](binding_positions.svg).
 
 [Final generation prompt](overview_prompt.txt) / 最终生成提示词。
+
+Final styling pass: simplified hand-painted watercolor illustration following MiCucumber, preserving the four labeled order representatives. / 最终画风：沿用MiCucumber的简洁手绘水彩插画，保留四个目及其代表种标注。
