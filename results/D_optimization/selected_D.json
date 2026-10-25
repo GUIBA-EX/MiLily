@@ -1,0 +1,158 @@
+[
+  {
+    "region": "S",
+    "F": "GATCTAMTRMWAYYCCRA",
+    "R": "TRTCCCTKTTRRTYTWRC",
+    "F_id": "T0000",
+    "R_id": "T0042",
+    "degeneracy_F": 128,
+    "degeneracy_R": 128,
+    "pred_order_coverage": 71.5909090909091,
+    "pred_order_exact": 43.18181818181818,
+    "pred_taxon_coverage": 84.0,
+    "pred_taxon_exact": 68.0,
+    "WC3": 4,
+    "GT2": 7,
+    "WC4": 151,
+    "strict_WC": 0,
+    "strict_GT": 4,
+    "background_limit": 20,
+    "thermal": [
+      {
+        "scenario": "50_per_variant",
+        "F_tm_min": 39.749731504606984,
+        "F_tm_max": 55.99881248328319,
+        "R_tm_min": 40.932947964648804,
+        "R_tm_max": 57.10139325370818,
+        "structure_max": 39.79550389629708
+      },
+      {
+        "scenario": "200_per_direction",
+        "F_tm_min": 34.58938952922131,
+        "F_tm_max": 50.6912440298907,
+        "R_tm_min": 35.76546777167408,
+        "R_tm_max": 51.76229338507841,
+        "structure_max": 39.79550389629708
+      }
+    ],
+    "name": "SD",
+    "source_candidate": "SD-T1"
+  },
+  {
+    "region": "M",
+    "F": "TYACTGTTDCAAAAGTRAAYWAAGAR",
+    "R": "GRCTGCTTYTRGGCCTAC",
+    "F_id": "T0087",
+    "R_id": "T0124",
+    "degeneracy_F": 96,
+    "degeneracy_R": 8,
+    "pred_order_coverage": 100.0,
+    "pred_order_exact": 50.0,
+    "pred_taxon_coverage": 100.0,
+    "pred_taxon_exact": 92.0,
+    "WC3": 26,
+    "GT2": 23,
+    "WC4": 47,
+    "strict_WC": 10,
+    "strict_GT": 18,
+    "background_limit": 50,
+    "thermal": [
+      {
+        "scenario": "50_per_variant",
+        "F_tm_min": 51.968189879538386,
+        "F_tm_max": 61.06098588662371,
+        "R_tm_min": 52.35221080364602,
+        "R_tm_max": 60.12452865014944,
+        "structure_max": 47.3914670202966
+      },
+      {
+        "scenario": "200_per_direction",
+        "F_tm_min": 48.53908766512865,
+        "F_tm_max": 57.62381568951065,
+        "R_tm_min": 51.2997240542108,
+        "R_tm_max": 59.043866236821884,
+        "structure_max": 47.3914670202966
+      }
+    ],
+    "name": "MD",
+    "source_candidate": "MD-T3"
+  },
+  {
+    "region": "L",
+    "F": "YARGAGATCTAATGAWAYYCCA",
+    "R": "GRCTGCTTYTRGGCCTAC",
+    "F_id": "T0146",
+    "R_id": "T0175",
+    "degeneracy_F": 32,
+    "degeneracy_R": 8,
+    "pred_order_coverage": 50.0,
+    "pred_order_exact": 14.772727272727273,
+    "pred_taxon_coverage": 92.0,
+    "pred_taxon_exact": 52.0,
+    "WC3": 0,
+    "GT2": 0,
+    "WC4": 0,
+    "strict_WC": 0,
+    "strict_GT": 0,
+    "background_limit": 20,
+    "thermal": [
+      {
+        "scenario": "50_per_variant",
+        "F_tm_min": 48.94199141648045,
+        "F_tm_max": 57.22178686351958,
+        "R_tm_min": 52.35221080364602,
+        "R_tm_max": 60.12452865014944,
+        "structure_max": 53.16094657008489
+      },
+      {
+        "scenario": "200_per_direction",
+        "F_tm_min": 46.26677859262372,
+        "F_tm_max": 54.511043513826735,
+        "R_tm_min": 51.2997240542108,
+        "R_tm_max": 59.043866236821884,
+        "structure_max": 53.16094657008489
+      }
+    ],
+    "name": "LD",
+    "source_candidate": "LD-T4"
+  },
+  {
+    "region": "XL",
+    "F": "AGGCAAVACGARRRCTHAACTG",
+    "R": "GACTYDCGTCGGTCTGAA",
+    "F_id": "T0180",
+    "R_id": "T0222",
+    "degeneracy_F": 72,
+    "degeneracy_R": 6,
+    "pred_order_coverage": 75.0,
+    "pred_order_exact": 68.18181818181819,
+    "pred_taxon_coverage": 96.0,
+    "pred_taxon_exact": 72.0,
+    "WC3": 8,
+    "GT2": 3,
+    "WC4": 163,
+    "strict_WC": 3,
+    "strict_GT": 3,
+    "background_limit": 20,
+    "thermal": [
+      {
+        "scenario": "50_per_variant",
+        "F_tm_min": 56.03320061561902,
+        "F_tm_max": 65.26911513550311,
+        "R_tm_min": 53.68035714795468,
+        "R_tm_max": 59.44016035817475,
+        "structure_max": 41.40961653694268
+      },
+      {
+        "scenario": "200_per_direction",
+        "F_tm_min": 52.41685553801432,
+        "F_tm_max": 61.53917685514074,
+        "R_tm_min": 53.06811370279303,
+        "R_tm_max": 58.82836507226244,
+        "structure_max": 41.40961653694268
+      }
+    ],
+    "name": "XLD",
+    "source_candidate": "XLD-T5"
+  }
+]

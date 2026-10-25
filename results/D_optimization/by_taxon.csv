@@ -1,0 +1,226 @@
+name,taxon_label,order,reference_count,coverage_hits,exact_hits,coverage_state
+SD-T1,Anneissia intermedia,Comatulida,1,1,1,full
+SD-T1,Anneissia pinguis,Comatulida,1,1,1,full
+SD-T1,Antedon mediterranea,Comatulida,1,0,0,none
+SD-T1,Capillaster sp. DH-Y2,Comatulida,1,0,0,none
+SD-T1,Cenometra bella,Comatulida,1,1,1,full
+SD-T1,Comanthus parvicirrus,Comatulida,2,2,2,full
+SD-T1,Comanthus sp. 2 MS-2014,Comatulida,1,1,1,full
+SD-T1,Comaster schlegelii,Comatulida,1,1,0,full
+SD-T1,Comatella nigra,Comatulida,1,1,1,full
+SD-T1,Comatella stelligera,Comatulida,1,1,1,full
+SD-T1,Cyllometra manca,Comatulida,1,1,0,full
+SD-T1,Decametra tigrina,Comatulida,1,1,1,full
+SD-T1,Florometra serratissima,Comatulida,1,1,1,full
+SD-T1,Florometra sp. BMK-2020,Comatulida,2,2,1,full
+SD-T1,Hyocrinidae sp.,Hyocrinida,1,0,0,none
+SD-T1,Metacrinus rotundus,Isocrinida,1,1,0,full
+SD-T1,Neogymnocrinus richeri,Cyrtocrinida,1,1,1,full
+SD-T1,Oligometra serripinna,Comatulida,1,1,1,full
+SD-T1,Phanogenia gracilis,Comatulida,1,1,1,full
+SD-T1,Poliometra prolixa,Comatulida,1,1,1,full
+SD-T1,Ptilometra sp. DH-R,Comatulida,1,1,1,full
+SD-T1,Stephanometra indica,Comatulida,1,1,1,full
+SD-T1,Thaumatocrinus sp. JL223,Comatulida,1,0,0,none
+SD-T1,Tropiometra macrodiscus,Comatulida,1,1,0,full
+SD-T1,Zygometra comata,Comatulida,1,1,1,full
+MD-T2,Anneissia intermedia,Comatulida,1,1,1,full
+MD-T2,Anneissia pinguis,Comatulida,1,1,1,full
+MD-T2,Antedon mediterranea,Comatulida,1,1,1,full
+MD-T2,Capillaster sp. DH-Y2,Comatulida,1,1,1,full
+MD-T2,Cenometra bella,Comatulida,1,1,1,full
+MD-T2,Comanthus parvicirrus,Comatulida,2,2,2,full
+MD-T2,Comanthus sp. 2 MS-2014,Comatulida,1,1,1,full
+MD-T2,Comaster schlegelii,Comatulida,1,1,1,full
+MD-T2,Comatella nigra,Comatulida,1,1,1,full
+MD-T2,Comatella stelligera,Comatulida,1,1,1,full
+MD-T2,Cyllometra manca,Comatulida,1,1,1,full
+MD-T2,Decametra tigrina,Comatulida,1,1,1,full
+MD-T2,Florometra serratissima,Comatulida,1,1,1,full
+MD-T2,Florometra sp. BMK-2020,Comatulida,2,2,2,full
+MD-T2,Hyocrinidae sp.,Hyocrinida,1,1,0,full
+MD-T2,Metacrinus rotundus,Isocrinida,1,1,0,full
+MD-T2,Neogymnocrinus richeri,Cyrtocrinida,1,1,0,full
+MD-T2,Oligometra serripinna,Comatulida,1,1,1,full
+MD-T2,Phanogenia gracilis,Comatulida,1,1,1,full
+MD-T2,Poliometra prolixa,Comatulida,1,1,1,full
+MD-T2,Ptilometra sp. DH-R,Comatulida,1,1,1,full
+MD-T2,Stephanometra indica,Comatulida,1,1,1,full
+MD-T2,Thaumatocrinus sp. JL223,Comatulida,1,1,1,full
+MD-T2,Tropiometra macrodiscus,Comatulida,1,1,1,full
+MD-T2,Zygometra comata,Comatulida,1,1,1,full
+MD-T3,Anneissia intermedia,Comatulida,1,1,1,full
+MD-T3,Anneissia pinguis,Comatulida,1,1,1,full
+MD-T3,Antedon mediterranea,Comatulida,1,1,1,full
+MD-T3,Capillaster sp. DH-Y2,Comatulida,1,1,1,full
+MD-T3,Cenometra bella,Comatulida,1,1,1,full
+MD-T3,Comanthus parvicirrus,Comatulida,2,2,2,full
+MD-T3,Comanthus sp. 2 MS-2014,Comatulida,1,1,1,full
+MD-T3,Comaster schlegelii,Comatulida,1,1,1,full
+MD-T3,Comatella nigra,Comatulida,1,1,1,full
+MD-T3,Comatella stelligera,Comatulida,1,1,1,full
+MD-T3,Cyllometra manca,Comatulida,1,1,1,full
+MD-T3,Decametra tigrina,Comatulida,1,1,1,full
+MD-T3,Florometra serratissima,Comatulida,1,1,1,full
+MD-T3,Florometra sp. BMK-2020,Comatulida,2,2,2,full
+MD-T3,Hyocrinidae sp.,Hyocrinida,1,1,0,full
+MD-T3,Metacrinus rotundus,Isocrinida,1,1,1,full
+MD-T3,Neogymnocrinus richeri,Cyrtocrinida,1,1,0,full
+MD-T3,Oligometra serripinna,Comatulida,1,1,1,full
+MD-T3,Phanogenia gracilis,Comatulida,1,1,1,full
+MD-T3,Poliometra prolixa,Comatulida,1,1,1,full
+MD-T3,Ptilometra sp. DH-R,Comatulida,1,1,1,full
+MD-T3,Stephanometra indica,Comatulida,1,1,1,full
+MD-T3,Thaumatocrinus sp. JL223,Comatulida,1,1,1,full
+MD-T3,Tropiometra macrodiscus,Comatulida,1,1,1,full
+MD-T3,Zygometra comata,Comatulida,1,1,1,full
+LD-T4,Anneissia intermedia,Comatulida,1,1,0,full
+LD-T4,Anneissia pinguis,Comatulida,1,1,0,full
+LD-T4,Antedon mediterranea,Comatulida,1,1,0,full
+LD-T4,Capillaster sp. DH-Y2,Comatulida,1,1,0,full
+LD-T4,Cenometra bella,Comatulida,1,1,1,full
+LD-T4,Comanthus parvicirrus,Comatulida,2,2,0,full
+LD-T4,Comanthus sp. 2 MS-2014,Comatulida,1,1,0,full
+LD-T4,Comaster schlegelii,Comatulida,1,1,0,full
+LD-T4,Comatella nigra,Comatulida,1,1,1,full
+LD-T4,Comatella stelligera,Comatulida,1,1,1,full
+LD-T4,Cyllometra manca,Comatulida,1,1,0,full
+LD-T4,Decametra tigrina,Comatulida,1,1,1,full
+LD-T4,Florometra serratissima,Comatulida,1,1,1,full
+LD-T4,Florometra sp. BMK-2020,Comatulida,2,2,1,full
+LD-T4,Hyocrinidae sp.,Hyocrinida,1,0,0,none
+LD-T4,Metacrinus rotundus,Isocrinida,1,1,0,full
+LD-T4,Neogymnocrinus richeri,Cyrtocrinida,1,0,0,none
+LD-T4,Oligometra serripinna,Comatulida,1,1,1,full
+LD-T4,Phanogenia gracilis,Comatulida,1,1,1,full
+LD-T4,Poliometra prolixa,Comatulida,1,1,1,full
+LD-T4,Ptilometra sp. DH-R,Comatulida,1,1,1,full
+LD-T4,Stephanometra indica,Comatulida,1,1,1,full
+LD-T4,Thaumatocrinus sp. JL223,Comatulida,1,1,1,full
+LD-T4,Tropiometra macrodiscus,Comatulida,1,1,0,full
+LD-T4,Zygometra comata,Comatulida,1,1,1,full
+XLD-T5,Anneissia intermedia,Comatulida,1,1,1,full
+XLD-T5,Anneissia pinguis,Comatulida,1,1,1,full
+XLD-T5,Antedon mediterranea,Comatulida,1,1,0,full
+XLD-T5,Capillaster sp. DH-Y2,Comatulida,1,1,0,full
+XLD-T5,Cenometra bella,Comatulida,1,1,1,full
+XLD-T5,Comanthus parvicirrus,Comatulida,2,2,2,full
+XLD-T5,Comanthus sp. 2 MS-2014,Comatulida,1,1,1,full
+XLD-T5,Comaster schlegelii,Comatulida,1,1,1,full
+XLD-T5,Comatella nigra,Comatulida,1,1,0,full
+XLD-T5,Comatella stelligera,Comatulida,1,1,0,full
+XLD-T5,Cyllometra manca,Comatulida,1,1,1,full
+XLD-T5,Decametra tigrina,Comatulida,1,1,1,full
+XLD-T5,Florometra serratissima,Comatulida,1,1,1,full
+XLD-T5,Florometra sp. BMK-2020,Comatulida,2,2,1,full
+XLD-T5,Hyocrinidae sp.,Hyocrinida,1,1,1,full
+XLD-T5,Metacrinus rotundus,Isocrinida,1,1,1,full
+XLD-T5,Neogymnocrinus richeri,Cyrtocrinida,1,0,0,none
+XLD-T5,Oligometra serripinna,Comatulida,1,1,1,full
+XLD-T5,Phanogenia gracilis,Comatulida,1,1,0,full
+XLD-T5,Poliometra prolixa,Comatulida,1,1,0,full
+XLD-T5,Ptilometra sp. DH-R,Comatulida,1,1,1,full
+XLD-T5,Stephanometra indica,Comatulida,1,1,1,full
+XLD-T5,Thaumatocrinus sp. JL223,Comatulida,1,1,1,full
+XLD-T5,Tropiometra macrodiscus,Comatulida,1,1,1,full
+XLD-T5,Zygometra comata,Comatulida,1,1,1,full
+SD-before,Anneissia intermedia,Comatulida,1,1,1,full
+SD-before,Anneissia pinguis,Comatulida,1,1,1,full
+SD-before,Antedon mediterranea,Comatulida,1,1,0,full
+SD-before,Capillaster sp. DH-Y2,Comatulida,1,1,0,full
+SD-before,Cenometra bella,Comatulida,1,1,1,full
+SD-before,Comanthus parvicirrus,Comatulida,2,2,2,full
+SD-before,Comanthus sp. 2 MS-2014,Comatulida,1,1,1,full
+SD-before,Comaster schlegelii,Comatulida,1,1,0,full
+SD-before,Comatella nigra,Comatulida,1,1,1,full
+SD-before,Comatella stelligera,Comatulida,1,1,1,full
+SD-before,Cyllometra manca,Comatulida,1,1,1,full
+SD-before,Decametra tigrina,Comatulida,1,1,1,full
+SD-before,Florometra serratissima,Comatulida,1,1,1,full
+SD-before,Florometra sp. BMK-2020,Comatulida,2,2,1,full
+SD-before,Hyocrinidae sp.,Hyocrinida,1,0,0,none
+SD-before,Metacrinus rotundus,Isocrinida,1,0,0,none
+SD-before,Neogymnocrinus richeri,Cyrtocrinida,1,0,0,none
+SD-before,Oligometra serripinna,Comatulida,1,1,1,full
+SD-before,Phanogenia gracilis,Comatulida,1,1,1,full
+SD-before,Poliometra prolixa,Comatulida,1,1,0,full
+SD-before,Ptilometra sp. DH-R,Comatulida,1,1,1,full
+SD-before,Stephanometra indica,Comatulida,1,1,1,full
+SD-before,Thaumatocrinus sp. JL223,Comatulida,1,1,1,full
+SD-before,Tropiometra macrodiscus,Comatulida,1,1,0,full
+SD-before,Zygometra comata,Comatulida,1,1,1,full
+MD-before,Anneissia intermedia,Comatulida,1,1,1,full
+MD-before,Anneissia pinguis,Comatulida,1,1,0,full
+MD-before,Antedon mediterranea,Comatulida,1,1,1,full
+MD-before,Capillaster sp. DH-Y2,Comatulida,1,1,1,full
+MD-before,Cenometra bella,Comatulida,1,1,1,full
+MD-before,Comanthus parvicirrus,Comatulida,2,2,2,full
+MD-before,Comanthus sp. 2 MS-2014,Comatulida,1,1,1,full
+MD-before,Comaster schlegelii,Comatulida,1,1,1,full
+MD-before,Comatella nigra,Comatulida,1,1,1,full
+MD-before,Comatella stelligera,Comatulida,1,1,1,full
+MD-before,Cyllometra manca,Comatulida,1,1,1,full
+MD-before,Decametra tigrina,Comatulida,1,1,1,full
+MD-before,Florometra serratissima,Comatulida,1,1,1,full
+MD-before,Florometra sp. BMK-2020,Comatulida,2,2,2,full
+MD-before,Hyocrinidae sp.,Hyocrinida,1,1,0,full
+MD-before,Metacrinus rotundus,Isocrinida,1,1,0,full
+MD-before,Neogymnocrinus richeri,Cyrtocrinida,1,1,0,full
+MD-before,Oligometra serripinna,Comatulida,1,1,1,full
+MD-before,Phanogenia gracilis,Comatulida,1,1,1,full
+MD-before,Poliometra prolixa,Comatulida,1,1,1,full
+MD-before,Ptilometra sp. DH-R,Comatulida,1,1,1,full
+MD-before,Stephanometra indica,Comatulida,1,1,1,full
+MD-before,Thaumatocrinus sp. JL223,Comatulida,1,1,1,full
+MD-before,Tropiometra macrodiscus,Comatulida,1,1,1,full
+MD-before,Zygometra comata,Comatulida,1,1,1,full
+LD-before,Anneissia intermedia,Comatulida,1,1,0,full
+LD-before,Anneissia pinguis,Comatulida,1,1,0,full
+LD-before,Antedon mediterranea,Comatulida,1,1,0,full
+LD-before,Capillaster sp. DH-Y2,Comatulida,1,1,0,full
+LD-before,Cenometra bella,Comatulida,1,1,1,full
+LD-before,Comanthus parvicirrus,Comatulida,2,2,0,full
+LD-before,Comanthus sp. 2 MS-2014,Comatulida,1,1,0,full
+LD-before,Comaster schlegelii,Comatulida,1,1,0,full
+LD-before,Comatella nigra,Comatulida,1,1,1,full
+LD-before,Comatella stelligera,Comatulida,1,1,0,full
+LD-before,Cyllometra manca,Comatulida,1,1,0,full
+LD-before,Decametra tigrina,Comatulida,1,1,1,full
+LD-before,Florometra serratissima,Comatulida,1,1,1,full
+LD-before,Florometra sp. BMK-2020,Comatulida,2,2,1,full
+LD-before,Hyocrinidae sp.,Hyocrinida,1,0,0,none
+LD-before,Metacrinus rotundus,Isocrinida,1,0,0,none
+LD-before,Neogymnocrinus richeri,Cyrtocrinida,1,0,0,none
+LD-before,Oligometra serripinna,Comatulida,1,1,1,full
+LD-before,Phanogenia gracilis,Comatulida,1,1,1,full
+LD-before,Poliometra prolixa,Comatulida,1,1,1,full
+LD-before,Ptilometra sp. DH-R,Comatulida,1,1,1,full
+LD-before,Stephanometra indica,Comatulida,1,1,0,full
+LD-before,Thaumatocrinus sp. JL223,Comatulida,1,1,1,full
+LD-before,Tropiometra macrodiscus,Comatulida,1,1,0,full
+LD-before,Zygometra comata,Comatulida,1,1,0,full
+XLD-before,Anneissia intermedia,Comatulida,1,1,1,full
+XLD-before,Anneissia pinguis,Comatulida,1,1,1,full
+XLD-before,Antedon mediterranea,Comatulida,1,1,0,full
+XLD-before,Capillaster sp. DH-Y2,Comatulida,1,1,0,full
+XLD-before,Cenometra bella,Comatulida,1,1,1,full
+XLD-before,Comanthus parvicirrus,Comatulida,2,2,2,full
+XLD-before,Comanthus sp. 2 MS-2014,Comatulida,1,1,1,full
+XLD-before,Comaster schlegelii,Comatulida,1,1,1,full
+XLD-before,Comatella nigra,Comatulida,1,1,0,full
+XLD-before,Comatella stelligera,Comatulida,1,1,0,full
+XLD-before,Cyllometra manca,Comatulida,1,1,1,full
+XLD-before,Decametra tigrina,Comatulida,1,1,1,full
+XLD-before,Florometra serratissima,Comatulida,1,1,1,full
+XLD-before,Florometra sp. BMK-2020,Comatulida,2,2,1,full
+XLD-before,Hyocrinidae sp.,Hyocrinida,1,1,1,full
+XLD-before,Metacrinus rotundus,Isocrinida,1,1,1,full
+XLD-before,Neogymnocrinus richeri,Cyrtocrinida,1,0,0,none
+XLD-before,Oligometra serripinna,Comatulida,1,1,1,full
+XLD-before,Phanogenia gracilis,Comatulida,1,1,0,full
+XLD-before,Poliometra prolixa,Comatulida,1,1,0,full
+XLD-before,Ptilometra sp. DH-R,Comatulida,1,1,1,full
+XLD-before,Stephanometra indica,Comatulida,1,1,1,full
+XLD-before,Thaumatocrinus sp. JL223,Comatulida,1,1,1,full
+XLD-before,Tropiometra macrodiscus,Comatulida,1,1,0,full
+XLD-before,Zygometra comata,Comatulida,1,1,1,full

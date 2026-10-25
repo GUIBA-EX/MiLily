@@ -1,0 +1,3621 @@
+name	role	model	accession	exact	le2last3	le2	le3	le4	ambiguous	sizes
+SD-T1	target	WC	MW526391.2	0	1	1	1	1	0	197
+SD-T1	target	WC	PZ343777.1	0	1	1	1	1	0	196
+SD-T1	target	WC	PV742399.1	1	1	1	1	1	0	199
+SD-T1	target	WC	MW008594.1	1	1	1	1	1	0	196
+SD-T1	target	WC	OQ721985.1	0	0	1	1	1	0	
+SD-T1	target	WC	OQ207656.1	0	0	1	1	1	0	
+SD-T1	target	WC	NC_066490.1	1	1	1	1	1	0	195
+SD-T1	target	WC	OP546035.1	1	1	1	1	1	0	196
+SD-T1	target	WC	OP546034.1	0	0	1	1	1	0	
+SD-T1	target	WC	NC_069919.1	1	1	1	1	1	0	194
+SD-T1	target	WC	NC_069630.1	0	1	1	1	1	0	195
+SD-T1	target	WC	NC_068797.1	0	1	1	1	1	0	196
+SD-T1	target	WC	NC_068254.1	1	1	1	1	1	0	197
+SD-T1	target	WC	NC_068252.1	1	1	1	1	1	0	194
+SD-T1	target	WC	NC_061054.1	1	1	1	1	1	0	199
+SD-T1	target	WC	NC_060843.1	1	1	1	1	1	0	197
+SD-T1	target	WC	NC_059908.1	1	1	1	1	1	0	200
+SD-T1	target	WC	NC_054279.1	1	1	1	1	1	0	196
+SD-T1	target	WC	NC_045944.1	1	1	1	1	1	0	198
+SD-T1	target	WC	NC_010692.1	0	0	1	1	1	0	
+SD-T1	target	WC	NC_007690.1	1	1	1	1	1	0	195
+SD-T1	target	WC	NC_007689.1	1	1	1	1	1	0	196
+SD-T1	target	WC	NC_001878.1	1	1	1	1	1	0	193
+SD-T1	target	WC	ON381167.1	0	1	1	1	1	0	195
+SD-T1	target	WC	ON585667.1	1	1	1	1	1	0	194
+SD-T1	target	WC	OM964491.1	0	1	1	1	1	0	196
+SD-T1	target	WC	OM321037.1	1	1	1	1	1	0	197
+SD-T1	target	WC	OM313186.1	1	1	1	1	1	0	194
+SD-T1	target	WC	OM272942.1	1	1	1	1	1	0	203
+SD-T1	target	WC	OP177937.1	1	1	1	1	1	0	195
+SD-T1	target	WC	OK509084.1	1	1	1	1	1	0	199
+SD-T1	target	WC	MW884542.1	1	1	1	1	1	0	197
+SD-T1	target	WC	MW868294.1	0	1	1	1	1	0	197
+SD-T1	target	WC	MW526392.2	1	1	1	1	1	0	197
+SD-T1	target	WC	MW405444.1	1	1	1	1	1	0	199
+SD-T1	target	WC	MW376476.1	1	1	1	1	1	0	200
+SD-T1	target	WC	MT302206.1	0	1	1	1	1	0	195
+SD-T1	target	WC	MN883538.1	1	1	1	1	1	0	199
+SD-T1	target	WC	MF966246.1	1	1	1	1	1	0	198
+SD-T1	target	WC	DQ068952.1	1	1	1	1	1	0	195
+SD-T1	target	WC	DQ068951.1	1	1	1	1	1	0	196
+SD-T1	target	WC	AF049132.1	1	1	1	1	1	0	193
+SD-T1	target	WC	AM404181.1	0	0	1	1	1	0	
+MD-T2	target	WC	MW526391.2	1	1	1	1	1	0	252
+MD-T2	target	WC	PZ343777.1	1	1	1	1	1	0	248
+MD-T2	target	WC	PV742399.1	1	1	1	1	1	0	250
+MD-T2	target	WC	MW008594.1	1	1	1	1	1	0	252
+MD-T2	target	WC	OQ721985.1	0	1	1	1	1	0	247
+MD-T2	target	WC	OQ207656.1	1	1	1	1	1	0	254
+MD-T2	target	WC	NC_066490.1	1	1	1	1	1	0	250
+MD-T2	target	WC	OP546035.1	1	1	1	1	1	0	249
+MD-T2	target	WC	OP546034.1	1	1	1	1	1	0	248
+MD-T2	target	WC	NC_069919.1	1	1	1	1	1	0	245
+MD-T2	target	WC	NC_069630.1	1	1	1	1	1	0	248
+MD-T2	target	WC	NC_068797.1	0	1	1	1	1	0	251
+MD-T2	target	WC	NC_068254.1	1	1	1	1	1	0	250
+MD-T2	target	WC	NC_068252.1	1	1	1	1	1	0	248
+MD-T2	target	WC	NC_061054.1	1	1	1	1	1	0	251
+MD-T2	target	WC	NC_060843.1	1	1	1	1	1	0	251
+MD-T2	target	WC	NC_059908.1	1	1	1	1	1	0	252
+MD-T2	target	WC	NC_054279.1	1	1	1	1	1	0	252
+MD-T2	target	WC	NC_045944.1	1	1	1	1	1	0	254
+MD-T2	target	WC	NC_010692.1	1	1	1	1	1	0	251
+MD-T2	target	WC	NC_007690.1	1	1	1	1	1	0	248
+MD-T2	target	WC	NC_007689.1	0	1	1	1	1	0	256
+MD-T2	target	WC	NC_001878.1	1	1	1	1	1	0	248
+MD-T2	target	WC	ON381167.1	1	1	1	1	1	0	248
+MD-T2	target	WC	ON585667.1	1	1	1	1	1	0	245
+MD-T2	target	WC	OM964491.1	0	1	1	1	1	0	251
+MD-T2	target	WC	OM321037.1	1	1	1	1	1	0	250
+MD-T2	target	WC	OM313186.1	1	1	1	1	1	0	248
+MD-T2	target	WC	OM272942.1	1	1	1	1	1	0	255
+MD-T2	target	WC	OP177937.1	1	1	1	1	1	0	250
+MD-T2	target	WC	OK509084.1	1	1	1	1	1	0	251
+MD-T2	target	WC	MW884542.1	1	1	1	1	1	0	251
+MD-T2	target	WC	MW868294.1	1	1	1	1	1	0	252
+MD-T2	target	WC	MW526392.2	1	1	1	1	1	0	251
+MD-T2	target	WC	MW405444.1	1	1	1	1	1	0	250
+MD-T2	target	WC	MW376476.1	1	1	1	1	1	0	252
+MD-T2	target	WC	MT302206.1	1	1	1	1	1	0	249
+MD-T2	target	WC	MN883538.1	1	1	1	1	1	0	250
+MD-T2	target	WC	MF966246.1	1	1	1	1	1	0	254
+MD-T2	target	WC	DQ068952.1	1	1	1	1	1	0	248
+MD-T2	target	WC	DQ068951.1	0	1	1	1	1	0	256
+MD-T2	target	WC	AF049132.1	1	1	1	1	1	0	248
+MD-T2	target	WC	AM404181.1	1	1	1	1	1	0	251
+MD-T3	target	WC	MW526391.2	1	1	1	1	1	0	252
+MD-T3	target	WC	PZ343777.1	1	1	1	1	1	0	248
+MD-T3	target	WC	PV742399.1	1	1	1	1	1	0	250
+MD-T3	target	WC	MW008594.1	1	1	1	1	1	0	252
+MD-T3	target	WC	OQ721985.1	0	1	1	1	1	0	247
+MD-T3	target	WC	OQ207656.1	1	1	1	1	1	0	254
+MD-T3	target	WC	NC_066490.1	1	1	1	1	1	0	250
+MD-T3	target	WC	OP546035.1	1	1	1	1	1	0	249
+MD-T3	target	WC	OP546034.1	1	1	1	1	1	0	248
+MD-T3	target	WC	NC_069919.1	1	1	1	1	1	0	245
+MD-T3	target	WC	NC_069630.1	1	1	1	1	1	0	248
+MD-T3	target	WC	NC_068797.1	1	1	1	1	1	0	251
+MD-T3	target	WC	NC_068254.1	1	1	1	1	1	0	250
+MD-T3	target	WC	NC_068252.1	1	1	1	1	1	0	248
+MD-T3	target	WC	NC_061054.1	1	1	1	1	1	0	251
+MD-T3	target	WC	NC_060843.1	1	1	1	1	1	0	251
+MD-T3	target	WC	NC_059908.1	1	1	1	1	1	0	252
+MD-T3	target	WC	NC_054279.1	1	1	1	1	1	0	252
+MD-T3	target	WC	NC_045944.1	1	1	1	1	1	0	254
+MD-T3	target	WC	NC_010692.1	1	1	1	1	1	0	251
+MD-T3	target	WC	NC_007690.1	1	1	1	1	1	0	248
+MD-T3	target	WC	NC_007689.1	0	1	1	1	1	0	256
+MD-T3	target	WC	NC_001878.1	1	1	1	1	1	0	248
+MD-T3	target	WC	ON381167.1	1	1	1	1	1	0	248
+MD-T3	target	WC	ON585667.1	1	1	1	1	1	0	245
+MD-T3	target	WC	OM964491.1	1	1	1	1	1	0	251
+MD-T3	target	WC	OM321037.1	1	1	1	1	1	0	250
+MD-T3	target	WC	OM313186.1	1	1	1	1	1	0	248
+MD-T3	target	WC	OM272942.1	1	1	1	1	1	0	255
+MD-T3	target	WC	OP177937.1	1	1	1	1	1	0	250
+MD-T3	target	WC	OK509084.1	1	1	1	1	1	0	251
+MD-T3	target	WC	MW884542.1	1	1	1	1	1	0	251
+MD-T3	target	WC	MW868294.1	1	1	1	1	1	0	252
+MD-T3	target	WC	MW526392.2	1	1	1	1	1	0	251
+MD-T3	target	WC	MW405444.1	1	1	1	1	1	0	250
+MD-T3	target	WC	MW376476.1	1	1	1	1	1	0	252
+MD-T3	target	WC	MT302206.1	1	1	1	1	1	0	249
+MD-T3	target	WC	MN883538.1	1	1	1	1	1	0	250
+MD-T3	target	WC	MF966246.1	1	1	1	1	1	0	254
+MD-T3	target	WC	DQ068952.1	1	1	1	1	1	0	248
+MD-T3	target	WC	DQ068951.1	0	1	1	1	1	0	256
+MD-T3	target	WC	AF049132.1	1	1	1	1	1	0	248
+MD-T3	target	WC	AM404181.1	1	1	1	1	1	0	251
+LD-T4	target	WC	MW526391.2	0	1	1	1	1	0	293
+LD-T4	target	WC	PZ343777.1	0	1	1	1	1	0	290
+LD-T4	target	WC	PV742399.1	1	1	1	1	1	0	293
+LD-T4	target	WC	MW008594.1	0	1	1	1	1	0	293
+LD-T4	target	WC	OQ207656.1	1	1	1	1	1	0	297
+LD-T4	target	WC	NC_066490.1	1	1	1	1	1	0	290
+LD-T4	target	WC	OP546035.1	1	1	1	1	1	0	291
+LD-T4	target	WC	OP546034.1	0	1	1	1	1	0	289
+LD-T4	target	WC	NC_069919.1	1	1	1	1	1	0	288
+LD-T4	target	WC	NC_069630.1	0	1	1	1	1	0	289
+LD-T4	target	WC	NC_068797.1	0	1	1	1	1	0	292
+LD-T4	target	WC	NC_068254.1	1	1	1	1	1	0	292
+LD-T4	target	WC	NC_068252.1	1	1	1	1	1	0	290
+LD-T4	target	WC	NC_061054.1	1	1	1	1	1	0	293
+LD-T4	target	WC	NC_060843.1	0	1	1	1	1	0	292
+LD-T4	target	WC	NC_059908.1	0	1	1	1	1	0	294
+LD-T4	target	WC	NC_054279.1	0	1	1	1	1	0	293
+LD-T4	target	WC	NC_045944.1	1	1	1	1	1	0	297
+LD-T4	target	WC	NC_010692.1	0	1	1	1	1	0	292
+LD-T4	target	WC	NC_007690.1	1	1	1	1	1	0	290
+LD-T4	target	WC	NC_001878.1	1	1	1	1	1	0	288
+LD-T4	target	WC	ON381167.1	0	1	1	1	1	0	289
+LD-T4	target	WC	ON585667.1	1	1	1	1	1	0	288
+LD-T4	target	WC	OM964491.1	0	1	1	1	1	0	292
+LD-T4	target	WC	OM321037.1	1	1	1	1	1	0	292
+LD-T4	target	WC	OM313186.1	1	1	1	1	1	0	290
+LD-T4	target	WC	OM272942.1	0	1	1	1	1	0	297
+LD-T4	target	WC	OP177937.1	1	1	1	1	1	0	290
+LD-T4	target	WC	OK509084.1	1	1	1	1	1	0	293
+LD-T4	target	WC	MW884542.1	0	1	1	1	1	0	292
+LD-T4	target	WC	MW868294.1	0	1	1	1	1	0	293
+LD-T4	target	WC	MW526392.2	0	1	1	1	1	0	292
+LD-T4	target	WC	MW405444.1	1	1	1	1	1	0	293
+LD-T4	target	WC	MW376476.1	0	1	1	1	1	0	294
+LD-T4	target	WC	MT302206.1	0	1	1	1	1	0	289
+LD-T4	target	WC	MN883538.1	1	1	1	1	1	0	293
+LD-T4	target	WC	MF966246.1	1	1	1	1	1	0	297
+LD-T4	target	WC	DQ068952.1	1	1	1	1	1	0	290
+LD-T4	target	WC	AF049132.1	1	1	1	1	1	0	288
+LD-T4	target	WC	AM404181.1	0	1	1	1	1	0	292
+XLD-T5	target	WC	MW526391.2	1	1	1	1	1	0	466
+XLD-T5	target	WC	PZ343777.1	1	1	1	1	1	0	450
+XLD-T5	target	WC	PV742399.1	1	1	1	1	1	0	451
+XLD-T5	target	WC	MW008594.1	1	1	1	1	1	0	458
+XLD-T5	target	WC	OQ721985.1	1	1	1	1	1	0	459
+XLD-T5	target	WC	OQ207656.1	1	1	1	1	1	0	457
+XLD-T5	target	WC	NC_066490.1	0	1	1	1	1	0	447
+XLD-T5	target	WC	OP546035.1	1	1	1	1	1	0	451
+XLD-T5	target	WC	OP546034.1	0	1	1	1	1	0	463
+XLD-T5	target	WC	NC_069919.1	1	1	1	1	1	0	454
+XLD-T5	target	WC	NC_069630.1	1	1	1	1	1	0	456
+XLD-T5	target	WC	NC_068797.1	1	1	1	1	1	0	467
+XLD-T5	target	WC	NC_068254.1	0	1	1	1	1	0	448
+XLD-T5	target	WC	NC_068252.1	0	1	1	1	1	0	448
+XLD-T5	target	WC	NC_061054.1	1	1	1	1	1	0	452
+XLD-T5	target	WC	NC_060843.1	1	1	1	1	1	0	461
+XLD-T5	target	WC	NC_059908.1	1	1	1	1	1	0	466
+XLD-T5	target	WC	NC_054279.1	1	1	1	1	1	0	458
+XLD-T5	target	WC	NC_045944.1	1	1	1	1	1	0	452
+XLD-T5	target	WC	NC_010692.1	0	1	1	1	1	0	443
+XLD-T5	target	WC	NC_007690.1	0	1	1	1	1	0	471
+XLD-T5	target	WC	NC_001878.1	1	1	1	1	1	0	443
+XLD-T5	target	WC	ON381167.1	1	1	1	1	1	0	456
+XLD-T5	target	WC	ON585667.1	1	1	1	1	1	0	454
+XLD-T5	target	WC	OM964491.1	1	1	1	1	1	0	467
+XLD-T5	target	WC	OM321037.1	0	1	1	1	1	0	448
+XLD-T5	target	WC	OM313186.1	0	1	1	1	1	0	448
+XLD-T5	target	WC	OM272942.1	1	1	1	1	1	0	461
+XLD-T5	target	WC	OP177937.1	0	1	1	1	1	0	447
+XLD-T5	target	WC	OK509084.1	1	1	1	1	1	0	452
+XLD-T5	target	WC	MW884542.1	1	1	1	1	1	0	461
+XLD-T5	target	WC	MW868294.1	1	1	1	1	1	0	466
+XLD-T5	target	WC	MW526392.2	1	1	1	1	1	0	461
+XLD-T5	target	WC	MW405444.1	1	1	1	1	1	0	451
+XLD-T5	target	WC	MW376476.1	1	1	1	1	1	0	466
+XLD-T5	target	WC	MT302206.1	0	1	1	1	1	0	448
+XLD-T5	target	WC	MN883538.1	1	1	1	1	1	0	451
+XLD-T5	target	WC	MF966246.1	1	1	1	1	1	0	452
+XLD-T5	target	WC	DQ068952.1	0	1	1	1	1	0	471
+XLD-T5	target	WC	AF049132.1	1	1	1	1	1	0	443
+XLD-T5	target	WC	AM404181.1	0	1	1	1	1	0	443
+SD-before	target	WC	MW526391.2	0	1	1	1	1	0	197
+SD-before	target	WC	PZ343777.1	1	1	1	1	1	0	196
+SD-before	target	WC	PV742399.1	1	1	1	1	1	0	199
+SD-before	target	WC	MW008594.1	1	1	1	1	1	0	196
+SD-before	target	WC	OQ207656.1	1	1	1	1	1	0	199
+SD-before	target	WC	NC_066490.1	0	1	1	1	1	0	195
+SD-before	target	WC	OP546035.1	1	1	1	1	1	0	196
+SD-before	target	WC	OP546034.1	0	1	1	1	1	0	194
+SD-before	target	WC	NC_069919.1	1	1	1	1	1	0	194
+SD-before	target	WC	NC_069630.1	0	1	1	1	1	0	195
+SD-before	target	WC	NC_068797.1	0	0	1	1	1	0	
+SD-before	target	WC	NC_068254.1	1	1	1	1	1	0	197
+SD-before	target	WC	NC_068252.1	1	1	1	1	1	0	194
+SD-before	target	WC	NC_061054.1	1	1	1	1	1	0	199
+SD-before	target	WC	NC_060843.1	1	1	1	1	1	0	197
+SD-before	target	WC	NC_059908.1	1	1	1	1	1	0	200
+SD-before	target	WC	NC_054279.1	1	1	1	1	1	0	196
+SD-before	target	WC	NC_045944.1	1	1	1	1	1	0	198
+SD-before	target	WC	NC_010692.1	0	1	1	1	1	0	195
+SD-before	target	WC	NC_007690.1	1	1	1	1	1	0	195
+SD-before	target	WC	NC_001878.1	1	1	1	1	1	0	193
+SD-before	target	WC	ON381167.1	0	1	1	1	1	0	195
+SD-before	target	WC	ON585667.1	1	1	1	1	1	0	194
+SD-before	target	WC	OM964491.1	0	0	1	1	1	0	
+SD-before	target	WC	OM321037.1	1	1	1	1	1	0	197
+SD-before	target	WC	OM313186.1	1	1	1	1	1	0	194
+SD-before	target	WC	OM272942.1	1	1	1	1	1	0	203
+SD-before	target	WC	OP177937.1	0	1	1	1	1	0	195
+SD-before	target	WC	OK509084.1	1	1	1	1	1	0	199
+SD-before	target	WC	MW884542.1	1	1	1	1	1	0	197
+SD-before	target	WC	MW868294.1	0	1	1	1	1	0	197
+SD-before	target	WC	MW526392.2	1	1	1	1	1	0	197
+SD-before	target	WC	MW405444.1	1	1	1	1	1	0	199
+SD-before	target	WC	MW376476.1	1	1	1	1	1	0	200
+SD-before	target	WC	MT302206.1	0	1	1	1	1	0	195
+SD-before	target	WC	MN883538.1	1	1	1	1	1	0	199
+SD-before	target	WC	MF966246.1	1	1	1	1	1	0	198
+SD-before	target	WC	DQ068952.1	1	1	1	1	1	0	195
+SD-before	target	WC	AF049132.1	1	1	1	1	1	0	193
+SD-before	target	WC	AM404181.1	0	1	1	1	1	0	195
+MD-before	target	WC	MW526391.2	1	1	1	1	1	0	252
+MD-before	target	WC	PZ343777.1	1	1	1	1	1	0	248
+MD-before	target	WC	PV742399.1	1	1	1	1	1	0	250
+MD-before	target	WC	MW008594.1	0	1	1	1	1	0	252
+MD-before	target	WC	OQ721985.1	0	1	1	1	1	0	247
+MD-before	target	WC	OQ207656.1	1	1	1	1	1	0	254
+MD-before	target	WC	NC_066490.1	1	1	1	1	1	0	250
+MD-before	target	WC	OP546035.1	1	1	1	1	1	0	249
+MD-before	target	WC	OP546034.1	1	1	1	1	1	0	248
+MD-before	target	WC	NC_069919.1	1	1	1	1	1	0	245
+MD-before	target	WC	NC_069630.1	1	1	1	1	1	0	248
+MD-before	target	WC	NC_068797.1	0	1	1	1	1	0	251
+MD-before	target	WC	NC_068254.1	1	1	1	1	1	0	250
+MD-before	target	WC	NC_068252.1	1	1	1	1	1	0	248
+MD-before	target	WC	NC_061054.1	1	1	1	1	1	0	251
+MD-before	target	WC	NC_060843.1	1	1	1	1	1	0	251
+MD-before	target	WC	NC_059908.1	1	1	1	1	1	0	252
+MD-before	target	WC	NC_054279.1	0	1	1	1	1	0	252
+MD-before	target	WC	NC_045944.1	1	1	1	1	1	0	254
+MD-before	target	WC	NC_010692.1	1	1	1	1	1	0	251
+MD-before	target	WC	NC_007690.1	1	1	1	1	1	0	248
+MD-before	target	WC	NC_007689.1	0	1	1	1	1	0	256
+MD-before	target	WC	NC_001878.1	1	1	1	1	1	0	248
+MD-before	target	WC	ON381167.1	1	1	1	1	1	0	248
+MD-before	target	WC	ON585667.1	1	1	1	1	1	0	245
+MD-before	target	WC	OM964491.1	0	1	1	1	1	0	251
+MD-before	target	WC	OM321037.1	1	1	1	1	1	0	250
+MD-before	target	WC	OM313186.1	1	1	1	1	1	0	248
+MD-before	target	WC	OM272942.1	1	1	1	1	1	0	255
+MD-before	target	WC	OP177937.1	1	1	1	1	1	0	250
+MD-before	target	WC	OK509084.1	1	1	1	1	1	0	251
+MD-before	target	WC	MW884542.1	1	1	1	1	1	0	251
+MD-before	target	WC	MW868294.1	1	1	1	1	1	0	252
+MD-before	target	WC	MW526392.2	1	1	1	1	1	0	251
+MD-before	target	WC	MW405444.1	1	1	1	1	1	0	250
+MD-before	target	WC	MW376476.1	1	1	1	1	1	0	252
+MD-before	target	WC	MT302206.1	1	1	1	1	1	0	249
+MD-before	target	WC	MN883538.1	1	1	1	1	1	0	250
+MD-before	target	WC	MF966246.1	1	1	1	1	1	0	254
+MD-before	target	WC	DQ068952.1	1	1	1	1	1	0	248
+MD-before	target	WC	DQ068951.1	0	1	1	1	1	0	256
+MD-before	target	WC	AF049132.1	1	1	1	1	1	0	248
+MD-before	target	WC	AM404181.1	1	1	1	1	1	0	251
+LD-before	target	WC	MW526391.2	0	1	1	1	1	0	293
+LD-before	target	WC	PZ343777.1	0	1	1	1	1	0	290
+LD-before	target	WC	PV742399.1	1	1	1	1	1	0	293
+LD-before	target	WC	MW008594.1	0	1	1	1	1	0	293
+LD-before	target	WC	OQ207656.1	1	1	1	1	1	0	297
+LD-before	target	WC	NC_066490.1	1	1	1	1	1	0	290
+LD-before	target	WC	OP546035.1	1	1	1	1	1	0	291
+LD-before	target	WC	OP546034.1	0	1	1	1	1	0	289
+LD-before	target	WC	NC_069919.1	0	1	1	1	1	0	288
+LD-before	target	WC	NC_069630.1	0	1	1	1	1	0	289
+LD-before	target	WC	NC_068254.1	1	1	1	1	1	0	292
+LD-before	target	WC	NC_068252.1	0	1	1	1	1	0	290
+LD-before	target	WC	NC_061054.1	1	1	1	1	1	0	293
+LD-before	target	WC	NC_060843.1	0	1	1	1	1	0	292
+LD-before	target	WC	NC_059908.1	0	1	1	1	1	0	294
+LD-before	target	WC	NC_054279.1	0	1	1	1	1	0	293
+LD-before	target	WC	NC_045944.1	0	1	1	1	1	0	297
+LD-before	target	WC	NC_010692.1	0	1	1	1	1	0	292
+LD-before	target	WC	NC_007690.1	1	1	1	1	1	0	290
+LD-before	target	WC	NC_001878.1	1	1	1	1	1	0	288
+LD-before	target	WC	ON381167.1	0	1	1	1	1	0	289
+LD-before	target	WC	ON585667.1	0	1	1	1	1	0	288
+LD-before	target	WC	OM321037.1	1	1	1	1	1	0	292
+LD-before	target	WC	OM313186.1	0	1	1	1	1	0	290
+LD-before	target	WC	OM272942.1	0	1	1	1	1	0	297
+LD-before	target	WC	OP177937.1	1	1	1	1	1	0	290
+LD-before	target	WC	OK509084.1	1	1	1	1	1	0	293
+LD-before	target	WC	MW884542.1	0	1	1	1	1	0	292
+LD-before	target	WC	MW868294.1	0	1	1	1	1	0	293
+LD-before	target	WC	MW526392.2	0	1	1	1	1	0	292
+LD-before	target	WC	MW405444.1	1	1	1	1	1	0	293
+LD-before	target	WC	MW376476.1	0	1	1	1	1	0	294
+LD-before	target	WC	MT302206.1	0	1	1	1	1	0	289
+LD-before	target	WC	MN883538.1	1	1	1	1	1	0	293
+LD-before	target	WC	MF966246.1	0	1	1	1	1	0	297
+LD-before	target	WC	DQ068952.1	1	1	1	1	1	0	290
+LD-before	target	WC	AF049132.1	1	1	1	1	1	0	288
+LD-before	target	WC	AM404181.1	0	1	1	1	1	0	292
+XLD-before	target	WC	MW526391.2	1	1	1	1	1	0	466
+XLD-before	target	WC	PZ343777.1	1	1	1	1	1	0	450
+XLD-before	target	WC	PV742399.1	1	1	1	1	1	0	451
+XLD-before	target	WC	MW008594.1	1	1	1	1	1	0	458
+XLD-before	target	WC	OQ721985.1	1	1	1	1	1	0	459
+XLD-before	target	WC	OQ207656.1	1	1	1	1	1	0	457
+XLD-before	target	WC	NC_066490.1	0	1	1	1	1	0	447
+XLD-before	target	WC	OP546035.1	1	1	1	1	1	0	451
+XLD-before	target	WC	OP546034.1	0	1	1	1	1	0	463
+XLD-before	target	WC	NC_069919.1	1	1	1	1	1	0	454
+XLD-before	target	WC	NC_069630.1	0	1	1	1	1	0	456
+XLD-before	target	WC	NC_068797.1	1	1	1	1	1	0	467
+XLD-before	target	WC	NC_068254.1	0	1	1	1	1	0	448
+XLD-before	target	WC	NC_068252.1	0	1	1	1	1	0	448
+XLD-before	target	WC	NC_061054.1	1	1	1	1	1	0	452
+XLD-before	target	WC	NC_060843.1	1	1	1	1	1	0	461
+XLD-before	target	WC	NC_059908.1	1	1	1	1	1	0	466
+XLD-before	target	WC	NC_054279.1	1	1	1	1	1	0	458
+XLD-before	target	WC	NC_045944.1	1	1	1	1	1	0	452
+XLD-before	target	WC	NC_010692.1	0	1	1	1	1	0	443
+XLD-before	target	WC	NC_007690.1	0	1	1	1	1	0	471
+XLD-before	target	WC	NC_001878.1	1	1	1	1	1	0	443
+XLD-before	target	WC	ON381167.1	0	1	1	1	1	0	456
+XLD-before	target	WC	ON585667.1	1	1	1	1	1	0	454
+XLD-before	target	WC	OM964491.1	1	1	1	1	1	0	467
+XLD-before	target	WC	OM321037.1	0	1	1	1	1	0	448
+XLD-before	target	WC	OM313186.1	0	1	1	1	1	0	448
+XLD-before	target	WC	OM272942.1	1	1	1	1	1	0	461
+XLD-before	target	WC	OP177937.1	0	1	1	1	1	0	447
+XLD-before	target	WC	OK509084.1	1	1	1	1	1	0	452
+XLD-before	target	WC	MW884542.1	1	1	1	1	1	0	461
+XLD-before	target	WC	MW868294.1	1	1	1	1	1	0	466
+XLD-before	target	WC	MW526392.2	1	1	1	1	1	0	461
+XLD-before	target	WC	MW405444.1	1	1	1	1	1	0	451
+XLD-before	target	WC	MW376476.1	1	1	1	1	1	0	466
+XLD-before	target	WC	MT302206.1	0	1	1	1	1	0	448
+XLD-before	target	WC	MN883538.1	1	1	1	1	1	0	451
+XLD-before	target	WC	MF966246.1	1	1	1	1	1	0	452
+XLD-before	target	WC	DQ068952.1	0	1	1	1	1	0	471
+XLD-before	target	WC	AF049132.1	1	1	1	1	1	0	443
+XLD-before	target	WC	AM404181.1	0	1	1	1	1	0	443
+SD-T1	background	WC	NC_062943.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_057223.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_052743.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_014452.2	0	0	0	0	1	0	
+SD-T1	background	WC	NC_013432.1	0	0	0	0	1	0	
+SD-T1	background	WC	MZ292734.1	0	0	0	0	1	0	
+SD-T1	background	WC	MW218894.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN276189.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN128376.1	0	0	0	0	1	0	
+SD-T1	background	WC	GH986051.1	0	0	0	0	1	0	
+SD-T1	background	WC	GO253618.1	0	0	0	0	1	0	
+SD-T1	background	WC	HM853683.2	0	0	0	0	1	0	
+SD-T1	background	WC	EU220796.1	0	0	0	0	1	0	
+SD-T1	background	WC	AB525762.1	0	0	0	0	1	0	
+SD-T1	background	WC	PX981860.1	0	0	0	0	1	0	
+SD-T1	background	WC	PX981831.1	0	0	0	0	1	0	
+SD-T1	background	WC	PQ330103.1	0	0	0	1	1	0	
+SD-T1	background	WC	ON457157.1	0	0	0	0	1	0	
+SD-T1	background	WC	ON457156.1	0	0	0	0	1	0	
+SD-T1	background	WC	ON051653.1	0	0	0	0	1	0	
+SD-T1	background	WC	OM967070.1	0	0	0	0	1	0	
+SD-T1	background	WC	ON758773.1	0	0	0	0	1	0	
+SD-T1	background	WC	ON685891.1	0	0	0	0	1	0	
+SD-T1	background	WC	PP389248.1	0	0	0	0	1	0	
+SD-T1	background	WC	PP389245.1	0	0	0	0	1	0	
+SD-T1	background	WC	PP379627.1	0	0	0	0	1	0	
+SD-T1	background	WC	OR227932.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_040146.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_033529.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_005334.1	0	0	0	0	1	0	
+SD-T1	background	WC	LC698981.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730623.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730612.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730604.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730573.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730568.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730563.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730492.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730487.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730476.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730471.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730451.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730439.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730438.1	0	0	0	0	1	0	
+SD-T1	background	WC	OK046140.1	0	0	0	0	1	0	
+SD-T1	background	WC	MW147664.1	0	0	0	0	1	0	
+SD-T1	background	WC	KU519523.1	0	0	0	0	1	0	
+SD-T1	background	WC	KU519522.1	0	0	0	0	1	0	
+SD-T1	background	WC	AI478031.1	0	0	0	0	0	1	
+SD-T1	background	WC	MH671877.1	0	0	0	0	1	0	
+SD-T1	background	WC	MG064453.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064452.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064451.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064450.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064449.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064448.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064447.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064446.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064445.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064444.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064443.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064442.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064441.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064440.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064439.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064438.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064437.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064436.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064435.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064434.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064433.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064432.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064431.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064430.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064429.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064428.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064427.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064426.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064425.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064424.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064423.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064422.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064421.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064420.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064419.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064418.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064417.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064416.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064415.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064414.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064413.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064412.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064411.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064410.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064409.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064408.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064407.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064406.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064405.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064404.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064403.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064402.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064401.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064400.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064399.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064398.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064397.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064396.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064395.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064394.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064393.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064392.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064391.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064390.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064389.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064388.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064387.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064386.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064385.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064384.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064383.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064382.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064381.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064380.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064379.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064378.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064377.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064376.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064375.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064374.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064373.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064372.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064371.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064370.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064369.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064368.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064367.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064366.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064365.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064364.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064363.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064362.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064361.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064360.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064359.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064358.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064357.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064356.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064355.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064354.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064353.1	0	0	0	0	0	1	
+SD-T1	background	WC	MG064352.1	0	0	0	0	0	1	
+SD-T1	background	WC	KY268294.1	0	0	0	1	1	0	
+SD-T1	background	WC	KU302105.1	0	0	0	0	1	0	
+SD-T1	background	WC	AF314589.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760129.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760128.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760127.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760126.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760125.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760124.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760123.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760122.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760121.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760120.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760119.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760118.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760117.1	0	0	0	0	1	0	
+SD-T1	background	WC	KC760116.1	0	0	0	0	1	0	
+SD-T1	background	WC	AB605093.1	0	0	0	0	1	0	
+SD-T1	background	WC	GU226994.1	0	0	0	0	0	1	
+SD-T1	background	WC	EF565812.1	0	0	0	0	1	0	
+SD-T1	background	WC	AF522484.1	0	0	0	0	0	1	
+SD-T1	background	WC	AJ639815.1	0	0	0	0	1	0	
+SD-T1	background	WC	AF331184.1	0	0	0	0	0	1	
+SD-T1	background	WC	QB030220.1	0	0	0	0	1	0	
+SD-T1	background	WC	QB030219.1	0	0	0	0	1	0	
+SD-T1	background	WC	QB030218.1	0	0	0	0	1	0	
+SD-T1	background	WC	QB030203.1	0	0	0	0	1	0	
+SD-T1	background	WC	OZ238697.1	0	0	0	0	1	0	
+SD-T1	background	WC	OZ238642.1	0	0	0	0	1	0	
+SD-T1	background	WC	OZ238750.1	0	0	0	0	1	0	
+SD-T1	background	WC	PQ424522.1	0	0	0	0	1	0	
+SD-T1	background	WC	PQ424521.1	0	0	0	0	1	0	
+SD-T1	background	WC	MH648612.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_087785.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_087784.1	0	0	0	0	1	0	
+SD-T1	background	WC	PP384219.1	0	0	0	0	1	0	
+SD-T1	background	WC	PP384218.1	0	0	0	0	1	0	
+SD-T1	background	WC	OR995619.1	0	0	0	0	1	0	
+SD-T1	background	WC	OP747303.1	0	0	0	0	1	0	
+SD-T1	background	WC	OP747302.1	0	0	0	0	1	0	
+SD-T1	background	WC	OP747301.1	0	0	0	0	1	0	
+SD-T1	background	WC	OP747300.1	0	0	0	0	1	0	
+SD-T1	background	WC	OP747299.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_054228.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_054225.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_042741.1	0	0	0	0	0	1	
+SD-T1	background	WC	NC_007789.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_007788.1	0	0	0	0	1	0	
+SD-T1	background	WC	MZ435267.1	0	0	0	0	1	0	
+SD-T1	background	WC	MZ435266.1	0	0	0	0	1	0	
+SD-T1	background	WC	MZ702705.1	0	0	0	0	1	0	
+SD-T1	background	WC	MT476593.1	0	0	0	0	1	0	
+SD-T1	background	WC	MT476590.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730877.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730868.1	0	0	0	0	1	0	
+SD-T1	background	WC	MN730828.1	0	0	0	0	1	0	
+SD-T1	background	WC	MT079801.1	0	0	0	0	1	0	
+SD-T1	background	WC	MK947912.1	0	0	0	0	1	0	
+SD-T1	background	WC	MH713001.1	0	0	0	0	0	1	
+SD-T1	background	WC	LC214946.1	0	0	0	0	0	1	
+SD-T1	background	WC	KX266863.1	0	0	0	0	0	1	
+SD-T1	background	WC	GQ288557.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY370740.1	0	0	0	0	1	0	
+SD-T1	background	WC	AY370721.1	0	0	0	0	1	0	
+SD-T1	background	WC	AY370718.1	0	0	0	0	1	0	
+SD-T1	background	WC	HM543161.1	0	0	0	0	1	0	
+SD-T1	background	WC	GQ294419.1	0	0	0	0	1	0	
+SD-T1	background	WC	GQ294406.1	0	0	0	0	1	0	
+SD-T1	background	WC	GQ294400.1	0	0	0	0	1	0	
+SD-T1	background	WC	GQ294399.1	0	0	0	0	1	0	
+SD-T1	background	WC	HM543147.1	0	0	0	0	1	0	
+SD-T1	background	WC	HM543146.1	0	0	0	0	1	0	
+SD-T1	background	WC	HM543142.1	0	0	0	0	1	0	
+SD-T1	background	WC	GQ288556.1	0	0	0	0	0	1	
+SD-T1	background	WC	GU226979.1	0	0	0	0	1	0	
+SD-T1	background	WC	GQ288552.1	0	0	0	0	1	1	
+SD-T1	background	WC	GQ288551.1	0	0	0	0	1	1	
+SD-T1	background	WC	GQ288550.1	0	0	0	0	1	1	
+SD-T1	background	WC	GQ288549.1	0	0	0	0	1	1	
+SD-T1	background	WC	GQ288548.1	0	0	0	0	0	1	
+SD-T1	background	WC	GQ288547.1	0	0	0	0	0	1	
+SD-T1	background	WC	GQ288546.1	0	0	0	0	0	1	
+SD-T1	background	WC	GQ288545.1	0	0	0	0	1	1	
+SD-T1	background	WC	GQ288544.1	0	0	0	0	1	1	
+SD-T1	background	WC	GQ288543.1	0	0	0	0	1	1	
+SD-T1	background	WC	GQ288542.1	0	0	0	0	1	1	
+SD-T1	background	WC	GQ288537.1	0	0	0	0	0	1	
+SD-T1	background	WC	GQ288533.1	0	0	0	0	0	1	
+SD-T1	background	WC	GQ288522.1	0	0	0	0	0	1	
+SD-T1	background	WC	GQ288521.1	0	0	0	0	0	1	
+SD-T1	background	WC	GQ288520.1	0	0	0	0	1	1	
+SD-T1	background	WC	GQ288519.1	0	0	0	0	0	1	
+SD-T1	background	WC	GQ288516.1	0	0	0	0	0	1	
+SD-T1	background	WC	EU722997.1	0	0	0	0	0	1	
+SD-T1	background	WC	EU722995.1	0	0	0	0	0	1	
+SD-T1	background	WC	EU722983.1	0	0	0	0	0	1	
+SD-T1	background	WC	EU722963.1	0	0	0	0	0	1	
+SD-T1	background	WC	EU722948.1	0	0	0	0	0	1	
+SD-T1	background	WC	EU722940.1	0	0	0	0	0	1	
+SD-T1	background	WC	EU722939.1	0	0	0	0	0	1	
+SD-T1	background	WC	EU072956.1	0	0	0	0	0	1	
+SD-T1	background	WC	EU072950.1	0	0	0	0	1	1	
+SD-T1	background	WC	GQ288518.1	0	0	0	0	0	1	
+SD-T1	background	WC	EU722998.1	0	0	0	0	0	1	
+SD-T1	background	WC	DQ297113.1	0	0	0	0	1	0	
+SD-T1	background	WC	AY652497.1	0	0	0	0	1	0	
+SD-T1	background	WC	AY548879.2	0	0	0	0	0	1	
+SD-T1	background	WC	AY548869.2	0	0	0	0	0	1	
+SD-T1	background	WC	AY548867.2	0	0	0	0	0	1	
+SD-T1	background	WC	AY548862.2	0	0	0	0	0	1	
+SD-T1	background	WC	AY548870.2	0	0	0	0	0	1	
+SD-T1	background	WC	AY548865.2	0	0	0	0	0	1	
+SD-T1	background	WC	AY548864.2	0	0	0	0	0	1	
+SD-T1	background	WC	AY548882.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548881.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548878.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548877.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548876.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548875.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548874.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548873.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548872.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548871.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548868.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548866.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548863.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548861.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548860.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548859.1	0	0	0	0	0	1	
+SD-T1	background	WC	AY548858.1	0	0	0	0	0	1	
+SD-T1	background	WC	AB231476.1	0	0	0	0	1	0	
+SD-T1	background	WC	AB231475.1	0	0	0	0	1	0	
+SD-T1	background	WC	AY279318.1	0	0	0	0	0	1	
+SD-T1	background	WC	AB084574.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_133447.1	0	0	0	1	1	0	
+SD-T1	background	WC	NC_088581.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_088580.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_088579.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_088578.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_088577.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_088027.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_088022.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_088021.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_086768.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_082918.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_082917.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_080939.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_082103.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_088528.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_082301.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_082300.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_079968.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_065012.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_066721.1	0	0	0	0	1	0	
+SD-T1	background	WC	NC_066399.1	0	0	0	1	1	0	
+SD-T1	background	GT	PQ330103.1	0	0	1	1	1	0	
+SD-T1	background	GT	OR227932.1	0	1	1	1	1	0	471
+SD-T1	background	GT	NC_069158.1	0	1	1	1	1	0	472
+SD-T1	background	GT	MK458686.1	0	1	1	1	1	0	472
+SD-T1	background	GT	AI478031.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064453.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064452.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064451.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064450.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064449.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064448.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064447.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064446.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064445.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064444.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064443.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064442.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064441.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064440.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064439.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064438.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064437.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064436.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064435.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064434.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064433.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064432.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064431.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064430.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064429.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064428.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064427.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064426.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064425.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064424.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064423.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064422.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064421.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064420.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064419.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064418.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064417.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064416.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064415.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064414.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064413.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064412.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064411.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064410.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064409.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064408.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064407.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064406.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064405.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064404.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064403.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064402.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064401.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064400.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064399.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064398.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064397.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064396.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064395.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064394.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064393.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064392.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064391.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064390.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064389.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064388.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064387.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064386.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064385.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064384.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064383.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064382.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064381.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064380.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064379.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064378.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064377.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064376.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064375.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064374.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064373.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064372.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064371.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064370.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064369.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064368.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064367.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064366.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064365.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064364.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064363.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064362.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064361.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064360.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064359.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064358.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064357.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064356.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064355.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064354.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064353.1	0	0	0	0	0	1	
+SD-T1	background	GT	MG064352.1	0	0	0	0	0	1	
+SD-T1	background	GT	KY268294.1	0	1	1	1	1	0	470
+SD-T1	background	GT	GQ288557.1	0	0	0	0	0	1	
+SD-T1	background	GT	GQ288556.1	0	0	0	0	0	1	
+SD-T1	background	GT	GQ288548.1	0	0	0	0	0	1	
+SD-T1	background	GT	GQ288547.1	0	0	0	0	0	1	
+SD-T1	background	GT	GQ288546.1	0	0	0	0	0	1	
+SD-T1	background	GT	GQ288545.1	0	0	0	0	0	1	
+SD-T1	background	GT	GQ288544.1	0	0	0	0	0	1	
+SD-T1	background	GT	GQ288543.1	0	0	0	0	0	1	
+SD-T1	background	GT	GQ288542.1	0	0	0	0	0	1	
+SD-T1	background	GT	GQ288533.1	0	0	0	0	0	1	
+SD-T1	background	GT	GQ288516.1	0	0	0	0	0	1	
+SD-T1	background	GT	EU722997.1	0	0	0	0	0	1	
+SD-T1	background	GT	EU722995.1	0	0	0	0	0	1	
+SD-T1	background	GT	EU722963.1	0	0	0	0	0	1	
+SD-T1	background	GT	EU722948.1	0	0	0	0	0	1	
+SD-T1	background	GT	EU722940.1	0	0	0	0	0	1	
+SD-T1	background	GT	EU722939.1	0	0	0	0	0	1	
+SD-T1	background	GT	EU072956.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548879.2	0	0	0	0	0	1	
+SD-T1	background	GT	AY548869.2	0	0	0	0	0	1	
+SD-T1	background	GT	AY548867.2	0	0	0	0	0	1	
+SD-T1	background	GT	AY548862.2	0	0	0	0	0	1	
+SD-T1	background	GT	AY548870.2	0	0	0	0	0	1	
+SD-T1	background	GT	AY548865.2	0	0	0	0	0	1	
+SD-T1	background	GT	AY548864.2	0	0	0	0	0	1	
+SD-T1	background	GT	AY548882.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548881.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548878.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548877.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548876.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548875.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548874.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548873.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548872.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548871.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548868.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548866.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548863.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548861.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548860.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548859.1	0	0	0	0	0	1	
+SD-T1	background	GT	AY548858.1	0	0	0	0	0	1	
+SD-T1	background	GT	NC_133447.1	0	0	1	1	1	0	
+SD-T1	background	GT	NC_066721.1	0	0	1	1	1	0	
+MD-T2	background	WC	OR420052.2	0	0	0	0	1	0	
+MD-T2	background	WC	OQ503508.1	0	0	0	0	1	0	
+MD-T2	background	WC	PV804723.1	0	1	1	1	1	0	263
+MD-T2	background	WC	OQ534871.1	0	1	1	1	1	0	265
+MD-T2	background	WC	PV946926.1	0	1	1	1	1	0	263
+MD-T2	background	WC	OQ731944.1	0	0	0	1	1	0	
+MD-T2	background	WC	PQ878524.1	0	1	1	1	1	0	263
+MD-T2	background	WC	PP977507.1	0	0	0	0	1	0	
+MD-T2	background	WC	NC_082941.1	0	0	0	0	1	0	
+MD-T2	background	WC	NC_059759.1	0	1	1	1	1	0	269
+MD-T2	background	WC	NC_058250.1	0	0	0	1	1	0	
+MD-T2	background	WC	MT559281.1	0	0	0	1	1	0	
+MD-T2	background	WC	MZ188901.1	0	1	1	1	1	0	265
+MD-T2	background	WC	MW357262.1	0	0	0	1	1	0	
+MD-T2	background	WC	MW357261.1	0	0	0	1	1	0	
+MD-T2	background	WC	MW548268.1	0	1	1	1	1	0	269
+MD-T2	background	WC	MW218896.1	0	0	0	0	1	0	
+MD-T2	background	WC	MN128376.1	0	1	1	1	1	0	265
+MD-T2	background	WC	PV339712.1	0	0	0	0	1	0	
+MD-T2	background	WC	NC_065301.1	0	0	0	0	1	0	
+MD-T2	background	WC	NC_032365.1	0	0	0	1	1	0	
+MD-T2	background	WC	ON254175.1	0	0	0	0	1	0	
+MD-T2	background	WC	MW147664.1	0	0	0	0	1	0	
+MD-T2	background	WC	MN103227.1	0	0	0	1	1	0	
+MD-T2	background	WC	AI478031.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064453.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064452.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064451.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064450.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064449.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064448.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064447.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064446.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064445.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064444.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064443.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064442.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064441.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064440.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064439.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064438.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064437.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064436.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064435.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064434.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064433.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064432.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064431.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064430.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064429.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064428.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064427.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064426.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064425.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064424.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064423.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064422.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064421.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064420.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064419.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064418.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064417.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064416.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064415.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064414.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064413.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064412.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064411.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064410.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064409.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064408.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064407.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064406.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064405.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064404.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064403.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064402.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064401.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064400.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064399.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064398.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064397.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064396.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064395.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064394.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064393.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064392.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064391.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064390.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064389.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064388.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064387.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064386.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064385.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064384.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064383.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064382.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064381.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064380.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064379.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064378.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064377.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064376.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064375.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064374.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064373.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064372.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064371.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064370.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064369.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064368.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064367.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064366.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064365.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064364.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064363.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064362.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064361.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064360.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064359.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064358.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064357.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064356.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064355.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064354.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064353.1	0	0	0	0	0	1	
+MD-T2	background	WC	MG064352.1	0	0	0	0	0	1	
+MD-T2	background	WC	KX638403.1	0	0	0	1	1	0	
+MD-T2	background	WC	QB030205.1	0	0	0	0	1	0	
+MD-T2	background	WC	OQ979619.1	0	0	0	0	1	0	
+MD-T2	background	WC	NC_081967.1	0	0	0	0	1	0	
+MD-T2	background	WC	OR142187.1	0	0	0	0	1	0	
+MD-T2	background	WC	GQ288557.1	0	0	0	0	0	1	
+MD-T2	background	WC	GQ288556.1	0	0	0	0	0	1	
+MD-T2	background	WC	GQ288548.1	0	0	0	0	0	1	
+MD-T2	background	WC	GQ288547.1	0	0	0	0	0	1	
+MD-T2	background	WC	GQ288546.1	0	0	0	0	0	1	
+MD-T2	background	WC	GQ288545.1	0	0	0	0	0	1	
+MD-T2	background	WC	GQ288544.1	0	0	0	0	0	1	
+MD-T2	background	WC	GQ288543.1	0	0	0	0	0	1	
+MD-T2	background	WC	GQ288542.1	0	0	0	0	0	1	
+MD-T2	background	WC	GQ288516.1	0	0	0	0	0	1	
+MD-T2	background	WC	EU722997.1	0	0	0	0	0	1	
+MD-T2	background	WC	EU722995.1	0	0	0	0	0	1	
+MD-T2	background	WC	EU722963.1	0	0	0	0	0	1	
+MD-T2	background	WC	EU722948.1	0	0	0	0	0	1	
+MD-T2	background	WC	EU722940.1	0	0	0	0	0	1	
+MD-T2	background	WC	EU722939.1	0	0	0	0	0	1	
+MD-T2	background	WC	EU072956.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548879.2	0	0	0	0	0	1	
+MD-T2	background	WC	AY548869.2	0	0	0	0	0	1	
+MD-T2	background	WC	AY548867.2	0	0	0	0	0	1	
+MD-T2	background	WC	AY548862.2	0	0	0	0	0	1	
+MD-T2	background	WC	AY548870.2	0	0	0	0	0	1	
+MD-T2	background	WC	AY548865.2	0	0	0	0	0	1	
+MD-T2	background	WC	AY548864.2	0	0	0	0	0	1	
+MD-T2	background	WC	AY548882.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548881.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548878.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548877.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548876.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548875.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548874.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548873.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548872.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548871.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548868.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548866.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548863.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548861.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548860.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548859.1	0	0	0	0	0	1	
+MD-T2	background	WC	AY548858.1	0	0	0	0	0	1	
+MD-T2	background	GT	PV804723.1	0	1	1	1	1	0	263
+MD-T2	background	GT	OQ534871.1	0	1	1	1	1	0	265
+MD-T2	background	GT	PV946926.1	0	1	1	1	1	0	263
+MD-T2	background	GT	PQ878524.1	0	1	1	1	1	0	263
+MD-T2	background	GT	LC704718.1	0	1	1	1	1	0	219
+MD-T2	background	GT	NC_059759.1	0	1	1	1	1	0	269
+MD-T2	background	GT	NC_051929.1	0	1	1	1	1	0	244
+MD-T2	background	GT	MZ188901.1	0	1	1	1	1	0	265
+MD-T2	background	GT	MW548268.1	0	1	1	1	1	0	269
+MD-T2	background	GT	MW218895.1	0	1	1	1	1	0	244
+MD-T2	background	GT	MT108721.1	0	1	1	1	1	0	244
+MD-T2	background	GT	MN128376.1	0	1	1	1	1	0	265
+MD-T2	background	GT	PV339712.1	0	0	1	1	1	0	
+MD-T2	background	GT	NC_032365.1	0	1	1	1	1	0	281
+MD-T2	background	GT	MN103227.1	0	1	1	1	1	0	280
+MD-T2	background	GT	AI478031.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064453.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064452.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064451.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064450.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064449.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064448.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064447.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064446.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064445.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064444.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064443.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064442.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064441.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064440.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064439.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064438.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064437.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064436.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064435.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064434.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064433.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064432.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064431.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064430.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064429.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064428.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064427.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064426.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064425.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064424.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064423.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064422.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064421.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064420.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064419.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064418.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064417.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064416.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064415.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064414.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064413.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064412.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064411.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064410.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064409.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064408.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064407.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064406.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064405.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064404.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064403.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064402.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064401.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064400.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064399.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064398.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064397.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064396.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064395.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064394.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064393.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064392.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064391.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064390.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064389.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064388.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064387.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064386.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064385.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064384.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064383.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064382.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064381.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064380.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064379.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064378.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064377.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064376.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064375.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064374.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064373.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064372.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064371.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064370.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064369.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064368.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064367.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064366.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064365.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064364.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064363.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064362.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064361.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064360.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064359.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064358.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064357.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064356.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064355.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064354.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064353.1	0	0	0	0	0	1	
+MD-T2	background	GT	MG064352.1	0	0	0	0	0	1	
+MD-T2	background	GT	KX638403.1	0	1	1	1	1	0	281
+MD-T2	background	GT	GQ288557.1	0	0	0	0	0	1	
+MD-T2	background	GT	GQ288556.1	0	0	0	0	0	1	
+MD-T2	background	GT	GQ288548.1	0	0	0	0	0	1	
+MD-T2	background	GT	GQ288547.1	0	0	0	0	0	1	
+MD-T2	background	GT	GQ288546.1	0	0	0	0	0	1	
+MD-T2	background	GT	GQ288545.1	0	0	0	0	0	1	
+MD-T2	background	GT	GQ288544.1	0	0	0	0	0	1	
+MD-T2	background	GT	GQ288543.1	0	0	0	0	0	1	
+MD-T2	background	GT	GQ288542.1	0	0	0	0	0	1	
+MD-T2	background	GT	GQ288516.1	0	0	0	0	0	1	
+MD-T2	background	GT	EU722997.1	0	0	0	0	0	1	
+MD-T2	background	GT	EU722995.1	0	0	0	0	0	1	
+MD-T2	background	GT	EU722963.1	0	0	0	0	0	1	
+MD-T2	background	GT	EU722940.1	0	0	0	0	0	1	
+MD-T2	background	GT	EU722939.1	0	0	0	0	0	1	
+MD-T2	background	GT	EU072956.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548879.2	0	0	0	0	0	1	
+MD-T2	background	GT	AY548869.2	0	0	0	0	0	1	
+MD-T2	background	GT	AY548867.2	0	0	0	0	0	1	
+MD-T2	background	GT	AY548862.2	0	0	0	0	0	1	
+MD-T2	background	GT	AY548870.2	0	0	0	0	0	1	
+MD-T2	background	GT	AY548865.2	0	0	0	0	0	1	
+MD-T2	background	GT	AY548864.2	0	0	0	0	0	1	
+MD-T2	background	GT	AY548882.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548881.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548878.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548877.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548876.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548875.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548874.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548873.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548872.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548871.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548868.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548866.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548863.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548861.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548860.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548859.1	0	0	0	0	0	1	
+MD-T2	background	GT	AY548858.1	0	0	0	0	0	1	
+MD-T3	background	WC	OR420052.2	0	0	0	0	1	0	
+MD-T3	background	WC	OQ503508.1	0	1	1	1	1	0	260
+MD-T3	background	WC	PZ522129.1	0	0	0	0	1	0	
+MD-T3	background	WC	PV804723.1	0	1	1	1	1	0	263
+MD-T3	background	WC	OQ534871.1	0	1	1	1	1	0	265
+MD-T3	background	WC	PV946926.1	0	1	1	1	1	0	263
+MD-T3	background	WC	OQ731944.1	0	0	0	1	1	0	
+MD-T3	background	WC	PQ878524.1	0	1	1	1	1	0	263
+MD-T3	background	WC	PP977507.1	0	1	1	1	1	0	260
+MD-T3	background	WC	NC_082941.1	0	0	0	0	1	0	
+MD-T3	background	WC	NC_059759.1	0	1	1	1	1	0	269
+MD-T3	background	WC	NC_058250.1	0	0	0	1	1	0	
+MD-T3	background	WC	NC_051929.1	0	0	0	1	1	0	
+MD-T3	background	WC	NC_046508.1	0	0	0	0	1	0	
+MD-T3	background	WC	NC_045853.1	0	0	0	0	1	0	
+MD-T3	background	WC	MT559281.1	0	0	0	1	1	0	
+MD-T3	background	WC	MZ305458.1	0	0	0	0	1	0	
+MD-T3	background	WC	MZ188901.1	0	1	1	1	1	0	265
+MD-T3	background	WC	MW357262.1	0	0	0	1	1	0	
+MD-T3	background	WC	MW357261.1	0	0	0	1	1	0	
+MD-T3	background	WC	MW548268.1	0	1	1	1	1	0	269
+MD-T3	background	WC	MW218896.1	0	0	0	0	1	0	
+MD-T3	background	WC	MW218895.1	0	0	0	1	1	0	
+MD-T3	background	WC	MT108721.1	0	0	0	1	1	0	
+MD-T3	background	WC	MN128376.1	0	1	1	1	1	0	265
+MD-T3	background	WC	MN542416.1	0	0	0	0	1	0	
+MD-T3	background	WC	MN816440.1	0	0	0	0	1	0	
+MD-T3	background	WC	MK328500.1	0	0	0	0	1	0	
+MD-T3	background	WC	PQ838327.1	0	0	0	0	1	0	
+MD-T3	background	WC	PV339712.1	0	0	1	1	1	0	
+MD-T3	background	WC	NC_065301.1	0	0	0	0	1	0	
+MD-T3	background	WC	NC_067855.1	0	0	0	1	1	0	
+MD-T3	background	WC	NC_033523.1	0	0	0	1	1	0	
+MD-T3	background	WC	NC_033522.1	0	0	0	0	1	0	
+MD-T3	background	WC	NC_032365.1	0	0	0	1	1	0	
+MD-T3	background	WC	ON725136.1	0	0	0	1	1	0	
+MD-T3	background	WC	ON254175.1	0	0	0	0	1	0	
+MD-T3	background	WC	KX385835.1	0	0	0	0	1	0	
+MD-T3	background	WC	MW147664.1	0	0	0	0	1	0	
+MD-T3	background	WC	MN103227.1	0	0	0	1	1	0	
+MD-T3	background	WC	AI478031.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064453.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064452.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064451.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064450.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064449.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064448.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064447.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064446.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064445.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064444.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064443.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064442.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064441.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064440.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064439.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064438.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064437.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064436.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064435.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064434.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064433.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064432.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064431.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064430.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064429.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064428.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064427.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064426.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064425.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064424.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064423.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064422.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064421.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064420.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064419.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064418.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064417.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064416.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064415.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064414.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064413.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064412.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064411.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064410.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064409.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064408.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064407.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064406.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064405.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064404.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064403.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064402.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064401.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064400.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064399.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064398.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064397.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064396.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064395.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064394.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064393.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064392.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064391.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064390.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064389.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064388.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064387.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064386.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064385.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064384.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064383.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064382.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064381.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064380.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064379.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064378.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064377.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064376.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064375.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064374.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064373.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064372.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064371.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064370.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064369.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064368.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064367.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064366.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064365.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064364.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064363.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064362.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064361.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064360.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064359.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064358.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064357.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064356.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064355.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064354.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064353.1	0	0	0	0	0	1	
+MD-T3	background	WC	MG064352.1	0	0	0	0	0	1	
+MD-T3	background	WC	KX385836.1	0	0	0	1	1	0	
+MD-T3	background	WC	KX638403.1	0	0	0	1	1	0	
+MD-T3	background	WC	AB863094.1	0	0	0	0	1	0	
+MD-T3	background	WC	QB030205.1	0	0	0	0	1	0	
+MD-T3	background	WC	OQ979619.1	0	0	0	0	1	0	
+MD-T3	background	WC	NC_081967.1	0	0	0	0	1	0	
+MD-T3	background	WC	OR142187.1	0	0	0	0	1	0	
+MD-T3	background	WC	GQ288557.1	0	0	0	0	0	1	
+MD-T3	background	WC	GQ288556.1	0	0	0	0	0	1	
+MD-T3	background	WC	GQ288548.1	0	0	0	0	0	1	
+MD-T3	background	WC	GQ288547.1	0	0	0	0	0	1	
+MD-T3	background	WC	GQ288546.1	0	0	0	0	0	1	
+MD-T3	background	WC	GQ288545.1	0	0	0	0	0	1	
+MD-T3	background	WC	GQ288544.1	0	0	0	0	0	1	
+MD-T3	background	WC	GQ288543.1	0	0	0	0	0	1	
+MD-T3	background	WC	GQ288542.1	0	0	0	0	0	1	
+MD-T3	background	WC	GQ288516.1	0	0	0	0	0	1	
+MD-T3	background	WC	EU722997.1	0	0	0	0	0	1	
+MD-T3	background	WC	EU722995.1	0	0	0	0	0	1	
+MD-T3	background	WC	EU722963.1	0	0	0	0	0	1	
+MD-T3	background	WC	EU722948.1	0	0	0	0	0	1	
+MD-T3	background	WC	EU722940.1	0	0	0	0	0	1	
+MD-T3	background	WC	EU722939.1	0	0	0	0	0	1	
+MD-T3	background	WC	EU072956.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548879.2	0	0	0	0	0	1	
+MD-T3	background	WC	AY548869.2	0	0	0	0	0	1	
+MD-T3	background	WC	AY548867.2	0	0	0	0	0	1	
+MD-T3	background	WC	AY548862.2	0	0	0	0	0	1	
+MD-T3	background	WC	AY548870.2	0	0	0	0	0	1	
+MD-T3	background	WC	AY548865.2	0	0	0	0	0	1	
+MD-T3	background	WC	AY548864.2	0	0	0	0	0	1	
+MD-T3	background	WC	AY548882.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548881.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548878.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548877.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548876.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548875.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548874.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548873.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548872.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548871.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548868.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548866.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548863.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548861.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548860.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548859.1	0	0	0	0	0	1	
+MD-T3	background	WC	AY548858.1	0	0	0	0	0	1	
+MD-T3	background	GT	OQ503508.1	0	1	1	1	1	0	260
+MD-T3	background	GT	PV804723.1	0	1	1	1	1	0	263
+MD-T3	background	GT	OQ534871.1	0	1	1	1	1	0	265
+MD-T3	background	GT	PV946926.1	0	1	1	1	1	0	263
+MD-T3	background	GT	PQ878524.1	0	1	1	1	1	0	263
+MD-T3	background	GT	PP977507.1	0	1	1	1	1	0	260
+MD-T3	background	GT	LC704718.1	0	1	1	1	1	0	219
+MD-T3	background	GT	NC_059759.1	0	1	1	1	1	0	269
+MD-T3	background	GT	NC_051929.1	0	1	1	1	1	0	244
+MD-T3	background	GT	MZ188901.1	0	1	1	1	1	0	265
+MD-T3	background	GT	MW548268.1	0	1	1	1	1	0	269
+MD-T3	background	GT	MW218895.1	0	1	1	1	1	0	244
+MD-T3	background	GT	MT108721.1	0	1	1	1	1	0	244
+MD-T3	background	GT	MN128376.1	0	1	1	1	1	0	265
+MD-T3	background	GT	PQ838327.1	0	1	1	1	1	0	276
+MD-T3	background	GT	PV339712.1	0	0	1	1	1	0	
+MD-T3	background	GT	NC_067855.1	0	0	1	1	1	0	
+MD-T3	background	GT	NC_033523.1	0	0	1	1	1	0	
+MD-T3	background	GT	NC_032365.1	0	1	1	1	1	0	281
+MD-T3	background	GT	ON725136.1	0	0	1	1	1	0	
+MD-T3	background	GT	MN103227.1	0	1	1	1	1	0	280
+MD-T3	background	GT	AI478031.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064453.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064452.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064451.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064450.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064449.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064448.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064447.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064446.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064445.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064444.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064443.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064442.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064441.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064440.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064439.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064438.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064437.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064436.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064435.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064434.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064433.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064432.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064431.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064430.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064429.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064428.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064427.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064426.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064425.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064424.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064423.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064422.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064421.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064420.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064419.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064418.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064417.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064416.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064415.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064414.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064413.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064412.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064411.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064410.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064409.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064408.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064407.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064406.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064405.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064404.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064403.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064402.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064401.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064400.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064399.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064398.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064397.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064396.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064395.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064394.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064393.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064392.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064391.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064390.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064389.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064388.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064387.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064386.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064385.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064384.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064383.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064382.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064381.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064380.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064379.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064378.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064377.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064376.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064375.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064374.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064373.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064372.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064371.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064370.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064369.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064368.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064367.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064366.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064365.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064364.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064363.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064362.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064361.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064360.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064359.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064358.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064357.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064356.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064355.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064354.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064353.1	0	0	0	0	0	1	
+MD-T3	background	GT	MG064352.1	0	0	0	0	0	1	
+MD-T3	background	GT	KX385836.1	0	0	1	1	1	0	
+MD-T3	background	GT	KX638403.1	0	1	1	1	1	0	281
+MD-T3	background	GT	GQ288557.1	0	0	0	0	0	1	
+MD-T3	background	GT	GQ288556.1	0	0	0	0	0	1	
+MD-T3	background	GT	GQ288548.1	0	0	0	0	0	1	
+MD-T3	background	GT	GQ288547.1	0	0	0	0	0	1	
+MD-T3	background	GT	GQ288546.1	0	0	0	0	0	1	
+MD-T3	background	GT	GQ288545.1	0	0	0	0	0	1	
+MD-T3	background	GT	GQ288544.1	0	0	0	0	0	1	
+MD-T3	background	GT	GQ288543.1	0	0	0	0	0	1	
+MD-T3	background	GT	GQ288542.1	0	0	0	0	0	1	
+MD-T3	background	GT	GQ288516.1	0	0	0	0	0	1	
+MD-T3	background	GT	EU722997.1	0	0	0	0	0	1	
+MD-T3	background	GT	EU722995.1	0	0	0	0	0	1	
+MD-T3	background	GT	EU722963.1	0	0	0	0	0	1	
+MD-T3	background	GT	EU722940.1	0	0	0	0	0	1	
+MD-T3	background	GT	EU722939.1	0	0	0	0	0	1	
+MD-T3	background	GT	EU072956.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548879.2	0	0	0	0	0	1	
+MD-T3	background	GT	AY548869.2	0	0	0	0	0	1	
+MD-T3	background	GT	AY548867.2	0	0	0	0	0	1	
+MD-T3	background	GT	AY548862.2	0	0	0	0	0	1	
+MD-T3	background	GT	AY548870.2	0	0	0	0	0	1	
+MD-T3	background	GT	AY548865.2	0	0	0	0	0	1	
+MD-T3	background	GT	AY548864.2	0	0	0	0	0	1	
+MD-T3	background	GT	AY548882.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548881.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548878.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548877.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548876.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548875.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548874.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548873.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548872.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548871.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548868.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548866.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548863.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548861.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548860.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548859.1	0	0	0	0	0	1	
+MD-T3	background	GT	AY548858.1	0	0	0	0	0	1	
+LD-T4	background	WC	AI478031.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064453.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064452.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064451.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064450.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064449.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064448.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064447.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064446.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064445.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064444.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064443.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064442.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064441.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064440.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064439.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064438.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064437.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064436.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064435.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064434.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064433.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064432.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064431.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064430.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064429.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064428.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064427.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064426.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064425.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064424.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064423.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064422.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064421.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064420.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064419.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064418.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064417.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064416.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064415.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064414.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064413.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064412.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064411.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064410.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064409.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064408.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064407.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064406.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064405.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064404.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064403.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064402.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064401.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064400.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064399.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064398.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064397.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064396.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064395.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064394.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064393.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064392.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064391.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064390.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064389.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064388.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064387.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064386.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064385.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064384.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064383.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064382.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064381.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064380.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064379.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064378.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064377.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064376.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064375.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064374.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064373.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064372.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064371.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064370.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064369.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064368.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064367.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064366.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064365.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064364.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064363.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064362.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064361.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064360.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064359.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064358.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064357.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064356.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064355.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064354.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064353.1	0	0	0	0	0	1	
+LD-T4	background	WC	MG064352.1	0	0	0	0	0	1	
+LD-T4	background	WC	GQ288557.1	0	0	0	0	0	1	
+LD-T4	background	WC	GQ288556.1	0	0	0	0	0	1	
+LD-T4	background	WC	GQ288548.1	0	0	0	0	0	1	
+LD-T4	background	WC	GQ288547.1	0	0	0	0	0	1	
+LD-T4	background	WC	GQ288546.1	0	0	0	0	0	1	
+LD-T4	background	WC	GQ288545.1	0	0	0	0	0	1	
+LD-T4	background	WC	GQ288544.1	0	0	0	0	0	1	
+LD-T4	background	WC	GQ288543.1	0	0	0	0	0	1	
+LD-T4	background	WC	GQ288542.1	0	0	0	0	0	1	
+LD-T4	background	WC	GQ288516.1	0	0	0	0	0	1	
+LD-T4	background	WC	EU722997.1	0	0	0	0	0	1	
+LD-T4	background	WC	EU722995.1	0	0	0	0	0	1	
+LD-T4	background	WC	EU722963.1	0	0	0	0	0	1	
+LD-T4	background	WC	EU722948.1	0	0	0	0	0	1	
+LD-T4	background	WC	EU722940.1	0	0	0	0	0	1	
+LD-T4	background	WC	EU722939.1	0	0	0	0	0	1	
+LD-T4	background	WC	EU072956.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548879.2	0	0	0	0	0	1	
+LD-T4	background	WC	AY548869.2	0	0	0	0	0	1	
+LD-T4	background	WC	AY548867.2	0	0	0	0	0	1	
+LD-T4	background	WC	AY548862.2	0	0	0	0	0	1	
+LD-T4	background	WC	AY548870.2	0	0	0	0	0	1	
+LD-T4	background	WC	AY548865.2	0	0	0	0	0	1	
+LD-T4	background	WC	AY548864.2	0	0	0	0	0	1	
+LD-T4	background	WC	AY548882.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548881.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548878.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548877.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548876.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548875.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548874.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548873.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548872.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548871.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548868.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548866.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548863.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548861.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548860.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548859.1	0	0	0	0	0	1	
+LD-T4	background	WC	AY548858.1	0	0	0	0	0	1	
+LD-T4	background	GT	AI478031.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064453.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064452.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064451.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064450.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064449.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064448.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064447.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064446.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064445.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064444.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064443.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064442.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064441.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064440.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064439.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064438.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064437.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064436.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064435.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064434.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064433.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064432.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064431.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064430.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064429.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064428.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064427.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064426.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064425.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064424.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064423.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064422.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064421.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064420.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064419.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064418.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064417.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064416.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064415.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064414.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064413.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064412.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064411.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064410.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064409.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064408.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064407.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064406.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064405.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064404.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064403.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064402.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064401.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064400.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064399.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064398.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064397.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064396.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064395.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064394.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064393.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064392.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064391.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064390.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064389.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064388.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064387.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064386.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064385.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064384.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064383.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064382.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064381.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064380.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064379.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064378.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064377.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064376.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064375.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064374.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064373.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064372.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064371.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064370.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064369.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064368.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064367.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064366.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064365.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064364.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064363.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064362.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064361.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064360.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064359.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064358.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064357.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064356.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064355.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064354.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064353.1	0	0	0	0	0	1	
+LD-T4	background	GT	MG064352.1	0	0	0	0	0	1	
+LD-T4	background	GT	GQ288557.1	0	0	0	0	0	1	
+LD-T4	background	GT	GQ288556.1	0	0	0	0	0	1	
+LD-T4	background	GT	GQ288548.1	0	0	0	0	0	1	
+LD-T4	background	GT	GQ288547.1	0	0	0	0	0	1	
+LD-T4	background	GT	GQ288546.1	0	0	0	0	0	1	
+LD-T4	background	GT	GQ288545.1	0	0	0	0	0	1	
+LD-T4	background	GT	GQ288544.1	0	0	0	0	0	1	
+LD-T4	background	GT	GQ288543.1	0	0	0	0	0	1	
+LD-T4	background	GT	GQ288542.1	0	0	0	0	0	1	
+LD-T4	background	GT	GQ288516.1	0	0	0	0	0	1	
+LD-T4	background	GT	EU722997.1	0	0	0	0	0	1	
+LD-T4	background	GT	EU722995.1	0	0	0	0	0	1	
+LD-T4	background	GT	EU722963.1	0	0	0	0	0	1	
+LD-T4	background	GT	EU722948.1	0	0	0	0	0	1	
+LD-T4	background	GT	EU722940.1	0	0	0	0	0	1	
+LD-T4	background	GT	EU722939.1	0	0	0	0	0	1	
+LD-T4	background	GT	EU072956.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548879.2	0	0	0	0	0	1	
+LD-T4	background	GT	AY548869.2	0	0	0	0	0	1	
+LD-T4	background	GT	AY548867.2	0	0	0	0	0	1	
+LD-T4	background	GT	AY548862.2	0	0	0	0	0	1	
+LD-T4	background	GT	AY548870.2	0	0	0	0	0	1	
+LD-T4	background	GT	AY548865.2	0	0	0	0	0	1	
+LD-T4	background	GT	AY548864.2	0	0	0	0	0	1	
+LD-T4	background	GT	AY548882.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548881.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548878.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548877.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548876.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548875.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548874.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548873.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548872.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548871.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548868.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548866.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548863.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548861.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548860.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548859.1	0	0	0	0	0	1	
+LD-T4	background	GT	AY548858.1	0	0	0	0	0	1	
+XLD-T5	background	WC	PP379624.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_040147.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_040146.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_013878.1	0	0	0	0	1	0	
+XLD-T5	background	WC	AI478031.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MH671876.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH671879.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH671878.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH671877.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MG064453.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064452.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064451.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064450.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064449.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064448.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064447.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064446.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064445.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064444.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064443.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064442.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064441.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064440.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064439.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064438.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064437.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064436.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064435.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064434.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064433.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064432.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064431.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064430.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064429.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064428.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064427.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064426.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064425.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064424.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064423.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064422.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064421.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064420.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064419.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064418.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064417.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064416.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064415.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064414.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064413.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064412.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064411.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064410.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064409.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064408.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064407.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064406.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064405.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064404.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064403.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064402.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064401.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064400.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064399.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064398.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064397.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064396.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064395.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064394.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064393.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064392.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064391.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064390.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064389.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064388.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064387.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064386.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064385.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064384.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064383.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064382.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064381.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064380.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064379.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064378.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064377.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064376.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064375.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064374.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064373.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064372.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064371.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064370.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064369.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064368.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064367.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064366.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064365.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064364.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064363.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064362.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064361.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064360.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064359.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064358.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064357.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064356.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064355.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064354.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064353.1	0	0	0	0	0	1	
+XLD-T5	background	WC	MG064352.1	0	0	0	0	0	1	
+XLD-T5	background	WC	FN562580.1	0	0	0	0	1	0	
+XLD-T5	background	WC	DQ073746.1	0	0	0	0	1	0	
+XLD-T5	background	WC	QB030220.1	0	0	0	0	1	0	
+XLD-T5	background	WC	QB030219.1	0	0	0	0	1	0	
+XLD-T5	background	WC	QB030218.1	0	0	0	0	1	0	
+XLD-T5	background	WC	QB030208.1	0	0	0	0	1	0	
+XLD-T5	background	WC	PX413461.1	0	0	0	0	1	0	
+XLD-T5	background	WC	PV804724.1	0	0	0	0	1	0	
+XLD-T5	background	WC	PV535852.1	0	0	0	1	1	0	
+XLD-T5	background	WC	LC592775.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_083190.1	0	0	0	0	1	0	
+XLD-T5	background	WC	OR466204.1	0	0	0	0	1	0	
+XLD-T5	background	WC	PQ424533.1	0	0	0	0	1	0	
+XLD-T5	background	WC	PQ424530.1	0	0	0	0	1	0	
+XLD-T5	background	WC	PQ424528.1	0	0	0	0	1	0	
+XLD-T5	background	WC	PQ424524.1	0	0	0	0	1	0	
+XLD-T5	background	WC	PQ424522.1	0	0	0	0	1	0	
+XLD-T5	background	WC	PQ424521.1	0	0	0	0	1	0	
+XLD-T5	background	WC	PQ424519.1	0	0	0	0	1	0	
+XLD-T5	background	WC	OQ979619.1	0	1	1	1	1	0	481
+XLD-T5	background	WC	MH648612.1	0	0	0	0	1	0	
+XLD-T5	background	WC	OR995619.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_081981.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_081967.1	0	1	1	1	1	0	481
+XLD-T5	background	WC	OQ979618.1	0	0	0	0	1	0	
+XLD-T5	background	WC	OR142187.1	0	1	1	1	1	0	481
+XLD-T5	background	WC	NC_071876.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_054230.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_054227.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_054225.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_053361.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_041450.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_039982.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_007788.1	0	0	0	0	1	0	
+XLD-T5	background	WC	OP289522.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MZ702705.1	0	0	0	1	1	0	
+XLD-T5	background	WC	MZ702702.1	0	0	0	1	1	0	
+XLD-T5	background	WC	MT476596.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MT476592.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MT476590.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MW046047.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH319357.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH319355.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH319354.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH319353.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH319352.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH319351.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH319350.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH319349.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH319348.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH319347.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH648613.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MH507076.1	0	0	0	0	1	0	
+XLD-T5	background	WC	MG563681.1	0	0	0	0	1	0	
+XLD-T5	background	WC	KY908363.1	0	0	0	0	1	0	
+XLD-T5	background	WC	KY908362.1	0	0	0	0	1	0	
+XLD-T5	background	WC	KY908361.1	0	0	0	0	1	0	
+XLD-T5	background	WC	KY908360.1	0	0	0	0	1	0	
+XLD-T5	background	WC	KY908359.1	0	0	0	0	1	0	
+XLD-T5	background	WC	KY908358.1	0	0	0	0	1	0	
+XLD-T5	background	WC	KY908357.1	0	0	0	0	1	0	
+XLD-T5	background	WC	KY908356.1	0	0	0	0	1	0	
+XLD-T5	background	WC	GQ288557.1	0	0	0	0	0	1	
+XLD-T5	background	WC	GQ288556.1	0	0	0	0	0	1	
+XLD-T5	background	WC	GQ288548.1	0	0	0	0	0	1	
+XLD-T5	background	WC	GQ288547.1	0	0	0	0	0	1	
+XLD-T5	background	WC	GQ288546.1	0	0	0	0	0	1	
+XLD-T5	background	WC	GQ288545.1	0	0	0	0	0	1	
+XLD-T5	background	WC	GQ288544.1	0	0	0	0	0	1	
+XLD-T5	background	WC	GQ288543.1	0	0	0	0	0	1	
+XLD-T5	background	WC	GQ288542.1	0	0	0	0	0	1	
+XLD-T5	background	WC	GQ288521.1	0	0	0	0	0	1	
+XLD-T5	background	WC	GQ288516.1	0	0	0	0	0	1	
+XLD-T5	background	WC	EU722997.1	0	0	0	0	0	1	
+XLD-T5	background	WC	EU722995.1	0	0	0	0	0	1	
+XLD-T5	background	WC	EU722963.1	0	0	0	0	0	1	
+XLD-T5	background	WC	EU722948.1	0	0	0	0	0	1	
+XLD-T5	background	WC	EU722940.1	0	0	0	0	0	1	
+XLD-T5	background	WC	EU722939.1	0	0	0	0	0	1	
+XLD-T5	background	WC	EU072956.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548879.2	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548869.2	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548867.2	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548862.2	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548870.2	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548865.2	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548864.2	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548882.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548881.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548878.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548877.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548876.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548875.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548874.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548873.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548872.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548871.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548868.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548866.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548863.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548861.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548860.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548859.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AY548858.1	0	0	0	0	0	1	
+XLD-T5	background	WC	AB231475.1	0	0	0	0	1	0	
+XLD-T5	background	WC	OM272844.1	0	0	0	1	1	0	
+XLD-T5	background	WC	NC_063787.1	0	0	0	1	1	0	
+XLD-T5	background	WC	NC_025767.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_009587.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_137527.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_133445.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_133446.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_133447.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_133448.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_008106.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088753.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088582.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088581.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088580.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088579.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088578.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088577.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088576.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088575.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088570.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088550.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088519.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088503.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088500.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088499.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088490.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088430.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088427.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088031.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088030.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088029.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088028.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088027.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088026.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088025.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088024.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088023.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088022.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088021.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088020.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088019.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088018.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_002012.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_084376.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_083983.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082751.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_083183.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_083132.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082999.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082942.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082809.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082808.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082801.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082800.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082799.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082798.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082793.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082774.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082566.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_077464.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_077463.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_077462.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_077648.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_077588.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_079696.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_064111.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_063621.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_063620.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_065055.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_066688.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_059939.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_066805.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_059941.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_072260.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_068898.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_068897.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_068734.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_068668.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_068516.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_068141.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_067553.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_060993.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088745.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_088743.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_087809.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_087805.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_064338.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082193.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082192.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082191.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082190.1	0	0	0	0	1	0	
+XLD-T5	background	WC	NC_082189.1	0	0	0	0	1	0	
+XLD-T5	background	GT	AI478031.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064453.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064452.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064451.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064450.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064449.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064448.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064447.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064446.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064445.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064444.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064443.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064442.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064441.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064440.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064439.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064438.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064437.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064436.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064435.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064434.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064433.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064432.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064431.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064430.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064429.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064428.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064427.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064426.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064425.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064424.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064423.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064422.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064421.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064420.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064419.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064418.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064417.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064416.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064415.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064414.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064413.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064412.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064411.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064410.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064409.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064408.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064407.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064406.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064405.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064404.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064403.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064402.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064401.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064400.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064399.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064398.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064397.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064396.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064395.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064394.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064393.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064392.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064391.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064390.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064389.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064388.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064387.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064386.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064385.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064384.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064383.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064382.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064381.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064380.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064379.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064378.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064377.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064376.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064375.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064374.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064373.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064372.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064371.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064370.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064369.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064368.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064367.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064366.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064365.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064364.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064363.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064362.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064361.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064360.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064359.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064358.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064357.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064356.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064355.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064354.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064353.1	0	0	0	0	0	1	
+XLD-T5	background	GT	MG064352.1	0	0	0	0	0	1	
+XLD-T5	background	GT	OQ979619.1	0	1	1	1	1	0	481
+XLD-T5	background	GT	NC_081967.1	0	1	1	1	1	0	481
+XLD-T5	background	GT	OR142187.1	0	1	1	1	1	0	481
+XLD-T5	background	GT	GQ288557.1	0	0	0	0	0	1	
+XLD-T5	background	GT	GQ288556.1	0	0	0	0	0	1	
+XLD-T5	background	GT	GQ288548.1	0	0	0	0	0	1	
+XLD-T5	background	GT	GQ288547.1	0	0	0	0	0	1	
+XLD-T5	background	GT	GQ288546.1	0	0	0	0	0	1	
+XLD-T5	background	GT	GQ288545.1	0	0	0	0	0	1	
+XLD-T5	background	GT	GQ288544.1	0	0	0	0	0	1	
+XLD-T5	background	GT	GQ288543.1	0	0	0	0	0	1	
+XLD-T5	background	GT	GQ288542.1	0	0	0	0	0	1	
+XLD-T5	background	GT	GQ288516.1	0	0	0	0	0	1	
+XLD-T5	background	GT	EU722997.1	0	0	0	0	0	1	
+XLD-T5	background	GT	EU722995.1	0	0	0	0	0	1	
+XLD-T5	background	GT	EU722963.1	0	0	0	0	0	1	
+XLD-T5	background	GT	EU722948.1	0	0	0	0	0	1	
+XLD-T5	background	GT	EU722940.1	0	0	0	0	0	1	
+XLD-T5	background	GT	EU722939.1	0	0	0	0	0	1	
+XLD-T5	background	GT	EU072956.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548879.2	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548869.2	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548867.2	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548862.2	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548870.2	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548865.2	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548864.2	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548882.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548881.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548878.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548877.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548876.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548875.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548874.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548873.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548872.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548871.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548868.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548866.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548863.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548861.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548860.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548859.1	0	0	0	0	0	1	
+XLD-T5	background	GT	AY548858.1	0	0	0	0	0	1	
+SD-before	background	WC	KX856788.1	0	0	0	0	1	0	
+SD-before	background	WC	PV295185.1	0	0	0	0	1	0	
+SD-before	background	WC	PQ330103.1	0	0	0	0	1	0	
+SD-before	background	WC	OR227932.1	0	0	0	0	1	0	
+SD-before	background	WC	AI478031.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064453.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064452.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064451.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064450.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064449.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064448.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064447.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064446.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064445.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064444.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064443.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064442.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064441.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064440.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064439.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064438.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064437.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064436.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064435.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064434.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064433.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064432.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064431.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064430.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064429.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064428.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064427.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064426.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064425.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064424.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064423.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064422.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064421.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064420.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064419.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064418.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064417.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064416.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064415.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064414.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064413.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064412.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064411.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064410.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064409.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064408.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064407.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064406.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064405.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064404.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064403.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064402.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064401.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064400.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064399.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064398.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064397.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064396.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064395.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064394.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064393.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064392.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064391.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064390.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064389.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064388.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064387.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064386.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064385.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064384.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064383.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064382.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064381.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064380.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064379.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064378.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064377.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064376.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064375.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064374.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064373.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064372.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064371.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064370.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064369.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064368.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064367.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064366.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064365.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064364.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064363.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064362.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064361.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064360.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064359.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064358.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064357.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064356.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064355.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064354.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064353.1	0	0	0	0	0	1	
+SD-before	background	WC	MG064352.1	0	0	0	0	0	1	
+SD-before	background	WC	KY268294.1	0	0	0	0	1	0	
+SD-before	background	WC	AF522484.1	0	0	0	0	0	1	
+SD-before	background	WC	LC913548.1	0	0	0	0	1	0	
+SD-before	background	WC	OR995619.1	0	0	0	0	1	0	
+SD-before	background	WC	NC_054225.1	0	0	0	0	1	0	
+SD-before	background	WC	NC_042741.1	0	0	0	0	0	1	
+SD-before	background	WC	MZ702705.1	0	0	0	0	1	0	
+SD-before	background	WC	MT476590.1	0	0	0	0	1	0	
+SD-before	background	WC	MH713001.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288557.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288556.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288550.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288548.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288547.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288546.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288545.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288544.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288543.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288542.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288533.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288521.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288520.1	0	0	0	0	0	1	
+SD-before	background	WC	GQ288516.1	0	0	0	0	0	1	
+SD-before	background	WC	EU722997.1	0	0	0	0	0	1	
+SD-before	background	WC	EU722995.1	0	0	0	0	0	1	
+SD-before	background	WC	EU722963.1	0	0	0	0	0	1	
+SD-before	background	WC	EU722948.1	0	0	0	0	0	1	
+SD-before	background	WC	EU722940.1	0	0	0	0	0	1	
+SD-before	background	WC	EU722939.1	0	0	0	0	0	1	
+SD-before	background	WC	EU072956.1	0	0	0	0	0	1	
+SD-before	background	WC	EU722998.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548879.2	0	0	0	0	0	1	
+SD-before	background	WC	AY548869.2	0	0	0	0	0	1	
+SD-before	background	WC	AY548867.2	0	0	0	0	0	1	
+SD-before	background	WC	AY548862.2	0	0	0	0	0	1	
+SD-before	background	WC	AY548870.2	0	0	0	0	0	1	
+SD-before	background	WC	AY548865.2	0	0	0	0	0	1	
+SD-before	background	WC	AY548864.2	0	0	0	0	0	1	
+SD-before	background	WC	AY548882.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548881.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548878.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548877.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548876.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548875.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548874.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548873.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548872.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548871.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548868.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548866.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548863.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548861.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548860.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548859.1	0	0	0	0	0	1	
+SD-before	background	WC	AY548858.1	0	0	0	0	0	1	
+SD-before	background	WC	AY279318.1	0	0	0	0	0	1	
+SD-before	background	WC	NC_133447.1	0	0	0	0	1	0	
+SD-before	background	WC	NC_088027.1	0	0	0	0	1	0	
+SD-before	background	WC	NC_087903.1	0	0	0	0	1	0	
+SD-before	background	WC	NC_087805.1	0	0	0	0	1	0	
+SD-before	background	WC	NC_079968.1	0	0	0	0	1	0	
+SD-before	background	GT	PQ330103.1	0	1	1	1	1	0	250
+SD-before	background	GT	PP389243.1	0	0	1	1	1	0	
+SD-before	background	GT	OR227932.1	0	1	1	1	1	0	471
+SD-before	background	GT	NC_069158.1	0	1	1	1	1	0	472
+SD-before	background	GT	MK458686.1	0	1	1	1	1	0	472
+SD-before	background	GT	AI478031.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064453.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064452.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064451.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064450.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064449.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064448.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064447.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064446.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064445.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064444.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064443.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064442.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064441.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064440.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064439.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064438.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064437.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064436.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064435.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064434.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064433.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064432.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064431.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064430.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064429.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064428.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064427.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064426.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064425.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064424.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064423.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064422.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064421.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064420.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064419.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064418.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064417.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064416.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064415.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064414.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064413.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064412.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064411.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064410.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064409.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064408.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064407.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064406.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064405.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064404.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064403.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064402.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064401.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064400.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064399.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064398.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064397.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064396.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064395.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064394.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064393.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064392.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064391.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064390.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064389.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064388.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064387.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064386.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064385.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064384.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064383.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064382.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064381.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064380.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064379.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064378.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064377.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064376.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064375.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064374.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064373.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064372.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064371.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064370.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064369.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064368.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064367.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064366.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064365.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064364.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064363.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064362.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064361.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064360.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064359.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064358.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064357.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064356.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064355.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064354.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064353.1	0	0	0	0	0	1	
+SD-before	background	GT	MG064352.1	0	0	0	0	0	1	
+SD-before	background	GT	KY268294.1	0	1	1	1	1	0	470
+SD-before	background	GT	GQ288557.1	0	0	0	0	0	1	
+SD-before	background	GT	GQ288556.1	0	0	0	0	0	1	
+SD-before	background	GT	GQ288548.1	0	0	0	0	0	1	
+SD-before	background	GT	GQ288547.1	0	0	0	0	0	1	
+SD-before	background	GT	GQ288546.1	0	0	0	0	0	1	
+SD-before	background	GT	GQ288545.1	0	0	0	0	0	1	
+SD-before	background	GT	GQ288544.1	0	0	0	0	0	1	
+SD-before	background	GT	GQ288543.1	0	0	0	0	0	1	
+SD-before	background	GT	GQ288542.1	0	0	0	0	0	1	
+SD-before	background	GT	GQ288533.1	0	0	0	0	0	1	
+SD-before	background	GT	GQ288516.1	0	0	0	0	0	1	
+SD-before	background	GT	EU722997.1	0	0	0	0	0	1	
+SD-before	background	GT	EU722995.1	0	0	0	0	0	1	
+SD-before	background	GT	EU722963.1	0	0	0	0	0	1	
+SD-before	background	GT	EU722948.1	0	0	0	0	0	1	
+SD-before	background	GT	EU722940.1	0	0	0	0	0	1	
+SD-before	background	GT	EU722939.1	0	0	0	0	0	1	
+SD-before	background	GT	EU072956.1	0	0	0	0	0	1	
+SD-before	background	GT	EU722998.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548879.2	0	0	0	0	0	1	
+SD-before	background	GT	AY548869.2	0	0	0	0	0	1	
+SD-before	background	GT	AY548867.2	0	0	0	0	0	1	
+SD-before	background	GT	AY548862.2	0	0	0	0	0	1	
+SD-before	background	GT	AY548870.2	0	0	0	0	0	1	
+SD-before	background	GT	AY548865.2	0	0	0	0	0	1	
+SD-before	background	GT	AY548864.2	0	0	0	0	0	1	
+SD-before	background	GT	AY548882.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548881.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548878.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548877.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548876.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548875.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548874.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548873.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548872.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548871.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548868.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548866.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548863.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548861.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548860.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548859.1	0	0	0	0	0	1	
+SD-before	background	GT	AY548858.1	0	0	0	0	0	1	
+SD-before	background	GT	NC_133447.1	0	0	1	1	1	0	
+SD-before	background	GT	NC_008106.1	0	0	1	1	1	0	
+SD-before	background	GT	NC_088581.1	0	0	1	1	1	0	
+SD-before	background	GT	NC_088578.1	0	0	1	1	1	0	
+SD-before	background	GT	NC_088575.1	0	0	1	1	1	0	
+SD-before	background	GT	NC_066721.1	0	0	1	1	1	0	
+MD-before	background	WC	OR420052.2	0	0	0	0	1	0	
+MD-before	background	WC	OQ503508.1	0	0	0	0	1	0	
+MD-before	background	WC	PV804723.1	0	1	1	1	1	0	263
+MD-before	background	WC	OQ534871.1	0	1	1	1	1	0	265
+MD-before	background	WC	PV946926.1	0	1	1	1	1	0	263
+MD-before	background	WC	OQ731944.1	0	0	0	1	1	0	
+MD-before	background	WC	PQ878524.1	0	1	1	1	1	0	263
+MD-before	background	WC	PP977507.1	0	0	0	0	1	0	
+MD-before	background	WC	NC_082941.1	0	0	0	0	1	0	
+MD-before	background	WC	NC_059759.1	0	0	0	1	1	0	
+MD-before	background	WC	NC_058250.1	0	0	0	1	1	0	
+MD-before	background	WC	MT559281.1	0	0	0	1	1	0	
+MD-before	background	WC	MZ188901.1	0	1	1	1	1	0	265
+MD-before	background	WC	MW357262.1	0	0	0	1	1	0	
+MD-before	background	WC	MW357261.1	0	0	0	1	1	0	
+MD-before	background	WC	MW548268.1	0	0	0	1	1	0	
+MD-before	background	WC	MW218896.1	0	0	0	0	1	0	
+MD-before	background	WC	MN128376.1	0	1	1	1	1	0	265
+MD-before	background	WC	PV339712.1	0	0	0	0	1	0	
+MD-before	background	WC	NC_065301.1	0	0	0	0	1	0	
+MD-before	background	WC	NC_032365.1	0	0	0	1	1	0	
+MD-before	background	WC	ON254175.1	0	0	0	0	1	0	
+MD-before	background	WC	MW147664.1	0	0	0	0	1	0	
+MD-before	background	WC	MN103227.1	0	0	0	1	1	0	
+MD-before	background	WC	AI478031.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064453.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064452.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064451.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064450.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064449.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064448.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064447.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064446.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064445.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064444.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064443.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064442.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064441.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064440.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064439.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064438.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064437.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064436.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064435.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064434.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064433.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064432.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064431.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064430.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064429.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064428.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064427.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064426.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064425.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064424.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064423.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064422.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064421.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064420.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064419.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064418.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064417.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064416.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064415.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064414.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064413.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064412.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064411.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064410.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064409.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064408.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064407.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064406.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064405.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064404.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064403.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064402.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064401.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064400.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064399.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064398.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064397.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064396.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064395.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064394.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064393.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064392.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064391.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064390.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064389.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064388.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064387.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064386.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064385.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064384.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064383.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064382.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064381.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064380.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064379.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064378.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064377.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064376.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064375.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064374.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064373.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064372.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064371.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064370.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064369.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064368.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064367.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064366.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064365.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064364.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064363.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064362.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064361.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064360.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064359.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064358.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064357.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064356.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064355.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064354.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064353.1	0	0	0	0	0	1	
+MD-before	background	WC	MG064352.1	0	0	0	0	0	1	
+MD-before	background	WC	KX638403.1	0	0	0	1	1	0	
+MD-before	background	WC	QB030205.1	0	0	0	0	1	0	
+MD-before	background	WC	OQ979619.1	0	0	0	0	1	0	
+MD-before	background	WC	NC_081967.1	0	0	0	0	1	0	
+MD-before	background	WC	OR142187.1	0	0	0	0	1	0	
+MD-before	background	WC	GQ288557.1	0	0	0	0	0	1	
+MD-before	background	WC	GQ288556.1	0	0	0	0	0	1	
+MD-before	background	WC	GQ288548.1	0	0	0	0	0	1	
+MD-before	background	WC	GQ288547.1	0	0	0	0	0	1	
+MD-before	background	WC	GQ288546.1	0	0	0	0	0	1	
+MD-before	background	WC	GQ288545.1	0	0	0	0	0	1	
+MD-before	background	WC	GQ288544.1	0	0	0	0	0	1	
+MD-before	background	WC	GQ288543.1	0	0	0	0	0	1	
+MD-before	background	WC	GQ288542.1	0	0	0	0	0	1	
+MD-before	background	WC	GQ288516.1	0	0	0	0	0	1	
+MD-before	background	WC	EU722997.1	0	0	0	0	0	1	
+MD-before	background	WC	EU722995.1	0	0	0	0	0	1	
+MD-before	background	WC	EU722963.1	0	0	0	0	0	1	
+MD-before	background	WC	EU722948.1	0	0	0	0	0	1	
+MD-before	background	WC	EU722940.1	0	0	0	0	0	1	
+MD-before	background	WC	EU722939.1	0	0	0	0	0	1	
+MD-before	background	WC	EU072956.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548879.2	0	0	0	0	0	1	
+MD-before	background	WC	AY548869.2	0	0	0	0	0	1	
+MD-before	background	WC	AY548867.2	0	0	0	0	0	1	
+MD-before	background	WC	AY548862.2	0	0	0	0	0	1	
+MD-before	background	WC	AY548870.2	0	0	0	0	0	1	
+MD-before	background	WC	AY548865.2	0	0	0	0	0	1	
+MD-before	background	WC	AY548864.2	0	0	0	0	0	1	
+MD-before	background	WC	AY548882.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548881.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548878.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548877.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548876.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548875.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548874.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548873.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548872.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548871.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548868.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548866.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548863.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548861.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548860.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548859.1	0	0	0	0	0	1	
+MD-before	background	WC	AY548858.1	0	0	0	0	0	1	
+MD-before	background	GT	PV804723.1	0	1	1	1	1	0	263
+MD-before	background	GT	OQ534871.1	0	1	1	1	1	0	265
+MD-before	background	GT	PV946926.1	0	1	1	1	1	0	263
+MD-before	background	GT	PQ878524.1	0	1	1	1	1	0	263
+MD-before	background	GT	LC704718.1	0	1	1	1	1	0	219
+MD-before	background	GT	NC_051929.1	0	1	1	1	1	0	244
+MD-before	background	GT	MZ188901.1	0	1	1	1	1	0	265
+MD-before	background	GT	MW218895.1	0	1	1	1	1	0	244
+MD-before	background	GT	MT108721.1	0	1	1	1	1	0	244
+MD-before	background	GT	MN128376.1	0	1	1	1	1	0	265
+MD-before	background	GT	PV339712.1	0	0	1	1	1	0	
+MD-before	background	GT	NC_032365.1	0	1	1	1	1	0	281
+MD-before	background	GT	MN103227.1	0	1	1	1	1	0	280
+MD-before	background	GT	AI478031.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064453.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064452.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064451.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064450.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064449.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064448.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064447.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064446.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064445.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064444.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064443.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064442.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064441.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064440.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064439.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064438.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064437.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064436.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064435.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064434.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064433.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064432.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064431.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064430.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064429.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064428.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064427.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064426.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064425.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064424.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064423.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064422.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064421.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064420.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064419.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064418.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064417.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064416.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064415.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064414.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064413.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064412.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064411.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064410.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064409.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064408.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064407.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064406.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064405.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064404.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064403.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064402.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064401.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064400.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064399.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064398.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064397.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064396.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064395.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064394.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064393.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064392.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064391.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064390.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064389.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064388.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064387.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064386.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064385.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064384.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064383.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064382.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064381.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064380.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064379.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064378.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064377.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064376.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064375.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064374.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064373.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064372.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064371.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064370.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064369.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064368.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064367.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064366.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064365.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064364.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064363.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064362.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064361.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064360.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064359.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064358.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064357.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064356.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064355.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064354.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064353.1	0	0	0	0	0	1	
+MD-before	background	GT	MG064352.1	0	0	0	0	0	1	
+MD-before	background	GT	KX638403.1	0	1	1	1	1	0	281
+MD-before	background	GT	GQ288557.1	0	0	0	0	0	1	
+MD-before	background	GT	GQ288556.1	0	0	0	0	0	1	
+MD-before	background	GT	GQ288548.1	0	0	0	0	0	1	
+MD-before	background	GT	GQ288547.1	0	0	0	0	0	1	
+MD-before	background	GT	GQ288546.1	0	0	0	0	0	1	
+MD-before	background	GT	GQ288545.1	0	0	0	0	0	1	
+MD-before	background	GT	GQ288544.1	0	0	0	0	0	1	
+MD-before	background	GT	GQ288543.1	0	0	0	0	0	1	
+MD-before	background	GT	GQ288542.1	0	0	0	0	0	1	
+MD-before	background	GT	GQ288516.1	0	0	0	0	0	1	
+MD-before	background	GT	EU722997.1	0	0	0	0	0	1	
+MD-before	background	GT	EU722995.1	0	0	0	0	0	1	
+MD-before	background	GT	EU722963.1	0	0	0	0	0	1	
+MD-before	background	GT	EU722940.1	0	0	0	0	0	1	
+MD-before	background	GT	EU722939.1	0	0	0	0	0	1	
+MD-before	background	GT	EU072956.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548879.2	0	0	0	0	0	1	
+MD-before	background	GT	AY548869.2	0	0	0	0	0	1	
+MD-before	background	GT	AY548867.2	0	0	0	0	0	1	
+MD-before	background	GT	AY548862.2	0	0	0	0	0	1	
+MD-before	background	GT	AY548870.2	0	0	0	0	0	1	
+MD-before	background	GT	AY548865.2	0	0	0	0	0	1	
+MD-before	background	GT	AY548864.2	0	0	0	0	0	1	
+MD-before	background	GT	AY548882.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548881.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548878.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548877.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548876.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548875.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548874.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548873.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548872.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548871.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548868.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548866.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548863.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548861.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548860.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548859.1	0	0	0	0	0	1	
+MD-before	background	GT	AY548858.1	0	0	0	0	0	1	
+LD-before	background	WC	AI478031.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064453.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064452.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064451.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064450.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064449.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064448.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064447.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064446.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064445.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064444.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064443.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064442.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064441.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064440.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064439.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064438.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064437.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064436.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064435.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064434.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064433.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064432.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064431.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064430.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064429.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064428.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064427.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064426.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064425.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064424.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064423.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064422.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064421.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064420.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064419.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064418.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064417.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064416.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064415.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064414.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064413.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064412.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064411.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064410.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064409.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064408.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064407.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064406.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064405.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064404.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064403.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064402.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064401.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064400.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064399.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064398.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064397.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064396.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064395.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064394.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064393.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064392.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064391.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064390.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064389.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064388.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064387.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064386.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064385.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064384.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064383.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064382.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064381.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064380.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064379.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064378.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064377.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064376.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064375.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064374.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064373.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064372.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064371.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064370.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064369.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064368.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064367.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064366.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064365.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064364.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064363.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064362.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064361.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064360.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064359.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064358.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064357.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064356.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064355.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064354.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064353.1	0	0	0	0	0	1	
+LD-before	background	WC	MG064352.1	0	0	0	0	0	1	
+LD-before	background	WC	GQ288557.1	0	0	0	0	0	1	
+LD-before	background	WC	GQ288556.1	0	0	0	0	0	1	
+LD-before	background	WC	GQ288548.1	0	0	0	0	0	1	
+LD-before	background	WC	GQ288547.1	0	0	0	0	0	1	
+LD-before	background	WC	GQ288546.1	0	0	0	0	0	1	
+LD-before	background	WC	GQ288545.1	0	0	0	0	0	1	
+LD-before	background	WC	GQ288544.1	0	0	0	0	0	1	
+LD-before	background	WC	GQ288543.1	0	0	0	0	0	1	
+LD-before	background	WC	GQ288542.1	0	0	0	0	0	1	
+LD-before	background	WC	GQ288516.1	0	0	0	0	0	1	
+LD-before	background	WC	EU722997.1	0	0	0	0	0	1	
+LD-before	background	WC	EU722995.1	0	0	0	0	0	1	
+LD-before	background	WC	EU722963.1	0	0	0	0	0	1	
+LD-before	background	WC	EU722948.1	0	0	0	0	0	1	
+LD-before	background	WC	EU722940.1	0	0	0	0	0	1	
+LD-before	background	WC	EU722939.1	0	0	0	0	0	1	
+LD-before	background	WC	EU072956.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548879.2	0	0	0	0	0	1	
+LD-before	background	WC	AY548869.2	0	0	0	0	0	1	
+LD-before	background	WC	AY548867.2	0	0	0	0	0	1	
+LD-before	background	WC	AY548862.2	0	0	0	0	0	1	
+LD-before	background	WC	AY548870.2	0	0	0	0	0	1	
+LD-before	background	WC	AY548865.2	0	0	0	0	0	1	
+LD-before	background	WC	AY548864.2	0	0	0	0	0	1	
+LD-before	background	WC	AY548882.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548881.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548878.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548877.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548876.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548875.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548874.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548873.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548872.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548871.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548868.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548866.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548863.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548861.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548860.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548859.1	0	0	0	0	0	1	
+LD-before	background	WC	AY548858.1	0	0	0	0	0	1	
+LD-before	background	GT	AI478031.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064453.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064452.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064451.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064450.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064449.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064448.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064447.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064446.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064445.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064444.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064443.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064442.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064441.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064440.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064439.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064438.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064437.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064436.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064435.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064434.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064433.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064432.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064431.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064430.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064429.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064428.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064427.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064426.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064425.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064424.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064423.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064422.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064421.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064420.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064419.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064418.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064417.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064416.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064415.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064414.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064413.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064412.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064411.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064410.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064409.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064408.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064407.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064406.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064405.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064404.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064403.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064402.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064401.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064400.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064399.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064398.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064397.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064396.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064395.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064394.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064393.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064392.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064391.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064390.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064389.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064388.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064387.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064386.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064385.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064384.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064383.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064382.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064381.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064380.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064379.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064378.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064377.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064376.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064375.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064374.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064373.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064372.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064371.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064370.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064369.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064368.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064367.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064366.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064365.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064364.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064363.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064362.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064361.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064360.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064359.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064358.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064357.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064356.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064355.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064354.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064353.1	0	0	0	0	0	1	
+LD-before	background	GT	MG064352.1	0	0	0	0	0	1	
+LD-before	background	GT	GQ288557.1	0	0	0	0	0	1	
+LD-before	background	GT	GQ288556.1	0	0	0	0	0	1	
+LD-before	background	GT	GQ288548.1	0	0	0	0	0	1	
+LD-before	background	GT	GQ288547.1	0	0	0	0	0	1	
+LD-before	background	GT	GQ288546.1	0	0	0	0	0	1	
+LD-before	background	GT	GQ288545.1	0	0	0	0	0	1	
+LD-before	background	GT	GQ288544.1	0	0	0	0	0	1	
+LD-before	background	GT	GQ288543.1	0	0	0	0	0	1	
+LD-before	background	GT	GQ288542.1	0	0	0	0	0	1	
+LD-before	background	GT	GQ288516.1	0	0	0	0	0	1	
+LD-before	background	GT	EU722997.1	0	0	0	0	0	1	
+LD-before	background	GT	EU722995.1	0	0	0	0	0	1	
+LD-before	background	GT	EU722963.1	0	0	0	0	0	1	
+LD-before	background	GT	EU722948.1	0	0	0	0	0	1	
+LD-before	background	GT	EU722940.1	0	0	0	0	0	1	
+LD-before	background	GT	EU722939.1	0	0	0	0	0	1	
+LD-before	background	GT	EU072956.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548879.2	0	0	0	0	0	1	
+LD-before	background	GT	AY548869.2	0	0	0	0	0	1	
+LD-before	background	GT	AY548867.2	0	0	0	0	0	1	
+LD-before	background	GT	AY548862.2	0	0	0	0	0	1	
+LD-before	background	GT	AY548870.2	0	0	0	0	0	1	
+LD-before	background	GT	AY548865.2	0	0	0	0	0	1	
+LD-before	background	GT	AY548864.2	0	0	0	0	0	1	
+LD-before	background	GT	AY548882.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548881.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548878.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548877.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548876.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548875.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548874.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548873.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548872.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548871.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548868.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548866.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548863.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548861.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548860.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548859.1	0	0	0	0	0	1	
+LD-before	background	GT	AY548858.1	0	0	0	0	0	1	
+XLD-before	background	WC	AI478031.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064453.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064452.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064451.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064450.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064449.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064448.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064447.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064446.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064445.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064444.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064443.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064442.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064441.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064440.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064439.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064438.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064437.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064436.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064435.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064434.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064433.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064432.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064431.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064430.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064429.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064428.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064427.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064426.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064425.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064424.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064423.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064422.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064421.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064420.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064419.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064418.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064417.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064416.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064415.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064414.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064413.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064412.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064411.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064410.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064409.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064408.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064407.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064406.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064405.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064404.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064403.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064402.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064401.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064400.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064399.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064398.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064397.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064396.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064395.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064394.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064393.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064392.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064391.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064390.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064389.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064388.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064387.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064386.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064385.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064384.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064383.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064382.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064381.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064380.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064379.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064378.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064377.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064376.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064375.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064374.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064373.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064372.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064371.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064370.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064369.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064368.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064367.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064366.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064365.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064364.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064363.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064362.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064361.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064360.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064359.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064358.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064357.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064356.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064355.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064354.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064353.1	0	0	0	0	0	1	
+XLD-before	background	WC	MG064352.1	0	0	0	0	0	1	
+XLD-before	background	WC	DQ073746.1	0	0	0	0	1	0	
+XLD-before	background	WC	QB030208.1	0	0	0	0	1	0	
+XLD-before	background	WC	PX413461.1	0	0	0	0	1	0	
+XLD-before	background	WC	PV804724.1	0	0	0	0	1	0	
+XLD-before	background	WC	PV535852.1	0	0	0	0	1	0	
+XLD-before	background	WC	LC592775.1	0	0	0	0	1	0	
+XLD-before	background	WC	PQ424530.1	0	0	0	0	1	0	
+XLD-before	background	WC	PQ424528.1	0	0	0	0	1	0	
+XLD-before	background	WC	PQ424521.1	0	0	0	0	1	0	
+XLD-before	background	WC	PQ424519.1	0	0	0	0	1	0	
+XLD-before	background	WC	OQ979619.1	0	1	1	1	1	0	481
+XLD-before	background	WC	NC_081967.1	0	1	1	1	1	0	481
+XLD-before	background	WC	OR142187.1	0	1	1	1	1	0	481
+XLD-before	background	WC	NC_071876.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_041450.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_007788.1	0	0	0	0	1	0	
+XLD-before	background	WC	OP289522.1	0	0	0	0	1	0	
+XLD-before	background	WC	MZ702705.1	0	0	0	0	1	0	
+XLD-before	background	WC	MZ702702.1	0	0	0	0	1	0	
+XLD-before	background	WC	MH648613.1	0	0	0	0	1	0	
+XLD-before	background	WC	KY908363.1	0	0	0	0	1	0	
+XLD-before	background	WC	KY908362.1	0	0	0	0	1	0	
+XLD-before	background	WC	KY908361.1	0	0	0	0	1	0	
+XLD-before	background	WC	KY908360.1	0	0	0	0	1	0	
+XLD-before	background	WC	KY908359.1	0	0	0	0	1	0	
+XLD-before	background	WC	KY908358.1	0	0	0	0	1	0	
+XLD-before	background	WC	KY908357.1	0	0	0	0	1	0	
+XLD-before	background	WC	KY908356.1	0	0	0	0	1	0	
+XLD-before	background	WC	GQ288557.1	0	0	0	0	0	1	
+XLD-before	background	WC	GQ288556.1	0	0	0	0	0	1	
+XLD-before	background	WC	GQ288548.1	0	0	0	0	0	1	
+XLD-before	background	WC	GQ288547.1	0	0	0	0	0	1	
+XLD-before	background	WC	GQ288546.1	0	0	0	0	0	1	
+XLD-before	background	WC	GQ288545.1	0	0	0	0	0	1	
+XLD-before	background	WC	GQ288544.1	0	0	0	0	0	1	
+XLD-before	background	WC	GQ288543.1	0	0	0	0	0	1	
+XLD-before	background	WC	GQ288542.1	0	0	0	0	0	1	
+XLD-before	background	WC	GQ288521.1	0	0	0	0	0	1	
+XLD-before	background	WC	GQ288516.1	0	0	0	0	0	1	
+XLD-before	background	WC	EU722997.1	0	0	0	0	0	1	
+XLD-before	background	WC	EU722995.1	0	0	0	0	0	1	
+XLD-before	background	WC	EU722963.1	0	0	0	0	0	1	
+XLD-before	background	WC	EU722948.1	0	0	0	0	0	1	
+XLD-before	background	WC	EU722940.1	0	0	0	0	0	1	
+XLD-before	background	WC	EU722939.1	0	0	0	0	0	1	
+XLD-before	background	WC	EU072956.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548879.2	0	0	0	0	0	1	
+XLD-before	background	WC	AY548869.2	0	0	0	0	0	1	
+XLD-before	background	WC	AY548867.2	0	0	0	0	0	1	
+XLD-before	background	WC	AY548862.2	0	0	0	0	0	1	
+XLD-before	background	WC	AY548870.2	0	0	0	0	0	1	
+XLD-before	background	WC	AY548865.2	0	0	0	0	0	1	
+XLD-before	background	WC	AY548864.2	0	0	0	0	0	1	
+XLD-before	background	WC	AY548882.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548881.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548878.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548877.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548876.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548875.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548874.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548873.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548872.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548871.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548868.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548866.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548863.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548861.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548860.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548859.1	0	0	0	0	0	1	
+XLD-before	background	WC	AY548858.1	0	0	0	0	0	1	
+XLD-before	background	WC	AB231475.1	0	0	0	0	1	0	
+XLD-before	background	WC	OM272844.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_063787.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_025767.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_009587.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_137527.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_133445.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_133446.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_133447.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_133448.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_008106.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088753.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088582.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088581.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088580.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088579.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088578.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088577.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088576.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088575.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088570.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088550.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088519.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088503.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088500.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088499.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088490.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088430.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088427.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088031.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088030.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088029.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088028.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088027.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088026.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088025.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088024.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088023.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088022.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088021.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088020.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088019.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088018.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_002012.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_084376.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_083983.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082751.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_083183.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_083132.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082999.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082942.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082809.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082808.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082801.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082800.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082799.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082798.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082793.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082774.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082566.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_077464.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_077463.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_077462.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_077648.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_077588.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_079696.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_064111.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_063621.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_063620.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_065055.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_066688.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_059939.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_066805.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_059941.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_072260.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_068898.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_068897.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_068734.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_068668.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_068516.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_068141.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_067553.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_060993.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088745.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_088743.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_087809.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_087805.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_064338.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082193.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082192.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082191.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082190.1	0	0	0	0	1	0	
+XLD-before	background	WC	NC_082189.1	0	0	0	0	1	0	
+XLD-before	background	GT	AI478031.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064453.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064452.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064451.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064450.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064449.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064448.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064447.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064446.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064445.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064444.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064443.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064442.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064441.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064440.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064439.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064438.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064437.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064436.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064435.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064434.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064433.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064432.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064431.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064430.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064429.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064428.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064427.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064426.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064425.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064424.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064423.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064422.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064421.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064420.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064419.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064418.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064417.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064416.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064415.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064414.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064413.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064412.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064411.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064410.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064409.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064408.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064407.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064406.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064405.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064404.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064403.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064402.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064401.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064400.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064399.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064398.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064397.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064396.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064395.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064394.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064393.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064392.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064391.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064390.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064389.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064388.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064387.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064386.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064385.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064384.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064383.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064382.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064381.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064380.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064379.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064378.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064377.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064376.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064375.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064374.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064373.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064372.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064371.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064370.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064369.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064368.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064367.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064366.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064365.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064364.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064363.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064362.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064361.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064360.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064359.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064358.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064357.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064356.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064355.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064354.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064353.1	0	0	0	0	0	1	
+XLD-before	background	GT	MG064352.1	0	0	0	0	0	1	
+XLD-before	background	GT	OQ979619.1	0	1	1	1	1	0	481
+XLD-before	background	GT	NC_081967.1	0	1	1	1	1	0	481
+XLD-before	background	GT	OR142187.1	0	1	1	1	1	0	481
+XLD-before	background	GT	GQ288557.1	0	0	0	0	0	1	
+XLD-before	background	GT	GQ288556.1	0	0	0	0	0	1	
+XLD-before	background	GT	GQ288548.1	0	0	0	0	0	1	
+XLD-before	background	GT	GQ288547.1	0	0	0	0	0	1	
+XLD-before	background	GT	GQ288546.1	0	0	0	0	0	1	
+XLD-before	background	GT	GQ288545.1	0	0	0	0	0	1	
+XLD-before	background	GT	GQ288544.1	0	0	0	0	0	1	
+XLD-before	background	GT	GQ288543.1	0	0	0	0	0	1	
+XLD-before	background	GT	GQ288542.1	0	0	0	0	0	1	
+XLD-before	background	GT	GQ288516.1	0	0	0	0	0	1	
+XLD-before	background	GT	EU722997.1	0	0	0	0	0	1	
+XLD-before	background	GT	EU722995.1	0	0	0	0	0	1	
+XLD-before	background	GT	EU722963.1	0	0	0	0	0	1	
+XLD-before	background	GT	EU722948.1	0	0	0	0	0	1	
+XLD-before	background	GT	EU722940.1	0	0	0	0	0	1	
+XLD-before	background	GT	EU722939.1	0	0	0	0	0	1	
+XLD-before	background	GT	EU072956.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548879.2	0	0	0	0	0	1	
+XLD-before	background	GT	AY548869.2	0	0	0	0	0	1	
+XLD-before	background	GT	AY548867.2	0	0	0	0	0	1	
+XLD-before	background	GT	AY548862.2	0	0	0	0	0	1	
+XLD-before	background	GT	AY548870.2	0	0	0	0	0	1	
+XLD-before	background	GT	AY548865.2	0	0	0	0	0	1	
+XLD-before	background	GT	AY548864.2	0	0	0	0	0	1	
+XLD-before	background	GT	AY548882.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548881.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548878.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548877.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548876.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548875.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548874.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548873.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548872.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548871.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548868.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548866.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548863.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548861.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548860.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548859.1	0	0	0	0	0	1	
+XLD-before	background	GT	AY548858.1	0	0	0	0	0	1	

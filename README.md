@@ -1,7 +1,7 @@
 # MiLily, a set of universal PCR primers for metabarcoding environmental DNA from **sea lily**
 
 [中文](README.zh-CN.md)
-[Download the English Method PDF](publications/MiLily_Method_ResearchGate.pdf)
+[Download the pre-optimization Method PDF (historical snapshot)](publications/MiLily_Method_ResearchGate.pdf)
 
 
 ![MiLily overview: XS, S, M, L and XL](figures/MiLily_overview_current.png)
@@ -10,7 +10,7 @@ Badge values are primer-inclusive reference spans on AF049132.1: XS 179, S 193, 
 
 ## Abstract
 
-MiLily comprises candidate mitochondrial 16S rRNA primers for metabarcoding crinoid environmental DNA across five windows: XS, S, M, L and XL. Target matching was evaluated on a common panel of 27 references representing 25 taxonomic labels, with cross-matching screened against 7,177 non-target records. The low-degeneracy XS pair produced predicted amplicons of 159–194 bp, with 100% coverage and 96% exact matching; MD achieved 100% coverage and 84% exact matching. XS also matched 18 non-target records under the strict target criterion, including 10 exact sea-urchin matches. S–XL offer ordinary, complementary A/B and degenerate D alternatives at shared coordinates. XS prioritises short products and low degeneracy, whereas MD combines complete panel coverage with fewer non-target matches, providing alternatives for different sample conditions.
+MiLily comprises five candidate mitochondrial 16S rRNA windows for crinoid eDNA: XS, S, M, L and XL. Primary metrics weight four orders equally using 27 references, 25 taxonomic labels and 7,177 background records. Revised SD, MD, LD and XLD achieve order-balanced coverage of 71.59%, 100%, 50% and 75%, and exact matching of 43.18%, 50%, 14.77% and 68.18%, respectively. Each D is a single pair sharing its ordinary/A/B endpoints. XS remains a fixed short-window candidate with separately reported background and structural predictions.
 
 ## Introduction
 
@@ -28,7 +28,7 @@ Marker selection involves both taxonomic coverage and discrimination. ecoPrimers
 
 ### Reference data and matching criteria
 
-Coordinates are 1-based on the extracted, ungapped AF049132.1 16S sequence. This reference represents *Florometra serratissima*, whose complete mitochondrial genome and gene arrangement were described by Scouras and Smith. [Scouras & Smith, 2001](https://doi.org/10.1093/oxfordjournals.molbev.a003720) The target FASTA contains 269 records. Headline comparisons use a frozen common panel of 27 references and 25 taxonomic labels, weighted equally by label and then within label, to control for differences in partial-reference availability among windows.
+Coordinates are 1-based on the extracted, ungapped AF049132.1 16S sequence. This reference represents *Florometra serratissima*, whose complete mitochondrial genome and gene arrangement were described by Scouras and Smith. [Scouras & Smith, 2001](https://doi.org/10.1093/oxfordjournals.molbev.a003720) The target FASTA contains 269 records. Headline comparisons use the frozen common panel with equal order weighting; the earlier within-label reference-weighted metric is retained as a secondary comparison.
 
 Coverage requires ≤2 mismatches per primer and IUPAC-compatible terminal 3 nt; exact matching requires zero mismatches at both ends. The background contains 7,177 non-target records. WC3, GT2 and WC4 count paired hits with ≤3 mismatches per primer, ≤2 under a G–T pairing model, and ≤4, respectively; these permissive screens do not require terminal-3 compatibility. Strict background matching separately applies the target coverage criterion. Non-target hits are reported as reference-record counts.
 
@@ -36,7 +36,7 @@ Coverage requires ≤2 mismatches per primer and IUPAC-compatible terminal 3 nt;
 
 Ordinary, A, B and D alternatives share identical forward and reverse boundaries within each S–XL window. Single pairs are preferred where sufficient. A/B denote separate-PCR unions, retained only when both components contribute unique coverage or exact matches. D denotes a single degenerate pair. XS was evaluated independently as a supplied fixed pair.
 
-Terminal checks require no terminal homotriplet, at least one GC in the final 3 nt, 1–4 GC in the final 5 nt and no homopolymer longer than four bases; 3′ degeneracy is allowed. Duplex, hairpin and dimer thermodynamics are calculated with Primer3. [Untergasser et al., 2012](https://doi.org/10.1093/nar/gks596) Calculations use 50 mM monovalent salt, 1.5 mM Mg²⁺ and 0.6 mM dNTP, at 50 nM per variant and 200 nM total per direction. S–XL require structure Tm <55°C and a forward/reverse duplex-Tm midpoint difference ≤5°C. WC3 and GT2 limits are 20 records each for SD/MD and five each for other S–XL portfolios. XS is evaluated separately as a fixed-sequence scheme.
+Terminal checks require no terminal homotriplet, at least one GC in the final 3 nt, 1–4 GC in the final 5 nt and no homopolymer longer than four bases; 3′ degeneracy is allowed. Duplex, hairpin and dimer thermodynamics are calculated with Primer3. [Untergasser et al., 2012](https://doi.org/10.1093/nar/gks596) Calculations use 50 mM monovalent salt, 1.5 mM Mg²⁺ and 0.6 mM dNTP, at 50 nM per variant and 200 nM total per direction. S–XL require structure Tm <55°C and a forward/reverse duplex-Tm midpoint difference ≤5°C. This D search allows ≤100 broad WC3/GT2 and ≤20 strict WC/GT records each, with degeneracy ≤128 per direction; ordinary/A/B retain their original limits. XS is evaluated separately as a fixed-sequence scheme.
 
 Exhaustive full-sequence scans check both strands, paired orientation and distance, followed by independent algorithmic verification. Full parameters and execution instructions are available in [Methods](docs/METHODS.md) and [Reproduction](docs/REPRODUCIBILITY.md).
 
@@ -46,19 +46,41 @@ Exhaustive full-sequence scans check both strands, paired orientation and distan
 
 ![Binding positions](figures/binding_positions.svg)
 
+Primary metrics average label detection equally across four orders. A label is detected when any of its references matches. The common panel has 27 references and 25 labels: 22 Comatulida and one per other order; it is not a complete species inventory. Exact matching uses the same hierarchy.
+
+| Scheme | Order coverage % | Order exact % | WC≤3 | GT≤2 |
+|---|---:|---:|---:|---:|
+| XS | 100.00 | 98.86 | 4196 | 3889 |
+| SD | 71.59 | 43.18 | 4 | 7 |
+| S | 19.32 | 7.95 | 0 | 0 |
+| SA+SB | 19.32 | 13.64 | 0 | 0 |
+| MD | 100.00 | 50.00 | 26 | 23 |
+| M | 48.86 | 0.00 | 4 | 1 |
+| MA+MB | 48.86 | 5.68 | 4 | 0 |
+| LD | 50.00 | 14.77 | 0 | 0 |
+| L | 25.00 | 9.09 | 0 | 0 |
+| LA+LB | 25.00 | 13.64 | 0 | 0 |
+| XLD | 75.00 | 68.18 | 8 | 3 |
+| XL | 67.05 | 2.27 | 0 | 0 |
+| XLA+XLB | 69.32 | 5.68 | 0 | 0 |
+
+[D优化与类群增减 / D optimization and label changes](docs/D_OPTIMIZATION.md)
+
+The secondary table below retains the earlier within-label reference-weighted metric.
+
 | Scheme | Coverage % | Exact % | WC≤3 | GT≤2 | WC≤4 |
 |---|---:|---:|---:|---:|---:|
 | XS | 100.00 | 96.00 | 4196 | 3889 | 4405 |
-| SD | 88.00 | 66.00 | 0 | 12 | 15 |
+| SD | 84.00 | 66.00 | 4 | 7 | 151 |
 | S | 66.00 | 28.00 | 0 | 0 | 0 |
 | SA+SB | 66.00 | 46.00 | 0 | 0 | 0 |
-| MD | 100.00 | 84.00 | 16 | 14 | 29 |
+| MD | 100.00 | 92.00 | 26 | 23 | 47 |
 | M | 88.00 | 0.00 | 4 | 1 | 11 |
 | MA+MB | 88.00 | 20.00 | 4 | 0 | 14 |
-| LD | 88.00 | 38.00 | 0 | 0 | 0 |
+| LD | 92.00 | 50.00 | 0 | 0 | 0 |
 | L | 88.00 | 30.00 | 0 | 0 | 0 |
 | LA+LB | 88.00 | 46.00 | 0 | 0 | 0 |
-| XLD | 96.00 | 66.00 | 3 | 3 | 121 |
+| XLD | 96.00 | 70.00 | 8 | 3 | 163 |
 | XL | 68.00 | 8.00 | 0 | 0 | 6 |
 | XLA+XLB | 76.00 | 18.00 | 0 | 0 | 6 |
 
@@ -70,7 +92,7 @@ Independent verification covers 918 target decisions and 34 background-set check
 
 ![Figure 1: target coverage and exact matching](figures/performance_matching.svg)
 
-**Figure 1 | Target matching.** Pale bars show coverage and dark bars exact matching; the right column gives coverage / exact percentages. All portfolios use the same 27-reference, 25-label panel with equal taxonomic-label weights. A/B denotes the union of separate PCRs.
+**Figure 1 | Target matching.** Pale bars show coverage and dark bars exact matching; the right column gives coverage / exact percentages. All portfolios use the same 27-reference, 25-label panel with equal order weights. A/B denotes the union of separate PCRs.
 
 ![Figure 2: non-target matching](figures/performance_background.svg)
 
@@ -98,7 +120,7 @@ XS passes terminal rules and has compatible duplex Tm ranges. Its three F varian
 
 | Name | F (5′→3′) | R (5′→3′) |
 |---|---|---|
-| SD | `GATCTAMTGAWRYYCCAA` | `TRTCCCTTTTRGYYTWGY` |
+| SD | `GATCTAMTRMWAYYCCRA` | `TRTCCCTKTTRRTYTWRC` |
 | S | `GATCTAATGAAACCCCAA` | `TATCCCTTTTGGTTTAGC` |
 | SA | `GATCTAATGAAACCCCAA` | `TATCCCTTTTGGTTTAGC` |
 | SB | `GATCTAATGAAACCCCAA` | `TGTCCCTTTTGGTTTAGC` |
@@ -115,7 +137,7 @@ XS passes terminal rules and has compatible duplex Tm ranges. Its three F varian
 
 | Name | F (5′→3′) | R (5′→3′) |
 |---|---|---|
-| MD | `TTACTGTTRCAAAAGTAAAYWAAGAR` | `GRCTGCTTYTRGGCCTAC` |
+| MD | `TYACTGTTDCAAAAGTRAAYWAAGAR` | `GRCTGCTTYTRGGCCTAC` |
 | M | `TTACTGTTGCAAAAGTAAACTAAGAG` | `GGCTGTTTCTAGGCCTAC` |
 | MA | `TTACTGTTACAAAAGTAAACTAAGAG` | `GGCTGCTTCTAGGCCTAC` |
 | MB | `TTACTGTTGCAAAAGTAAACTAAGAG` | `GACTGCTTCTAGGCCTAC` |
@@ -132,7 +154,7 @@ XS passes terminal rules and has compatible duplex Tm ranges. Its three F varian
 
 | Name | F (5′→3′) | R (5′→3′) |
 |---|---|---|
-| LD | `CAAGAGATCTAATGAAACCCCA` | `GRCTGCTTYTRGGCCTAC` |
+| LD | `YARGAGATCTAATGAWAYYCCA` | `GRCTGCTTYTRGGCCTAC` |
 | L | `CAAGAGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` |
 | LA | `CAAGAGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` |
 | LB | `CAAGGGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` |
@@ -149,7 +171,7 @@ XS passes terminal rules and has compatible duplex Tm ranges. Its three F varian
 
 | Name | F (5′→3′) | R (5′→3′) |
 |---|---|---|
-| XLD | `AGGCAAVACGARRRCTYAACTG` | `GACTYDCGTCGGTCTGAA` |
+| XLD | `AGGCAAVACGARRRCTHAACTG` | `GACTYDCGTCGGTCTGAA` |
 | XL | `AGGCAAGACGAAAGCTTAACTG` | `GACTTGCGTCGGTCTGAA` |
 | XLA | `AGGCAACACGAAAACTTAACTG` | `GACTTGCGTCGGTCTGAA` |
 | XLB | `AGGCAAGACGAAAGCTTAACTG` | `GACTTGCGTCGGTCTGAA` |
@@ -164,11 +186,11 @@ XS passes terminal rules and has compatible duplex Tm ranges. Its three F varian
 
 ## Discussion
 
-XS achieves 100% coverage and 96% exact matching with F/R degeneracy of 3/1, making it a priority for short-amplicon testing. MD also covers the complete common panel and yields fewer permissive background hits. The two schemes offer different tradeoffs: XS emphasises short products and low degeneracy, whereas MD balances coverage and background discrimination. Of the 18 strict non-target XS hits, 10 sea-urchin records match both primers exactly and have predicted products overlapping the crinoid size range. Mixed samples containing sea-urchin DNA are therefore a useful test of competitive amplification.
+XS achieves 100% coverage and 98.86% exact matching under order weighting with F/R degeneracy of 3/1, making it a priority for short-amplicon testing. MD also covers the complete common panel and yields fewer permissive background hits. The two schemes offer different tradeoffs: XS emphasises short products and low degeneracy, whereas MD balances coverage and background discrimination. Of the 18 strict non-target XS hits, 10 sea-urchin records match both primers exactly and have predicted products overlapping the crinoid size range. Mixed samples containing sea-urchin DNA are therefore a useful test of competitive amplification.
 
 MiFish accommodates lineage-specific binding variation with an additional primer variant, a principle relevant to complementary MiLily combinations. [Miya et al., 2015](https://doi.org/10.1098/rsos.150088) In MiLily, S, M and L unions primarily improve exact matching, whereas the XL union also improves coverage. Retention depends on each component's unique contribution. Shared coordinates among ordinary, A, B and D alternatives keep within-window comparisons focused on binding-sequence differences.
 
-XS has 22/25 labels without observed shared barcodes (88%) on the common panel, the same as MD. Discrimination depends on the variation captured by a window, supporting joint evaluation of marker length and barcode information. [Boyer et al., 2012](https://doi.org/10.1371/journal.pone.0038215) The present results are computational evaluations on shared reference data; subsequent tissue, defined-mixture and environmental tests will compare amplification efficiency and detected composition. Controlling mixture inputs is particularly useful because metabarcoding experiments have found substantial read-count differences among taxa with similar biomass. [Elbrecht & Leese, 2015](https://doi.org/10.1371/journal.pone.0130324)
+XS has 22/25 labels without observed shared barcodes (88%) on the common panel, the same as the pre-optimization MD. Discrimination depends on the variation captured by a window, supporting joint evaluation of marker length and barcode information. [Boyer et al., 2012](https://doi.org/10.1371/journal.pone.0038215) The present results are computational evaluations on shared reference data; subsequent tissue, defined-mixture and environmental tests will compare amplification efficiency and detected composition. Controlling mixture inputs is particularly useful because metabarcoding experiments have found substantial read-count differences among taxa with similar biomass. [Elbrecht & Leese, 2015](https://doi.org/10.1371/journal.pone.0130324)
 
 Expanding the crinoid reference library requires both lineage representation and taxonomic reconciliation. Integrative work on Comatulidae found that external morphological differences and COI divergence do not follow a uniform relationship. [Summers et al., 2017](https://doi.org/10.11646/zootaxa.4268.2.1) For MiLily, this supports prioritising references linked to voucher specimens, morphological identifications and traceable sequences, while using the phylogenomic framework to distribute validation samples across major lineages. [Rouse et al., 2026](https://doi.org/10.1098/rsos.251924)
 

@@ -8187,15 +8187,14 @@
   },
   {
     "region": "S",
-    "F": "GATCTAMTGAWRYYCCAA",
-    "R": "TRTCCCTTTTRGYYTWGY",
-    "F_id": "OCCAM_SF",
-    "R_id": "OCCAM_SR",
-    "degeneracy_F": 32,
-    "degeneracy_R": 64,
+    "F": "GATCTAMTRMWAYYCCRA",
+    "R": "TRTCCCTKTTRRTYTWRC",
+    "F_id": "ORDER_SDF",
+    "R_id": "ORDER_SDR",
+    "degeneracy_F": 128,
+    "degeneracy_R": 128,
     "cv": [
       true,
-      true,
       false,
       true,
       true,
@@ -8211,13 +8210,14 @@
       true,
       true,
       true,
+      true,
+      true,
+      true,
+      true,
+      true,
       false,
       true,
-      true,
-      true,
-      true,
-      true,
-      true,
+      false,
       false,
       true,
       true
@@ -8225,11 +8225,7 @@
     "ex": [
       true,
       false,
-      false,
       true,
-      true,
-      true,
-      false,
       true,
       true,
       true,
@@ -8240,32 +8236,36 @@
       false,
       true,
       true,
-      false,
-      false,
+      true,
+      true,
       true,
       true,
       false,
+      false,
       true,
       true,
       false,
       true,
-      true
+      false,
+      false,
+      true,
+      false
     ],
     "coverage": 0.72,
     "exact": 0.4600000000000001,
-    "WC3": [],
+    "WC3": [
+      "KY268294.1",
+      "NC_066399.1",
+      "NC_133447.1",
+      "PQ330103.1"
+    ],
     "GT2": [
       "KY268294.1",
       "MK458686.1",
-      "NC_008106.1",
       "NC_066721.1",
       "NC_069158.1",
-      "NC_088575.1",
-      "NC_088578.1",
-      "NC_088581.1",
       "NC_133447.1",
       "OR227932.1",
-      "PP389243.1",
       "PQ330103.1"
     ],
     "reference_span": 193,
@@ -8278,21 +8278,22 @@
     "thermal": [
       {
         "scenario": "50_per_variant",
-        "F_tm_min": 42.56946396142678,
-        "F_tm_max": 53.19338892454135,
-        "R_tm_min": 43.635405732682216,
-        "R_tm_max": 58.13051892030222,
-        "structure_max": 38.58300088641357
+        "F_tm_min": 39.749731504606984,
+        "F_tm_max": 55.99881248328319,
+        "R_tm_min": 40.932947964648804,
+        "R_tm_max": 57.10139325370818,
+        "structure_max": 39.79550389629708
       },
       {
         "scenario": "200_per_direction",
-        "F_tm_min": 39.435189385019385,
-        "F_tm_max": 49.96605302668502,
-        "R_tm_min": 39.377581722147056,
-        "R_tm_max": 53.82188246662639,
-        "structure_max": 38.58300088641357
+        "F_tm_min": 34.58938952922131,
+        "F_tm_max": 50.6912440298907,
+        "R_tm_min": 35.76546777167408,
+        "R_tm_max": 51.76229338507841,
+        "structure_max": 39.79550389629708
       }
-    ]
+    ],
+    "evidence": "D_optimization/verification.json"
   },
   {
     "region": "S",
@@ -8586,11 +8587,11 @@
   },
   {
     "region": "M",
-    "F": "TTACTGTTRCAAAAGTAAAYWAAGAR",
+    "F": "TYACTGTTDCAAAAGTRAAYWAAGAR",
     "R": "GRCTGCTTYTRGGCCTAC",
-    "F_id": "OCCAM_MF",
-    "R_id": "OCCAM_MR",
-    "degeneracy_F": 16,
+    "F_id": "ORDER_MDF",
+    "R_id": "ORDER_MDR",
+    "degeneracy_F": 96,
     "degeneracy_R": 8,
     "cv": [
       true,
@@ -8629,7 +8630,6 @@
       true,
       true,
       true,
-      false,
       true,
       true,
       true,
@@ -8639,7 +8639,8 @@
       true,
       true,
       true,
-      false,
+      true,
+      true,
       true,
       true,
       true,
@@ -8653,34 +8654,53 @@
     "coverage": 0.68,
     "exact": 0.16,
     "WC3": [
+      "KX385836.1",
       "KX638403.1",
       "MN103227.1",
       "MN128376.1",
+      "MT108721.1",
       "MT559281.1",
+      "MW218895.1",
       "MW357261.1",
       "MW357262.1",
       "MW548268.1",
       "MZ188901.1",
       "NC_032365.1",
+      "NC_033523.1",
+      "NC_051929.1",
       "NC_058250.1",
       "NC_059759.1",
+      "NC_067855.1",
+      "ON725136.1",
+      "OQ503508.1",
       "OQ534871.1",
       "OQ731944.1",
+      "PP977507.1",
       "PQ878524.1",
+      "PV339712.1",
       "PV804723.1",
       "PV946926.1"
     ],
     "GT2": [
+      "KX385836.1",
       "KX638403.1",
       "LC704718.1",
       "MN103227.1",
       "MN128376.1",
       "MT108721.1",
       "MW218895.1",
+      "MW548268.1",
       "MZ188901.1",
       "NC_032365.1",
+      "NC_033523.1",
       "NC_051929.1",
+      "NC_059759.1",
+      "NC_067855.1",
+      "ON725136.1",
+      "OQ503508.1",
       "OQ534871.1",
+      "PP977507.1",
+      "PQ838327.1",
       "PQ878524.1",
       "PV339712.1",
       "PV804723.1",
@@ -8697,20 +8717,21 @@
       {
         "scenario": "50_per_variant",
         "F_tm_min": 51.968189879538386,
-        "F_tm_max": 57.31787228091031,
+        "F_tm_max": 61.06098588662371,
         "R_tm_min": 52.35221080364602,
         "R_tm_max": 60.12452865014944,
-        "structure_max": 42.309714081163065
+        "structure_max": 47.3914670202966
       },
       {
         "scenario": "200_per_direction",
-        "F_tm_min": 50.46343813034696,
-        "F_tm_max": 55.81982391118095,
+        "F_tm_min": 48.53908766512865,
+        "F_tm_max": 57.62381568951065,
         "R_tm_min": 51.2997240542108,
         "R_tm_max": 59.043866236821884,
-        "structure_max": 42.309714081163065
+        "structure_max": 47.3914670202966
       }
-    ]
+    ],
+    "evidence": "D_optimization/verification.json"
   },
   {
     "region": "M",
@@ -9019,11 +9040,11 @@
   },
   {
     "region": "L",
-    "F": "CAAGAGATCTAATGAAACCCCA",
+    "F": "YARGAGATCTAATGAWAYYCCA",
     "R": "GRCTGCTTYTRGGCCTAC",
-    "F_id": "OCCAM_LF",
-    "R_id": "OCCAM_LR",
-    "degeneracy_F": 1,
+    "F_id": "ORDER_LDF",
+    "R_id": "ORDER_LDR",
+    "degeneracy_F": 32,
     "degeneracy_R": 8,
     "cv": [
       true,
@@ -9043,7 +9064,7 @@
       true,
       true,
       true,
-      false,
+      true,
       true,
       true,
       true,
@@ -9059,22 +9080,22 @@
       false,
       false,
       true,
+      true,
+      true,
+      false,
+      false,
       false,
       true,
       false,
       false,
       false,
       true,
-      false,
-      false,
-      false,
+      true,
       true,
       true,
       false,
+      false,
       true,
-      false,
-      false,
-      false,
       false,
       false,
       true,
@@ -9097,21 +9118,22 @@
     "thermal": [
       {
         "scenario": "50_per_variant",
-        "F_tm_min": 55.508031329191795,
-        "F_tm_max": 55.508031329191795,
+        "F_tm_min": 48.94199141648045,
+        "F_tm_max": 57.22178686351958,
         "R_tm_min": 52.35221080364602,
         "R_tm_max": 60.12452865014944,
-        "structure_max": 42.309714081163065
+        "structure_max": 53.16094657008489
       },
       {
         "scenario": "200_per_direction",
-        "F_tm_min": 57.32234360053661,
-        "F_tm_max": 57.32234360053661,
+        "F_tm_min": 46.26677859262372,
+        "F_tm_max": 54.511043513826735,
         "R_tm_min": 51.2997240542108,
         "R_tm_max": 59.043866236821884,
-        "structure_max": 42.309714081163065
+        "structure_max": 53.16094657008489
       }
-    ]
+    ],
+    "evidence": "D_optimization/verification.json"
   },
   {
     "region": "L",
@@ -9405,11 +9427,11 @@
   },
   {
     "region": "XL",
-    "F": "AGGCAAVACGARRRCTYAACTG",
+    "F": "AGGCAAVACGARRRCTHAACTG",
     "R": "GACTYDCGTCGGTCTGAA",
-    "F_id": "OCCAM_XLF",
-    "R_id": "OCCAM_XLR",
-    "degeneracy_F": 48,
+    "F_id": "ORDER_XLDF",
+    "R_id": "ORDER_XLDR",
+    "degeneracy_F": 72,
     "degeneracy_R": 6,
     "cv": [
       true,
@@ -9459,7 +9481,7 @@
       false,
       false,
       true,
-      false,
+      true,
       true,
       true,
       false,
@@ -9472,9 +9494,14 @@
     "coverage": 0.88,
     "exact": 0.62,
     "WC3": [
+      "MZ702702.1",
+      "MZ702705.1",
+      "NC_063787.1",
       "NC_081967.1",
+      "OM272844.1",
       "OQ979619.1",
-      "OR142187.1"
+      "OR142187.1",
+      "PV535852.1"
     ],
     "GT2": [
       "NC_081967.1",
@@ -9499,13 +9526,14 @@
       },
       {
         "scenario": "200_per_direction",
-        "F_tm_min": 52.919362378322944,
-        "F_tm_max": 62.05745179141411,
+        "F_tm_min": 52.41685553801432,
+        "F_tm_max": 61.53917685514074,
         "R_tm_min": 53.06811370279303,
         "R_tm_max": 58.82836507226244,
         "structure_max": 41.40961653694268
       }
-    ]
+    ],
+    "evidence": "D_optimization/verification.json"
   },
   {
     "region": "XL",

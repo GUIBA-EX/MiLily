@@ -1,52 +1,52 @@
-scheme,accession,label,order,weight
-SD,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-SD,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
-SD,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
-S,AF049132.1,Florometra serratissima,Crinoidea,0.04
-S,AM404181.1,Antedon mediterranea,Crinoidea,0.04
-S,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-S,MT302206.1,Florometra sp. BMK-2020,Crinoidea,0.02
-S,NC_066490.1,Poliometra prolixa,Crinoidea,0.04
-S,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
-S,OP546034.1,Capillaster sp. DH-Y2,Crinoidea,0.04
-S,OQ207656.1,Thaumatocrinus sp. JL223,Crinoidea,0.04
-S,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
-SA+SB,AF049132.1,Florometra serratissima,Crinoidea,0.04
-SA+SB,AM404181.1,Antedon mediterranea,Crinoidea,0.04
-SA+SB,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-SA+SB,MT302206.1,Florometra sp. BMK-2020,Crinoidea,0.02
-SA+SB,NC_066490.1,Poliometra prolixa,Crinoidea,0.04
-SA+SB,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
-SA+SB,OP546034.1,Capillaster sp. DH-Y2,Crinoidea,0.04
-SA+SB,OQ207656.1,Thaumatocrinus sp. JL223,Crinoidea,0.04
-SA+SB,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
-M,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-M,MF966246.1,Stephanometra indica,Crinoidea,0.04
-M,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
-MA+MB,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-MA+MB,MF966246.1,Stephanometra indica,Crinoidea,0.04
-MA+MB,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
-LD,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-LD,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
-LD,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
-L,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-L,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
-L,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
-LA+LB,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-LA+LB,NC_068797.1,Metacrinus rotundus,Crinoidea,0.04
-LA+LB,OQ721985.1,Hyocrinidae sp.,Crinoidea,0.04
-XLD,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-XL,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-XL,DQ068952.1,Phanogenia gracilis,Crinoidea,0.04
-XL,MW526391.2,Comaster schlegelii,Crinoidea,0.04
-XL,NC_061054.1,Cenometra bella,Crinoidea,0.04
-XL,NC_068252.1,Comatella stelligera,Crinoidea,0.04
-XL,NC_068254.1,Comatella nigra,Crinoidea,0.04
-XL,NC_069630.1,Tropiometra macrodiscus,Crinoidea,0.04
-XL,OP546034.1,Capillaster sp. DH-Y2,Crinoidea,0.04
-XLA+XLB,DQ068951.1,Neogymnocrinus richeri,Crinoidea,0.04
-XLA+XLB,DQ068952.1,Phanogenia gracilis,Crinoidea,0.04
-XLA+XLB,MW526391.2,Comaster schlegelii,Crinoidea,0.04
-XLA+XLB,NC_068252.1,Comatella stelligera,Crinoidea,0.04
-XLA+XLB,NC_068254.1,Comatella nigra,Crinoidea,0.04
-XLA+XLB,OP546034.1,Capillaster sp. DH-Y2,Crinoidea,0.04
+scheme,accession,label,order,weight,organism
+SD,AM404181.1,Antedon mediterranea,Comatulida,0.04,Antedon mediterranea
+SD,OP546034.1,Capillaster sp. DH-Y2,Comatulida,0.04,Capillaster sp. DH-Y2
+SD,OQ207656.1,Thaumatocrinus sp. JL223,Comatulida,0.04,Thaumatocrinus sp. JL223
+SD,OQ721985.1,Hyocrinidae sp.,Hyocrinida,0.04,Hyocrinidae sp.
+S,AF049132.1,Florometra serratissima,Comatulida,0.04,Florometra serratissima
+S,AM404181.1,Antedon mediterranea,Comatulida,0.04,Antedon mediterranea
+S,DQ068951.1,Neogymnocrinus richeri,Cyrtocrinida,0.04,Neogymnocrinus richeri
+S,MT302206.1,Florometra sp. BMK-2020,Comatulida,0.02,Florometra sp. BMK-2020
+S,NC_066490.1,Poliometra prolixa,Comatulida,0.04,Poliometra prolixa
+S,NC_068797.1,Metacrinus rotundus,Isocrinida,0.04,Metacrinus rotundus
+S,OP546034.1,Capillaster sp. DH-Y2,Comatulida,0.04,Capillaster sp. DH-Y2
+S,OQ207656.1,Thaumatocrinus sp. JL223,Comatulida,0.04,Thaumatocrinus sp. JL223
+S,OQ721985.1,Hyocrinidae sp.,Hyocrinida,0.04,Hyocrinidae sp.
+SA+SB,AF049132.1,Florometra serratissima,Comatulida,0.04,Florometra serratissima
+SA+SB,AM404181.1,Antedon mediterranea,Comatulida,0.04,Antedon mediterranea
+SA+SB,DQ068951.1,Neogymnocrinus richeri,Cyrtocrinida,0.04,Neogymnocrinus richeri
+SA+SB,MT302206.1,Florometra sp. BMK-2020,Comatulida,0.02,Florometra sp. BMK-2020
+SA+SB,NC_066490.1,Poliometra prolixa,Comatulida,0.04,Poliometra prolixa
+SA+SB,NC_068797.1,Metacrinus rotundus,Isocrinida,0.04,Metacrinus rotundus
+SA+SB,OP546034.1,Capillaster sp. DH-Y2,Comatulida,0.04,Capillaster sp. DH-Y2
+SA+SB,OQ207656.1,Thaumatocrinus sp. JL223,Comatulida,0.04,Thaumatocrinus sp. JL223
+SA+SB,OQ721985.1,Hyocrinidae sp.,Hyocrinida,0.04,Hyocrinidae sp.
+M,DQ068951.1,Neogymnocrinus richeri,Cyrtocrinida,0.04,Neogymnocrinus richeri
+M,MF966246.1,Stephanometra indica,Comatulida,0.04,Stephanometra indica
+M,OQ721985.1,Hyocrinidae sp.,Hyocrinida,0.04,Hyocrinidae sp.
+MA+MB,DQ068951.1,Neogymnocrinus richeri,Cyrtocrinida,0.04,Neogymnocrinus richeri
+MA+MB,MF966246.1,Stephanometra indica,Comatulida,0.04,Stephanometra indica
+MA+MB,OQ721985.1,Hyocrinidae sp.,Hyocrinida,0.04,Hyocrinidae sp.
+LD,DQ068951.1,Neogymnocrinus richeri,Cyrtocrinida,0.04,Neogymnocrinus richeri
+LD,OQ721985.1,Hyocrinidae sp.,Hyocrinida,0.04,Hyocrinidae sp.
+L,DQ068951.1,Neogymnocrinus richeri,Cyrtocrinida,0.04,Neogymnocrinus richeri
+L,NC_068797.1,Metacrinus rotundus,Isocrinida,0.04,Metacrinus rotundus
+L,OQ721985.1,Hyocrinidae sp.,Hyocrinida,0.04,Hyocrinidae sp.
+LA+LB,DQ068951.1,Neogymnocrinus richeri,Cyrtocrinida,0.04,Neogymnocrinus richeri
+LA+LB,NC_068797.1,Metacrinus rotundus,Isocrinida,0.04,Metacrinus rotundus
+LA+LB,OQ721985.1,Hyocrinidae sp.,Hyocrinida,0.04,Hyocrinidae sp.
+XLD,DQ068951.1,Neogymnocrinus richeri,Cyrtocrinida,0.04,Neogymnocrinus richeri
+XL,DQ068951.1,Neogymnocrinus richeri,Cyrtocrinida,0.04,Neogymnocrinus richeri
+XL,DQ068952.1,Phanogenia gracilis,Comatulida,0.04,Phanogenia gracilis
+XL,MW526391.2,Comaster schlegelii,Comatulida,0.04,Comaster schlegelii
+XL,NC_061054.1,Cenometra bella,Comatulida,0.04,Cenometra bella
+XL,NC_068252.1,Comatella stelligera,Comatulida,0.04,Comatella stelligera
+XL,NC_068254.1,Comatella nigra,Comatulida,0.04,Comatella nigra
+XL,NC_069630.1,Tropiometra macrodiscus,Comatulida,0.04,Tropiometra macrodiscus
+XL,OP546034.1,Capillaster sp. DH-Y2,Comatulida,0.04,Capillaster sp. DH-Y2
+XLA+XLB,DQ068951.1,Neogymnocrinus richeri,Cyrtocrinida,0.04,Neogymnocrinus richeri
+XLA+XLB,DQ068952.1,Phanogenia gracilis,Comatulida,0.04,Phanogenia gracilis
+XLA+XLB,MW526391.2,Comaster schlegelii,Comatulida,0.04,Comaster schlegelii
+XLA+XLB,NC_068252.1,Comatella stelligera,Comatulida,0.04,Comatella stelligera
+XLA+XLB,NC_068254.1,Comatella nigra,Comatulida,0.04,Comatella nigra
+XLA+XLB,OP546034.1,Capillaster sp. DH-Y2,Comatulida,0.04,Capillaster sp. DH-Y2

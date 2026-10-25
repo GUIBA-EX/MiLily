@@ -18,7 +18,11 @@ XS structure predictions are recorded for all three concrete F variants in `resu
 python scripts/xs_thermodynamics.py --output /tmp/milily-xs-thermal.json
 ```
 
-## S–XL
+## 当前D / Current D
+
+解压[独立复现包](../results/D_optimization/reproduction_sources.zip)，运行 `python3 verify.py`，仅需Python标准库和C++17编译器。输出包含全部9对基线/候选的全序列复核及四目等权指标。/ Extract the frozen bundle and run `python3 verify.py`; only the Python standard library and C++17 are required. It reproduces all nine baseline/candidate pairs and four-order metrics.
+
+## S–XL原始基线 / Original S–XL baseline
 
 Extract `reproduction_sources.zip` into a clean directory. The original `work/milily/selected.json` freezes the 16 S–XL pairs; `work/milily_xs/assessment.json` freezes XS separately. Re-run the per-project `verify.py`, `summarize.py` and figure scripts for S–XL. The earlier `choose_joint.py` produces a search baseline, not the later retention decisions. / 复现包内S–XL冻结16对，XS另存；早期选配程序并不直接重现后续保留决策。
 
@@ -27,6 +31,7 @@ The expanded A/B search sources retain the multi-project workspace layout; use t
 ## Release checks / 发布检查
 
 ```sh
+python scripts/check_D.py
 python scripts/check_release.py
 python scripts/check_joint.py
 python scripts/check_ab.py

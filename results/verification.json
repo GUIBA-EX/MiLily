@@ -15,5 +15,7 @@
       "Python local target windows",
       "Python bit-parallel background scanner"
     ]
-  }
+  },
+  "current_D_evidence": "D_optimization/verification.json",
+  "scope": "Unchanged ordinary/A/B/XS evidence plus four independently verified D replacements"
 }

@@ -1,0 +1,26 @@
+{
+  "independent_directory": "/tmp/milily-d-reproduction",
+  "all_identical": true,
+  "checks": {
+    "verified_comparison.csv": {
+      "rows": 9,
+      "identical": true
+    },
+    "by_order.csv": {
+      "rows": 36,
+      "identical": true
+    },
+    "by_taxon.csv": {
+      "rows": 225,
+      "identical": true
+    },
+    "independent_checks.csv": {
+      "rows": 9,
+      "identical": true
+    },
+    "verified_base_templates.csv": {
+      "rows": 229,
+      "identical": true
+    }
+  }
+}

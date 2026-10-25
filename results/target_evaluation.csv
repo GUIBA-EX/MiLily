@@ -269,8 +269,8 @@ XS,AY275900.1,Caledonicrinus vaubani,True,True,False
 XS,AY275899.1,Bathycrinus sp. D1425,True,True,False
 XS,AY652521.1,Antedon bifida,True,True,True
 SD,AF049132.1,Florometra serratissima,True,True,True
-SD,AM404181.1,Antedon mediterranea,True,True,False
-SD,DQ068951.1,Neogymnocrinus richeri,True,False,False
+SD,AM404181.1,Antedon mediterranea,True,False,False
+SD,DQ068951.1,Neogymnocrinus richeri,True,True,True
 SD,DQ068952.1,Phanogenia gracilis,True,True,True
 SD,MF966246.1,Stephanometra indica,True,True,True
 SD,MN883538.1,Florometra sp. BMK-2020,True,True,True
@@ -282,19 +282,19 @@ SD,MW526391.2,Comaster schlegelii,True,True,False
 SD,MW526392.2,Comanthus parvicirrus,True,True,True
 SD,MW884542.1,Comanthus parvicirrus,True,True,True
 SD,NC_061054.1,Cenometra bella,True,True,True
-SD,NC_066490.1,Poliometra prolixa,True,True,False
+SD,NC_066490.1,Poliometra prolixa,True,True,True
 SD,NC_068252.1,Comatella stelligera,True,True,True
 SD,NC_068254.1,Comatella nigra,True,True,True
-SD,NC_068797.1,Metacrinus rotundus,True,False,False
+SD,NC_068797.1,Metacrinus rotundus,True,True,False
 SD,NC_069630.1,Tropiometra macrodiscus,True,True,False
 SD,NC_069919.1,Zygometra comata,True,True,True
 SD,OM272942.1,Comanthus sp. 2 MS-2014,True,True,True
-SD,OP546034.1,Capillaster sp. DH-Y2,True,True,False
+SD,OP546034.1,Capillaster sp. DH-Y2,True,False,False
 SD,OP546035.1,Ptilometra sp. DH-R,True,True,True
-SD,OQ207656.1,Thaumatocrinus sp. JL223,True,True,True
+SD,OQ207656.1,Thaumatocrinus sp. JL223,True,False,False
 SD,OQ721985.1,Hyocrinidae sp.,True,False,False
 SD,PV742399.1,Decametra tigrina,True,True,True
-SD,PZ343777.1,Cyllometra manca,True,True,True
+SD,PZ343777.1,Cyllometra manca,True,True,False
 SD,GU327907.1,Zygometra microdiscus,False,False,False
 SD,GU327906.1,Tropiometra afra,False,False,False
 SD,GU327905.1,Psathyrometra fragilis,False,False,False
@@ -338,16 +338,16 @@ SD,NC_060843.1,Comanthus parvicirrus,True,True,True
 SD,NC_059908.1,Anneissia intermedia,True,True,True
 SD,NC_054279.1,Anneissia pinguis,True,True,True
 SD,NC_045944.1,Stephanometra indica,True,True,True
-SD,NC_010692.1,Antedon mediterranea,True,True,False
+SD,NC_010692.1,Antedon mediterranea,True,False,False
 SD,NC_007690.1,Phanogenia gracilis,True,True,True
-SD,NC_007689.1,Neogymnocrinus richeri,True,False,False
+SD,NC_007689.1,Neogymnocrinus richeri,True,True,True
 SD,NC_001878.1,Florometra serratissima,True,True,True
 SD,ON381167.1,Tropiometra macrodiscus,True,True,False
 SD,ON585667.1,Zygometra comata,True,True,True
-SD,OM964491.1,Metacrinus rotundus,True,False,False
+SD,OM964491.1,Metacrinus rotundus,True,True,False
 SD,OM321037.1,Comatella nigra,True,True,True
 SD,OM313186.1,Comatella stelligera,True,True,True
-SD,OP177937.1,Poliometra prolixa,True,True,False
+SD,OP177937.1,Poliometra prolixa,True,True,True
 SD,OK509084.1,Cenometra bella,True,True,True
 SD,MW868294.1,Comaster schlegelii,True,True,False
 SD,KM014339.1,Lamberticrinus messingi,False,False,False
@@ -1082,7 +1082,7 @@ MD,DQ068952.1,Phanogenia gracilis,True,True,True
 MD,MF966246.1,Stephanometra indica,True,True,True
 MD,MN883538.1,Florometra sp. BMK-2020,True,True,True
 MD,MT302206.1,Florometra sp. BMK-2020,True,True,True
-MD,MW008594.1,Anneissia pinguis,True,True,False
+MD,MW008594.1,Anneissia pinguis,True,True,True
 MD,MW376476.1,Anneissia intermedia,True,True,True
 MD,MW405444.1,Oligometra serripinna,True,True,True
 MD,MW526391.2,Comaster schlegelii,True,True,True
@@ -1092,7 +1092,7 @@ MD,NC_061054.1,Cenometra bella,True,True,True
 MD,NC_066490.1,Poliometra prolixa,True,True,True
 MD,NC_068252.1,Comatella stelligera,True,True,True
 MD,NC_068254.1,Comatella nigra,True,True,True
-MD,NC_068797.1,Metacrinus rotundus,True,True,False
+MD,NC_068797.1,Metacrinus rotundus,True,True,True
 MD,NC_069630.1,Tropiometra macrodiscus,True,True,True
 MD,NC_069919.1,Zygometra comata,True,True,True
 MD,OM272942.1,Comanthus sp. 2 MS-2014,True,True,True
@@ -1143,7 +1143,7 @@ MD,GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,False,False,False
 MD,GU327869.1,Holopus rangii,False,False,False
 MD,NC_060843.1,Comanthus parvicirrus,True,True,True
 MD,NC_059908.1,Anneissia intermedia,True,True,True
-MD,NC_054279.1,Anneissia pinguis,True,True,False
+MD,NC_054279.1,Anneissia pinguis,True,True,True
 MD,NC_045944.1,Stephanometra indica,True,True,True
 MD,NC_010692.1,Antedon mediterranea,True,True,True
 MD,NC_007690.1,Phanogenia gracilis,True,True,True
@@ -1151,7 +1151,7 @@ MD,NC_007689.1,Neogymnocrinus richeri,True,True,False
 MD,NC_001878.1,Florometra serratissima,True,True,True
 MD,ON381167.1,Tropiometra macrodiscus,True,True,True
 MD,ON585667.1,Zygometra comata,True,True,True
-MD,OM964491.1,Metacrinus rotundus,True,True,False
+MD,OM964491.1,Metacrinus rotundus,True,True,True
 MD,OM321037.1,Comatella nigra,True,True,True
 MD,OM313186.1,Comatella stelligera,True,True,True
 MD,OP177937.1,Poliometra prolixa,True,True,True
@@ -1886,7 +1886,7 @@ LD,AF049132.1,Florometra serratissima,True,True,True
 LD,AM404181.1,Antedon mediterranea,True,True,False
 LD,DQ068951.1,Neogymnocrinus richeri,True,False,False
 LD,DQ068952.1,Phanogenia gracilis,True,True,True
-LD,MF966246.1,Stephanometra indica,True,True,False
+LD,MF966246.1,Stephanometra indica,True,True,True
 LD,MN883538.1,Florometra sp. BMK-2020,True,True,True
 LD,MT302206.1,Florometra sp. BMK-2020,True,True,False
 LD,MW008594.1,Anneissia pinguis,True,True,False
@@ -1897,11 +1897,11 @@ LD,MW526392.2,Comanthus parvicirrus,True,True,False
 LD,MW884542.1,Comanthus parvicirrus,True,True,False
 LD,NC_061054.1,Cenometra bella,True,True,True
 LD,NC_066490.1,Poliometra prolixa,True,True,True
-LD,NC_068252.1,Comatella stelligera,True,True,False
+LD,NC_068252.1,Comatella stelligera,True,True,True
 LD,NC_068254.1,Comatella nigra,True,True,True
-LD,NC_068797.1,Metacrinus rotundus,True,False,False
+LD,NC_068797.1,Metacrinus rotundus,True,True,False
 LD,NC_069630.1,Tropiometra macrodiscus,True,True,False
-LD,NC_069919.1,Zygometra comata,True,True,False
+LD,NC_069919.1,Zygometra comata,True,True,True
 LD,OM272942.1,Comanthus sp. 2 MS-2014,True,True,False
 LD,OP546034.1,Capillaster sp. DH-Y2,True,True,False
 LD,OP546035.1,Ptilometra sp. DH-R,True,True,True
@@ -1951,16 +1951,16 @@ LD,GU327869.1,Holopus rangii,False,False,False
 LD,NC_060843.1,Comanthus parvicirrus,True,True,False
 LD,NC_059908.1,Anneissia intermedia,True,True,False
 LD,NC_054279.1,Anneissia pinguis,True,True,False
-LD,NC_045944.1,Stephanometra indica,True,True,False
+LD,NC_045944.1,Stephanometra indica,True,True,True
 LD,NC_010692.1,Antedon mediterranea,True,True,False
 LD,NC_007690.1,Phanogenia gracilis,True,True,True
 LD,NC_007689.1,Neogymnocrinus richeri,True,False,False
 LD,NC_001878.1,Florometra serratissima,True,True,True
 LD,ON381167.1,Tropiometra macrodiscus,True,True,False
-LD,ON585667.1,Zygometra comata,True,True,False
-LD,OM964491.1,Metacrinus rotundus,True,False,False
+LD,ON585667.1,Zygometra comata,True,True,True
+LD,OM964491.1,Metacrinus rotundus,True,True,False
 LD,OM321037.1,Comatella nigra,True,True,True
-LD,OM313186.1,Comatella stelligera,True,True,False
+LD,OM313186.1,Comatella stelligera,True,True,True
 LD,OP177937.1,Poliometra prolixa,True,True,True
 LD,OK509084.1,Cenometra bella,True,True,True
 LD,MW868294.1,Comaster schlegelii,True,True,False
@@ -2707,7 +2707,7 @@ XLD,NC_066490.1,Poliometra prolixa,True,True,False
 XLD,NC_068252.1,Comatella stelligera,True,True,False
 XLD,NC_068254.1,Comatella nigra,True,True,False
 XLD,NC_068797.1,Metacrinus rotundus,True,True,True
-XLD,NC_069630.1,Tropiometra macrodiscus,True,True,False
+XLD,NC_069630.1,Tropiometra macrodiscus,True,True,True
 XLD,NC_069919.1,Zygometra comata,True,True,True
 XLD,OM272942.1,Comanthus sp. 2 MS-2014,True,True,True
 XLD,OP546034.1,Capillaster sp. DH-Y2,True,True,False
@@ -2763,7 +2763,7 @@ XLD,NC_010692.1,Antedon mediterranea,True,True,False
 XLD,NC_007690.1,Phanogenia gracilis,True,True,False
 XLD,NC_007689.1,Neogymnocrinus richeri,True,False,False
 XLD,NC_001878.1,Florometra serratissima,True,True,True
-XLD,ON381167.1,Tropiometra macrodiscus,True,True,False
+XLD,ON381167.1,Tropiometra macrodiscus,True,True,True
 XLD,ON585667.1,Zygometra comata,True,True,True
 XLD,OM964491.1,Metacrinus rotundus,True,True,True
 XLD,OM321037.1,Comatella nigra,True,True,False

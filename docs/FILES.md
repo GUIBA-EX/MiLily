@@ -19,3 +19,6 @@
 | [Length and degeneracy](../figures/performance_design.svg) | Full target-scan product ranges and F/R variants / 全目标扫描产物范围及F/R简并度 |
 | [Figure script](../scripts/plot_performance.py) | Rebuild SVG/PNG performance figures with Matplotlib / 复现性能图 |
 | [Method PDF](../publications/MiLily_Method_ResearchGate.pdf) | English Method document for ResearchGate / ResearchGate英文方法文档 |
+
+- [D优化 / D optimization](D_OPTIMIZATION.md): 当前筛选、目间指标、类群变化和复现入口。
+- [Taxonomic comparison](../results/taxonomic_comparison.csv): all current schemes, equal order weighting.

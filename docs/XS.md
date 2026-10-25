@@ -7,15 +7,17 @@ R：`CAACATCGAGGTCGCAAAC`（19 nt，普通引物）
 
 ## 同一数据与规则下的比较
 
+本节保留参考加权口径，当前主指标为[四目等权](D_OPTIMIZATION.md)。/ This section retains reference-weighted metrics; current primary scores balance four orders.
+
 评价面板为现有 MiLily 的 27 条参考、25 个分类标签；先按标签等权，再在标签内等权。覆盖：两端每条≤2个错配且各自末端3 nt兼容；完全匹配：两端均无错配，简并碱基按集合兼容计算。非目标数据库含7,177条非海百合参考记录。命中数是数据库记录数，不是实际扩增比例。
 
 | 方案 | F/R简并度 | 面板覆盖率 | 完全匹配率 | 预测产物bp | 严格非目标¹ | 完全匹配非目标 | 宽松非目标WC3² |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | MiLily-XS | 3/1 | 100.0% | 96.0% | 159–194 | 18 | 10 | 4196 |
-| MiLily-SD | 32/64 | 88.0% | 66.0% | 193–203 | 0 | 0 | 0 |
-| MiLily-MD | 16/8 | 100.0% | 84.0% | 245–256 | 6 | 0 | 16 |
-| MiLily-LD | 1/8 | 88.0% | 38.0% | 288–297 | 0 | 0 | 0 |
-| MiLily-XLD | 48/6 | 96.0% | 66.0% | 443–471 | 3 | 0 | 3 |
+| MiLily-SD | 128/128 | 84.0% | 66.0% | 193–203 | 0 | 0 | 4 |
+| MiLily-MD | 96/8 | 100.0% | 92.0% | 245–256 | 10 | 0 | 26 |
+| MiLily-LD | 32/8 | 92.0% | 50.0% | 288–297 | 0 | 0 | 0 |
+| MiLily-XLD | 72/6 | 96.0% | 70.0% | 443–471 | 3 | 0 | 8 |
 
 ¹ 严格非目标：同样要求两端各≤2错配、末端3 nt兼容。  
 ² WC3：两端各≤3错配，不强制末端3 nt兼容，用于保守筛查；大量候选存在末端错配，不能全当成必然扩增。
@@ -26,7 +28,7 @@ R：`CAACATCGAGGTCGCAAAC`（19 nt，普通引物）
 
 - **短**：面板内159–194 bp；在 Florometra serratissima（AF049132.1）参考上的跨度为179 bp，含引物。正向坐标1122–1138，反向结合区1282–1300（1-based、去gap参考）。
 - **匹配好**：27条参考均覆盖；25条完全匹配，对应按标签加权96%。未完全匹配的两条参考均标为 Comanthus parvicirrus，仍符合上述覆盖条件。
-- **组合简单**：仅一对、正向3变体、反向1变体。相比MiLily-SD的32/64，合成与浓度分配更容易控制。
+- **组合简单**：仅一对、正向3变体、反向1变体。相比MiLily-SD的128/128，合成与浓度分配更容易控制。
 - **当前观察到的分辨率可用**：相同25标签面板上，22个标签未出现与其他标签共享完全相同条码的情况（88%），与MiLily-MD同为22/25。该值只是库内观察，不代表未知物种的鉴定成功率。
 
 全269条目标记录的扫描另显示，这个位点覆盖的可用标签比当前MiLily位点多。不同记录有片段缺失，不能直接用全库命中数量比较位点优劣，因此主比较统一使用冻结面板。
@@ -80,4 +82,4 @@ Strict non-target matching (≤2 mismatches per primer, compatible final 3 nt) y
 
 Terminal rules and duplex-Tm compatibility pass. F variants predict internal two-base-pair hairpins with Tm 62.6–69.4°C, above the 55°C S–XL gate; their 3′ ends are outside the stem. At 57°C, predicted hairpin ΔG is approximately −0.35 to −0.65 kcal/mol. This is an experimental risk, not proof that PCR fails. XS is retained as a candidate, with explicit structure/background-gate flags. The remaining S–XL sequences and A/B coordinate rules continue to apply to their own four windows.
 
-XS is attractive for tissue barcoding and worth parallel testing with SD/MD for mixed marine eDNA. On the common panel, 22/25 labels lack observed shared barcodes, the same as MD. No new wet-lab validation is claimed. Independent local target predictions and Python bit-parallel background predictions agree with exhaustive C++ scanning (54 target decisions and two background sets for XS).
+XS is attractive for tissue barcoding and worth parallel testing with SD/MD for mixed marine eDNA. On the common panel, 22/25 labels lack observed shared barcodes, the same as the pre-optimization MD. No new wet-lab validation is claimed. Independent local target predictions and Python bit-parallel background predictions agree with exhaustive C++ scanning (54 target decisions and two background sets for XS).

@@ -1,0 +1,17 @@
+name,label,order,metric,change
+SD,Antedon mediterranea,Comatulida,coverage_hits,lost
+SD,Capillaster sp. DH-Y2,Comatulida,coverage_hits,lost
+SD,Cyllometra manca,Comatulida,exact_hits,lost
+SD,Metacrinus rotundus,Isocrinida,coverage_hits,gained
+SD,Neogymnocrinus richeri,Cyrtocrinida,coverage_hits,gained
+SD,Neogymnocrinus richeri,Cyrtocrinida,exact_hits,gained
+SD,Poliometra prolixa,Comatulida,exact_hits,gained
+SD,Thaumatocrinus sp. JL223,Comatulida,coverage_hits,lost
+SD,Thaumatocrinus sp. JL223,Comatulida,exact_hits,lost
+MD,Anneissia pinguis,Comatulida,exact_hits,gained
+MD,Metacrinus rotundus,Isocrinida,exact_hits,gained
+LD,Comatella stelligera,Comatulida,exact_hits,gained
+LD,Metacrinus rotundus,Isocrinida,coverage_hits,gained
+LD,Stephanometra indica,Comatulida,exact_hits,gained
+LD,Zygometra comata,Comatulida,exact_hits,gained
+XLD,Tropiometra macrodiscus,Comatulida,exact_hits,gained

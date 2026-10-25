@@ -1,7 +1,7 @@
 # MiLily, a set of universal PCR primers for metabarcoding environmental DNA from **sea lily**
 
 [English](README.md)
-[下载英文 Method PDF](publications/MiLily_Method_ResearchGate.pdf)
+[下载优化前英文 Method PDF（历史快照）](publications/MiLily_Method_ResearchGate.pdf)
 
 
 ![MiLily介绍图：XS、S、M、L、XL](figures/MiLily_overview_current.png)
@@ -10,7 +10,7 @@
 
 ## 摘要 / Abstract
 
-MiLily是一套面向海百合类环境DNA宏条形码分析的16S rRNA候选引物，包含XS、S、M、L和XL五个长度窗口。我们在27条参考、25个分类标签的共同面板上评价目标匹配，并以7,177条非目标参考筛查交叉匹配。XS为低简并单对，预测产物159–194 bp，覆盖率100%，完全匹配率96%；MD覆盖率同为100%，完全匹配率84%。XS同时存在18条严格条件下的非目标命中，其中10条海胆参考完全匹配。S–XL提供同坐标普通、互补A/B及简并D方案。XS侧重短片段与低简并，MD兼顾共同面板覆盖和较少的非目标命中，为不同样本条件提供可比较的方案。
+MiLily是一套海百合类16S rRNA环境DNA候选引物，包含XS、S、M、L、XL五个窗口。主评价对四目等权，使用27条参考、25个分类标签及7,177条非目标记录。新SD、MD、LD、XLD的目间覆盖率分别为71.59%、100%、50%、75%，完全匹配率分别为43.18%、50%、14.77%、68.18%。四个D方案均为单对，并与各长度普通/A/B共享起止坐标。XS保留固定短片段方案；其非目标命中和结构预测单独报告。
 
 ## 引言 / Introduction
 
@@ -28,7 +28,7 @@ MiFish通过在保守区设置引物、扩增其间的短变异区，并以MiFis
 
 ### 参考数据与评价指标
 
-参考坐标采用AF049132.1提取的无gap 16S序列，按1起算。该参考来自*Florometra serratissima*；其完整线粒体基因组及基因排列由Scouras与Smith报道。[Scouras & Smith, 2001](https://doi.org/10.1093/oxfordjournals.molbev.a003720) 目标FASTA含269条记录；主比较采用27条参考、25个分类标签的冻结共同面板，先按标签等权，再在标签内等权，避免不同窗口的部分序列可用性影响比较。
+参考坐标采用AF049132.1提取的无gap 16S序列，按1起算。该参考来自*Florometra serratissima*；其完整线粒体基因组及基因排列由Scouras与Smith报道。[Scouras & Smith, 2001](https://doi.org/10.1093/oxfordjournals.molbev.a003720) 目标FASTA含269条记录；主比较采用冻结共同面板，按目间等权评价；旧标签内参考加权值保留为次要指标。
 
 覆盖要求两条引物各≤2个错配且各自末端3 nt满足IUPAC兼容；完全匹配要求两端均无错配。非目标库含7,177条记录。WC3、GT2、WC4分别统计每条≤3错配、允许G–T配对每条≤2错配、每条≤4错配的成对命中；这些宽松模型不强制末端3 nt兼容。严格非目标匹配另采用目标覆盖标准。非目标命中以参考记录数报告。
 
@@ -36,7 +36,7 @@ MiFish通过在保守区设置引物、扩增其间的短变异区，并以MiFis
 
 S–XL每个长度的普通、A、B、D共享正反向起止坐标。优先单对；A/B表示分别PCR后取并集，保留时要求双方均有独有覆盖或完全匹配贡献。D只保留单对。XS按给定序列独立评价。
 
-末端检查要求无末端三连、末端3 nt至少一个GC、末端5 nt含1–4个GC、连续同聚物不超过4；允许3′简并。双链、发卡和二聚体热力学使用Primer3计算。[Untergasser et al., 2012](https://doi.org/10.1093/nar/gks596) 参数采用50 mM单价盐、1.5 mM Mg²⁺、0.6 mM dNTP，分别检查每变体50 nM及每方向总量200 nM。S–XL要求结构Tm<55°C，F/R双链Tm范围中点差≤5°C。SD/MD的WC3及GT2门槛各20条，其余S–XL方案各5条。XS作为固定序列方案单独评价。
+末端检查要求无末端三连、末端3 nt至少一个GC、末端5 nt含1–4个GC、连续同聚物不超过4；允许3′简并。双链、发卡和二聚体热力学使用Primer3计算。[Untergasser et al., 2012](https://doi.org/10.1093/nar/gks596) 参数采用50 mM单价盐、1.5 mM Mg²⁺、0.6 mM dNTP，分别检查每变体50 nM及每方向总量200 nM。S–XL要求结构Tm<55°C，F/R双链Tm范围中点差≤5°C。本轮D的WC3/GT2各≤100条、严格WC/GT各≤20条，每方向简并度≤128；普通/A/B保留原有门槛。XS作为固定序列方案单独评价。
 
 全序列双链扫描检查成对方向及距离，并以独立算法复核。完整参数和复现入口见[方法](docs/METHODS.zh-CN.md)与[复现说明](docs/REPRODUCIBILITY.zh-CN.md)。
 
@@ -46,19 +46,41 @@ S–XL每个长度的普通、A、B、D共享正反向起止坐标。优先单�
 
 ![Binding positions](figures/binding_positions.svg)
 
+主指标按四目等权：每目先计算有至少一条参考命中的分类标签比例，再取均值。共同面板27条参考、25个标签，Comatulida 22个，其余三目各1个；不是完整物种名录。完全匹配采用同一层级。
+
+| Scheme | Order coverage % | Order exact % | WC≤3 | GT≤2 |
+|---|---:|---:|---:|---:|
+| XS | 100.00 | 98.86 | 4196 | 3889 |
+| SD | 71.59 | 43.18 | 4 | 7 |
+| S | 19.32 | 7.95 | 0 | 0 |
+| SA+SB | 19.32 | 13.64 | 0 | 0 |
+| MD | 100.00 | 50.00 | 26 | 23 |
+| M | 48.86 | 0.00 | 4 | 1 |
+| MA+MB | 48.86 | 5.68 | 4 | 0 |
+| LD | 50.00 | 14.77 | 0 | 0 |
+| L | 25.00 | 9.09 | 0 | 0 |
+| LA+LB | 25.00 | 13.64 | 0 | 0 |
+| XLD | 75.00 | 68.18 | 8 | 3 |
+| XL | 67.05 | 2.27 | 0 | 0 |
+| XLA+XLB | 69.32 | 5.68 | 0 | 0 |
+
+[D优化与类群增减 / D optimization and label changes](docs/D_OPTIMIZATION.md)
+
+以下为旧口径的标签内参考加权指标，仅作次要比较。
+
 | Scheme | Coverage % | Exact % | WC≤3 | GT≤2 | WC≤4 |
 |---|---:|---:|---:|---:|---:|
 | XS | 100.00 | 96.00 | 4196 | 3889 | 4405 |
-| SD | 88.00 | 66.00 | 0 | 12 | 15 |
+| SD | 84.00 | 66.00 | 4 | 7 | 151 |
 | S | 66.00 | 28.00 | 0 | 0 | 0 |
 | SA+SB | 66.00 | 46.00 | 0 | 0 | 0 |
-| MD | 100.00 | 84.00 | 16 | 14 | 29 |
+| MD | 100.00 | 92.00 | 26 | 23 | 47 |
 | M | 88.00 | 0.00 | 4 | 1 | 11 |
 | MA+MB | 88.00 | 20.00 | 4 | 0 | 14 |
-| LD | 88.00 | 38.00 | 0 | 0 | 0 |
+| LD | 92.00 | 50.00 | 0 | 0 | 0 |
 | L | 88.00 | 30.00 | 0 | 0 | 0 |
 | LA+LB | 88.00 | 46.00 | 0 | 0 | 0 |
-| XLD | 96.00 | 66.00 | 3 | 3 | 121 |
+| XLD | 96.00 | 70.00 | 8 | 3 | 163 |
 | XL | 68.00 | 8.00 | 0 | 0 | 6 |
 | XLA+XLB | 76.00 | 18.00 | 0 | 0 | 6 |
 
@@ -70,7 +92,7 @@ S–XL每个长度的普通、A、B、D共享正反向起止坐标。优先单�
 
 ![图1：目标覆盖率与完全匹配率](figures/performance_matching.svg)
 
-**图1｜目标匹配。** 浅色条为覆盖率，深色条为完全匹配率；右侧标注依次为两项百分比。全部方案使用同一27条参考、25个分类标签面板，按标签等权计算。A/B表示分别PCR后取并集。
+**图1｜目标匹配。** 浅色条为覆盖率，深色条为完全匹配率；右侧标注依次为两项百分比。全部方案使用同一27条参考、25个标签面板，按四目等权计算。A/B表示分别PCR后取并集。
 
 ![图2：非目标匹配](figures/performance_background.svg)
 
@@ -82,7 +104,7 @@ S–XL每个长度的普通、A、B、D共享正反向起止坐标。优先单�
 
 ### XS
 
-XS保留为短片段实验候选：一对引物，F/R简并度3/1，全目标参考扫描的预测产物159–194 bp（共同面板为178–194 bp）；在参考AF049132.1上的含引物跨度179 bp。F中的D=A/G/T，名称使用XS。
+XS保留为短片段实验候选（本节原始评价使用参考加权口径）：一对引物，F/R简并度3/1，全目标参考扫描的预测产物159–194 bp（共同面板为178–194 bp）；在参考AF049132.1上的含引物跨度179 bp。F中的D=A/G/T，名称使用XS。
 
 | Name | F (5′→3′) | R (5′→3′) |
 |---|---|---|
@@ -98,7 +120,7 @@ XS末端规则通过，双链Tm配对合适；F三个变体预测内部短发卡
 
 | Name | F (5′→3′) | R (5′→3′) |
 |---|---|---|
-| SD | `GATCTAMTGAWRYYCCAA` | `TRTCCCTTTTRGYYTWGY` |
+| SD | `GATCTAMTRMWAYYCCRA` | `TRTCCCTKTTRRTYTWRC` |
 | S | `GATCTAATGAAACCCCAA` | `TATCCCTTTTGGTTTAGC` |
 | SA | `GATCTAATGAAACCCCAA` | `TATCCCTTTTGGTTTAGC` |
 | SB | `GATCTAATGAAACCCCAA` | `TGTCCCTTTTGGTTTAGC` |
@@ -115,7 +137,7 @@ XS末端规则通过，双链Tm配对合适；F三个变体预测内部短发卡
 
 | Name | F (5′→3′) | R (5′→3′) |
 |---|---|---|
-| MD | `TTACTGTTRCAAAAGTAAAYWAAGAR` | `GRCTGCTTYTRGGCCTAC` |
+| MD | `TYACTGTTDCAAAAGTRAAYWAAGAR` | `GRCTGCTTYTRGGCCTAC` |
 | M | `TTACTGTTGCAAAAGTAAACTAAGAG` | `GGCTGTTTCTAGGCCTAC` |
 | MA | `TTACTGTTACAAAAGTAAACTAAGAG` | `GGCTGCTTCTAGGCCTAC` |
 | MB | `TTACTGTTGCAAAAGTAAACTAAGAG` | `GACTGCTTCTAGGCCTAC` |
@@ -132,7 +154,7 @@ XS末端规则通过，双链Tm配对合适；F三个变体预测内部短发卡
 
 | Name | F (5′→3′) | R (5′→3′) |
 |---|---|---|
-| LD | `CAAGAGATCTAATGAAACCCCA` | `GRCTGCTTYTRGGCCTAC` |
+| LD | `YARGAGATCTAATGAWAYYCCA` | `GRCTGCTTYTRGGCCTAC` |
 | L | `CAAGAGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` |
 | LA | `CAAGAGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` |
 | LB | `CAAGGGATCTAATGAAACCCCA` | `GGCTGCTTCTAGGCCTAC` |
@@ -149,7 +171,7 @@ XS末端规则通过，双链Tm配对合适；F三个变体预测内部短发卡
 
 | Name | F (5′→3′) | R (5′→3′) |
 |---|---|---|
-| XLD | `AGGCAAVACGARRRCTYAACTG` | `GACTYDCGTCGGTCTGAA` |
+| XLD | `AGGCAAVACGARRRCTHAACTG` | `GACTYDCGTCGGTCTGAA` |
 | XL | `AGGCAAGACGAAAGCTTAACTG` | `GACTTGCGTCGGTCTGAA` |
 | XLA | `AGGCAACACGAAAACTTAACTG` | `GACTTGCGTCGGTCTGAA` |
 | XLB | `AGGCAAGACGAAAGCTTAACTG` | `GACTTGCGTCGGTCTGAA` |
@@ -164,11 +186,11 @@ XS末端规则通过，双链Tm配对合适；F三个变体预测内部短发卡
 
 ## 讨论 / Discussion
 
-XS以3/1的F/R简并度获得100%覆盖率和96%完全匹配率，适合优先开展短片段扩增试验。MD同样覆盖全部共同面板，宽松非目标命中较少。两者提供不同取舍：XS侧重短片段和低简并，MD侧重目标覆盖与背景区分。XS的18条严格非目标命中中，10条海胆记录与整对引物完全匹配，且预测产物长度与海百合重叠，适合在混合样中重点考察海胆DNA的竞争扩增。
+XS以3/1的F/R简并度获得100%目间覆盖率和98.86%目间完全匹配率，适合优先开展短片段扩增试验。MD同样覆盖全部共同面板，宽松非目标命中较少。两者提供不同取舍：XS侧重短片段和低简并，MD侧重目标覆盖与背景区分。XS的18条严格非目标命中中，10条海胆记录与整对引物完全匹配，且预测产物长度与海百合重叠，适合在混合样中重点考察海胆DNA的竞争扩增。
 
 MiFish通过补充结合位点变体提高特定类群的检测范围，这一思路也适用于MiLily的互补组合。[Miya et al., 2015](https://doi.org/10.1098/rsos.150088) 本项目的S、M、L双对主要增加完全匹配，XL双对同时增加覆盖；组合选择依据双方的独有贡献。普通、A、B、D保持相同坐标，使同窗口的比较集中于结合位点序列差异。
 
-XS在共同面板上有22/25个分类标签未观察到共享条码（88%），与MD相同。短标记的区分能力取决于窗口所含的变异，因此应联合考虑长度与条码信息，而非仅按片段长短排序。[Boyer et al., 2012](https://doi.org/10.1371/journal.pone.0038215) 当前结果来自共同参考面板的计算评价；后续将以组织DNA、已知组成混合样及环境样本比较扩增效率与检出组成。混合样实验尤其需要控制输入量：已有宏条形码实验发现，相近生物量的不同类群仍可产生显著不同的读数。[Elbrecht & Leese, 2015](https://doi.org/10.1371/journal.pone.0130324)
+XS在共同面板上有22/25个分类标签未观察到共享条码（88%），与优化前MD相同。短标记的区分能力取决于窗口所含的变异，因此应联合考虑长度与条码信息，而非仅按片段长短排序。[Boyer et al., 2012](https://doi.org/10.1371/journal.pone.0038215) 当前结果来自共同参考面板的计算评价；后续将以组织DNA、已知组成混合样及环境样本比较扩增效率与检出组成。混合样实验尤其需要控制输入量：已有宏条形码实验发现，相近生物量的不同类群仍可产生显著不同的读数。[Elbrecht & Leese, 2015](https://doi.org/10.1371/journal.pone.0130324)
 
 海百合参考库的扩展应同时考虑谱系代表性与名称核对。Comatulidae的整合分类研究观察到，外形差异与COI分化程度之间并非固定对应关系。[Summers et al., 2017](https://doi.org/10.11646/zootaxa.4268.2.1) 据此，MiLily后续应优先补充有凭证标本、形态鉴定及可追溯序列的参考，并结合系统基因组框架安排主要谱系的验证样本。[Rouse et al., 2026](https://doi.org/10.1098/rsos.251924)
 
