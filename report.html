@@ -178,25 +178,22 @@
 <p><img src="figures/MiLily_overview_current.png" alt="MiLily" /></p>
 <h1 id="milily">MiLily</h1>
 <p><a href="README.md">English</a></p>
-<p>MiLily 是面向海百合类环境 DNA 的线粒体 16S rRNA 候选引物，覆盖
-XS、S、M、L、XL
-五个长度。每个长度保留最新筛选的单对候选；同一长度的正反向引物使用相同参考坐标。
-主要指标按<strong>可评价物种等权</strong>：每个物种选一条参考序列，计算预测覆盖与完全匹配比例。参考面板包含
-128 个具名物种；数据库中的物种数量不能代表各目的全球丰富度。 海百合 S–XL
-各有 19 个物种可评价，其余 109 个缺少对应结合区域；XS
-保持原序列并单独评价。</p>
+<p>线粒体 16S rRNA 环境 DNA 候选引物，包含 XS、S、M、L、XL。S–XL
+各保留普通单对及简并单对 D，同长度共享参考坐标；XS 为固定单对。
+每个物种保留一条参考序列；主指标对可评价物种等权，各目单列。
+海百合参考面板为 128 个物种，但 S–XL 只有 19 个物种可评价；XS
+保持原序列并独立评价。</p>
 <p><a href="results/species_qc/panel.csv">参考面板 / Reference panel</a>
-· <a href="results/species_refine/by_order.csv">分类与覆盖 / Coverage by
-order</a> · <a href="results/species_qc/README.md">参考序列审核 /
-Reference curation</a></p>
+· <a href="results/species_qc/README.md">参考序列审核 / Reference
+curation</a></p>
 <p><img src="figures/binding_positions.svg"
 alt="Binding positions" /></p>
-<h2 id="当前表现">当前表现</h2>
+<h2 id="预测表现">预测表现</h2>
 <table>
 <thead>
 <tr>
-<th>Candidate</th>
-<th style="text-align: right;">Species coverage</th>
+<th>Name</th>
+<th style="text-align: right;">Coverage</th>
 <th style="text-align: right;">Exact</th>
 <th style="text-align: right;">Strict WC / GT</th>
 <th style="text-align: right;">WC≤3 / GT≤2</th>
@@ -204,42 +201,56 @@ alt="Binding positions" /></p>
 </thead>
 <tbody>
 <tr>
-<td>S-R20-coverage</td>
-<td style="text-align: right;">18/19 (94.74%)</td>
-<td style="text-align: right;">0/19 (0.00%)</td>
+<td>S</td>
+<td style="text-align: right;">14/19 (73.68%)</td>
+<td style="text-align: right;">6/19 (31.58%)</td>
 <td style="text-align: right;">0 / 0</td>
 <td style="text-align: right;">0 / 0</td>
 </tr>
 <tr>
-<td>S-R20-exact</td>
+<td>SD</td>
 <td style="text-align: right;">17/19 (89.47%)</td>
 <td style="text-align: right;">10/19 (52.63%)</td>
 <td style="text-align: right;">0 / 5</td>
 <td style="text-align: right;">0 / 10</td>
 </tr>
 <tr>
-<td>M-R20-coverage</td>
+<td>M</td>
+<td style="text-align: right;">17/19 (89.47%)</td>
+<td style="text-align: right;">0/19 (0.00%)</td>
+<td style="text-align: right;">0 / 1</td>
+<td style="text-align: right;">4 / 1</td>
+</tr>
+<tr>
+<td>MD</td>
 <td style="text-align: right;">19/19 (100.00%)</td>
 <td style="text-align: right;">7/19 (36.84%)</td>
 <td style="text-align: right;">2 / 9</td>
 <td style="text-align: right;">13 / 10</td>
 </tr>
 <tr>
-<td>L-R20-coverage</td>
-<td style="text-align: right;">18/19 (94.74%)</td>
+<td>L</td>
+<td style="text-align: right;">17/19 (89.47%)</td>
 <td style="text-align: right;">6/19 (31.58%)</td>
 <td style="text-align: right;">0 / 0</td>
 <td style="text-align: right;">0 / 0</td>
 </tr>
 <tr>
-<td>L-R20-exact</td>
+<td>LD</td>
 <td style="text-align: right;">17/19 (89.47%)</td>
 <td style="text-align: right;">8/19 (42.11%)</td>
 <td style="text-align: right;">0 / 0</td>
 <td style="text-align: right;">0 / 0</td>
 </tr>
 <tr>
-<td>XL-R20-coverage</td>
+<td>XL</td>
+<td style="text-align: right;">12/19 (63.16%)</td>
+<td style="text-align: right;">0/19 (0.00%)</td>
+<td style="text-align: right;">0 / 0</td>
+<td style="text-align: right;">0 / 0</td>
+</tr>
+<tr>
+<td>XLD</td>
 <td style="text-align: right;">18/19 (94.74%)</td>
 <td style="text-align: right;">2/19 (10.53%)</td>
 <td style="text-align: right;">0 / 3</td>
@@ -247,19 +258,14 @@ alt="Binding positions" /></p>
 </tr>
 </tbody>
 </table>
-<p>预测覆盖要求每条引物最多 2 个错配且末端 3
-个碱基兼容；完全匹配要求两条引物均无错配。严格 WC/GT
-为上述规则下的非目标记录数；WC≤3 和 GT≤2
-是不施加末端约束的宽松筛查。</p>
-<h2 id="筛选与取舍">筛选与取舍</h2>
-<p>新版候选每条引物简并度不超过 8，简并位点限于 3′
-半段；覆盖优先和完全匹配优先候选分别保留。指标为计算预测，需通过实验验证。</p>
-<p>XS 为给定的原序列，其结构与非目标结果见 <a
-href="results/xs/assessment.json">XS 评估</a>，不与本轮 S–XL
-的筛选结果混为一谈。</p>
-<p><a href="results/species_refine/README.md">筛选结果与复核 / Screening
-and verification</a> · <a href="sequences/primer_pairs.csv">引物序列 /
-Primer sequences</a></p>
+<p>覆盖要求每条引物最多 2 个错配且末端 3 nt
+兼容；完全匹配要求两条引物均无错配。严格 WC/GT 含末端约束；WC≤3 / GT≤2
+为宽松非目标筛查。</p>
+<p>D 引物每条最多 8 个具体变体，简并位点限于 3′ 半段。XS
+是固定命名的特殊单对。计算预测仍需实验验证。</p>
+<p>SD 在当前 19 个可评价物种中覆盖全部 17 个 Comatulida，但未覆盖
+Cyrtocrinida 和 Isocrinida 的代表。XS 的结构与非目标评估见 <a
+href="results/xs/assessment.json">XS 评估</a>。</p>
 <h2 id="xs">XS</h2>
 <table>
 <thead>
@@ -278,6 +284,7 @@ Primer sequences</a></p>
 </tbody>
 </table>
 <p><img src="figures/base_matching_XS.svg" alt="XS base matching" /></p>
+<p>XS 图沿用其原参考面板。</p>
 <h2 id="s">S</h2>
 <table>
 <thead>
@@ -289,21 +296,25 @@ Primer sequences</a></p>
 </thead>
 <tbody>
 <tr>
-<td>S-R20-coverage</td>
-<td><code>GATCTAATGCWAYCCCRA</code></td>
-<td><code>TATCCCTTTTGGTCTWRC</code></td>
+<td>S</td>
+<td><code>GATCTAATGAAACCCCAA</code></td>
+<td><code>TATCCCTTTTGGTTTAGC</code></td>
 </tr>
 <tr>
-<td>S-R20-exact</td>
+<td>SD</td>
 <td><code>GATCTAATGAARYYCCAA</code></td>
 <td><code>TATCCCTTTTRGTTTWGY</code></td>
 </tr>
 </tbody>
 </table>
-<p><img src="results/species_refine/S/base_matching_S-R20-coverage.svg"
-alt="S-R20-coverage base matching" /></p>
-<p><img src="results/species_refine/S/base_matching_S-R20-exact.svg"
-alt="S-R20-exact base matching" /></p>
+<p><img src="results/current_primers/S/base_matching_S.svg"
+alt="S base matching" /></p>
+<p><img src="results/current_primers/S/base_matching_SD.svg"
+alt="SD base matching" /></p>
+<p><a href="results/current_primers/S/S_by_order.csv">S · 各目</a> · <a
+href="results/current_primers/S/S_by_taxon.csv">各物种</a></p>
+<p><a href="results/current_primers/S/SD_by_order.csv">SD · 各目</a> ·
+<a href="results/current_primers/S/SD_by_taxon.csv">各物种</a></p>
 <h2 id="m">M</h2>
 <table>
 <thead>
@@ -315,14 +326,25 @@ alt="S-R20-exact base matching" /></p>
 </thead>
 <tbody>
 <tr>
-<td>M-R20-coverage</td>
+<td>M</td>
+<td><code>TTACTGTTGCAAAAGTAAACTAAGAG</code></td>
+<td><code>GGCTGTTTCTAGGCCTAC</code></td>
+</tr>
+<tr>
+<td>MD</td>
 <td><code>TTACTGTTGCAAAAGTAAAYWAAGAR</code></td>
 <td><code>GGCTGCTTCTAGGCCTAC</code></td>
 </tr>
 </tbody>
 </table>
-<p><img src="results/species_refine/M/base_matching_M-R20-coverage.svg"
-alt="M-R20-coverage base matching" /></p>
+<p><img src="results/current_primers/M/base_matching_M.svg"
+alt="M base matching" /></p>
+<p><img src="results/current_primers/M/base_matching_MD.svg"
+alt="MD base matching" /></p>
+<p><a href="results/current_primers/M/M_by_order.csv">M · 各目</a> · <a
+href="results/current_primers/M/M_by_taxon.csv">各物种</a></p>
+<p><a href="results/current_primers/M/MD_by_order.csv">MD · 各目</a> ·
+<a href="results/current_primers/M/MD_by_taxon.csv">各物种</a></p>
 <h2 id="l">L</h2>
 <table>
 <thead>
@@ -334,21 +356,25 @@ alt="M-R20-coverage base matching" /></p>
 </thead>
 <tbody>
 <tr>
-<td>L-R20-coverage</td>
-<td><code>CAAGAGATCTAWTGWWACCCCA</code></td>
+<td>L</td>
+<td><code>CAAGAGATCTAATGAAACCCCA</code></td>
 <td><code>GGCTGCTTCTAGGCCTAC</code></td>
 </tr>
 <tr>
-<td>L-R20-exact</td>
+<td>LD</td>
 <td><code>CAAGAGATCTAATGAARMCCCA</code></td>
 <td><code>GGCTGCTTCTAGGCCTAC</code></td>
 </tr>
 </tbody>
 </table>
-<p><img src="results/species_refine/L/base_matching_L-R20-coverage.svg"
-alt="L-R20-coverage base matching" /></p>
-<p><img src="results/species_refine/L/base_matching_L-R20-exact.svg"
-alt="L-R20-exact base matching" /></p>
+<p><img src="results/current_primers/L/base_matching_L.svg"
+alt="L base matching" /></p>
+<p><img src="results/current_primers/L/base_matching_LD.svg"
+alt="LD base matching" /></p>
+<p><a href="results/current_primers/L/L_by_order.csv">L · 各目</a> · <a
+href="results/current_primers/L/L_by_taxon.csv">各物种</a></p>
+<p><a href="results/current_primers/L/LD_by_order.csv">LD · 各目</a> ·
+<a href="results/current_primers/L/LD_by_taxon.csv">各物种</a></p>
 <h2 id="xl">XL</h2>
 <table>
 <thead>
@@ -360,18 +386,27 @@ alt="L-R20-exact base matching" /></p>
 </thead>
 <tbody>
 <tr>
-<td>XL-R20-coverage</td>
+<td>XL</td>
+<td><code>AGGCAAGACGAAAGCTTAACTG</code></td>
+<td><code>GACTTGCGTCGGTCTGAA</code></td>
+</tr>
+<tr>
+<td>XLD</td>
 <td><code>AGGCAAGACGAARRYTTAACTG</code></td>
 <td><code>GACTTACGTCGGTCTGAA</code></td>
 </tr>
 </tbody>
 </table>
-<p><img
-src="results/species_refine/XL/base_matching_XL-R20-coverage.svg"
-alt="XL-R20-coverage base matching" /></p>
-<h2 id="方法与数据">方法与数据</h2>
-<p><a href="results/species_qc/README.md">参考数据及物种去重</a> · <a
-href="results/species_refine/comparison.csv">筛选比较</a> · <a
-href="COPYRIGHT.md">著作权声明</a></p>
+<p><img src="results/current_primers/XL/base_matching_XL.svg"
+alt="XL base matching" /></p>
+<p><img src="results/current_primers/XL/base_matching_XLD.svg"
+alt="XLD base matching" /></p>
+<p><a href="results/current_primers/XL/XL_by_order.csv">XL · 各目</a> ·
+<a href="results/current_primers/XL/XL_by_taxon.csv">各物种</a></p>
+<p><a href="results/current_primers/XL/XLD_by_order.csv">XLD · 各目</a>
+· <a href="results/current_primers/XL/XLD_by_taxon.csv">各物种</a></p>
+<p><a href="docs/METHODS.zh-CN.md">Methods / 方法</a></p>
+<p><a href="docs/VALIDATION.md">Validation / 验证</a> · <a
+href="COPYRIGHT.md">Copyright / 著作权</a></p>
 </body>
 </html>

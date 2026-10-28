@@ -1,7 +1,0 @@
-region,name,mode,background_gate,evaluable,covered,coverage_pct,exact,exact_pct,degeneracy_F,degeneracy_R,strict_WC,strict_GT,WC3,GT2,gained,lost,prediction_coverage_delta_pp,prediction_exact_delta_pp
-S,S-R20-coverage,coverage,20,19,18,94.74,0,0.0,8,4,0,0,0,0,0,0,0.0,0.0
-S,S-R20-exact,exact,20,19,17,89.47,10,52.63,8,8,0,5,0,10,1,2,0.0,-3.552713678800501e-15
-M,M-R20-coverage,coverage,20,19,19,100.0,7,36.84,8,1,2,9,13,10,0,0,0.0,1.7763568394002505e-15
-L,L-R20-coverage,coverage,20,19,18,94.74,6,31.58,8,1,0,0,0,0,0,0,0.0,0.0
-L,L-R20-exact,exact,20,19,17,89.47,8,42.11,4,1,0,0,0,0,0,1,0.0,1.7763568394002505e-15
-XL,XL-R20-coverage,coverage,20,19,18,94.74,2,10.53,8,1,0,3,4,3,0,0,0.0,4.440892098500626e-16

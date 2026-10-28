@@ -1,0 +1,20 @@
+name,taxon_label,order,reference_count,coverage_hits,exact_hits,coverage_state
+L,Anneissia intermedia,Comatulida,1,1,0,full
+L,Anneissia pinguis,Comatulida,1,1,0,full
+L,Antedon mediterranea,Comatulida,1,1,0,full
+L,Cenometra bella,Comatulida,1,1,1,full
+L,Comanthus parvicirrus,Comatulida,1,1,0,full
+L,Comaster schlegelii,Comatulida,1,1,0,full
+L,Comatella nigra,Comatulida,1,1,1,full
+L,Comatella stelligera,Comatulida,1,1,0,full
+L,Cyllometra manca,Comatulida,1,1,0,full
+L,Decametra tigrina,Comatulida,1,1,1,full
+L,Florometra serratissima,Comatulida,1,1,1,full
+L,Metacrinus rotundus,Isocrinida,1,0,0,none
+L,Neogymnocrinus richeri,Cyrtocrinida,1,0,0,none
+L,Oligometra serripinna,Comatulida,1,1,1,full
+L,Phanogenia gracilis,Comatulida,1,1,0,full
+L,Poliometra prolixa,Comatulida,1,1,1,full
+L,Stephanometra indica,Comatulida,1,1,0,full
+L,Tropiometra macrodiscus,Comatulida,1,1,0,full
+L,Zygometra comata,Comatulida,1,1,0,full
