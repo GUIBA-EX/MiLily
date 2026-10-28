@@ -1,53 +1,29 @@
 from pathlib import Path
-import csv,json,re,hashlib,itertools,math,zipfile,collections
+import csv,json,math,re
 p=Path(__file__).resolve().parents[1]
-def rows(f):return list(csv.DictReader((p/f).open()))
-I=dict(A='A',C='C',G='G',T='T',R='AG',Y='CT',S='CG',W='AT',K='GT',M='AC',B='CGT',D='AGT',H='ACT',V='ACG',N='ACGT')
-a=rows('sequences/primer_pairs.csv');assert len(a)==17 and len({x['scheme'] for x in a})==13
-fa={};key=None
+def read(f):
+ with f.open() as h:return list(csv.DictReader(h))
+rows=read(p/'sequences/primer_pairs.csv'); names=[x['name'] for x in rows]
+assert len(names)==len(set(names)) and not any(re.fullmatch(r'(?:S|M|L|XL)[AB]',x) for x in names)
+I={'A':'A','C':'C','G':'G','T':'T','R':'AG','Y':'CT','S':'CG','W':'AT','K':'GT','M':'AC','B':'CGT','D':'AGT','H':'ACT','V':'ACG','N':'ACGT'}
+fa={}
 for line in (p/'sequences/primers.fasta').read_text().splitlines():
- if line.startswith('>'):key=line[1:];fa[key]=''
- else:fa[key]+=line
-assert len(fa)==34
-for r in a:
- for side in ['F','R']:
-  q=r[side];assert fa[f"MiLily-{r['name']}_{side}"]==q;assert math.prod(len(I[c]) for c in q)==int(r['degeneracy_'+side])
-  for s in map(''.join,itertools.product(*(I[c] for c in q))):assert len(set(s[-3:]))>1 and any(c in 'GC' for c in s[-3:]) and 1<=sum(c in 'GC' for c in s[-5:])<=4 and not any(c*5 in s for c in 'ACGT')
-for r in rows('results/thermal.csv'):
- if r['name']=='XS':
-  assert float(r['structure_max'])>55
-  assessment=json.loads((p/'results/xs/assessment.json').read_text());assert assessment['thermal_gate_pass'] is False and assessment['background_gate_pass'] is False
- else:assert float(r['structure_max'])<55
- assert abs((float(r['F_tm_min'])+float(r['F_tm_max'])-float(r['R_tm_min'])-float(r['R_tm_max']))/2)<=5
-v=json.loads((p/'results/verification.json').read_text());assert v['checks']==918 and v['disagreements']==0 and v['background_checks']==34 and v['background_disagreements']==0
-hits=collections.defaultdict(set)
-for r in csv.DictReader((p/'results/independent_hits.tsv').open(),delimiter='\t'):
- for k in ['exact','le2last3','le2','le3','le4']:
-  if r[k]=='1':hits[r['name'],r['role'],r['model'],k].add(r['accession'])
-panel=rows('references/panel.csv')
-for r in rows('results/comparison.csv'):
- names=[x['name'] for x in a if x['scheme']==r['scheme']]
- def union(role,model,k):return set().union(*(hits[n,role,model,k] for n in names))
- for col,k in [('coverage_pct','le2last3'),('exact_pct','exact')]:assert abs(float(r[col])-100*sum(float(x['weight']) for x in panel if x['accession'] in union('target','WC',k)))<1e-8
- for col,m,k in [('WC3','WC','le3'),('GT2','GT','le2'),('WC4','WC','le4')]:assert int(r[col])==len(union('background',m,k))
-for r in rows('results/binding_positions.csv'):
- for side in ['F','R']:assert int(r[side+'_end'])-int(r[side+'_start'])+1==len(r[side+'_sequence'])
- assert int(r['reference_span_bp'])==int(r['R_end'])-int(r['F_start'])+1
-coords={r['name']:r for r in rows('results/binding_positions.csv')}
-for reg in ['S','M','L','XL']:
- arow,brow=coords[reg+'A'],coords[reg+'B']
- assert all(arow[side+'_'+k]==brow[side+'_'+k] for side in ['F','R'] for k in ['start','end']),reg
- assert (arow['F_sequence'],arow['R_sequence'])!=(brow['F_sequence'],brow['R_sequence']),reg
-for f in list(p.rglob('*.md'))+list(p.rglob('*.html')):
- links=re.findall(r'\]\(([^)]+)\)',f.read_text()) if f.suffix=='.md' else re.findall(r'(?:href|src)="([^"]+)"',f.read_text())
- for link in links:
-  if '://' in link or link.startswith(('#', 'mailto:')):continue
-  assert (f.parent/link.split('#')[0]).exists(),(f,link)
-with zipfile.ZipFile(p/'reproduction_sources.zip') as z:assert z.testzip() is None
-for n,h in json.loads((p/'SHA256SUMS.json').read_text()).items():assert hashlib.sha256((p/n).read_bytes()).hexdigest()==h,n
-print('PASS: 13 portfolios, 17 pairs, 34 oligos; terminal variants, S–XL thermal gates, explicit XS candidate flags, raw-hit metrics, coordinates, links, bundle and hashes')
-
-xs=json.loads((p/'results/xs/assessment.json').read_text());assert xs['F']=='TTGGGGCAACCDCGAAG' and xs['R']=='CAACATCGAGGTCGCAAAC'
-assert xs['terminal_rules_pass'] is True and xs['wet_lab_validated'] is False
-bg=json.loads((p/'results/xs/background_verification.json').read_text());assert bg['disagreements']==0 and len(bg['checks'])==2
-for x in bg['checks']:assert not x['extra'] and not x['missing'] and x['predicted_records']==x['cpp_records']
+ if line.startswith('>'):k=line[1:];assert k not in fa;fa[k]=''
+ else:fa[k]+=line
+assert len(fa)==2*len(rows)
+for r in rows:
+ for side in ('F','R'):
+  q=r[side];assert fa[r['name']+'_'+side]==q
+  assert math.prod(len(I[c]) for c in q)==int(r['degeneracy_'+side])
+  if r['name']!='XS':assert int(r['degeneracy_'+side])<=8 and set(q[:len(q)//2])<=set('ACGT')
+ if r['name']!='XS':
+  verified=read(p/'results/species_refine'/r['region']/'verified_comparison.csv');z=next(x for x in verified if x['name']==r['name']);assert (z['F'],z['R'])==(r['F'],r['R'])
+for f in (p/'results/species_refine').glob('*/verification.json'):
+ d=json.loads(f.read_text());assert d['disagreements']==d['background_disagreements']==0
+with (p/'results/species_qc/panel.csv').open() as h:panel=list(csv.DictReader(h))
+assert len(panel)==len({r['species_key'] for r in panel})
+for fn in ('README.md','README.zh-CN.md','results/species_refine/README.md'):
+ f=p/fn
+ for link in re.findall(r'\]\(([^)]+)\)',f.read_text()):
+  if not link.startswith(('https:','http:','#')):assert (f.parent/link.split('#')[0]).exists(),(f,link)
+print('PASS',len(rows),'current primer pairs; sequences, degeneracy, independent screening and links')

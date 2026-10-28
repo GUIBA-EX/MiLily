@@ -8,7 +8,7 @@ import numpy as np
 ROOT=Path(__file__).resolve().parents[1]
 def read(p):
     with (ROOT/p).open() as f:return list(csv.DictReader(f))
-rows=read('results/comparison.csv'); metrics={r['scheme']:r for r in read('results/taxonomic_comparison.csv')}
+rows=[r for r in read('results/comparison.csv') if '+' not in r['scheme']]; metrics={r['scheme']:r for r in read('results/taxonomic_comparison.csv')}
 for r in rows:
  r['coverage_pct']=metrics[r['scheme']]['order_coverage_pct'];r['exact_pct']=metrics[r['scheme']]['order_exact_pct']
 seq={r['name']:r for r in read('sequences/primer_pairs.csv')}
@@ -27,7 +27,7 @@ ax.barh(y,ex,height=.65,color='#268a97',label='Exact matching')
 for i,(c,e) in enumerate(zip(cv,ex)):
     ax.text(102,i,f'{c:.0f}% / {e:.0f}%',va='center',fontsize=9)
 ax.set(yticks=y,yticklabels=names,xlim=(0,122),xticks=[0,20,40,60,80,100],xlabel='Order-balanced matching (%)')
-ax.invert_yaxis(); ax.set_title('Target matching across 13 primer portfolios',loc='left',fontweight='bold',pad=28)
+ax.invert_yaxis(); ax.set_title('Target matching across retained primer pairs',loc='left',fontweight='bold',pad=28)
 ax.text(0,1.02,'Common panel: 27 references / 25 labels     |     Right column: coverage / exact',transform=ax.transAxes,fontsize=9)
 ax.legend(loc='upper center',bbox_to_anchor=(.5,-.12),ncol=2,frameon=False); ax.grid(axis='x',alpha=.15); ax.set_axisbelow(True)
 fig.tight_layout();save(fig,'performance_matching')
