@@ -1,0 +1,7 @@
+name,order,labels,covered_labels,exact_labels
+XL-R20-coverage,Comatulida,17,17,2
+XL-R20-coverage,Cyrtocrinida,1,0,0
+XL-R20-coverage,Isocrinida,1,1,0
+XL-baseline,Comatulida,17,17,12
+XL-baseline,Cyrtocrinida,1,0,0
+XL-baseline,Isocrinida,1,1,1

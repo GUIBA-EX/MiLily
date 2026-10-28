@@ -1,0 +1,270 @@
+accession,original_name,species_key,accepted_name,order,taxonomy_status,source_raw_len,aligned_acgt,aligned_ambiguous,orientation,aligned_is_contiguous,reference_columns_present,windows_complete,window_XS,window_SD,window_MD,window_LD,window_XLD,quality_status,selection
+MW526391.2,Comaster schlegelii,4341013,Comaster schlegelii,Comatulida,gbif_exact_accepted,1569,1569,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+PZ343777.1,Cyllometra manca,7014341,Cyllometra manca,Comatulida,gbif_exact_accepted,1513,1513,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+PV742399.1,Decametra tigrina,6474058,Decametra tigrina,Comatulida,gbif_exact_accepted,1519,1519,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+MW008594.1,Anneissia pinguis,7701233,Anneissia pinguis,Comatulida,gbif_exact_accepted,1546,1546,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+OQ721985.1,Hyocrinidae sp.,,,,unidentified_or_non_species,1524,1524,0,forward,True,161,5,1,1,1,1,1,unidentified_or_non_species,excluded_unidentified_or_non_species
+OQ207656.1,Thaumatocrinus sp. JL223,,,,unidentified_or_non_species,1530,1530,0,forward,True,161,5,1,1,1,1,1,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327907.1,Zygometra microdiscus,4341240,Zygometra microdiscus,Comatulida,gbif_exact_accepted,355,355,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327906.1,Tropiometra afra,4874100,Tropiometra afra,Comatulida,gbif_exact_accepted,359,359,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327905.1,Psathyrometra fragilis,2274612,Psathyrometra fragilis,Comatulida,gbif_exact_accepted,358,358,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327904.1,Cosmiometra aster,5842527,Cosmiometra aster,Comatulida,gbif_exact_accepted,219,208,11,forward,True,28,0,0,0,0,0,0,more_than_5pct_ambiguous_bases,excluded_more_than_5pct_ambiguous_bases
+GU327903.1,Ptilometra macronema,4874015,Ptilometra macronema,Comatulida,gbif_exact_accepted,351,351,0,forward,True,53,1,1,0,0,0,0,eligible,excluded_duplicate_species
+GU327902.1,Pentametrocrinus sp. GWR-2010,,,,unidentified_or_non_species,350,350,0,forward,True,53,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327901.1,Notocrinus virilis,4340715,Notocrinus virilis,Comatulida,gbif_exact_accepted,326,326,0,forward,True,36,1,1,0,0,0,0,eligible,excluded_duplicate_species
+GU327900.1,Dichrometra articulata,6474092,Dichrometra articulata,Comatulida,gbif_exact_accepted,236,236,0,forward,True,32,0,0,0,0,0,0,no_evaluable_primer_window,excluded_no_evaluable_primer_window
+GU327899.1,Stephanometra indica,4341322,Stephanometra indica,Comatulida,gbif_exact_accepted,347,347,0,forward,True,53,1,1,0,0,0,0,eligible,excluded_duplicate_species
+GU327898.1,Himerometra robustipinna,4341223,Himerometra robustipinna,Comatulida,gbif_exact_accepted,363,363,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327897.1,Clarkcomanthus comanthipinna,8080891,Clarkcomanthus comanthipinna,Comatulida,gbif_exact_accepted,364,364,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327896.1,Comatella nigra,5187722,Comatella nigra,Comatulida,gbif_exact_accepted,346,346,0,forward,True,53,1,1,0,0,0,0,eligible,excluded_duplicate_species
+GU327895.1,Clarkcomanthus littoralis,4341046,Clarkcomanthus littoralis,Comatulida,gbif_exact_accepted,368,368,0,forward,True,53,1,1,0,0,0,0,eligible,excluded_duplicate_species
+GU327894.1,Cenolia trichoptera,4340908,Cenolia trichoptera,Comatulida,gbif_exact_accepted,361,361,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327893.1,Comanthus wahlbergii,4340921,Comanthus wahlbergii,Comatulida,gbif_exact_accepted,350,350,0,forward,True,53,1,1,0,0,0,0,eligible,excluded_duplicate_species
+GU327892.1,Alloeocomatella pectinifera,4340845,Alloeocomatella pectinifera,Comatulida,gbif_exact_accepted,361,361,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327891.1,Colobometra perspinosa,4874076,Colobometra perspinosa,Comatulida,gbif_exact_accepted,343,343,0,forward,True,47,1,1,0,0,0,0,eligible,retained
+GU327890.1,Cenometra bella,4874078,Cenometra bella,Comatulida,gbif_exact_accepted,223,223,0,forward,True,38,0,0,0,0,0,0,no_evaluable_primer_window,excluded_no_evaluable_primer_window
+GU327889.1,Crinometra brevipinna,2274637,Crinometra brevipinna,Comatulida,gbif_exact_accepted,360,360,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327888.1,Chondrometra sp. GWR-2010,,,,unidentified_or_non_species,360,360,0,forward,True,53,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327887.1,Aporometra wilsoni,4874114,Aporometra wilsoni,Comatulida,gbif_exact_accepted,349,349,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327886.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,395,395,0,forward,True,36,1,1,0,0,0,0,eligible,excluded_duplicate_species
+GU327885.1,Heliometra glacialis maxima,,,,unidentified_or_non_species,341,341,0,forward,True,53,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327884.1,Vityazicrinus sp. GWR-2010,,,,unidentified_or_non_species,355,355,0,forward,True,53,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327883.1,Porphyrocrinus verrucosus,8053551,Porphyrocrinus verrucosus,Comatulida,gbif_exact_accepted,340,340,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327882.1,Monachocrinus caribbeus,2274703,Monachocrinus caribbeus,Comatulida,gbif_exact_accepted,352,352,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327881.1,Democrinus cf. brevis GWR-2010,,,,unidentified_or_non_species,322,322,0,forward,True,37,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327880.1,Bathycrinus sp. GWR-2010,,,,unidentified_or_non_species,311,311,0,forward,True,36,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327879.1,Saracrinus moosai,5842518,Saracrinus moosai,Isocrinida,gbif_exact_accepted,366,366,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327878.1,Proisocrinus ruberrimus,7562920,Proisocrinus ruberrimus,Isocrinida,gbif_exact_accepted,374,374,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327877.1,Metacrinus levii,2274691,Metacrinus levii,Isocrinida,gbif_exact_accepted,367,367,0,forward,True,53,1,1,0,0,0,0,eligible,excluded_duplicate_species
+GU327876.1,Endoxocrinus sp. GWR-2010,,,,unidentified_or_non_species,374,374,0,forward,True,53,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327875.1,Endoxocrinus cf. parrae GWR-2010,,,,unidentified_or_non_species,370,370,0,forward,True,51,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327874.1,Endoxocrinus parrae,4340656,Endoxocrinus parrae,Isocrinida,gbif_exact_accepted,347,347,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+GU327873.1,Endoxocrinus alternicirrus,2274682,Endoxocrinus alternicirrus,Isocrinida,gbif_exact_accepted,397,397,0,forward,True,36,1,1,0,0,0,0,eligible,excluded_duplicate_species
+GU327872.1,Thalassocrinus sp. GWR-2010,,,,unidentified_or_non_species,354,354,0,forward,True,53,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327871.1,Hyocrinus sp. GWR-2010,,,,unidentified_or_non_species,356,356,0,forward,True,52,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327870.1,Hyocrinus cf. biscoitoi GWR-2010,,,,unidentified_or_non_species,301,301,0,forward,True,36,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+GU327869.1,Holopus rangii,5842501,Holopus rangii,Cyrtocrinida,gbif_exact_accepted_order_ncbi_literature,373,373,0,forward,True,50,0,0,0,0,0,0,no_evaluable_primer_window,excluded_no_evaluable_primer_window
+NC_066490.1,Poliometra prolixa,5721050,Poliometra prolixa,Comatulida,gbif_exact_accepted,1510,1510,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+OP546035.1,Ptilometra sp. DH-R,,,,unidentified_or_non_species,1526,1526,0,forward,True,161,5,1,1,1,1,1,unidentified_or_non_species,excluded_unidentified_or_non_species
+OP546034.1,Capillaster sp. DH-Y2,,,,unidentified_or_non_species,1548,1548,0,forward,True,161,5,1,1,1,1,1,unidentified_or_non_species,excluded_unidentified_or_non_species
+NC_069919.1,Zygometra comata,4341247,Zygometra comata,Comatulida,gbif_exact_accepted,1514,1514,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+NC_069630.1,Tropiometra macrodiscus,6473787,Tropiometra macrodiscus,Comatulida,gbif_exact_accepted,1537,1537,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+NC_068797.1,Metacrinus rotundus,5842515,Metacrinus rotundus,Isocrinida,gbif_exact_accepted,1517,1517,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+NC_068254.1,Comatella nigra,5187722,Comatella nigra,Comatulida,gbif_exact_accepted,1519,1519,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+NC_068252.1,Comatella stelligera,5721008,Comatella stelligera,Comatulida,gbif_exact_accepted,1536,1536,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+NC_061054.1,Cenometra bella,4874078,Cenometra bella,Comatulida,gbif_exact_accepted,1524,1524,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+NC_060843.1,Comanthus parvicirrus,4340941,Comanthus parvicirrus,Comatulida,gbif_exact_accepted,1530,1530,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+NC_059908.1,Anneissia intermedia,8268116,Anneissia intermedia,Comatulida,gbif_exact_accepted,1551,1551,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+NC_054279.1,Anneissia pinguis,7701233,Anneissia pinguis,Comatulida,gbif_exact_accepted,1546,1546,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+NC_045944.1,Stephanometra indica,4341322,Stephanometra indica,Comatulida,gbif_exact_accepted,1537,1537,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+NC_010692.1,Antedon mediterranea,5721033,Antedon mediterranea,Comatulida,gbif_exact_accepted,1502,1502,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+NC_007690.1,Phanogenia gracilis,4340831,Phanogenia gracilis,Comatulida,gbif_exact_accepted,1558,1558,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+NC_007689.1,Neogymnocrinus richeri,7977551,Neogymnocrinus richeri,Cyrtocrinida,gbif_exact_accepted_order_ncbi_literature,1557,1557,0,forward,True,160,5,1,1,1,1,1,eligible,excluded_duplicate_species
+NC_001878.1,Florometra serratissima,2274589,Florometra serratissima,Comatulida,gbif_exact_accepted,1511,1511,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+ON381167.1,Tropiometra macrodiscus,6473787,Tropiometra macrodiscus,Comatulida,gbif_exact_accepted,1537,1537,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+ON585667.1,Zygometra comata,4341247,Zygometra comata,Comatulida,gbif_exact_accepted,1514,1514,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+OM964491.1,Metacrinus rotundus,5842515,Metacrinus rotundus,Isocrinida,gbif_exact_accepted,1517,1517,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+OM321037.1,Comatella nigra,5187722,Comatella nigra,Comatulida,gbif_exact_accepted,1519,1519,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+OM313186.1,Comatella stelligera,5721008,Comatella stelligera,Comatulida,gbif_exact_accepted,1536,1536,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+OM272942.1,Comanthus sp. 2 MS-2014,,,,unidentified_or_non_species,1558,1558,0,forward,True,161,5,1,1,1,1,1,unidentified_or_non_species,excluded_unidentified_or_non_species
+OP177937.1,Poliometra prolixa,5721050,Poliometra prolixa,Comatulida,gbif_exact_accepted,1510,1510,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+OK509084.1,Cenometra bella,4874078,Cenometra bella,Comatulida,gbif_exact_accepted,1524,1524,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+MW884542.1,Comanthus parvicirrus,4340941,Comanthus parvicirrus,Comatulida,gbif_exact_accepted,1530,1530,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+MW868294.1,Comaster schlegelii,4341013,Comaster schlegelii,Comatulida,gbif_exact_accepted,1569,1569,0,forward,True,161,5,1,1,1,1,1,eligible,excluded_duplicate_species
+MW526392.2,Comanthus parvicirrus,4340941,Comanthus parvicirrus,Comatulida,gbif_exact_accepted,1559,1559,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+MW405444.1,Oligometra serripinna,4341286,Oligometra serripinna,Comatulida,gbif_exact_accepted,1519,1519,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+MW376476.1,Anneissia intermedia,8268116,Anneissia intermedia,Comatulida,gbif_exact_accepted,1551,1551,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+MT302206.1,Florometra sp. BMK-2020,,,,unidentified_or_non_species,1510,1510,0,forward,True,161,5,1,1,1,1,1,unidentified_or_non_species,excluded_unidentified_or_non_species
+MN883538.1,Florometra sp. BMK-2020,,,,unidentified_or_non_species,1519,1519,0,forward,True,161,5,1,1,1,1,1,unidentified_or_non_species,excluded_unidentified_or_non_species
+MF966246.1,Stephanometra indica,4341322,Stephanometra indica,Comatulida,gbif_exact_accepted,1537,1537,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+KM014339.1,Lamberticrinus messingi,10329484,Lamberticrinus messingi,Hyocrinida,gbif_exact_accepted,565,565,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KM014338.1,Antedon sp. MMS-2014,,,,unidentified_or_non_species,550,550,0,forward,True,58,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KU519517.1,Crinoidea sp. NHM_300,,,,unidentified_or_non_species,413,413,0,forward,True,52,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KU519516.1,Crinoidea sp. NHM_056,,,,unidentified_or_non_species,470,470,0,forward,True,58,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KU519515.1,Crinoidea sp. NHM_055,,,,unidentified_or_non_species,473,473,0,forward,True,58,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KU519514.1,Crinoidea sp. NHM_008,,,,unidentified_or_non_species,478,478,0,forward,True,58,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626665.1,Paratelecrinus wyvilli,7992961,Paratelecrinus wyvilli,Comatulida,gbif_exact_accepted,293,293,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626598.1,Adelatelecrinus vallatus,7941125,Adelatelecrinus vallatus,Comatulida,gbif_exact_accepted,292,292,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+DQ068952.1,Phanogenia gracilis,4340831,Phanogenia gracilis,Comatulida,gbif_exact_accepted,1558,1558,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+DQ068951.1,Neogymnocrinus richeri,7977551,Neogymnocrinus richeri,Cyrtocrinida,gbif_exact_accepted_order_ncbi_literature,1557,1557,0,forward,True,160,5,1,1,1,1,1,eligible,retained
+AF049132.1,Florometra serratissima,2274589,Florometra serratissima,Comatulida,gbif_exact_accepted,1511,1511,0,forward,True,161,5,1,1,1,1,1,eligible,retained
+KJ875066.1,Neocomatella pulchella,2274647,Neocomatella pulchella,Comatulida,gbif_exact_accepted,562,562,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875065.1,Comatulella brachiolata,4340752,Comatulella brachiolata,Comatulida,gbif_exact_accepted,560,560,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875064.1,Phanogenia multibrachiata,4340816,Phanogenia multibrachiata,Comatulida,gbif_exact_accepted,567,567,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875063.1,Phanogenia gracilis,4340831,Phanogenia gracilis,Comatulida,gbif_exact_accepted,389,389,0,forward,True,36,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KJ875062.1,Phanogenia gracilis,4340831,Phanogenia gracilis,Comatulida,gbif_exact_accepted,573,573,0,forward,True,58,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KJ875061.1,Phanogenia typica,4340827,Phanogenia typica,Comatulida,gbif_exact_accepted,570,570,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875060.1,Anneissia japonica,7545120,Anneissia japonica,Comatulida,gbif_exact_accepted,558,558,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875059.1,Clarkcomanthus mirus,7588268,Clarkcomanthus mirus,Comatulida,gbif_exact_accepted,568,568,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875058.1,Anneissia bennetti,7395007,Anneissia bennetti,Comatulida,gbif_exact_accepted,556,555,1,forward,True,58,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KJ875057.1,Anneissia bennetti,7395007,Anneissia bennetti,Comatulida,gbif_exact_accepted,559,559,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875056.1,Davidaster rubiginosus,4340895,Davidaster rubiginosus,Comatulida,gbif_exact_accepted,508,508,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875055.1,Davidaster discoideus,4340890,Davidaster discoideus,Comatulida,gbif_exact_accepted,578,578,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875054.1,Comatula solaris,4340721,Comatula solaris,Comatulida,gbif_exact_accepted,576,576,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875053.1,Comatula rotalaria,4340734,Comatula rotalaria,Comatulida,gbif_exact_accepted,571,571,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875052.1,Comatula pectinata,9703105,Comatula pectinata,Comatulida,gbif_exact_accepted,587,587,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875051.1,Comatella stelligera,5721008,Comatella stelligera,Comatulida,gbif_exact_accepted,553,553,0,forward,True,58,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KJ875050.1,Comatella nigra,5187722,Comatella nigra,Comatulida,gbif_exact_accepted,551,551,0,forward,True,58,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KJ875049.1,Comatella nigra,5187722,Comatella nigra,Comatulida,gbif_exact_accepted,553,553,0,forward,True,58,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KJ875048.1,Comaster schlegelii,4341013,Comaster schlegelii,Comatulida,gbif_exact_accepted,575,575,0,forward,True,58,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KJ875047.1,Comaster multifidus,4341021,Comaster multifidus,Comatulida,gbif_exact_accepted,563,563,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875046.1,Comaster audax,4341019,Comaster audax,Comatulida,gbif_exact_accepted,567,565,2,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875045.1,Comanthus sp. 1 MS-2014,,,,unidentified_or_non_species,562,562,0,forward,True,58,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KJ875044.1,Comanthus wahlbergii,4340921,Comanthus wahlbergii,Comatulida,gbif_exact_accepted,575,575,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875043.1,Comanthus suavia,4340920,Comanthus suavia,Comatulida,gbif_exact_accepted,571,571,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875042.1,Comanthus sp. 3 MS-2014,,,,unidentified_or_non_species,568,563,5,forward,True,58,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KJ875041.1,Comanthus sp. 2 MS-2014,,,,unidentified_or_non_species,566,565,1,forward,True,58,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KJ875040.1,Comanthus parvicirrus,4340941,Comanthus parvicirrus,Comatulida,gbif_exact_accepted,566,566,0,forward,True,58,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KJ875039.1,Clarkcomanthus mirabilis,7543594,Clarkcomanthus mirabilis,Comatulida,gbif_exact_accepted,570,570,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875038.1,Comanthus sp. 4 MS-2014,,,,unidentified_or_non_species,567,566,1,forward,True,58,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KJ875037.1,Comanthus gisleni,4340919,Comanthus gisleni,Comatulida,gbif_exact_accepted,571,571,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875036.1,Comanthus briareus,4340942,Comanthus briareus,Comatulida,gbif_exact_accepted,573,573,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875035.1,Clarkcomanthus alternans,7779860,Clarkcomanthus alternans,Comatulida,gbif_exact_accepted,491,490,1,forward,True,57,0,0,0,0,0,0,no_evaluable_primer_window,excluded_no_evaluable_primer_window
+KJ875034.1,Comactinia titan,4340758,Comactinia titan,Comatulida,gbif_exact_accepted,577,577,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875033.1,Comactinia meridionalis,2274662,Comactinia meridionalis,Comatulida,gbif_exact_accepted,560,560,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875032.1,Comactinia echinoptera,2274661,Comactinia echinoptera,Comatulida,gbif_exact_accepted,561,561,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875031.1,Clarkcomanthus luteofuscum,4341043,Clarkcomanthus luteofuscum,Comatulida,gbif_exact_accepted,571,571,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875030.1,Clarkcomanthus littoralis,4341046,Clarkcomanthus littoralis,Comatulida,gbif_exact_accepted,572,572,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875029.1,Clarkcomanthus albinotus,4341042,Clarkcomanthus albinotus,Comatulida,gbif_exact_accepted,570,570,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875028.1,Cenolia tasmaniae,4340911,Cenolia tasmaniae,Comatulida,gbif_exact_accepted,569,569,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875027.1,Cenolia glebosus,4340910,Cenolia glebosus,Comatulida,gbif_exact_accepted,571,571,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875026.1,Capillaster multiradiatus,9812090,Capillaster multiradiatus,Comatulida,gbif_exact_accepted,542,542,0,forward,True,58,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KJ875025.1,Capillaster multiradiatus,9812090,Capillaster multiradiatus,Comatulida,gbif_exact_accepted,575,575,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875024.1,Alloeocomatella polycladia,4340848,Alloeocomatella polycladia,Comatulida,gbif_exact_accepted,583,583,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+KJ875023.1,Alloeocomatella sp. n. MS-2014,,,,unidentified_or_non_species,580,580,0,forward,True,58,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KM491765.1,Clarkcomanthus luteofuscum,4341043,Clarkcomanthus luteofuscum,Comatulida,gbif_exact_accepted,523,523,0,forward,True,58,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626689.1,Zygometra andromeda,4341249,Zygometra andromeda,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626688.1,Tropiometra cf. carinata MADA04,,,,unidentified_or_non_species,302,302,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626687.1,Trichometra cubensis,5721068,Trichometra cubensis,Comatulida,gbif_exact_accepted,302,302,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626686.1,Toxometra bicolor,4874128,Toxometra bicolor,Comatulida,gbif_exact_accepted,299,299,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626685.1,Thaumatocrinus renovatus,4341054,Thaumatocrinus renovatus,Comatulida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626684.1,Thalassometra cf. margaritifera THA38,,,,unidentified_or_non_species,300,300,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626683.1,Thalassocrinus cf. pontifer ALCP284271,,,,unidentified_or_non_species,296,296,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626682.1,Strotometra ornatissimus,2274642,Strotometra ornatissimus,Comatulida,gbif_exact_accepted,298,298,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626681.1,Stenometra cristata,7841357,Stenometra cristata,Comatulida,gbif_exact_accepted,304,304,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626680.1,Sarametra triserialis,2274615,Sarametra triserialis,Comatulida,gbif_exact_accepted,302,300,2,forward,True,52,1,1,0,0,0,0,eligible,retained
+KC626679.1,Saracrinus nobilis,2274686,Saracrinus nobilis,Isocrinida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626678.1,Saracrinus angulatus,9152226,Saracrinus angulatus,Isocrinida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626677.1,Ptilometra macronema,4874015,Ptilometra macronema,Comatulida,gbif_exact_accepted,303,303,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626676.1,Ptilocrinus clarki,8362792,Ptilocrinus clarki,Hyocrinida,gbif_exact_accepted,297,297,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626675.1,Ptilocrinus clarki,8362792,Ptilocrinus clarki,Hyocrinida,gbif_exact_accepted,297,297,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626674.1,Ptilocrinus australis,7014334,Ptilocrinus australis,Hyocrinida,gbif_exact_accepted,297,297,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626673.1,Pterometra trichopoda,4874095,Pterometra trichopoda,Comatulida,gbif_exact_accepted,303,303,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626672.1,Psathyrometra sp. ME25,,,,unidentified_or_non_species,303,303,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626671.1,Porphyrocrinus thalassae,4340677,Porphyrocrinus thalassae,Comatulida,gbif_exact_accepted,299,299,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626670.1,Porphyrocrinus cf. verrucosus POR138,,,,unidentified_or_non_species,297,297,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626669.1,Poliometra prolixa,5721050,Poliometra prolixa,Comatulida,gbif_exact_accepted,302,302,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626668.1,Phrynocrinus nudus,2274573,Phrynocrinus nudus,Comatulida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626667.1,Perometra robusta,7432823,Perometra robusta,Comatulida,gbif_exact_accepted,296,296,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626666.1,Pentametrocrinus cf. semperi PENT51,,,,unidentified_or_non_species,299,299,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626664.1,Oligometra carpenteri,4874068,Oligometra carpenteri,Comatulida,gbif_exact_accepted,303,303,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626663.1,Neometra sappho,7430358,Neometra sappho,Comatulida,gbif_exact_accepted,303,303,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626662.1,Neogymnocrinus richeri,7977551,Neogymnocrinus richeri,Cyrtocrinida,gbif_exact_accepted_order_ncbi_literature,302,302,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626661.1,Nanometra cf. johnstoni ME14,,,,unidentified_or_non_species,302,302,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626660.1,Monachocrinus sp. BATHY91,,,,unidentified_or_non_species,301,301,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626659.1,Metacrinus serratus,6474170,Metacrinus serratus,Isocrinida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626658.1,Metacrinus rotundus,5842515,Metacrinus rotundus,Isocrinida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626657.1,Metacrinus levii,2274691,Metacrinus levii,Isocrinida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626656.1,Mariametra subcarinata,6474146,Mariametra subcarinata,Comatulida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626655.1,Leptometra celtica,2274584,Leptometra celtica,Comatulida,gbif_exact_accepted,303,303,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626653.1,Koehlermetra porrecta,4341205,Koehlermetra porrecta,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626652.1,Hypalocrinus sp. HYP1,,,,unidentified_or_non_species,300,300,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626651.1,Hypalocrinus naresianus,2274688,Hypalocrinus naresianus,Isocrinida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626650.1,Hyocrinus bethellianus,4340663,Hyocrinus bethellianus,Hyocrinida,gbif_exact_accepted,299,299,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626649.1,Homalometra denticulata,4874200,Homalometra denticulata,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626648.1,Holopus alidis,5842502,Holopus alidis,Cyrtocrinida,gbif_exact_accepted_order_ncbi_literature,303,303,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626647.1,Himerometra cf. robustipinna HROB42,,,,unidentified_or_non_species,302,302,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626646.1,Homalometra crenulata,NCBI:1320714,Homalometra crenulata,Comatulida,ncbi_exact_gbif_none_review,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626645.1,Heliometra glacialis,2274577,Heliometra glacialis,Comatulida,gbif_exact_accepted,302,302,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626644.1,Hathrometra tenella,2274602,Hathrometra tenella,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626643.1,Florometra serratissima,2274589,Florometra serratissima,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626642.1,Florometra novaezealandiae,4874185,Florometra novaezealandiae,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626641.1,Promachocrinus mawsoni,NCBI:3054920,Promachocrinus mawsoni,Comatulida,ncbi_exact_gbif_none_review,299,299,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626640.1,Florometra asperrima,2274588,Florometra asperrima,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626639.1,Eumorphometra sp. EUM03,,,,unidentified_or_non_species,300,300,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626638.1,Eudiocrinus serripinna,4341292,Eudiocrinus serripinna,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626637.1,Eudiocrinus cf. pinnatus ME70,,,,unidentified_or_non_species,301,301,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626636.1,Euantedon sp. EUA470,,,,unidentified_or_non_species,300,300,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626635.1,Eometra cf. weddelli EO4591,,,,unidentified_or_non_species,300,300,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626634.1,Endoxocrinus alternicirrus,2274682,Endoxocrinus alternicirrus,Isocrinida,gbif_exact_accepted,299,299,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626633.1,Endoxocrinus alternicirrus,2274682,Endoxocrinus alternicirrus,Isocrinida,gbif_exact_accepted,299,299,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626632.1,Dumetocrinus aff. antarcticus DUM11,,,,unidentified_or_non_species,301,301,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626631.1,Dorometra briseis,8425228,Dorometra briseis,Comatulida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626630.1,Democrinus weberi,7586668,Democrinus weberi,Comatulida,gbif_exact_accepted,299,299,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626629.1,Democrinus cf. rawsonii CON145,,,,unidentified_or_non_species,299,299,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626628.1,Decametra cf. alaudae DECA32,,,,unidentified_or_non_species,302,302,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626627.1,Cyllometra manca,7014341,Cyllometra manca,Comatulida,gbif_exact_accepted,302,302,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626626.1,Comissia norfolkensis,4340766,Comissia norfolkensis,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626625.1,Comatula pectinata,9703105,Comatula pectinata,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626624.1,Comatonia cristata,6473758,Comatonia cristata,Comatulida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626623.1,Coccometra hagenii,6473768,Coccometra hagenii,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626622.1,Clarkcomanthus luteofuscum,4341043,Clarkcomanthus luteofuscum,Comatulida,gbif_exact_accepted,302,302,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626621.1,Chondrometra rugosa,6473930,Chondrometra rugosa,Comatulida,gbif_exact_accepted,302,302,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626620.1,Charitometra basicurva,2274644,Charitometra basicurva,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626619.1,Capillaster squarrosus,4340885,Capillaster squarrosus,Comatulida,gbif_exact_accepted,299,299,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626618.1,Calometra discoidea,8176831,Calometra discoidea,Comatulida,gbif_exact_accepted,302,302,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626617.1,Caledonicrinus vaubani,8403644,Caledonicrinus vaubani,Comatulida,gbif_exact_accepted,295,295,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626616.1,Asterometra cf. cristata ACRI45,,,,unidentified_or_non_species,303,303,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626615.1,Argyrometra mortenseni,2274594,Argyrometra mortenseni,Comatulida,gbif_exact_accepted,302,302,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626614.1,Aporometra sp. LH153,,,,unidentified_or_non_species,301,301,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626613.1,Aphanocomaster pulcher,4340810,Aphanocomaster pulcher,Comatulida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626612.1,Antedon serrata,5842523,Antedon serrata,Comatulida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626611.1,Antedon petasus,5187720,Antedon petasus,Comatulida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626610.1,Antedon mediterranea,5721033,Antedon mediterranea,Comatulida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626609.1,Antedon loveni,8948619,Antedon loveni,Comatulida,gbif_exact_accepted,302,302,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626608.1,Antedon incommoda,5818416,Antedon incommoda,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626607.1,Antedon hupferi,7349371,Antedon hupferi,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626606.1,Antedon cf. parviflora AP377MV,,,,unidentified_or_non_species,299,299,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626605.1,Antedon cf. iris AI390,,,,unidentified_or_non_species,301,301,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626604.1,Antedon bifida,5187721,Antedon bifida,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626603.1,Antedon mediterranea,5721033,Antedon mediterranea,Comatulida,gbif_exact_accepted,300,300,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626602.1,Annametra occidentalis,4341077,Annametra occidentalis,Comatulida,gbif_exact_accepted,303,303,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626601.1,Andrometra psyche,7014339,Andrometra psyche,Comatulida,gbif_exact_accepted,299,299,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC626600.1,Anachalypsicrinus nefertiti,7765367,Anachalypsicrinus nefertiti,Hyocrinida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC626599.1,Anachalypsicrinus nefertiti,7765367,Anachalypsicrinus nefertiti,Hyocrinida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC616745.1,Ptilocrinus australis,7014334,Ptilocrinus australis,Hyocrinida,gbif_exact_accepted,297,297,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC616744.1,Dumetocrinus antarcticus,7425785,Dumetocrinus antarcticus,Hyocrinida,gbif_exact_accepted,298,298,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+KC616743.1,Notocrinus virilis,4340715,Notocrinus virilis,Comatulida,gbif_exact_accepted,301,301,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+KC616742.1,Isometra sp. Iso174,,,,unidentified_or_non_species,301,301,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC616741.1,Isometra sp. 5314,,,,unidentified_or_non_species,296,296,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC616740.1,Feracrinus sp. Pti176,,,,unidentified_or_non_species,298,298,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC616739.1,Calamocrinus sp. Pti289,,,,unidentified_or_non_species,297,297,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC616738.1,Bathycrinus sp. Ba335,,,,unidentified_or_non_species,301,301,0,forward,True,54,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+KC626654.1,Dichrometra palmata,4341318,Dichrometra palmata,Comatulida,gbif_exact_accepted,302,302,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+JX296556.1,Hypalocrinus naresianus,2274688,Hypalocrinus naresianus,Isocrinida,gbif_exact_accepted,553,551,2,reverse,True,58,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JX312800.1,Heliometra glacialis,2274577,Heliometra glacialis,Comatulida,gbif_exact_accepted,551,551,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+JQ340234.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,309,309,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340233.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,309,309,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340232.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,309,309,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340231.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,309,309,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340230.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,309,309,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340229.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340228.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340227.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340226.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340225.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340224.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340223.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340222.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340221.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340220.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340219.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340218.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340217.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340216.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340215.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340214.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340213.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,excluded_duplicate_species
+JQ340212.1,Promachocrinus kerguelensis,4341144,Promachocrinus kerguelensis,Comatulida,gbif_exact_accepted,311,311,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+JQ340211.1,Anthometrina adriani,7738146,Anthometrina adriani,Comatulida,gbif_exact_accepted,306,306,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+JQ340210.1,Notocrinus virilis,4340715,Notocrinus virilis,Comatulida,gbif_exact_accepted,310,310,0,forward,True,54,1,1,0,0,0,0,eligible,retained
+DQ297091.1,Florometra serratissima,2274589,Florometra serratissima,Comatulida,gbif_exact_accepted,564,564,0,forward,True,61,1,1,0,0,0,0,eligible,excluded_duplicate_species
+AY275905.1,Metacrinus rotundus,5842515,Metacrinus rotundus,Isocrinida,gbif_exact_accepted,364,364,0,forward,True,53,1,1,0,0,0,0,eligible,excluded_duplicate_species
+AY275904.1,Metacrinus sp. D1442,,,,unidentified_or_non_species,348,347,1,forward,True,36,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+AY275903.1,Holopus alidis,5842502,Holopus alidis,Cyrtocrinida,gbif_exact_accepted_order_ncbi_literature,364,364,0,forward,True,53,1,1,0,0,0,0,eligible,excluded_duplicate_species
+AY275902.1,Neogymnocrinus richeri,7977551,Neogymnocrinus richeri,Cyrtocrinida,gbif_exact_accepted_order_ncbi_literature,367,366,1,forward,True,53,1,1,0,0,0,0,eligible,excluded_duplicate_species
+AY275901.1,Guillecrinus neocaledonicus,8253209,Guillecrinus neocaledonicus,Comatulida,gbif_exact_accepted,356,356,0,forward,True,53,1,1,0,0,0,0,eligible,retained
+AY275900.1,Caledonicrinus vaubani,8403644,Caledonicrinus vaubani,Comatulida,gbif_exact_accepted,327,327,0,forward,True,36,1,1,0,0,0,0,eligible,excluded_duplicate_species
+AY275899.1,Bathycrinus sp. D1425,,,,unidentified_or_non_species,341,341,0,forward,True,53,1,1,0,0,0,0,unidentified_or_non_species,excluded_unidentified_or_non_species
+AY652521.1,Antedon bifida,5187721,Antedon bifida,Comatulida,gbif_exact_accepted,541,541,0,forward,True,58,1,1,0,0,0,0,eligible,retained
+AM404181.1,Antedon mediterranea,5721033,Antedon mediterranea,Comatulida,gbif_exact_accepted,1502,1502,0,forward,True,161,5,1,1,1,1,1,eligible,retained

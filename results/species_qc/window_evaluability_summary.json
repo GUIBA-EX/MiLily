@@ -1,0 +1,38 @@
+{
+  "S": {
+    "evaluable_species": 19,
+    "unknown_species": 109,
+    "evaluable_by_order": {
+      "Comatulida": 17,
+      "Isocrinida": 1,
+      "Cyrtocrinida": 1
+    }
+  },
+  "M": {
+    "evaluable_species": 19,
+    "unknown_species": 109,
+    "evaluable_by_order": {
+      "Comatulida": 17,
+      "Isocrinida": 1,
+      "Cyrtocrinida": 1
+    }
+  },
+  "L": {
+    "evaluable_species": 19,
+    "unknown_species": 109,
+    "evaluable_by_order": {
+      "Comatulida": 17,
+      "Isocrinida": 1,
+      "Cyrtocrinida": 1
+    }
+  },
+  "XL": {
+    "evaluable_species": 19,
+    "unknown_species": 109,
+    "evaluable_by_order": {
+      "Comatulida": 17,
+      "Isocrinida": 1,
+      "Cyrtocrinida": 1
+    }
+  }
+}

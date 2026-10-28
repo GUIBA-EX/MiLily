@@ -1,0 +1,5 @@
+region,name,change,order,species,accession
+S,S-R20-exact,gained,Comatulida,Antedon mediterranea,AM404181.1
+S,S-R20-exact,lost,Isocrinida,Metacrinus rotundus,NC_068797.1
+S,S-R20-exact,lost,Cyrtocrinida,Neogymnocrinus richeri,DQ068951.1
+L,L-R20-exact,lost,Isocrinida,Metacrinus rotundus,NC_068797.1

@@ -1,0 +1,3 @@
+name,region,F,R,degeneracy_F,degeneracy_R,taxon_coverage_pct,order_coverage_pct,taxon_exact_pct,order_exact_pct,covered_labels,exact_labels,fully_covered_labels,WC3,GT2,WC4,strict_WC,strict_GT,prediction_coverage_delta_pp,prediction_exact_delta_pp
+XL-R20-coverage,XL,AGGCAAGACGAARRYTTAACTG,GACTTACGTCGGTCTGAA,8,1,94.73684210526316,66.66666666666667,10.526315789473685,3.9215686274509807,18,2,18,4,3,83,0,3,0.0,4.440892098500626e-16
+XL-baseline,XL,AGGCAAVACGARRRCTHAACTG,GACTYDCGTCGGTCTGAA,72,6,94.73684210526316,66.66666666666667,68.42105263157895,56.86274509803922,18,13,18,8,3,163,3,3,,

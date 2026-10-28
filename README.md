@@ -8,6 +8,10 @@
 
 Badge values are primer-inclusive reference spans on AF049132.1: XS 179, S 193, M 248, L 288 and XL 443 bp. XS products in the full target-reference scan are 159–194 bp; the common 27-reference panel spans 178–194 bp.
 
+## Latest species-based screening
+
+The latest candidates and their comparison with the existing assays use one reference per identified species and weight evaluable species equally. See the [latest screening and base-matching figures](results/species_refine/README.md), [sequences](results/species_refine/sequences.csv), [per-order results](results/species_refine/by_order.csv), and [reference curation](results/species_qc/README.md). S–XL can be evaluated for 19 of 128 species; XS is unchanged. Existing assay sequences remain available for comparison; the statistics below use the earlier panel.
+
 ## Abstract
 
 MiLily comprises five candidate mitochondrial 16S rRNA windows for crinoid eDNA: XS, S, M, L and XL. Primary metrics weight four orders equally using 27 references, 25 taxonomic labels and 7,177 background records. Revised SD, MD, LD and XLD achieve order-balanced coverage of 71.59%, 100%, 50% and 75%, and exact matching of 43.18%, 50%, 14.77% and 68.18%, respectively. Each D is a single pair sharing its ordinary/A/B endpoints. XS remains a fixed short-window candidate with separately reported background and structural predictions.
