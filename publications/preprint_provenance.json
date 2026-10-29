@@ -1,0 +1,28 @@
+{
+  "author": "Fei Xia",
+  "date": "2026-10-30",
+  "project": "MiLily",
+  "source_commit": "061b8774c9697176906598efd87712ea93f98896",
+  "common_species": 19,
+  "inputs": {
+    "sequences/primer_pairs.csv": "3d750397f8405ba00e067d84e3ef3796721845fbb2b7482a84626ed0d58c56db",
+    "figures/current_region_coordinates.csv": "c75bdcea38a26b734f86903ffd2af9e8b4611abe8a830e48532557f797f8b5e9",
+    "results/current_primers/comparison.csv": "f0b1cd2765716f92734503516e7d7ba35ef68decc73439d281efeca99de9b338",
+    "results/computational_evaluation/results/barcode_collisions.csv": "7fef7ba6f3a2e920de24944d0f7319adae54132cd12f2da005d112db022cbddd",
+    "results/computational_evaluation/results/barcodes.csv": "eca3e3275790a164b6ba9e59686c1b9ba015ba2326d31e56aec41ace8ed75508",
+    "results/computational_evaluation/results/by_order.csv": "86628fcaf1ed0a7109a522b01c9ff17ea9b2dfa780f87cae9742db0981de28d9",
+    "results/computational_evaluation/results/conflict_exclusion_sensitivity.csv": "154846ca3126b46822e21e530928b919278d2f2036dae59656cc5f710d21c20a",
+    "results/computational_evaluation/results/cv_folds.csv": "5014ceccf389f2ffc8d118ac6a4c62c9675ff5bd5b6c3ee8fc083e3640beb48e",
+    "results/computational_evaluation/results/cv_predictions.csv": "45115d1081952be8cf3e33c6fe7045d186ebf591b0c36ea48c111afdd2034372",
+    "results/computational_evaluation/results/cv_summary.csv": "1e358d3c32525fa38edd26f3104c6183a2c7a21367058359dcf5709259ae6130",
+    "results/computational_evaluation/results/nearest_neighbors.csv": "a4f0ea0308dee28a48bba2d5b8a90051e4d55ee1bc529df338ab6afe7d1c23d3",
+    "results/computational_evaluation/results/new_curated_XS_hits.csv": "aa180d4d1df8115a03d84e2380b80d5ef6c421b260140fdbafbbc3f14e64d3d9",
+    "results/computational_evaluation/results/panel_comparison.csv": "2cbab1597b7d44b7f9b1ac8390f97d939f33e744470f937e6b48a1f20f317e25",
+    "results/computational_evaluation/results/resolution.csv": "d1a6723c56cd6d7353935ff482d6d53310e24de15ddf07761d565860d4a6cbba",
+    "results/computational_evaluation/results/manifest.json": "e4b6bebc5fbfb96f5a9ffc2f86695f6e3b7d1d71bcb54a2ca29381a6b461468c"
+  },
+  "artifacts": {
+    "MiLily_preprint.pdf": "5701e44ce2b1325bcc99d7907ad9184c871748d4f40d5f87810f72f21e4feb29",
+    "MiLily_preprint.md": "32e77468db174509c5aa194d8e9f6cafb8903978c965a1bb72f9be58fca7c98a"
+  }
+}
