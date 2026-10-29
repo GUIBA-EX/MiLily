@@ -1,0 +1,36 @@
+{
+  "seed": 20261030,
+  "common_species": [
+    "AF049132.1",
+    "AM404181.1",
+    "DQ068951.1",
+    "DQ068952.1",
+    "MF966246.1",
+    "MW008594.1",
+    "MW376476.1",
+    "MW405444.1",
+    "MW526391.2",
+    "MW526392.2",
+    "NC_061054.1",
+    "NC_066490.1",
+    "NC_068252.1",
+    "NC_068254.1",
+    "NC_068797.1",
+    "NC_069630.1",
+    "NC_069919.1",
+    "PV742399.1",
+    "PZ343777.1"
+  ],
+  "input_sha256": {
+    "sequences/primer_pairs.csv": "3d750397f8405ba00e067d84e3ef3796721845fbb2b7482a84626ed0d58c56db",
+    "results/species_qc/curated_alignment.fasta": "aa4401c00043e0e22db440edfd3ae285976fc74ef2bf9fc0ffe52c544c10c2b2",
+    "results/species_qc/representatives.fasta": "f5246e9486548a8eca8bebd946a5f7dd243d14db50926bcd7d3a007262a97eab",
+    "results/species_qc/panel_XS.csv": "c2fc70ee0847d4031d1a68f1c3307d934a93a04f0626397b50f82952cf6f7766",
+    "results/species_qc/panel_S.csv": "3110a70e3aba18d2bdc70db288d9bd7d641a0d080892e3208df6590ac6e44b32",
+    "results/species_qc/panel_M.csv": "3110a70e3aba18d2bdc70db288d9bd7d641a0d080892e3208df6590ac6e44b32",
+    "results/species_qc/panel_L.csv": "3110a70e3aba18d2bdc70db288d9bd7d641a0d080892e3208df6590ac6e44b32",
+    "results/species_qc/panel_XL.csv": "3110a70e3aba18d2bdc70db288d9bd7d641a0d080892e3208df6590ac6e44b32"
+  },
+  "cv_scope": "Genus-blocked, sequence selection retrained; coordinates previously discovered on full data. Not an external validation of window discovery. CV candidate chemistry/background not screened; not replacement recommendations.",
+  "resolution_scope": "Exact barcode identity among available one-species representatives; not empirical identification accuracy or within-species validation."
+}
