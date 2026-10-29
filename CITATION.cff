@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project's primers, data or analysis code, please cite this repository."
+type: software
+title: "MiLily: candidate mitochondrial 16S rRNA primers for crinoid environmental DNA metabarcoding"
+authors:
+  - family-names: "Xia"
+    given-names: "Fei"
+date-released: "2026-10-30"
+url: "https://github.com/GUIBA-EX/MiLily"
+repository-code: "https://github.com/GUIBA-EX/MiLily"
